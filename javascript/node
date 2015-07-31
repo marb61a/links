@@ -1,8 +1,17 @@
-
+This is a list of Node Related resources that I come across that may help anybody who is learning.
 
 Tutorials -
 http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/
 https://scotch.io/tutorials/use-ejs-to-template-your-node-application
+https://www.joyent.com/developers/node/design/errors
+http://www.confluent.io/blog/getting-started-with-kafka-in-node.js-with-the-confluent-rest-proxy
+http://www.sitepoint.com/an-introduction-to-nodebots/
+http://developer.telerik.com/featured/merging-dynamic-and-static-sites/
+http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
+http://stackabuse.com/avoiding-callback-hell-in-node-js/
+http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/
+https://medium.com/@tribou/serving-react-and-flux-with-hapi-and-webpack-213afacf94ea
+http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/
 
 
 Courses\Training -
@@ -11,7 +20,17 @@ https://www.udemy.com/all-about-nodejs/?dtcode=hpgYocj3lb4Y
 https://www.udemy.com/nodeprogram/?dtcode=lmz5cDr3lb4Y
 https://www.udemy.com/learn-nodejs-by-building-10-projects/?dtcode=nQjWkRB3lb4Y
 
-Code - 
+Code -
+https://github.com/lapwinglabs/bare-auth
+https://github.com/tcs-de/nodecache
+https://github.com/marak/the-monolith-versus-the-microservice
+https://github.com/s-a/iron-node
+https://github.com/gillstrom/battery-level
+
+Tools -
+http://tcs-de.github.io/nodecache/
+http://s-a.github.io/iron-node/
+
 
 
 Important Links -
