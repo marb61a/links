@@ -12,6 +12,14 @@ http://stackabuse.com/avoiding-callback-hell-in-node-js/
 http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/
 https://medium.com/@tribou/serving-react-and-flux-with-hapi-and-webpack-213afacf94ea
 http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/
+http://davidwalsh.name/nodejs-arguments-yargs
+http://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/
+https://booker.codes/input-validation-in-express-with-express-validator/
+http://jowanza.com/post/125602755114/dealing-with-soap-apis-in-nodejs
+https://scotch.io/tutorials/the-anatomy-of-a-json-web-token
+http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
+https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql
+https://blog.risingstack.com/nodejs-production-environment-for-startups/
 
 
 Courses\Training -
@@ -26,6 +34,10 @@ https://github.com/tcs-de/nodecache
 https://github.com/marak/the-monolith-versus-the-microservice
 https://github.com/s-a/iron-node
 https://github.com/gillstrom/battery-level
+https://github.com/h2non/toxy
+https://github.com/servant-app/JAWS
+https://github.com/kessler/node-dynamic-middleware
+https://github.com/alidavut/locus
 
 Tools -
 http://tcs-de.github.io/nodecache/
