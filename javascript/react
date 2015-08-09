@@ -9,6 +9,8 @@ http://reactjs.net/getting-started/tutorial.html
 http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
 https://zapier.com/engineering/react-js-tutorial-guide-gotchas/
 http://up.svbtle.com/blackjackin-with-react-js
+http://swizec.com/blog/using-react-in-the-real-world/swizec/6710
+http://www.sitepoint.com/creating-isomorphic-apps-node-js-react-express/
 
 
 ##Courses -
@@ -18,6 +20,9 @@ https://egghead.io/series/react-fundamentals
 https://egghead.io/series/react-flux-architecture
 
 
+##Videos - 
+https://www.youtube.com/watch?v=xsSnOQynTHs - Dan Abramov : Hot Reloading
+
 
 ##Code -
 https://github.com/paramaggarwal/react-dropzone
@@ -26,6 +31,8 @@ https://github.com/gpbl/isomorphic500
 https://github.com/kriasoft/react-starter-kit
 https://github.com/svenanders/learn-react
 https://github.com/arminbhy/reactator
+https://github.com/Swizec/react-real-world
+
 
 ##Links -
 https://facebook.github.io/react/docs/tutorial.html
