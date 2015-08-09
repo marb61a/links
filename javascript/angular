@@ -6,11 +6,15 @@ http://anandmanisankar.com/posts/angularjs-best-parts/
 http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/
 http://thejackalofjavascript.com/node-webkit-webrtc-and-angularjs-a-video-chat-client/
 http://www.w3schools.com/angular/
+http://blog.rangle.io/unittests/
+http://blog.workshape.io/making-a-spherical-globe-using-d3js/
+
 
 ##Videos - 
 Introduction & Explore to AngularJS 2015 - https://www.youtube.com/watch?v=u2okVLCrqgE
 Introduction to Angular.js in 50 Examples (part 1) - https://www.youtube.com/watch?v=TRrL5j3MIvo (curran kelleher)
 Introduction to Angular.js in 50 Examples (part 2) - https://www.youtube.com/watch?v=6J08m1H2BME (curran kelleher)
+
 
 ##Courses - 
 https://www.udemy.com/learn-angularjs/
@@ -18,8 +22,11 @@ https://www.udemy.com/learn-angularjs-development/
 https://www.udemy.com/build-an-mvp-with-angular-firebase-by-cloning-taskrabbit/
 https://www.codecademy.com/courses/learn-angularjs
 
+
 ##Code -
 https://github.com/curran/screencasts - Link to code associated with videos above
+https://github.com/bevacqua/angular-dragula
+https://github.com/angular
 
 
 ##Links -
