@@ -1,4 +1,4 @@
-  # Ruby Rails Links
+                                # Ruby Rails Links
 
 ## Tutorials
 http://vaidehijoshi.github.io/blog/2015/07/28/clipping-images-for-rails-using-paperclip/
@@ -7,11 +7,25 @@ https://semaphoreci.com/community/tutorials/introduction-to-writing-acceptance-t
 https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/
 http://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
 www.nateberkopec.com/2015/08/05/rack-mini-profiler-the-secret-weapon.html
+http://rubylogs.com/exception-handling-and-testing/
+http://devdungeon.com/content/writing-mumble-bot-ruby
+http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html
+
 
 ## Courses
+https://www.udemy.com/learn-ruby-on-rails-building-projects/
+https://www.udemy.com/pro-rubyonrails/
+https://www.udemy.com/build-etsy-yelp-craigslist-and-a-web-scraper-from-scratch/
+https://www.udemy.com/ruby-on-rails-4-a-test-driven-approach/
+https://www.udemy.com/become-a-heroku-rails-ninja/
+https://www.udemy.com/job-ready-web-developer/
+
 
 ## Videos
 https://mattbrictson.com/best-of-railsconf-2015
+http://blog.parse.com/learn/moving-our-api-from-ruby-to-go-the-video/
+https://speakerdeck.com/bbatsov/opal-the-journey-from-javascript-to-ruby
+
 
 ## Code
 https://github.com/tf/pr_log
@@ -19,7 +33,15 @@ https://github.com/ndea/regressor
 https://github.com/clearwater-rb/clearwater
 https://github.com/chaps-io/access-granted
 https://github.com/ankane/the-ultimate-guide-to-timeouts-in-ruby
+https://github.com/JuanitoFatas/fast-ruby
+https://github.com/ndea/rstreamor
+https://github.com/mudge/comp
+https://github.com/mattvperry/mumble-ruby
+http://rubylogs.com/test-doubles-theory-minitest-rspec/
+
 
 ## Links
 http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html
 http://twin.github.io/ode-to-sequel/
+https://rubymonk.com
+https://rubygems.org/gems
