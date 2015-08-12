@@ -1,6 +1,6 @@
-This is a list of Node Related resources that I come across that may help anybody who is learning.
+                              #NODE LINKS
 
-Tutorials -
+##Tutorials -
 http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/
 https://scotch.io/tutorials/use-ejs-to-template-your-node-application
 https://www.joyent.com/developers/node/design/errors
@@ -20,15 +20,26 @@ https://scotch.io/tutorials/the-anatomy-of-a-json-web-token
 http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
 https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql
 https://blog.risingstack.com/nodejs-production-environment-for-startups/
+https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
+http://www.bymichaellancaster.com/blog/deploying-nodejs-on-heroku-cloud/
+http://howtonode.org/deploy-blog-to-heroku
+http://robdodson.me/deploying-your-first-node-dot-js-and-socket-dot-io-app-to-heroku/
+https://stormpath.com/blog/heroku-stormpath-and-expressjs/
+http://www.sitepoint.com/deploying-heroku-using-gulp-node-git/
 
-
-Courses\Training -
+##Courses\Training -
 http://nodeschool.io/#workshoppers
 https://www.udemy.com/all-about-nodejs/?dtcode=hpgYocj3lb4Y
 https://www.udemy.com/nodeprogram/?dtcode=lmz5cDr3lb4Y
 https://www.udemy.com/learn-nodejs-by-building-10-projects/?dtcode=nQjWkRB3lb4Y
 
-Code -
+
+##Videos -
+https://www.youtube.com/user/nodevember/videos
+https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg/videos
+
+
+##Code -
 https://github.com/lapwinglabs/bare-auth
 https://github.com/tcs-de/nodecache
 https://github.com/marak/the-monolith-versus-the-microservice
@@ -39,13 +50,9 @@ https://github.com/servant-app/JAWS
 https://github.com/kessler/node-dynamic-middleware
 https://github.com/alidavut/locus
 
-Tools -
-http://tcs-de.github.io/nodecache/
-http://s-a.github.io/iron-node/
 
-
-
-Important Links -
+##Important Links -
 https://nodejs.org
 http://node-machine.org
+https://www.npmjs.com
 
