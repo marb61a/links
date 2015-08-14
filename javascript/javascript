@@ -7,6 +7,8 @@ http://developer.telerik.com/featured/the-javascript-looping-evolution/
 http://blog.onthewings.net/2015/08/05/typescript-vs-haxe/
 https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
 http://www.2ality.com/2015/08/getting-started-es6.html
+https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/
+
 
 
 ##Courses -
@@ -26,7 +28,9 @@ http://www.javascriptkit.com/javatutors/
 https://github.com/systemjs/systemjs
 https://github.com/cyclejs/cycle-core/
 https://github.com/brion/ogv.js & https://brionv.com/misc/ogv.js/demo/
+https://github.com/wooorm/mdast
 
 
 ##Links - 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
+http://mdast.js.org
