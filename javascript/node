@@ -26,6 +26,11 @@ http://howtonode.org/deploy-blog-to-heroku
 http://robdodson.me/deploying-your-first-node-dot-js-and-socket-dot-io-app-to-heroku/
 https://stormpath.com/blog/heroku-stormpath-and-expressjs/
 http://www.sitepoint.com/deploying-heroku-using-gulp-node-git/
+https://www.airpair.com/express/posts/expressjs-and-passportjs-sessions-deep-dive
+http://www.sitepoint.com/how-to-run-node-js-with-express-on-mobile-devices/
+https://www.codementor.io/nodejs/tutorial/google-deep-dreaming-web-automation-chrome-dev-tools#/
+http://mziccard.me/2015/08/10/node-timsort-fast-sorting-nodejs/
+http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/
 
 ##Courses\Training -
 http://nodeschool.io/#workshoppers
@@ -49,10 +54,15 @@ https://github.com/h2non/toxy
 https://github.com/servant-app/JAWS
 https://github.com/kessler/node-dynamic-middleware
 https://github.com/alidavut/locus
+https://github.com/nodejs/node#cnv
+https://github.com/bucaran/parsec
+https://github.com/IgorAntun/node-chat
+http://reach.github.io/
 
 
 ##Important Links -
 https://nodejs.org
 http://node-machine.org
 https://www.npmjs.com
+https://iojs.org/en/index.html
 
