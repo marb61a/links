@@ -11,6 +11,7 @@ https://zapier.com/engineering/react-js-tutorial-guide-gotchas/
 http://up.svbtle.com/blackjackin-with-react-js
 http://swizec.com/blog/using-react-in-the-real-world/swizec/6710
 http://www.sitepoint.com/creating-isomorphic-apps-node-js-react-express/
+http://dapperdeveloper.com/2015/07/04/react-js-and-flux-todo-tutorial/
 
 
 ##Courses -
@@ -32,6 +33,9 @@ https://github.com/kriasoft/react-starter-kit
 https://github.com/svenanders/learn-react
 https://github.com/arminbhy/reactator
 https://github.com/Swizec/react-real-world
+https://github.com/wangzuo/react-input-color
+https://github.com/gaearon/dnd-core
+https://github.com/gaearon/react-dnd
 
 
 ##Links -
@@ -43,5 +47,6 @@ http://facebook.github.io/flux/docs/overview.html
 http://blog.andrewray.me/flux-for-stupid-people/
 http://material-ui.com/#/
 http://www.reactstarterkit.com
+https://facebook.github.io/relay/
 
 
