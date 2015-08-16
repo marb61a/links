@@ -8,7 +8,10 @@ http://blog.onthewings.net/2015/08/05/typescript-vs-haxe/
 https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
 http://www.2ality.com/2015/08/getting-started-es6.html
 https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/
-
+http://ponyfoo.com/articles/javascript-quality-guide
+http://www.sitepoint.com/the-es6-conundrum/
+https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658
+http://www.sitepoint.com/writing-better-javascript-with-flow/
 
 
 ##Courses -
@@ -34,3 +37,4 @@ https://github.com/wooorm/mdast
 ##Links - 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 http://mdast.js.org
+https://github.com/bevacqua/js
