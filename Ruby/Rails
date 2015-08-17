@@ -10,6 +10,9 @@ www.nateberkopec.com/2015/08/05/rack-mini-profiler-the-secret-weapon.html
 http://rubylogs.com/exception-handling-and-testing/
 http://devdungeon.com/content/writing-mumble-bot-ruby
 http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html
+https://semaphoreci.com/community/tutorials/writing-one-liner-rspec-tests-in-rails-with-shoulda-matchers
+http://blog.codeship.com/testing-rails-application-docker/
+http://www.sitepoint.com/rails-authentication-with-authlogic/
 
 
 ## Courses
@@ -25,6 +28,8 @@ https://www.udemy.com/job-ready-web-developer/
 https://mattbrictson.com/best-of-railsconf-2015
 http://blog.parse.com/learn/moving-our-api-from-ruby-to-go-the-video/
 https://speakerdeck.com/bbatsov/opal-the-journey-from-javascript-to-ruby
+https://www.youtube.com/playlist?list=PLE7tQUdRKcyY8lLkCbIiseqXy_liFzX2F - JRuby EU 2015
+https://www.youtube.com/playlist?list=PLE7tQUdRKcyaUIjpEKMLTKc32kr4vseg9 - Ruby on Ales 2015
 
 
 ## Code
@@ -38,6 +43,8 @@ https://github.com/ndea/rstreamor
 https://github.com/mudge/comp
 https://github.com/mattvperry/mumble-ruby
 http://rubylogs.com/test-doubles-theory-minitest-rspec/
+https://github.com/ccallebs/pokey
+https://github.com/gdpelican/inline_translation
 
 
 ## Links
@@ -45,3 +52,4 @@ http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html
 http://twin.github.io/ode-to-sequel/
 https://rubymonk.com
 https://rubygems.org/gems
+https://isitvulnerable.com/
