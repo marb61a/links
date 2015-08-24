@@ -14,6 +14,14 @@ https://semaphoreci.com/community/tutorials/writing-one-liner-rspec-tests-in-rai
 http://blog.codeship.com/testing-rails-application-docker/
 http://www.sitepoint.com/rails-authentication-with-authlogic/
 http://www.sitepoint.com/understanding-scope-in-ruby/
+http://rom-rb.org/tutorials/todo-app-with-rails/
+http://www.toptal.com/ruby/tips-and-practices
+http://www.integralist.co.uk/posts/eigenclass.html
+http://cristianogregnanin.com/2015/07/22/Use-Capybara-and-Rspec-to-test-non-Rails-applications.html
+http://blog.honeybadger.io/associative-arrays-in-ruby-what/
+http://blog.iempire.ru/2015/s3-direct-uploads/
+http://vaidehijoshi.github.io/blog/2015/08/18/safer-sql-using-activerecord-transactions/
+https://eliotsykes.com/magic-numbers
 
 
 ## Courses
@@ -25,12 +33,14 @@ https://www.udemy.com/become-a-heroku-rails-ninja/
 https://www.udemy.com/job-ready-web-developer/
 
 
+
 ## Videos
 https://mattbrictson.com/best-of-railsconf-2015
 http://blog.parse.com/learn/moving-our-api-from-ruby-to-go-the-video/
 https://speakerdeck.com/bbatsov/opal-the-journey-from-javascript-to-ruby
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyY8lLkCbIiseqXy_liFzX2F - JRuby EU 2015
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyaUIjpEKMLTKc32kr4vseg9 - Ruby on Ales 2015
+https://www.youtube.com/playlist?list=PL5klM3mD6alLUhNTPTbj5a3GBjU7oZN0t#neo4jrb
 
 
 ## Code
@@ -46,6 +56,8 @@ https://github.com/mattvperry/mumble-ruby
 http://rubylogs.com/test-doubles-theory-minitest-rspec/
 https://github.com/ccallebs/pokey
 https://github.com/gdpelican/inline_translation
+https://github.com/davydovanton/sidekiq-statistic
+https://github.com/choonkeat/attache
 
 
 ## Links
@@ -54,3 +66,5 @@ http://twin.github.io/ode-to-sequel/
 https://rubymonk.com
 https://rubygems.org/gems
 https://isitvulnerable.com/
+http://rom-rb.org
+https://www.fedux.org/articles.html
