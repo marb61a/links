@@ -22,6 +22,7 @@ http://blog.honeybadger.io/associative-arrays-in-ruby-what/
 http://blog.iempire.ru/2015/s3-direct-uploads/
 http://vaidehijoshi.github.io/blog/2015/08/18/safer-sql-using-activerecord-transactions/
 https://eliotsykes.com/magic-numbers
+http://www.railsonmaui.com/tips/rails/capybara-phantomjs-poltergeist-rspec-rails-tips.html
 
 
 ## Courses
@@ -41,6 +42,8 @@ https://speakerdeck.com/bbatsov/opal-the-journey-from-javascript-to-ruby
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyY8lLkCbIiseqXy_liFzX2F - JRuby EU 2015
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyaUIjpEKMLTKc32kr4vseg9 - Ruby on Ales 2015
 https://www.youtube.com/playlist?list=PL5klM3mD6alLUhNTPTbj5a3GBjU7oZN0t#neo4jrb
+http://asciicasts.com
+http://railscasts.com
 
 
 ## Code
@@ -68,3 +71,5 @@ https://rubygems.org/gems
 https://isitvulnerable.com/
 http://rom-rb.org
 https://www.fedux.org/articles.html
+https://www.ruby-toolbox.com
+http://railsware.com/blog/
