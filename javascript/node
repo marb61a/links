@@ -35,6 +35,12 @@ http://davidwalsh.name/nock
 http://www.sitepoint.com/5-easy-performance-tweaks-node-js-express/
 http://code.tutsplus.com/articles/real-time-chat-with-modulus-and-nodejs--cms-22512
 http://www.sitepoint.com/visualizing-a-twitter-stream-in-vr-with-three-js-and-node/
+http://blogs.msdn.com/b/vscode/archive/2015/08/11/getting-started-with-docker.aspx
+http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts?
+http://blog.redradix.com/an-architecture-for-complex-node-js-apps-with-dependency-injection/
+https://www.twilio.com/blog/2015/08/playing-tunes-over-the-phone-with-the-twilio-nodejs-library-in-es6.html
+http://ifelse.io/2015/08/17/dockerizing-a-nodejs-app/
+http://www.jut.io/blog/2015/pushing-node-js-performance-limits
 
 
 ##Courses\Training -
@@ -48,6 +54,7 @@ https://www.udemy.com/learn-nodejs-by-building-10-projects/?dtcode=nQjWkRB3lb4Y
 https://www.youtube.com/user/nodevember/videos
 https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg/videos
 https://www.youtube.com/watch?v=LGpmUyFnyuQ
+https://vimeo.com/136965797 - Joao Parreira - Scaling Node.js to 500 million Users
 
 
 ##Code -
@@ -67,6 +74,10 @@ http://reach.github.io/
 https://github.com/mastilver/express-annotation
 https://github.com/gflandre/mongo-aggregation-debugger
 https://ni-c.github.io/heimcontrol.js/
+https://github.com/soyuka/explorer
+https://github.com/mateogianolio/node-pip
+https://github.com/bucaran/generator-rise
+https://github.com/girliemac/RPi-KittyCam?
 
 
 ##Important Links -
