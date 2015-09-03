@@ -17,12 +17,20 @@ http://www.kirupa.com/html5/css_transitions_cheatsheet.htm
 http://www.sitepoint.com/10-common-mistakes-web-developers-make/
 http://seesparkbox.com/foundry/why_you_need_to_refactor_your_css
 http://www.smashingmagazine.com/2015/08/typographic-patterns-in-html-newsletter-email-design/
+http://www.smashingmagazine.com/2015/09/approaches-for-multiplatform-ui-design-adaptation/
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/TVs_connected_devices/Web_animations_on_large_screen
+http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users/
+http://www.sitepoint.com/using-sasss-error-warn-and-debug-directives/
+http://www.sitepoint.com/css-properties-to-control-web-typography/
+
 
 ##Courses -
 https://www.udemy.com/projects-in-css/
 https://www.udemy.com/mobi5-html5-and-css3-for-mobile-web-applications/
 
+
 ##Videos
+
 
 ##Code -
 https://github.com/macropodhq/postcss-local-constants
@@ -30,7 +38,9 @@ https://github.com/morishitter/cssfmt
 https://github.com/postcss/postcss
 http://codepen.io/rgg/full/QbRyOq/
 http://www.sequencejs.com/
+https://github.com/cmpolis/smart-table-scroll
 
 ##Links -
 http://demosthenes.info/blog
+http://juicedcss.com/
 
