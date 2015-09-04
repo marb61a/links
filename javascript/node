@@ -41,6 +41,10 @@ http://blog.redradix.com/an-architecture-for-complex-node-js-apps-with-dependenc
 https://www.twilio.com/blog/2015/08/playing-tunes-over-the-phone-with-the-twilio-nodejs-library-in-es6.html
 http://ifelse.io/2015/08/17/dockerizing-a-nodejs-app/
 http://www.jut.io/blog/2015/pushing-node-js-performance-limits
+https://codeforgeek.com/2015/09/command-line-application-nodejs/
+http://shellmonger.com/2015/08/29/continuous-deployment-nodejs-and-microsoft-azure/
+https://medium.com/@john.titus/how-to-run-a-node-js-express-app-in-amazon-s-aws-api-gateway-84a54d21dca7
+https://medium.com/all-about-feathersjs/from-mongoose-models-to-a-real-time-api-with-feathersjs-ec1cc3fb0a5c
 
 
 ##Courses\Training -
@@ -78,6 +82,9 @@ https://github.com/soyuka/explorer
 https://github.com/mateogianolio/node-pip
 https://github.com/bucaran/generator-rise
 https://github.com/girliemac/RPi-KittyCam?
+https://github.com/jtribe/ghostrunner
+https://github.com/DataEasy/slack-cutter
+https://github.com/CharlieHess/slack-poker-bot
 
 
 ##Important Links -
@@ -85,4 +92,5 @@ https://nodejs.org
 http://node-machine.org
 https://www.npmjs.com
 https://iojs.org/en/index.html
+https://modulus.io
 
