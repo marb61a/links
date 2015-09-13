@@ -38,6 +38,14 @@ http://www.gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
 http://www.emanueleferonato.com/2015/08/27/learn-how-phaser-manages-draggable-objects-by-making-the-html5-engine-behind-rush-hour-game/
 https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/
 https://medium.com/all-about-feathersjs/using-feathersjs-as-an-open-source-alternative-to-firebase-b5d93c200cee
+http://ponyfoo.com/articles/es6-symbols-in-depth
+http://www.2ality.com/2015/09/typed-arrays.html
+http://www.sitepoint.com/preloading-images-in-parallel-with-promises/
+http://dmitryfrank.com/articles/js_closures
+http://www.2ality.com/2015/09/function-names-es6.html
+http://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/
+http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
+http://www.sitepoint.com/es6-now-template-strings/
 
 
 ##Courses -
@@ -76,6 +84,8 @@ https://github.com/cmpolis/smart-table-scroll
 http://gionkunz.github.io/chartist-js/
 https://cryptic.io/intro-to-daisywheeljs/
 https://github.com/danielstjules/mocha.parallel
+https://github.com/zb3/MockTheClock
+https://github.com/starikovs/stupidbox
 
 
 ##Links - 
@@ -83,3 +93,4 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 http://mdast.js.org
 https://github.com/bevacqua/js
 http://substance.io/
+https://stormpath.com/blog/secure-single-page-app-problem/
