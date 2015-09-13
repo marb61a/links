@@ -19,6 +19,11 @@ http://shellmonger.com/2015/09/02/react-flux-localforage-and-saving-data/
 http://ditrospecta.com/javascript/react/es6/socketio/nodejs/realtime/2015/08/21/creating-real-time-instagram-socketio-react.html
 http://blog.bigbinary.com/2015/08/25/how-to-test-react-native-app-on-real-iphone.html
 https://quickleft.com/blog/#defusing-race-conditions-when-using-promises
+http://css-max.com/testing-react-tool-implementation/
+http://benclinkinbeard.com/posts/up-and-running-with-es6-and-react-in-under-5-minutes/
+http://merrickchristensen.com/articles/single-state-tree.html
+http://konkle.us/state-management-with-redux/
+
 
 ##Courses -
 https://www.udemy.com/learn-and-understand-reactjs/?dtcode=m5Edrf23ldee
@@ -29,6 +34,7 @@ https://egghead.io/series/react-flux-architecture
 
 ##Videos - 
 https://www.youtube.com/watch?v=xsSnOQynTHs - Dan Abramov : Hot Reloading
+https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw - React Rally
 
 
 ##Code -
@@ -57,5 +63,6 @@ http://www.reactstarterkit.com
 https://facebook.github.io/relay/
 http://likethemammal.github.io/reacttalk/
 http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html
+http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react/
 
 
