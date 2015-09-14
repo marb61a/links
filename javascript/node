@@ -9,7 +9,6 @@ http://www.sitepoint.com/an-introduction-to-nodebots/
 http://developer.telerik.com/featured/merging-dynamic-and-static-sites/
 http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
 http://stackabuse.com/avoiding-callback-hell-in-node-js/
-http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/
 https://medium.com/@tribou/serving-react-and-flux-with-hapi-and-webpack-213afacf94ea
 http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/
 http://davidwalsh.name/nodejs-arguments-yargs
@@ -49,6 +48,11 @@ https://lob.com/blog/building-an-instagram-postcard-app-in-express-js/?
 https://stefanscherer.github.io/create-an-io-js-container-image-for-windows/
 http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku
 http://blog.benmcmahen.com/post/41122888102/creating-slugs-for-your-blog-using-expressjs-and
+http://xeektech.com/post/129055775448/debugging-nodejs-using-node-inspector-and-chrome
+https://scotch.io/tutorials/a-realtime-room-chat-app-using-node-webkit-socket-io-and-mean
+http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/02/13/how-to-use-nodejs-express-and-bower-to-create-angularjs-apps.aspx
+http://www.tutorialsavvy.com/2014/05/web-sockets-with-socket-io-and-node-js.html/
+http://www.kogonuso.com/2015/09/better-beginners-guide-to-nodejs-server.html
 
 
 ##Courses\Training -
