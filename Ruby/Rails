@@ -36,6 +36,14 @@ http://blog.honeybadger.io/when-to-use-freeze-and-frozen-in-ruby/
 http://blog.skylight.io/fixing-the-mysterious-slow-request/
 http://www.justinweiss.com/blog/2015/09/01/should-you-use-scopes-or-class-methods/
 http://www.grok-interactive.com/blog/value-objects-in-ruby-part-1/
+http://www.sitepoint.com/build-apis-with-napa/
+https://practicingruby.com/articles/formula-processing
+http://blog.arkency.com/2015/09/testing-race-conditions/
+http://theartandscienceofruby.com/2015/09/11/switching-from-rspec-to-minitest/
+http://blog.codeship.com/know-your-sidekiq-testing-rights/
+http://www.justinweiss.com/blog/2015/09/08/keeping-your-logs-from-becoming-an-unreadable-mess/
+http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/
+https://medium.com/iron-io-blog/how-to-create-a-tiny-docker-image-for-your-ruby-app-f8d7d622d80b
 
 
 ## Courses
@@ -84,6 +92,8 @@ https://github.com/yammer/model_attribute
 https://github.com/DarthSim/carrierwave-bombshelter
 https://github.com/gottfrois/grape-attack
 http://fullscreen.github.io/squid/
+https://github.com/mattheworiordan/capybara-screenshot
+https://github.com/AvnerCohen/restful-client
 
 
 ## Links
@@ -98,3 +108,5 @@ https://www.ruby-toolbox.com
 http://railsware.com/blog/
 http://www.rubymotion.com
 http://prawnpdf.org/api-docs/2.0/
+http://theartandscienceofruby.com/
+http://bparanj.blogspot.co.uk
