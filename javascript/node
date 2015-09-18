@@ -53,6 +53,10 @@ https://scotch.io/tutorials/a-realtime-room-chat-app-using-node-webkit-socket-io
 http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/02/13/how-to-use-nodejs-express-and-bower-to-create-angularjs-apps.aspx
 http://www.tutorialsavvy.com/2014/05/web-sockets-with-socket-io-and-node-js.html/
 http://www.kogonuso.com/2015/09/better-beginners-guide-to-nodejs-server.html
+http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/
+https://blog.risingstack.com/dependency-injection-in-node-js/
+https://medium.com/@will123195/the-bleh-stack-simple-websites-with-node-js-98175d0ae042
+http://jxcore.com/using-jxcores-packaging-feature-to-deploy-ghost/
 
 
 ##Courses\Training -
@@ -96,6 +100,9 @@ https://github.com/CharlieHess/slack-poker-bot
 https://github.com/karissa/nutella-scrape
 https://github.com/Mostafa-Samir/zip-local
 https://github.com/cshum/levi
+https://www.npmjs.com/package/node-ipgeoblock
+https://www.npmjs.com/package/npm2dot
+https://www.npmjs.com/package/express-s3-router
 
 
 ##Important Links -
@@ -104,4 +111,5 @@ http://node-machine.org
 https://www.npmjs.com
 https://iojs.org/en/index.html
 https://modulus.io
+https://medium.com/@c2c/my-7-node-js-mantras-edd6c148e8dc
 
