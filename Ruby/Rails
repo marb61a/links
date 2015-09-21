@@ -44,6 +44,14 @@ http://blog.codeship.com/know-your-sidekiq-testing-rights/
 http://www.justinweiss.com/blog/2015/09/08/keeping-your-logs-from-becoming-an-unreadable-mess/
 http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/
 https://medium.com/iron-io-blog/how-to-create-a-tiny-docker-image-for-your-ruby-app-f8d7d622d80b
+http://weblog.jamisbuck.org/2015/9/12/little-things-heredocs.html
+http://eng.rightscale.com/2015/09/16/how-to-debug-ruby-memory-issues.html
+http://techblog.shutl.com/2015/09/ruby-virtual-machine-internals-and-investigating-variable-scope/
+http://www.justinweiss.com/blog/2015/09/15/3-steps-to-fix-encoding-problems-in-ruby/
+https://cloud.google.com/ruby/getting-started/hello-world
+https://www.credible.com/code/setting-up-a-data-warehouse-with-aws-redshift-and-ruby/
+http://www.sitepoint.com/deploy-your-rails-to-openshift/
+http://www.blackbytes.info/2015/09/ngram-analysis-ruby/
 
 
 ## Courses
@@ -94,6 +102,13 @@ https://github.com/gottfrois/grape-attack
 http://fullscreen.github.io/squid/
 https://github.com/mattheworiordan/capybara-screenshot
 https://github.com/AvnerCohen/restful-client
+https://github.com/owen2345/camaleon-cms
+https://github.com/peter-murach/pastel
+https://github.com/peter-murach/tty-screen
+https://github.com/csm123/rsstoapi/
+https://github.com/altmetric/decontaminator
+https://github.com/doches/rwordnet
+https://github.com/MightySignal/slackiq
 
 
 ## Links
