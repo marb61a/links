@@ -56,6 +56,14 @@ http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/
 http://ponyfoo.com/articles/es6-proxies-in-depth
 http://ponyfoo.com/articles/es6-weakmaps-sets-and-weaksets-in-depth
 http://ponyfoo.com/articles/es6-number-improvements-in-depth
+http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/
+https://stormpath.com/blog/token-auth-spa/
+https://raygun.io/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/
+http://ponyfoo.com/articles/es6-strings-and-unicode-in-depth
+http://davidwalsh.name/creating-animated-product-slider-sequencejs
+http://ponyfoo.com/articles/es6-array-extensions-in-depth
+http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html
+http://www.sitepoint.com/transpiling-es6-modules-to-amd-commonjs-using-babel-gulp/
 
 
 ##Courses -
@@ -73,6 +81,7 @@ https://www.youtube.com/playlist?list=PL46F0A159EC02DF82 - The New Boston
 https://www.youtube.com/playlist?list=PL00952AC35D0A4701 - Adam khoury
 http://www.sitepoint.com/video-getting-to-know-block-statements-in-javascript
 https://www.youtube.com/user/MarakanaTechTV/playlists
+https://egghead.io/series/how-to-write-an-open-source-javascript-library
 
 
 ##Code -
@@ -101,6 +110,10 @@ http://adrai.github.io/flowchart.js/
 https://github.com/PaulBGD/HashMap.js
 https://openseadragon.github.io/
 http://bramp.github.io/js-sequence-diagrams/
+http://bevacqua.github.io/promisees/
+https://github.com/aserg-ufmg/JSCity
+https://github.com/issuetrackapp/queryl
+https://github.com/slevithan/xregexp
 
 
 ##Links - 
@@ -109,3 +122,6 @@ http://mdast.js.org
 https://github.com/bevacqua/js
 http://substance.io/
 https://stormpath.com/blog/secure-single-page-app-problem/
+https://github.com/wbinnssmith/awesome-promises
+http://xregexp.com
+http://www.javascriptkit.com
