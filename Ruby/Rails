@@ -52,6 +52,15 @@ https://cloud.google.com/ruby/getting-started/hello-world
 https://www.credible.com/code/setting-up-a-data-warehouse-with-aws-redshift-and-ruby/
 http://www.sitepoint.com/deploy-your-rails-to-openshift/
 http://www.blackbytes.info/2015/09/ngram-analysis-ruby/
+http://pchm.co/tutorial-how-to-build-a-cms-in-ruby-on-rails/?utm_source=rubyweekly&utm_medium=email
+https://medium.com/@WoloxEngineering/image-processing-in-rails-using-aws-lambda-43b5b268019f
+http://www.blrice.net/blog/2015/09/18/a-middleware-stack-without-rack/
+https://medium.com/kamil-lelonek-personal-blog/why-a-function-signature-may-sometimes-lie-to-you-43b05931bf41
+http://blog.kontena.io/building-minimal-docker-image-for-rails/
+http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/
+http://www.sitepoint.com/save-multiple-checkbox-values-database-rails/
+http://www.justinweiss.com/articles/how-to-get-from-theyre-to-theyre//
+http://weblog.jamisbuck.org/2015/9/19/default-scopes-anti-pattern.html
 
 
 ## Courses
@@ -109,6 +118,10 @@ https://github.com/csm123/rsstoapi/
 https://github.com/altmetric/decontaminator
 https://github.com/doches/rwordnet
 https://github.com/MightySignal/slackiq
+https://github.com/jcantara/em-rubyserial?
+https://github.com/orbitalimpact/opal-pixi
+https://github.com/backupify/data_filter
+https://github.com/hothero/awesome-rails-gem
 
 
 ## Links
@@ -125,3 +138,4 @@ http://www.rubymotion.com
 http://prawnpdf.org/api-docs/2.0/
 http://theartandscienceofruby.com/
 http://bparanj.blogspot.co.uk
+http://www.be9.io/2015/09/21/memory-leak/
