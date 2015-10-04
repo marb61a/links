@@ -64,6 +64,12 @@ http://davidwalsh.name/creating-animated-product-slider-sequencejs
 http://ponyfoo.com/articles/es6-array-extensions-in-depth
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html
 http://www.sitepoint.com/transpiling-es6-modules-to-amd-commonjs-using-babel-gulp/
+http://jonathancreamer.com/document-es6-with-esdoc/
+http://www.2ality.com/2015/09/well-known-symbols-es6.html
+http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
+http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
+http://ponyfoo.com/articles/es6-promises-in-depth
+http://developer.telerik.com/featured/pro-javascript-concepts-for-enterprise-developers/
 
 
 ##Courses -
@@ -82,6 +88,7 @@ https://www.youtube.com/playlist?list=PL00952AC35D0A4701 - Adam khoury
 http://www.sitepoint.com/video-getting-to-know-block-statements-in-javascript
 https://www.youtube.com/user/MarakanaTechTV/playlists
 https://egghead.io/series/how-to-write-an-open-source-javascript-library
+http://www.devbattles.com/en/sand/post-1742-How_to_play_with_setIterval_in_JavaScript
 
 
 ##Code -
@@ -114,6 +121,8 @@ http://bevacqua.github.io/promisees/
 https://github.com/aserg-ufmg/JSCity
 https://github.com/issuetrackapp/queryl
 https://github.com/slevithan/xregexp
+http://videojs.com/
+http://zenorocha.github.io/clipboard.js/
 
 
 ##Links - 
