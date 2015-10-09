@@ -67,6 +67,16 @@ http://spin.atomicobject.com/2015/09/25/debug-node-js/
 https://moroccojs.org/tutorials/npm-based-front-end-workflow/
 http://sagivo.com/post/130207525903/nodejs-addons
 https://blog.risingstack.com/terminal-guide-for-nodejs/
+https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/
+https://nodesource.com/blog/cpp-addons-for-nodejs-v4
+http://www.capitalone.io/blog/contrasting-enterprise-nodejs-frameworks/
+https://www.codementor.io/nodejs/tutorial/how-to-implement-twitter-sign-expressjs-oauth
+https://medium.com/@c2c/nodejs-a-quick-optimization-advice-7353b820c92e
+https://blog.nraboy.com/2015/10/create-a-simple-restful-api-with-node-js/
+https://scotch.io/tutorials/containerized-testing-for-node-applications-with-dockunit
+http://ditrospecta.com/javascript/plugin/hubot/2015/10/03/hubot-plugin-choose-place-to-drink-coffee.html
+http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/
+
 
 
 ##Courses\Training -
@@ -122,6 +132,8 @@ https://github.com/melvinsembrano/easy-date
 https://github.com/idris-maps/gis-with-javascript-tutorial
 https://gist.github.com/dustyfresh/eb967a19d53df4a3434f
 https://github.com/stevenmiller888/intruder
+https://github.com/tomchristie/express-browsable-api
+https://github.com/ryanbahniuk/sassaby
 
 
 ##Important Links -
@@ -134,4 +146,5 @@ https://medium.com/@c2c/my-7-node-js-mantras-edd6c148e8dc
 http://bookshelfjs.org
 http://blog.tonicdev.com/2015/09/30/embedded-tonic?
 http://adonisjs.com/
-
+http://nodeframework.com/index.html#home
+http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story
