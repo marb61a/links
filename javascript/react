@@ -35,6 +35,8 @@ https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-1-the-basic-tem
 https://medium.com/code-cartoons/a-cartoon-guide-to-flux-6157355ab207
 http://www.sitepoint.com/react-data-fetching-with-relay/
 http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack
+http://jaero.space/blog/imgur-react-native/
+https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878
 
 
 ##Courses -
@@ -65,7 +67,10 @@ https://www.npmjs.com/package/react-blessed/
 https://github.com/omnidan/redux-undo
 https://github.com/gajus/react-css-modules
 https://github.com/cyclejs/cycle-react-native
-
+https://github.com/Adphorus/react-date-range
+https://github.com/relax/relax
+https://facebook.github.io/relay/
+https://github.com/Khan/style-guides/blob/master/style/react.md
 
 
 ##Links -
@@ -77,9 +82,10 @@ http://facebook.github.io/flux/docs/overview.html
 http://blog.andrewray.me/flux-for-stupid-people/
 http://material-ui.com/#/
 http://www.reactstarterkit.com
-https://facebook.github.io/relay/
 http://likethemammal.github.io/reacttalk/
 http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html
 http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react/
+http://reactcheatsheet.com
+https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
 
 
