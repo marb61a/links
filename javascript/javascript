@@ -75,8 +75,14 @@ http://www.bennadel.com/blog/2930-using-cmd-enter-to-submit-a-form-in-angularjs.
 http://www.masswerk.at/JavaPac/pacman-howto.html
 http://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
 http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript
-https://blog.risingstack.com/node-js-security-checklist/
-http://www.sitepoint.com/dom-manipulation-with-nodelist-js/
+http://goose.ninja/2015/10/13/keyboard-events-with-pixi-js/
+http://www.sitepoint.com/command-line-api-fun-profit/
+https://www.packtpub.com/books/content/writing-3d-space-rail-shooter-threejs-part-1
+http://runemadsen.github.io/rune.js/
+http://josecasanova.com/blog/how-to-build-a-tvos-application-for-apple-tv-tutorial/
+http://www.ociweb.com/resources/publications/sett/javascript-iterators-and-generators/
+https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript
+https://ponyfoo.com/articles/es6
 
 
 ##Courses -
@@ -96,6 +102,7 @@ http://www.sitepoint.com/video-getting-to-know-block-statements-in-javascript
 https://www.youtube.com/user/MarakanaTechTV/playlists
 https://egghead.io/series/how-to-write-an-open-source-javascript-library
 http://www.devbattles.com/en/sand/post-1742-How_to_play_with_setIterval_in_JavaScript
+
 
 
 ##Code -
@@ -135,6 +142,9 @@ http://codepen.io/mike-zarandona/full/Dasnw
 http://js-grid.com/
 http://dinbror.dk/blazy/
 http://eggboxio.github.io/quick-select/
+http://zenorocha.github.io/clipboard.js/
+https://github.com/MaiaVictor/LJSON
+https://github.com/jwagner/smartcrop.js
 
 
 ##Links - 
@@ -147,3 +157,5 @@ https://github.com/wbinnssmith/awesome-promises
 http://xregexp.com
 http://www.javascriptkit.com
 https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+http://videojs.com/
+http://www.mancy-re.pl/
