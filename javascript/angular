@@ -48,6 +48,8 @@ http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-route
 http://www.syntaxsuccess.com/viewarticle/input-controls-in-angular-2.0
 https://medium.com/@PinakinMistry/angular-component-cutter-using-es2015-gulp-webpack-127957aa0d70
 https://scotch.io/courses/build-an-etsy-clone-with-angularjs-and-stamplay
+http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/
+http://victorsavkin.com/post/99998937651/building-angular-apps-using-flux-architecture
 
 
 ##Videos - 
@@ -55,6 +57,7 @@ Introduction & Explore to AngularJS 2015 - https://www.youtube.com/watch?v=u2okV
 Introduction to Angular.js in 50 Examples (part 1) - https://www.youtube.com/watch?v=TRrL5j3MIvo (curran kelleher)
 Introduction to Angular.js in 50 Examples (part 2) - https://www.youtube.com/watch?v=6J08m1H2BME (curran kelleher)
 AnuglarJS 2 into the future - https://www.youtube.com/watch?v=7zprDGOxpNk
+http://angular-air.com
 
 
 ##Courses - 
@@ -73,10 +76,13 @@ http://720kb.github.io/angular-fx/
 https://github.com/hswolff/hn-ng2
 https://angular.github.io/protractor/#/
 https://github.com/Azure-Samples/active-directory-angularjs-singlepageapp
+https://github.com/johnpapa/angular-styleguide
+https://github.com/toddmotto/angularjs-styleguide
 
 
 ##Links -
 https://angularjs.org
 https://angularjs.zeef.com/harris.brakmic
+http://angular-meteor.com/angular2
 
 
