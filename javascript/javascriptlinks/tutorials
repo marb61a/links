@@ -1,18 +1,65 @@
-##Tutorials -
+                                        ##Tutorials -
+                                        
+####################################### Sitepoint ###########################################################
+http://www.sitepoint.com/es6-now-template-strings/
+http://www.sitepoint.com/creating-accessible-breakout-game-using-web-audio-svg/
+http://www.sitepoint.com/guide-to-npm-as-a-build-tool/
+http://www.sitepoint.com/full-screen-bootstrap-carousel-random-initial-image/
+http://www.sitepoint.com/multilingual-support-for-angularjs/
+http://www.sitepoint.com/currying-in-functional-javascript/
+http://www.sitepoint.com/experimenting-object-observe-javascript-found-useful/
+http://www.sitepoint.com/the-es6-conundrum/
+http://www.sitepoint.com/measuring-javascript-functions-performance/
+http://www.sitepoint.com/introducing-four-webgl-easier/
+http://www.sitepoint.com/writing-better-javascript-with-flow/
+http://www.sitepoint.com/guide-vanilla-ajax-without-jquery/
+
+
+####################################### Ponyfoo ###########################################################
+http://ponyfoo.com/articles/javascript-quality-guide
+http://ponyfoo.com/articles/es6-destructuring-in-depth
+http://ponyfoo.com/articles/es6-template-strings-in-depth
+http://ponyfoo.com/articles/es6-classes-in-depth
+http://ponyfoo.com/articles/es6-let-const-and-temporal-dead-zone-in-depth
+http://ponyfoo.com/articles/es6-proxies-in-depth
+http://ponyfoo.com/articles/es6-weakmaps-sets-and-weaksets-in-depth
+http://ponyfoo.com/articles/es6-number-improvements-in-depth
+https://ponyfoo.com/articles/es6
+
+
+####################################### Stormpath ###########################################################
+https://stormpath.com/blog/token-auth-spa/
+
+
+
+####################################### Strongloop ###########################################################
+
+
+
+
+####################################### Medium ###########################################################
+https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
+
+
+
+####################################### Telerik ###########################################################
+http://developer.telerik.com/featured/the-javascript-looping-evolution/
+
+
+
+####################################### Miscellaneous ###########################################################
 http://www.tutorialspoint.com/javascript/
 http://www.w3schools.com/js/
-http://developer.telerik.com/featured/the-javascript-looping-evolution/
 http://blog.onthewings.net/2015/08/05/typescript-vs-haxe/
 https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
 http://www.2ality.com/2015/08/getting-started-es6.html
+
+
+
 https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/
-http://ponyfoo.com/articles/javascript-quality-guide
-http://www.sitepoint.com/the-es6-conundrum/
-https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658
-http://www.sitepoint.com/writing-better-javascript-with-flow/
 http://addyosmani.com/largescalejavascript/
 https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
-http://www.sitepoint.com/introducing-four-webgl-easier/
 https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
 http://vegibit.com/vue-js-tutorial/
 http://www.2ality.com/2015/08/es6-map-json.html
@@ -20,17 +67,10 @@ http://derickbailey.com/2015/08/26/building-a-component-based-web-ui-with-modern
 http://www.pubnub.com/blog/webrtc-video-chat-app-in-20-lines-of-javascript/
 http://www.2ality.com/2015/07/regexp-es6.html
 https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback?
-http://ponyfoo.com/articles/es6-destructuring-in-depth
-http://ponyfoo.com/articles/es6-template-strings-in-depth
-http://www.sitepoint.com/guide-vanilla-ajax-without-jquery/
 http://blog.rangle.io/angular-gulp-bestpractices/
 https://www.thinkful.com/learn/intro-to-jquery
 https://zyan.scripts.mit.edu/blog/backdooring-js/
 http://www.2ality.com/2015/08/logging-variables-tagged-template.html
-http://ponyfoo.com/articles/es6-classes-in-depth
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
-http://ponyfoo.com/articles/es6-let-const-and-temporal-dead-zone-in-depth
-http://www.sitepoint.com/measuring-javascript-functions-performance/
 http://goose.ninja/2015/08/29/pixi-js-tutorial-getting-started/
 http://www.gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
 http://www.emanueleferonato.com/2015/08/27/learn-how-phaser-manages-draggable-objects-by-making-the-html5-engine-behind-rush-hour-game/
@@ -43,19 +83,11 @@ http://dmitryfrank.com/articles/js_closures
 http://www.2ality.com/2015/09/function-names-es6.html
 http://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/
 http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
-http://www.sitepoint.com/es6-now-template-strings/
-http://www.sitepoint.com/creating-accessible-breakout-game-using-web-audio-svg/
-http://www.sitepoint.com/guide-to-npm-as-a-build-tool/
-http://www.sitepoint.com/full-screen-bootstrap-carousel-random-initial-image/
 http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
 http://developer.telerik.com/featured/hail-babel-the-transpiling-overlord/
 http://www.2ality.com/2015/09/holes-arrays-es6.html
 http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/
-http://ponyfoo.com/articles/es6-proxies-in-depth
-http://ponyfoo.com/articles/es6-weakmaps-sets-and-weaksets-in-depth
-http://ponyfoo.com/articles/es6-number-improvements-in-depth
 http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/
-https://stormpath.com/blog/token-auth-spa/
 https://raygun.io/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/
 http://ponyfoo.com/articles/es6-strings-and-unicode-in-depth
 http://davidwalsh.name/creating-animated-product-slider-sequencejs
@@ -80,9 +112,6 @@ http://runemadsen.github.io/rune.js/
 http://josecasanova.com/blog/how-to-build-a-tvos-application-for-apple-tv-tutorial/
 http://www.ociweb.com/resources/publications/sett/javascript-iterators-and-generators/
 https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript
-https://ponyfoo.com/articles/es6
 https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript
 http://blog.getify.com/arrow-this/
-http://www.sitepoint.com/multilingual-support-for-angularjs/
-http://www.sitepoint.com/currying-in-functional-javascript/
-http://www.sitepoint.com/experimenting-object-observe-javascript-found-useful/
+http://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
