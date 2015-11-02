@@ -1,24 +1,64 @@
-                                # Ruby Rails Links
+                                      # Ruby Rails Links
 
-## Tutorials
+                                      ## Tutorials
+                                
+###################################### SitePoint ####################################################
+http://www.sitepoint.com/rails-authentication-with-authlogic/
+http://www.sitepoint.com/understanding-scope-in-ruby/
+http://www.sitepoint.com/how-to-solve-coding-anti-patterns-for-ruby-rookies/
+http://www.sitepoint.com/simple-rails-authentication-with-clearance/
+http://www.sitepoint.com/speed-up-with-materialized-views-on-postgresql-and-rails/
+http://www.sitepoint.com/effectively-handle-ios-payments-in-rails/
+http://www.sitepoint.com/build-apis-with-napa/
+http://www.sitepoint.com/straightforward-rails-authorization-with-pundit/
+http://www.sitepoint.com/deploy-your-rails-to-openshift/
+http://www.sitepoint.com/save-multiple-checkbox-values-database-rails/
+
+
+###################################### Honeybadger ####################################################
+http://blog.honeybadger.io/ruby-regex-tricks/
+http://blog.honeybadger.io/associative-arrays-in-ruby-what/
+http://blog.honeybadger.io/when-to-use-freeze-and-frozen-in-ruby/
+
+
+
+###################################### Toptal ####################################################
+http://www.toptal.com/ruby/tips-and-practices
+
+
+
+
+###################################### Medium ####################################################
+
+
+
+
+###################################### Semaphoreci ####################################################
+https://semaphoreci.com/community/tutorials/how-to-deploy-a-ruby-on-rails-application-to-elastic-beanstalk-with-semaphore
+https://semaphoreci.com/community/tutorials/introduction-to-writing-acceptance-tests-with-cucumber
+https://semaphoreci.com/community/tutorials/writing-one-liner-rspec-tests-in-rails-with-shoulda-matchers
+
+
+
+https://blog.codeship.com/how-to-apply-rubocop-to-your-large-rails-codebase/
+http://sorentwo.com/2015/10/19/layering-api-defenses-with-caching.html
 http://vaidehijoshi.github.io/blog/2015/07/28/clipping-images-for-rails-using-paperclip/
 http://tutor.lugolabs.com/articles/17-jquery-ui-autocomplete-with-ruby-on-rails
-https://semaphoreci.com/community/tutorials/introduction-to-writing-acceptance-tests-with-cucumber
 https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/
 http://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
 www.nateberkopec.com/2015/08/05/rack-mini-profiler-the-secret-weapon.html
 http://rubylogs.com/exception-handling-and-testing/
+http://nandovieira.com/using-es6-with-asset-pipeline-on-ruby-on-rails?
+http://blog.kontena.io/heroku-style-application-deployments-with-docker/
+http://twin.github.io/introducing-shrine/
+http://hashrocket.com/blog/posts/lets-write-some-bad-ruby
 http://devdungeon.com/content/writing-mumble-bot-ruby
 http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html
-https://semaphoreci.com/community/tutorials/writing-one-liner-rspec-tests-in-rails-with-shoulda-matchers
+https://www.twilio.com/blog/2015/10/4-ways-to-parse-a-json-api-with-ruby.html
 http://blog.codeship.com/testing-rails-application-docker/
-http://www.sitepoint.com/rails-authentication-with-authlogic/
-http://www.sitepoint.com/understanding-scope-in-ruby/
 http://rom-rb.org/tutorials/todo-app-with-rails/
-http://www.toptal.com/ruby/tips-and-practices
 http://www.integralist.co.uk/posts/eigenclass.html
 http://cristianogregnanin.com/2015/07/22/Use-Capybara-and-Rspec-to-test-non-Rails-applications.html
-http://blog.honeybadger.io/associative-arrays-in-ruby-what/
 http://blog.iempire.ru/2015/s3-direct-uploads/
 http://vaidehijoshi.github.io/blog/2015/08/18/safer-sql-using-activerecord-transactions/
 https://eliotsykes.com/magic-numbers
@@ -32,11 +72,9 @@ http://www.dovetaildigital.io/blog/2015/8/21/rails-and-ionic-make-love-part-one
 http://www.saturnflyer.com/blog/jim/2015/08/19/commanding-objects-toward-immutability/
 http://nts.strzibny.name/safe-code-evaluation-in-ruby-with-safe/
 https://www.fedux.org/articles/2015/08/26/creating-an-irb-based-repl-console-for-your-project.html?
-http://blog.honeybadger.io/when-to-use-freeze-and-frozen-in-ruby/
 http://blog.skylight.io/fixing-the-mysterious-slow-request/
 http://www.justinweiss.com/blog/2015/09/01/should-you-use-scopes-or-class-methods/
 http://www.grok-interactive.com/blog/value-objects-in-ruby-part-1/
-http://www.sitepoint.com/build-apis-with-napa/
 https://practicingruby.com/articles/formula-processing
 http://blog.arkency.com/2015/09/testing-race-conditions/
 http://theartandscienceofruby.com/2015/09/11/switching-from-rspec-to-minitest/
@@ -50,7 +88,6 @@ http://techblog.shutl.com/2015/09/ruby-virtual-machine-internals-and-investigati
 http://www.justinweiss.com/blog/2015/09/15/3-steps-to-fix-encoding-problems-in-ruby/
 https://cloud.google.com/ruby/getting-started/hello-world
 https://www.credible.com/code/setting-up-a-data-warehouse-with-aws-redshift-and-ruby/
-http://www.sitepoint.com/deploy-your-rails-to-openshift/
 http://www.blackbytes.info/2015/09/ngram-analysis-ruby/
 http://pchm.co/tutorial-how-to-build-a-cms-in-ruby-on-rails/?utm_source=rubyweekly&utm_medium=email
 https://medium.com/@WoloxEngineering/image-processing-in-rails-using-aws-lambda-43b5b268019f
@@ -58,7 +95,6 @@ http://www.blrice.net/blog/2015/09/18/a-middleware-stack-without-rack/
 https://medium.com/kamil-lelonek-personal-blog/why-a-function-signature-may-sometimes-lie-to-you-43b05931bf41
 http://blog.kontena.io/building-minimal-docker-image-for-rails/
 http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/
-http://www.sitepoint.com/save-multiple-checkbox-values-database-rails/
 http://www.justinweiss.com/articles/how-to-get-from-theyre-to-theyre//
 http://weblog.jamisbuck.org/2015/9/19/default-scopes-anti-pattern.html
 https://www.zweitag.de/en/blog/technology/lets-build-a-chat-with-actioncable
@@ -66,17 +102,12 @@ http://www.schneems.com/blogs/2015-09-30-reverse-rubygems/
 http://blog.codeship.com/building-a-json-api-with-rails-5/
 http://nts.strzibny.name/using-openshift-s2i-docker-images-to-build-ruby-application-containers/
 http://jakeyesbeck.com/2015/09/27/how-to-create-a-custom-enumerable/
-http://www.sitepoint.com/how-to-solve-coding-anti-patterns-for-ruby-rookies/
-http://www.sitepoint.com/simple-rails-authentication-with-clearance/
 http://firedev.com/posts/2015/bottomless-ruby-hash/
-http://www.sitepoint.com/speed-up-with-materialized-views-on-postgresql-and-rails/
 http://mixandgo.com/blog/understanding-and-extending-rails-form-helpers
 https://tech.greenhouse.io/2015/10/07/effectively-debugging-capybara-feature-specs.html
-http://www.sitepoint.com/effectively-handle-ios-payments-in-rails/
 https://rorsecurity.info/portfolio/cross-site-request-forgery-and-rails
 http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html
 http://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html
-http://www.sitepoint.com/straightforward-rails-authorization-with-pundit/
 http://blog.codeship.com/debugging-a-memory-leak-on-heroku/
 http://realtimeweekly.co/realtime-quiz-app-with-ror-reactjs-and-pubnub/
 https://www.twilio.com/blog/2015/10/delay-api-calls-to-twilio-with-rails-active-job-and-sidekiq.html
@@ -89,3 +120,4 @@ http://rethinkdb.com/blog/ruby-opal/
 https://www.amberbit.com/blog/2015/10/15/rails-mountable-engines/
 http://engineering.appfolio.com/2013/06/17/ruby-mixins-activesupportconcern/
 http://phrack.org/papers/attacking_ruby_on_rails.html
+http://jakeyesbeck.com/2015/10/25/how-to-traverse-foreign-ruby-code/
