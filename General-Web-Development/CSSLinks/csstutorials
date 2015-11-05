@@ -1,35 +1,53 @@
-                              #CSS LINKS
-
-##Tutorials -
+                                              ##Tutorials -
+ 
+############################################## Sitepoint ##########################################################                                             
 http://www.sitepoint.com/cutting-the-mustard-with-css-media-queries/
 http://www.sitepoint.com/introduction-mobile-first-media-queries/
-https://hacks.mozilla.org/2015/08/making-and-breaking-the-web-with-css-gradients/
-http://ashleynolan.co.uk/blog/managing-inline-images-in-css?
-http://www.smashingmagazine.com/2015/08/understanding-critical-css/
-https://www.webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/
-http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/
-http://bitsofco.de/2015/how-floating-works/
-https://css-tricks.com/making-charts-with-css/
-https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59
-https://css-tricks.com/building-a-circular-navigation-with-css-clip-paths/
-http://thenewcode.com/1064/Classical-Greek-Geometric-Borders-In-SVG
-http://www.kirupa.com/html5/css_transitions_cheatsheet.htm
 http://www.sitepoint.com/10-common-mistakes-web-developers-make/
-http://seesparkbox.com/foundry/why_you_need_to_refactor_your_css
-http://www.smashingmagazine.com/2015/08/typographic-patterns-in-html-newsletter-email-design/
-http://www.smashingmagazine.com/2015/09/approaches-for-multiplatform-ui-design-adaptation/
-https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/TVs_connected_devices/Web_animations_on_large_screen
-http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users/
 http://www.sitepoint.com/using-sasss-error-warn-and-debug-directives/
 http://www.sitepoint.com/css-properties-to-control-web-typography/
-http://speckyboy.com/2015/09/09/css-animation/
-https://css-tricks.com/prefetching-preloading-prebrowsing/
-https://hacks.mozilla.org/2015/09/scroll-snapping-explained/
-https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/
+http://www.sitepoint.com/animation-advice-from-a-css-master/
+http://www.sitepoint.com/introducing-gss-grid-style-sheets/
+http://www.sitepoint.com/pseudo-comments-in-css-or-how-browsers-parse-styles/
+
+
+
+############################################## Smashing ########################################################## 
+http://www.smashingmagazine.com/2015/08/understanding-critical-css/
+http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/
+http://www.smashingmagazine.com/2015/08/typographic-patterns-in-html-newsletter-email-design/
+http://www.smashingmagazine.com/2015/09/approaches-for-multiplatform-ui-design-adaptation/
+http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/
 http://www.smashingmagazine.com/2015/09/creating-cel-animations-with-svg
 http://www.smashingmagazine.com/2015/07/constructing-css-quantity-queries-on-the-fly/
-https://www.webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
+http://www.smashingmagazine.com/2015/09/mobile-navigation-for-smashing-magazine/
+http://www.smashingmagazine.com/2015/07/quantity-ordering-with-css/
+http://www.smashingmagazine.com/2015/06/the-making-of-in-pieces/
 http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/
+
+############################################## CSS Tricks ##########################################################
+https://css-tricks.com/making-charts-with-css/
+https://css-tricks.com/building-a-circular-navigation-with-css-clip-paths/
+https://css-tricks.com/prefetching-preloading-prebrowsing/
+
+
+############################################## Mozilla Hacks ##########################################################
+https://hacks.mozilla.org/2015/08/making-and-breaking-the-web-with-css-gradients/
+https://hacks.mozilla.org/2015/09/scroll-snapping-explained/
+https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/
+
+
+http://ashleynolan.co.uk/blog/managing-inline-images-in-css?
+https://www.webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/
+http://bitsofco.de/2015/how-floating-works/
+https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59
+http://thenewcode.com/1064/Classical-Greek-Geometric-Borders-In-SVG
+http://www.kirupa.com/html5/css_transitions_cheatsheet.htm
+http://seesparkbox.com/foundry/why_you_need_to_refactor_your_css
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/TVs_connected_devices/Web_animations_on_large_screen
+http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users/
+http://speckyboy.com/2015/09/09/css-animation/
+https://www.webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
 http://joshnh.com/weblog/getting-responsive-tables-to-behave/
 https://justmarkup.com/log/2015/07/31/dealing-with-long-words-in-css/
 https://css-tricks.com/custom-interactive-range-inputs/
@@ -43,12 +61,9 @@ https://medium.com/@vilcins/usefull-sass-mixins-7a68c5491bda
 http://shaneprendergast.co.uk/html/sass-theming/
 http://www.sitepoint.com/watch-compiling-sass-using-grunt-contrib-watch/
 https://aerotwist.com/blog/cors-for-concern/
-http://www.sitepoint.com/animation-advice-from-a-css-master/
-http://www.sitepoint.com/introducing-gss-grid-style-sheets/
 http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567
 https://ponyfoo.com/articles/inlining-critical-css
 http://developer.telerik.com/featured/lazy-loading-images-on-the-web/
 http://blogs.windows.com/msedgedev/2015/10/07/using-extended-srcset-and-the-picture-element-to-tailor-your-image-to-every-device-and-layout/
-http://www.sitepoint.com/pseudo-comments-in-css-or-how-browsers-parse-styles/
 
 
