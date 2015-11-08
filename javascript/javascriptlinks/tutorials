@@ -37,6 +37,7 @@ http://ponyfoo.com/articles/es6-symbols-in-depth
 https://ponyfoo.com/articles/progressive-networking-serviceworker
 http://ponyfoo.com/articles/es6-promises-in-depth
 http://ponyfoo.com/articles/es6-array-extensions-in-depth
+http://ponyfoo.com/articles/es6-strings-and-unicode-in-depth
 
 
 ####################################### Stormpath ###########################################################
@@ -60,6 +61,7 @@ https://medium.com/all-about-feathersjs/using-feathersjs-as-an-open-source-alter
 http://developer.telerik.com/featured/the-javascript-looping-evolution/
 http://developer.telerik.com/featured/hail-babel-the-transpiling-overlord/
 http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/
+http://developer.telerik.com/featured/jquerys-relevancy-there-and-back-again/
 
 
 ####################################### 2Ality ###########################################################
@@ -72,6 +74,7 @@ http://www.2ality.com/2015/09/function-names-es6.html
 http://www.2ality.com/2015/09/well-known-symbols-es6.html
 http://www.2ality.com/2015/09/holes-arrays-es6.html
 http://www.2ality.com/2015/10/enumerability-es6.html
+http://www.2ality.com/2015/11/sequential-execution.html
 
 
 ####################################### Miscellaneous ###########################################################
@@ -89,7 +92,8 @@ https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback?
 http://blog.rangle.io/angular-gulp-bestpractices/
 
 
-
+https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js
+https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays
 https://www.thinkful.com/learn/intro-to-jquery
 https://zyan.scripts.mit.edu/blog/backdooring-js/
 http://goose.ninja/2015/08/29/pixi-js-tutorial-getting-started/
@@ -101,7 +105,6 @@ http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
 http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
 http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/
 https://raygun.io/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/
-http://ponyfoo.com/articles/es6-strings-and-unicode-in-depth
 http://davidwalsh.name/creating-animated-product-slider-sequencejs
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html
 http://jonathancreamer.com/document-es6-with-esdoc/
@@ -120,3 +123,4 @@ https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript
 https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript
 http://blog.getify.com/arrow-this/
 http://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
+http://blog.getsentry.com/2015/10/29/debuggable-javascript-with-source-maps.html
