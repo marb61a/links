@@ -19,17 +19,33 @@ http://www.sitepoint.com/save-multiple-checkbox-values-database-rails/
 http://blog.honeybadger.io/ruby-regex-tricks/
 http://blog.honeybadger.io/associative-arrays-in-ruby-what/
 http://blog.honeybadger.io/when-to-use-freeze-and-frozen-in-ruby/
-
-
+http://blog.honeybadger.io/ruby-self-cheat-sheet/
+http://blog.honeybadger.io/how-ruby-interprets-and-runs-your-programs/
 
 ###################################### Toptal ####################################################
 http://www.toptal.com/ruby/tips-and-practices
-
+http://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds
 
 
 
 ###################################### Medium ####################################################
+https://medium.com/iron-io-blog/how-to-create-a-tiny-docker-image-for-your-ruby-app-f8d7d622d80b
+https://medium.com/@christophelimpalair/why-the-founder-of-rails-automatically-rejects-80-of-software-engineer-applicants-4e2a4d255f58
+https://medium.com/kamil-lelonek-personal-blog/why-a-function-signature-may-sometimes-lie-to-you-43b05931bf41
+https://medium.com/@WoloxEngineering/image-processing-in-rails-using-aws-lambda-43b5b268019f
 
+
+###################################### Justin Weiss ####################################################
+http://www.justinweiss.com/blog/2015/09/01/should-you-use-scopes-or-class-methods/
+http://www.justinweiss.com/blog/2015/09/08/keeping-your-logs-from-becoming-an-unreadable-mess/
+http://www.justinweiss.com/blog/2015/09/15/3-steps-to-fix-encoding-problems-in-ruby/
+http://www.justinweiss.com/articles/how-to-get-from-theyre-to-theyre//
+
+
+
+###################################### Cezar Halmagean ####################################################
+http://mixandgo.com/blog/how-to-write-a-cucumber-test-for-google-maps
+http://mixandgo.com/blog/understanding-and-extending-rails-form-helpers
 
 
 
@@ -37,9 +53,12 @@ http://www.toptal.com/ruby/tips-and-practices
 https://semaphoreci.com/community/tutorials/how-to-deploy-a-ruby-on-rails-application-to-elastic-beanstalk-with-semaphore
 https://semaphoreci.com/community/tutorials/introduction-to-writing-acceptance-tests-with-cucumber
 https://semaphoreci.com/community/tutorials/writing-one-liner-rspec-tests-in-rails-with-shoulda-matchers
+https://semaphoreci.com/community/tutorials/introduction-to-verifying-doubles-in-rspec
 
 
 
+###################################### Miscellaneous ####################################################
+http://codenoble.com/blog/simple-rails-maintenance-mode/
 https://blog.codeship.com/how-to-apply-rubocop-to-your-large-rails-codebase/
 http://sorentwo.com/2015/10/19/layering-api-defenses-with-caching.html
 http://vaidehijoshi.github.io/blog/2015/07/28/clipping-images-for-rails-using-paperclip/
@@ -51,6 +70,7 @@ http://rubylogs.com/exception-handling-and-testing/
 http://nandovieira.com/using-es6-with-asset-pipeline-on-ruby-on-rails?
 http://blog.kontena.io/heroku-style-application-deployments-with-docker/
 http://twin.github.io/introducing-shrine/
+https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/
 http://hashrocket.com/blog/posts/lets-write-some-bad-ruby
 http://devdungeon.com/content/writing-mumble-bot-ruby
 http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html
@@ -73,29 +93,22 @@ http://www.saturnflyer.com/blog/jim/2015/08/19/commanding-objects-toward-immutab
 http://nts.strzibny.name/safe-code-evaluation-in-ruby-with-safe/
 https://www.fedux.org/articles/2015/08/26/creating-an-irb-based-repl-console-for-your-project.html?
 http://blog.skylight.io/fixing-the-mysterious-slow-request/
-http://www.justinweiss.com/blog/2015/09/01/should-you-use-scopes-or-class-methods/
 http://www.grok-interactive.com/blog/value-objects-in-ruby-part-1/
 https://practicingruby.com/articles/formula-processing
 http://blog.arkency.com/2015/09/testing-race-conditions/
 http://theartandscienceofruby.com/2015/09/11/switching-from-rspec-to-minitest/
 http://blog.codeship.com/know-your-sidekiq-testing-rights/
-http://www.justinweiss.com/blog/2015/09/08/keeping-your-logs-from-becoming-an-unreadable-mess/
 http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/
-https://medium.com/iron-io-blog/how-to-create-a-tiny-docker-image-for-your-ruby-app-f8d7d622d80b
 http://weblog.jamisbuck.org/2015/9/12/little-things-heredocs.html
 http://eng.rightscale.com/2015/09/16/how-to-debug-ruby-memory-issues.html
 http://techblog.shutl.com/2015/09/ruby-virtual-machine-internals-and-investigating-variable-scope/
-http://www.justinweiss.com/blog/2015/09/15/3-steps-to-fix-encoding-problems-in-ruby/
 https://cloud.google.com/ruby/getting-started/hello-world
 https://www.credible.com/code/setting-up-a-data-warehouse-with-aws-redshift-and-ruby/
 http://www.blackbytes.info/2015/09/ngram-analysis-ruby/
 http://pchm.co/tutorial-how-to-build-a-cms-in-ruby-on-rails/?utm_source=rubyweekly&utm_medium=email
-https://medium.com/@WoloxEngineering/image-processing-in-rails-using-aws-lambda-43b5b268019f
 http://www.blrice.net/blog/2015/09/18/a-middleware-stack-without-rack/
-https://medium.com/kamil-lelonek-personal-blog/why-a-function-signature-may-sometimes-lie-to-you-43b05931bf41
 http://blog.kontena.io/building-minimal-docker-image-for-rails/
 http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/
-http://www.justinweiss.com/articles/how-to-get-from-theyre-to-theyre//
 http://weblog.jamisbuck.org/2015/9/19/default-scopes-anti-pattern.html
 https://www.zweitag.de/en/blog/technology/lets-build-a-chat-with-actioncable
 http://www.schneems.com/blogs/2015-09-30-reverse-rubygems/
@@ -103,7 +116,6 @@ http://blog.codeship.com/building-a-json-api-with-rails-5/
 http://nts.strzibny.name/using-openshift-s2i-docker-images-to-build-ruby-application-containers/
 http://jakeyesbeck.com/2015/09/27/how-to-create-a-custom-enumerable/
 http://firedev.com/posts/2015/bottomless-ruby-hash/
-http://mixandgo.com/blog/understanding-and-extending-rails-form-helpers
 https://tech.greenhouse.io/2015/10/07/effectively-debugging-capybara-feature-specs.html
 https://rorsecurity.info/portfolio/cross-site-request-forgery-and-rails
 http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html
@@ -121,3 +133,5 @@ https://www.amberbit.com/blog/2015/10/15/rails-mountable-engines/
 http://engineering.appfolio.com/2013/06/17/ruby-mixins-activesupportconcern/
 http://phrack.org/papers/attacking_ruby_on_rails.html
 http://jakeyesbeck.com/2015/10/25/how-to-traverse-foreign-ruby-code/
+http://blog.bigbinary.com/2015/10/31/rails-5-allows-setting-custom-http-headers-for-assets.html
+http://gavinmiller.io/2015/fixing-file-access-vulnerabilities-in-ruby-and-rails/
