@@ -3,13 +3,31 @@
 ## Tutorials
 https://www.digitalocean.com/community/tutorials/how-to-install-and-get-started-with-sinatra-on-your-system-or-vps
 http://www.sitepoint.com/just-do-it-learn-sinatra-i/
+https://mic-kul.com/2015/10/24/garage-made-self-hosted-newrelic-collector-using-ruby-sinatra-grafana-and-influxdb/
+http://www.creativebloq.com/web-design/get-started-sinatra-9134565
+http://alistapart.com/article/rapid-prototyping-with-sinatra
+https://blog.engineyard.com/2014/rails-vs-sinatra
+http://clojurehackers.com/p/jbranchaud/sinatra-github-user-auth
+http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/#.VkCFtVlElB0
+http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html
+https://samuelstern.wordpress.com/2012/11/28/making-a-simple-database-driven-website-with-sinatra-and-heroku/
+http://www.ibm.com/developerworks/cloud/library/cl-checkin-app/
+https://medium.com/@maxrogers/catfacts-ruby-sinatra-mongodb-9eedc2940462
+http://geeksta.net/geeklog/diving-into-ruby-sinatra-mongodb-openshift/
+http://addyosmani.com/blog/building-backbone-js-apps-with-ruby-sinatra-mongodb-and-haml/
 
 ## Courses
 
 ## Videos
+http://www.screencasts.org/episodes/introduction-to-sinatra
 
 ## Code
+https://github.com/sinatra/sinatra
+https://gist.github.com/ashrithr/6460552
+https://github.com/sinatra/sinatra-book/
+http://shiroyasha.github.io/sinatra-app-with-rspec.html
 
 ## Links
 http://guides.railsgirls.com/sinatra-app/
 http://www.sinatrarb.com/documentation.html
+http://dashing.io
