@@ -9,7 +9,8 @@ http://www.sitepoint.com/css-properties-to-control-web-typography/
 http://www.sitepoint.com/animation-advice-from-a-css-master/
 http://www.sitepoint.com/introducing-gss-grid-style-sheets/
 http://www.sitepoint.com/pseudo-comments-in-css-or-how-browsers-parse-styles/
-
+http://www.sitepoint.com/a-primer-on-using-flexbox-with-compass/
+http://www.sitepoint.com/watch-compiling-sass-using-grunt-contrib-watch/
 
 
 ############################################## Smashing ########################################################## 
@@ -29,41 +30,49 @@ http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/
 https://css-tricks.com/making-charts-with-css/
 https://css-tricks.com/building-a-circular-navigation-with-css-clip-paths/
 https://css-tricks.com/prefetching-preloading-prebrowsing/
+https://css-tricks.com/custom-interactive-range-inputs/
+https://css-tricks.com/how-to-do-knockout-text/
+https://css-tricks.com/the-making-of-the-css-tricks-logo-easter-egg-animation/
+https://css-tricks.com/throttling-the-network/
 
 
 ############################################## Mozilla Hacks ##########################################################
 https://hacks.mozilla.org/2015/08/making-and-breaking-the-web-with-css-gradients/
 https://hacks.mozilla.org/2015/09/scroll-snapping-explained/
 https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/TVs_connected_devices/Web_animations_on_large_screen
+
+
+############################################## Medium ##########################################################
+https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59
+https://medium.com/@vilcins/usefull-sass-mixins-7a68c5491bda
+
+
+############################################## Tutsplus ##########################################################
+http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535
+http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605
+http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567
 
 
 http://ashleynolan.co.uk/blog/managing-inline-images-in-css?
 https://www.webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/
 http://bitsofco.de/2015/how-floating-works/
-https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59
 http://thenewcode.com/1064/Classical-Greek-Geometric-Borders-In-SVG
 http://www.kirupa.com/html5/css_transitions_cheatsheet.htm
 http://seesparkbox.com/foundry/why_you_need_to_refactor_your_css
-https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/TVs_connected_devices/Web_animations_on_large_screen
 http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users/
 http://speckyboy.com/2015/09/09/css-animation/
 https://www.webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
 http://joshnh.com/weblog/getting-responsive-tables-to-behave/
 https://justmarkup.com/log/2015/07/31/dealing-with-long-words-in-css/
-https://css-tricks.com/custom-interactive-range-inputs/
 http://vincentp.me/blog/use-cases-for-calc/
 http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox/
-https://css-tricks.com/how-to-do-knockout-text/
-http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535
 http://franklinta.com/2014/11/30/image-diffing-using-css/
 http://tympanus.net/codrops/2015/09/30/shaded-progress-bars-css-sass-excercise/
-https://medium.com/@vilcins/usefull-sass-mixins-7a68c5491bda
 http://shaneprendergast.co.uk/html/sass-theming/
-http://www.sitepoint.com/watch-compiling-sass-using-grunt-contrib-watch/
 https://aerotwist.com/blog/cors-for-concern/
-http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567
 https://ponyfoo.com/articles/inlining-critical-css
 http://developer.telerik.com/featured/lazy-loading-images-on-the-web/
 http://blogs.windows.com/msedgedev/2015/10/07/using-extended-srcset-and-the-picture-element-to-tailor-your-image-to-every-device-and-layout/
-
+http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/
 
