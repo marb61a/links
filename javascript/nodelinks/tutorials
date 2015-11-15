@@ -89,6 +89,18 @@ https://davidwalsh.name/nvm
 https://davidwalsh.name/node-modules-intern
 
 
+
+######################################## Nic Raboy ##############################################
+https://blog.nraboy.com/2015/11/using-passportjs-in-your-node-js-couchbase-web-application/
+https://blog.nraboy.com/2015/10/create-a-simple-restful-api-with-node-js/
+https://blog.nraboy.com/2015/10/create-a-full-stack-app-using-node-js-couchbase-server/
+
+
+######################################## Distelli ##############################################
+https://www.distelli.com/docs/tutorials/automated-mocha-tests-for-node
+https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
+
+
 ######################################## Miscellaneous ##############################################
 http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/
 http://stackabuse.com/avoiding-callback-hell-in-node-js/
@@ -98,12 +110,12 @@ http://jowanza.com/post/125602755114/dealing-with-soap-apis-in-nodejs
 http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
 http://www.bymichaellancaster.com/blog/deploying-nodejs-on-heroku-cloud/
 http://howtonode.org/deploy-blog-to-heroku
+https://dzone.com/articles/multicore-programming-in-nodejs
 http://robdodson.me/deploying-your-first-node-dot-js-and-socket-dot-io-app-to-heroku/
 https://www.airpair.com/express/posts/expressjs-and-passportjs-sessions-deep-dive
 https://www.codementor.io/nodejs/tutorial/google-deep-dreaming-web-automation-chrome-dev-tools#/
 http://mziccard.me/2015/08/10/node-timsort-fast-sorting-nodejs/
 http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/
-https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
 http://blogs.msdn.com/b/vscode/archive/2015/08/11/getting-started-with-docker.aspx
 http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts?
 http://blog.redradix.com/an-architecture-for-complex-node-js-apps-with-dependency-injection/
@@ -133,7 +145,6 @@ https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-
 https://nodesource.com/blog/cpp-addons-for-nodejs-v4
 http://www.capitalone.io/blog/contrasting-enterprise-nodejs-frameworks/
 https://www.codementor.io/nodejs/tutorial/how-to-implement-twitter-sign-expressjs-oauth
-https://blog.nraboy.com/2015/10/create-a-simple-restful-api-with-node-js/
 http://ditrospecta.com/javascript/plugin/hubot/2015/10/03/hubot-plugin-choose-place-to-drink-coffee.html
 http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/
 http://blog.npmjs.org/post/130644130685/how-to-email-daily-gifs-use-nodemailer-w-gmail
@@ -141,10 +152,10 @@ http://engineering.widen.com/blog/future-of-the-web-react-falcor/
 http://www.2ality.com/2015/10/google-analytics-api.html
 http://blog.couchbase.com/2015/october/adding-google-sign-in-with-node.js-to-a-couchbase-mobile-application
 http://spanningcloudapps.github.io/2015/10/12/Long-running-Node-processes/
-https://blog.nraboy.com/2015/10/create-a-full-stack-app-using-node-js-couchbase-server/
 http://dwcares.com/realchess/
 https://lob.com/blog/automate-payment-reminder-system-with-lob-customerio-segment/
 http://radek.io/2015/10/27/nodegit/
 https://community.oracle.com/docs/DOC-931127
 http://meow.noopkat.com/using-node-serialport-in-an-electron-app/
 https://news.floobits.com/2015/10/26/why-is-nodejs-crashing-a-deep-dive-into-a-tricky-bug/
+http://stackabuse.com/how-to-write-express-js-middleware/
