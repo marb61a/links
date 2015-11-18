@@ -6,6 +6,7 @@ http://www.sitepoint.com/tabbed-browser-node-webkit-angularjs/
 http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/
 http://www.sitepoint.com/getting-started-with-angular-2-using-typescript/
 http://www.sitepoint.com/easy-form-validation-angularjs-ngmessages/
+http://www.sitepoint.com/creating-components-angular-2-typescript-es5/
 
 
 ################################################# Thinkful #####################################################
@@ -59,6 +60,24 @@ http://www.bennadel.com/blog/2930-using-cmd-enter-to-submit-a-form-in-angularjs.
 http://www.bennadel.com/blog/2935-enable-animations-explicitly-for-a-performance-boost-in-angularjs.htm
 http://www.bennadel.com/blog/2922-decoupling-component-directives-from-layout-in-angularjs.htm
 
+################################################# Todd Motto ##################################################### 
+http://toddmotto.com/exploring-the-angular-1-5-component-method/
+http://toddmotto.com/walkthrough-to-migrate-an-angular-1-component-to-angular-2
+http://toddmotto.com/super-fast-angular-ng-model-options-limit-digest-cycles
+http://toddmotto.com/moving-from-ng-model-parsers-to-ng-model-validates-ng-messages
+http://toddmotto.com/no-scope-soup-bind-to-controller-angularjs
+
+
+################################################# Codelord ##################################################### 
+http://www.codelord.net/2015/10/29/angular-authentication-remember-where-you-were-plus-demo-project/
+http://www.codelord.net/2015/10/22/angular-authentication-3-step-recipe/
+
+
+################################################# Auth0 ##################################################### 
+https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/#
+https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular2-authentication/
+
+
 
 http://anandmanisankar.com/posts/angularjs-best-parts/
 http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html
@@ -72,14 +91,11 @@ http://builtwithangular2.com/post/127785702682/hackernews-clone-built-with-angul
 http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/
 http://angularjs.blogspot.ie/2015/08/angular-1-and-angular-2-coexistence.html
 http://linkis.com/blog.stamplay.com/j4ZGS
-http://toddmotto.com/walkthrough-to-migrate-an-angular-1-component-to-angular-2/
 https://spring.io/guides/tutorials/spring-security-and-angular-js/
 http://onehungrymind.com/build-mailchimp-signup-form-angularjs/
 http://www.codeproject.com/Articles/1046214/MVC-AngularJS-Master-Detail-CRUD-Filter-And-Sortin
 http://stepansuvorov.com/blog/2015/04/angularjs-concept-diagram/
-http://www.codelord.net/2015/10/29/angular-authentication-remember-where-you-were-plus-demo-project/
 http://julienrenaux.fr/2015/08/17/modular-angularjs-and-ionic-architecture-a-first-step-towards-angularjs-2/
-https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/#
 http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/08/26/validating-user-input-on-a-form-in-angular-js.aspx
 http://social.technet.microsoft.com/wiki/contents/articles/32300.angularjs-unit-testing-using-karma-part-1.aspx
 http://www.syntaxsuccess.com/viewarticle/using-jquery-with-angular-2.0
@@ -94,9 +110,8 @@ http://www.syntaxsuccess.com/viewarticle/input-controls-in-angular-2.0
 http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/
 http://victorsavkin.com/post/99998937651/building-angular-apps-using-flux-architecture
 http://www.syntaxsuccess.com/viewarticle/dependency-injection-in-angular-2.0
-http://www.codelord.net/2015/10/22/angular-authentication-3-step-recipe/
 http://g00glen00b.be/e2e-testing-angularjs-applications-with-protractor/
 http://theleancoder.net/index.php/2015/10/18/angularjs-introduction/
-
+http://branchandbound.net/blog/web/2015/11/exploring-angular2/
 
 
