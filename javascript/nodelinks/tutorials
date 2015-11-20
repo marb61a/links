@@ -51,9 +51,11 @@ http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongod
 
 ######################################## Tutsplus ##############################################
 http://code.tutsplus.com/articles/real-time-chat-with-modulus-and-nodejs--cms-22512
-
-
-
+http://code.tutsplus.com/articles/social-authentication-for-nodejs-apps-with-passport--cms-21618
+http://code.tutsplus.com/tutorials/http-mock-testing-in-nodejs--cms-22836
+http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543
+https://code.tutsplus.com/tutorials/restful-api-design-with-nodejs-restify--cms-22637
+http://code.tutsplus.com/tutorials/multi-instance-nodejs-app-in-paas-using-redis-pubsub--cms-22239
 
 
 ######################################## Reindex ##############################################
@@ -110,7 +112,9 @@ http://jowanza.com/post/125602755114/dealing-with-soap-apis-in-nodejs
 http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
 http://www.bymichaellancaster.com/blog/deploying-nodejs-on-heroku-cloud/
 http://howtonode.org/deploy-blog-to-heroku
+https://developer.atlassian.com/blog/2015/11/scripting-with-node/
 https://dzone.com/articles/multicore-programming-in-nodejs
+https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/
 http://robdodson.me/deploying-your-first-node-dot-js-and-socket-dot-io-app-to-heroku/
 https://www.airpair.com/express/posts/expressjs-and-passportjs-sessions-deep-dive
 https://www.codementor.io/nodejs/tutorial/google-deep-dreaming-web-automation-chrome-dev-tools#/
@@ -159,3 +163,5 @@ https://community.oracle.com/docs/DOC-931127
 http://meow.noopkat.com/using-node-serialport-in-an-electron-app/
 https://news.floobits.com/2015/10/26/why-is-nodejs-crashing-a-deep-dive-into-a-tricky-bug/
 http://stackabuse.com/how-to-write-express-js-middleware/
+http://jamesknelson.com/writing-npm-packages-with-es6-using-the-babel-6-cli/
+http://coderesponsible.com/scraping-the-web-with-node-js/
