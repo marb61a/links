@@ -25,6 +25,9 @@ http://www.sitepoint.com/face-proximity-detection-with-javascript/
 http://www.sitepoint.com/importance-client-side-javascript-security/
 http://www.sitepoint.com/recursion-functional-javascript/
 http://www.sitepoint.com/javascript-goes-asynchronous-awesome/
+http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
+http://www.sitepoint.com/using-javascript-frameworks-inside-c-with-chakrabridge/
+
 
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
@@ -41,7 +44,7 @@ https://ponyfoo.com/articles/progressive-networking-serviceworker
 http://ponyfoo.com/articles/es6-promises-in-depth
 http://ponyfoo.com/articles/es6-array-extensions-in-depth
 http://ponyfoo.com/articles/es6-strings-and-unicode-in-depth
-
+https://ponyfoo.com/articles/progressive-app-serviceworker
 
 ####################################### Stormpath ###########################################################
 https://stormpath.com/blog/token-auth-spa/
@@ -57,6 +60,7 @@ https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/
 https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
 https://medium.com/all-about-feathersjs/using-feathersjs-as-an-open-source-alternative-to-firebase-b5d93c200cee
+https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.ne34oba7j
 
 
 
@@ -78,6 +82,12 @@ http://www.2ality.com/2015/09/well-known-symbols-es6.html
 http://www.2ality.com/2015/09/holes-arrays-es6.html
 http://www.2ality.com/2015/10/enumerability-es6.html
 http://www.2ality.com/2015/11/sequential-execution.html
+http://www.2ality.com/2015/11/tc39-process.html
+
+####################################### James K Nelson ###########################################################
+http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/
+http://jamesknelson.com/why-you-shouldnt-style-with-javascript/
+
 
 
 ####################################### Miscellaneous ###########################################################
@@ -93,22 +103,21 @@ http://derickbailey.com/2015/08/26/building-a-component-based-web-ui-with-modern
 http://www.pubnub.com/blog/webrtc-video-chat-app-in-20-lines-of-javascript/
 https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback?
 http://blog.rangle.io/angular-gulp-bestpractices/
-
-
 https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js
 https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays
 https://www.thinkful.com/learn/intro-to-jquery
 https://zyan.scripts.mit.edu/blog/backdooring-js/
+http://renderedtext.com/blog/2015/11/18/closures-are-not-magic/
 http://goose.ninja/2015/08/29/pixi-js-tutorial-getting-started/
 http://www.gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
 http://www.emanueleferonato.com/2015/08/27/learn-how-phaser-manages-draggable-objects-by-making-the-html5-engine-behind-rush-hour-game/
 https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/
 http://dmitryfrank.com/articles/js_closures
+https://www.nczonline.net/blog/2015/10/ecmascript-6-destructuring-gotcha/
 http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
 http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
 http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/
 https://raygun.io/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/
-http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/
 http://davidwalsh.name/creating-animated-product-slider-sequencejs
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html
 http://jonathancreamer.com/document-es6-with-esdoc/
@@ -128,3 +137,5 @@ https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_J
 http://blog.getify.com/arrow-this/
 http://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
 http://blog.getsentry.com/2015/10/29/debuggable-javascript-with-source-maps.html
+https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
+https://aerotwist.com/blog/the-cost-of-frameworks/
