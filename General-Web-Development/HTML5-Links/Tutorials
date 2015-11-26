@@ -8,6 +8,9 @@ http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
 http://www.sitepoint.com/look-at-ecmarkup-ecmascript-spec-custom-html/
 http://www.sitepoint.com/how-to-use-modernizr-responsibly/
 http://www.sitepoint.com/an-introduction-to-googles-accelerated-mobile-pages-amp/
+http://www.sitepoint.com/html5-native-drag-and-drop-api/
+http://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/?
+http://www.sitepoint.com/10-guidelines-better-website-background-videos/
 
 ################################################# Tutsplus #####################################################  
 http://code.tutsplus.com/tutorials/the-web-audio-api-make-your-own-web-synthesizer--cms-23887
@@ -20,13 +23,13 @@ http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598
 
 ################################################# Medium ##################################################### 
 https://medium.com/@punksomething/how-i-learned-to-write-a-chrome-extension-in-5-hours-by-using-the-bruce-lee-technique-c72911ac7d86
-
+https://medium.com/@addyosmani/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73#.73h59jj27
 
 
 ################################################# Smashing ##################################################### 
 http://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/
 http://www.smashingmagazine.com/2015/10/responsive-material-design-app-with-polymer-starter-kit/
-
+http://www.smashingmagazine.com/2015/11/gamepad-api-in-web-games/
 
 ################################################# Google ##################################################### 
 https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints
@@ -34,14 +37,17 @@ https://developers.google.com/web/updates/2015/09/history-api-scroll-restoration
 
 
 http://www.hongkiat.com/blog/modernizr/
+http://www.wufoo.com/html5/attributes/13-formaction.html
 http://www.tutorialspoint.com/html5/html5_modernizr.htm
 https://heipei.github.io/2015/08/20/Persistent-AppCache-Injections/
+http://www.raymondcamden.com/2015/11/23/til-autocomplete-and-forms
 http://yal.cc/gamemaker-html5-loading-bar-image/
 https://www.talater.com/upup/getting-started-with-offline-first.html
 https://palant.de/2015/08/30/why-you-probably-want-to-disable-jqueryparsehtml-even-though-you-don-t-call-it
 https://developers.google.com/web/updates/2015/09/tab-discarding-in-chrome-46
 https://gdstechnology.blog.gov.uk/2015/08/27/making-radio-buttons-and-checkboxes-easier-to-use/
 https://hacks.mozilla.org/2015/09/flash-free-clipboard-for-the-web/
+http://www.creativebloq.com/web-design/master-screen-orientation-html5-101517371
 http://thenewcode.com/4/In-Other-Words-Using-the-blockquote-cite-and-q-elements
 http://christianheilmann.com/2015/09/08/quick-trick-using-template-to-delay-loading-of-images/
 http://www.emanueleferonato.com/2015/08/11/html5-down-the-mountain-game-prototype-made-with-phaser-actually-going-down-the-mountain/
@@ -60,3 +66,4 @@ http://www.zell-weekeat.com/nunjucks-with-gulp
 http://developer.telerik.com/featured/16-ways-to-search-find-and-edit-with-chrome-devtools/
 http://belenalbeza.com/tilemaps-in-html-5-games/
 http://thenewcode.com/109/Marking-Up-Measurements-Correctly-in-HTML5
+http://scholarly.vernacular.io/
