@@ -25,6 +25,7 @@ http://www.smashingmagazine.com/2015/09/mobile-navigation-for-smashing-magazine/
 http://www.smashingmagazine.com/2015/07/quantity-ordering-with-css/
 http://www.smashingmagazine.com/2015/06/the-making-of-in-pieces/
 http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/
+http://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/
 
 ############################################## CSS Tricks ##########################################################
 https://css-tricks.com/making-charts-with-css/
@@ -34,7 +35,10 @@ https://css-tricks.com/custom-interactive-range-inputs/
 https://css-tricks.com/how-to-do-knockout-text/
 https://css-tricks.com/the-making-of-the-css-tricks-logo-easter-egg-animation/
 https://css-tricks.com/throttling-the-network/
-
+https://css-tricks.com/scaled-proportional-blocks-with-css-and-javascript/
+https://css-tricks.com/visual-regression-testing-with-phantomcss/
+https://css-tricks.com/recreating-the-google-logo-animation-with-svg-and-greensock/
+https://css-tricks.com/creating-an-animated-menu-indicator-with-css-selectors/
 
 ############################################## Mozilla Hacks ##########################################################
 https://hacks.mozilla.org/2015/08/making-and-breaking-the-web-with-css-gradients/
@@ -54,14 +58,19 @@ http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin
 http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567
 
 
-http://ashleynolan.co.uk/blog/managing-inline-images-in-css?
+http://ashleynolan.co.uk/blog/managing-inline-images-in-css
+https://developers.google.com/web/updates/2015/10/splashscreen?hl=en
+http://vanseodesign.com/web-design/how-to-work-with-svg-text/
 https://www.webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/
 http://bitsofco.de/2015/how-floating-works/
+https://ghinda.net/article/css-ripple-material-design/
+http://tobiasahlin.com/blog/how-to-animate-box-shadow/
 http://thenewcode.com/1064/Classical-Greek-Geometric-Borders-In-SVG
 http://www.kirupa.com/html5/css_transitions_cheatsheet.htm
 http://seesparkbox.com/foundry/why_you_need_to_refactor_your_css
 http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users/
 http://speckyboy.com/2015/09/09/css-animation/
+http://sarasoueidan.com/blog/svg-vs-gif/
 https://www.webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
 http://joshnh.com/weblog/getting-responsive-tables-to-behave/
 https://justmarkup.com/log/2015/07/31/dealing-with-long-words-in-css/
