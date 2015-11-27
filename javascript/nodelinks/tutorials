@@ -12,7 +12,7 @@ http://www.sitepoint.com/how-to-use-ssltls-with-node-js/
 http://www.sitepoint.com/build-and-publish-your-own-grunt-plugin/
 http://www.sitepoint.com/real-time-photo-update-app-instagram-api/
 http://www.sitepoint.com/tabbed-browser-node-webkit-angularjs/
-
+http://www.sitepoint.com/understanding-module-exports-exports-node-js/
 
 
 ######################################## Scotch.io ##############################################
@@ -37,7 +37,8 @@ https://blog.risingstack.com/dependency-injection-in-node-js/
 https://blog.risingstack.com/nodejs-production-environment-for-startups/
 https://blog.risingstack.com/terminal-guide-for-nodejs/
 https://blog.risingstack.com/node-js-security-checklist/
-
+https://blog.risingstack.com/graffiti-mongoose-mongodb-for-graphql/
+https://blog.risingstack.com/web-authentication-methods-explained/
 
 ######################################## Confluent ##############################################
 http://www.confluent.io/blog/getting-started-with-kafka-in-node.js-with-the-confluent-rest-proxy
@@ -73,7 +74,7 @@ https://www.joyent.com/developers/node/design/errors
 
 ######################################## Telerik ##############################################
 http://developer.telerik.com/featured/merging-dynamic-and-static-sites/
-
+http://developer.telerik.com/featured/spying-on-james-bond-with-node-js/
 
 
 ######################################## Stormpath ##############################################
@@ -112,6 +113,7 @@ http://jowanza.com/post/125602755114/dealing-with-soap-apis-in-nodejs
 http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
 http://www.bymichaellancaster.com/blog/deploying-nodejs-on-heroku-cloud/
 http://howtonode.org/deploy-blog-to-heroku
+http://eladnava.com/write-synchronous-node-js-code-with-es6-generators/?
 https://developer.atlassian.com/blog/2015/11/scripting-with-node/
 https://dzone.com/articles/multicore-programming-in-nodejs
 https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/
@@ -165,3 +167,5 @@ https://news.floobits.com/2015/10/26/why-is-nodejs-crashing-a-deep-dive-into-a-t
 http://stackabuse.com/how-to-write-express-js-middleware/
 http://jamesknelson.com/writing-npm-packages-with-es6-using-the-babel-6-cli/
 http://coderesponsible.com/scraping-the-web-with-node-js/
+http://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-node-js/
+https://developer.atlassian.com/blog/2015/10/profiling-node-apps/
