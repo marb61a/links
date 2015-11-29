@@ -27,7 +27,7 @@ http://www.sitepoint.com/recursion-functional-javascript/
 http://www.sitepoint.com/javascript-goes-asynchronous-awesome/
 http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
 http://www.sitepoint.com/using-javascript-frameworks-inside-c-with-chakrabridge/
-
+http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
 
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
@@ -69,6 +69,7 @@ http://developer.telerik.com/featured/the-javascript-looping-evolution/
 http://developer.telerik.com/featured/hail-babel-the-transpiling-overlord/
 http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/
 http://developer.telerik.com/featured/jquerys-relevancy-there-and-back-again/
+http://developer.telerik.com/featured/pro-javascript-concepts-for-enterprise-developers/
 
 
 ####################################### 2Ality ###########################################################
@@ -83,6 +84,8 @@ http://www.2ality.com/2015/09/holes-arrays-es6.html
 http://www.2ality.com/2015/10/enumerability-es6.html
 http://www.2ality.com/2015/11/sequential-execution.html
 http://www.2ality.com/2015/11/tc39-process.html
+http://www.2ality.com/2015/11/string-padding.html
+http://www.2ality.com/2015/11/trailing-comma-parameters.html
 
 ####################################### James K Nelson ###########################################################
 http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/
@@ -95,9 +98,10 @@ http://www.tutorialspoint.com/javascript/
 http://www.w3schools.com/js/
 http://blog.onthewings.net/2015/08/05/typescript-vs-haxe/
 https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
-http://addyosmani.com/largescalejavascript/
-https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
 https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
+http://addyosmani.com/largescalejavascript/
+https://booker.codes/data-driven-tests-in-javascript-using-mocha/
+https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
 http://vegibit.com/vue-js-tutorial/
 http://derickbailey.com/2015/08/26/building-a-component-based-web-ui-with-modern-javascript-frameworks/
 http://www.pubnub.com/blog/webrtc-video-chat-app-in-20-lines-of-javascript/
@@ -111,19 +115,20 @@ http://renderedtext.com/blog/2015/11/18/closures-are-not-magic/
 http://goose.ninja/2015/08/29/pixi-js-tutorial-getting-started/
 http://www.gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
 http://www.emanueleferonato.com/2015/08/27/learn-how-phaser-manages-draggable-objects-by-making-the-html5-engine-behind-rush-hour-game/
+http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
+http://heidloff.net/article/usage-of-swagger-in-nodejs-applications-to-document-apis
 https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/
 http://dmitryfrank.com/articles/js_closures
 https://www.nczonline.net/blog/2015/10/ecmascript-6-destructuring-gotcha/
 http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
-http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
 http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/
 https://raygun.io/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/
 http://davidwalsh.name/creating-animated-product-slider-sequencejs
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html
 http://jonathancreamer.com/document-es6-with-esdoc/
 http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
+http://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
 http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
-http://developer.telerik.com/featured/pro-javascript-concepts-for-enterprise-developers/
 http://www.bennadel.com/blog/2930-using-cmd-enter-to-submit-a-form-in-angularjs.htm
 http://www.masswerk.at/JavaPac/pacman-howto.html
 http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript
@@ -135,7 +140,8 @@ http://www.ociweb.com/resources/publications/sett/javascript-iterators-and-gener
 https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript
 https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript
 http://blog.getify.com/arrow-this/
-http://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
+http://blog.getify.com/concurrently-javascript-1/
 http://blog.getsentry.com/2015/10/29/debuggable-javascript-with-source-maps.html
 https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
 https://aerotwist.com/blog/the-cost-of-frameworks/
+http://engineroom.teamwork.com/10-things-to-know-about-gulp/
