@@ -22,6 +22,7 @@ https://medium.com/@YOzaz/generation-angularjs-production-files-with-gulp-12214f
 https://medium.com/@murdockcrc/angularjs-date-filter-with-momentjs-369b742e7440#.25mh8bepj
 https://medium.com/@andreaterzani/hotel-booking-engine-with-laravel-5-and-angularjs-part-1-81af69432b1a#.6mj7up83g
 https://medium.com/@PinakinMistry/angular-component-cutter-using-es2015-gulp-webpack-127957aa0d70
+https://medium.com/@marcosloic/managing-state-in-angular-2-using-rxjs-b849d6bbd5a5#.o6jeyotet
 
 
 ################################################# Scotch.io ##################################################### 
@@ -71,6 +72,7 @@ http://toddmotto.com/no-scope-soup-bind-to-controller-angularjs
 ################################################# Codelord ##################################################### 
 http://www.codelord.net/2015/10/29/angular-authentication-remember-where-you-were-plus-demo-project/
 http://www.codelord.net/2015/10/22/angular-authentication-3-step-recipe/
+http://www.codelord.net/2015/11/18/the-deal-with-angular-and-minification/?
 
 
 ################################################# Auth0 ##################################################### 
@@ -78,7 +80,9 @@ https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/#
 https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular2-authentication/
 
 
-
+http://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html
+http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0
+http://www.jvandemo.com/how-to-build-minesweeper-using-angular-2-and-immutable-js/
 https://eng.saucelabs.com/blog/building-a-ui-style-guide-with-angularjs-directives
 http://www.dunebook.com/introduction-to-resource-with-http-service-in-angularjs/
 http://blog.pluralsight.com/tutorial-angularjs
