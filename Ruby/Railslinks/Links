@@ -84,6 +84,10 @@ https://github.com/varvet/godmin
 https://github.com/kwatch/rack-test_app
 https://github.com/NullVoxPopuli/skinny_controllers
 https://github.com/seamusabshere/lock_and_cache
+https://github.com/matsumoto-r/rcon
+https://github.com/solidusio/solidus
+https://github.com/karthikv/model_schema
+https://github.com/zhulik/pinball
 
 ## Links
 http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html
@@ -104,3 +108,4 @@ http://www.refinerycms.com
 https://robots.thoughtbot.com/announcing-administrate
 https://engineering.heroku.com/blogs/2015-11-04-upgrading-to-active-record-4/
 https://brakemanpro.com/blog/announcement/2015/11/18/brakeman-pro-is-available/
+http://solidus.io
