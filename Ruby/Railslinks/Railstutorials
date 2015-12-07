@@ -77,7 +77,8 @@ http://blog.codeship.com/debugging-a-memory-leak-on-heroku/
 http://blog.codeship.com/building-a-json-api-with-rails-5/
 http://blog.codeship.com/preproduction-checklist-for-a-rails-app/
 http://blog.codeship.com/architecting-rails-apps-as-microservices/
-
+http://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-i/
+http://blog.codeship.com/cross-model-search-with-ember-rails-and-elasticsearch/
 
 ###################################### Miscellaneous ####################################################
 http://dreamingechoes.github.io/geosearch/mongodb/rails/geosearch-with-mongodb-and-geocoder/
@@ -155,3 +156,11 @@ http://phrack.org/papers/attacking_ruby_on_rails.html
 http://blog.bigbinary.com/2015/10/31/rails-5-allows-setting-custom-http-headers-for-assets.html
 https://gist.github.com/wvengen/f1097651c238b2f7f11d
 http://vaidehijoshi.github.io/blog/2015/11/17/peeking-under-the-hood-of-actioncontroller-parameters-part-1/
+http://brandonhilkert.com/blog/sidekiq-as-a-microservice-message-queue/
+http://www.be9.io/2015/12/01/heroku-deployment/
+http://elcuervo.github.io/minuteman/
+http://dreamingechoes.github.io/game/gosu/ruby/become-a-videogame-developer-master-with-gosu-and-ruby/
+https://www.rubyplus.com/articles/2791
+https://rossta.net/blog/pascals-triangle-with-rubys-enumerator.html
+http://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/
+https://wyeworks.com/blog/2015/12/1/immutable-strings-in-ruby-2-dot-3
