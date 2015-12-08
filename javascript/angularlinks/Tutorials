@@ -60,6 +60,7 @@ http://www.bennadel.com/blog/2920-using-a-compound-track-by-expression-with-ngre
 http://www.bennadel.com/blog/2930-using-cmd-enter-to-submit-a-form-in-angularjs.htm
 http://www.bennadel.com/blog/2935-enable-animations-explicitly-for-a-performance-boost-in-angularjs.htm
 http://www.bennadel.com/blog/2922-decoupling-component-directives-from-layout-in-angularjs.htm
+http://www.bennadel.com/blog/2966-rendering-image-previews-using-object-urls-vs-base64-data-uris-in-angularjs.htm
 
 ################################################# Todd Motto ##################################################### 
 http://toddmotto.com/exploring-the-angular-1-5-component-method/
@@ -67,12 +68,14 @@ http://toddmotto.com/walkthrough-to-migrate-an-angular-1-component-to-angular-2
 http://toddmotto.com/super-fast-angular-ng-model-options-limit-digest-cycles
 http://toddmotto.com/moving-from-ng-model-parsers-to-ng-model-validates-ng-messages
 http://toddmotto.com/no-scope-soup-bind-to-controller-angularjs
+http://toddmotto.com/angular-component-method-back-ported-to-1.3/
 
 
 ################################################# Codelord ##################################################### 
 http://www.codelord.net/2015/10/29/angular-authentication-remember-where-you-were-plus-demo-project/
 http://www.codelord.net/2015/10/22/angular-authentication-3-step-recipe/
 http://www.codelord.net/2015/11/18/the-deal-with-angular-and-minification/?
+http://www.codelord.net/2015/12/03/lazy-loading-your-first-component-in-angular/
 
 
 ################################################# Auth0 ##################################################### 
@@ -80,6 +83,9 @@ https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/#
 https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular2-authentication/
 
 
+https://blog.pusher.com/real-time-apps-angular-2/
+http://www.dunebook.com/from-zero-to-hero-all-about-filters-in-angularjs/
+http://www.infoworld.com/article/3010853/application-development/up-close-with-googles-angular-2-javascript-framework.html
 http://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html
 http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0
 http://www.jvandemo.com/how-to-build-minesweeper-using-angular-2-and-immutable-js/
