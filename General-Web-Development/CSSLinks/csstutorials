@@ -11,6 +11,7 @@ http://www.sitepoint.com/introducing-gss-grid-style-sheets/
 http://www.sitepoint.com/pseudo-comments-in-css-or-how-browsers-parse-styles/
 http://www.sitepoint.com/a-primer-on-using-flexbox-with-compass/
 http://www.sitepoint.com/watch-compiling-sass-using-grunt-contrib-watch/
+http://www.sitepoint.com/introduction-to-hardware-acceleration-css-animations/
 
 
 ############################################## Smashing ########################################################## 
@@ -50,6 +51,7 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/TVs_connected_device
 ############################################## Medium ##########################################################
 https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59
 https://medium.com/@vilcins/usefull-sass-mixins-7a68c5491bda
+https://medium.com/@mjtweaver/css-product-magnification-without-javascript-497ab5932419#.ro7qz9lfz
 
 
 ############################################## Tutsplus ##########################################################
@@ -58,6 +60,7 @@ http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin
 http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567
 
 
+http://flexboxfroggy.com/
 http://ashleynolan.co.uk/blog/managing-inline-images-in-css
 https://developers.google.com/web/updates/2015/10/splashscreen?hl=en
 http://vanseodesign.com/web-design/how-to-work-with-svg-text/
@@ -84,4 +87,4 @@ https://ponyfoo.com/articles/inlining-critical-css
 http://developer.telerik.com/featured/lazy-loading-images-on-the-web/
 http://blogs.windows.com/msedgedev/2015/10/07/using-extended-srcset-and-the-picture-element-to-tailor-your-image-to-every-device-and-layout/
 http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/
-
+https://24ways.org/2015/animating-your-brand/
