@@ -12,6 +12,8 @@ http://www.sitepoint.com/pseudo-comments-in-css-or-how-browsers-parse-styles/
 http://www.sitepoint.com/a-primer-on-using-flexbox-with-compass/
 http://www.sitepoint.com/watch-compiling-sass-using-grunt-contrib-watch/
 http://www.sitepoint.com/introduction-to-hardware-acceleration-css-animations/
+http://www.sitepoint.com/intuitive-scrolling-interfaces-with-css-scroll-snap-points/
+http://www.sitepoint.com/introducing-sgrid-a-stylus-based-flexbox-grid-system/
 
 
 ############################################## Smashing ########################################################## 
@@ -27,6 +29,9 @@ http://www.smashingmagazine.com/2015/07/quantity-ordering-with-css/
 http://www.smashingmagazine.com/2015/06/the-making-of-in-pieces/
 http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/
 http://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/
+http://www.smashingmagazine.com/2015/12/getting-started-css-calc-techniques/
+http://www.smashingmagazine.com/2015/12/introduction-to-postcss/
+
 
 ############################################## CSS Tricks ##########################################################
 https://css-tricks.com/making-charts-with-css/
@@ -40,6 +45,8 @@ https://css-tricks.com/scaled-proportional-blocks-with-css-and-javascript/
 https://css-tricks.com/visual-regression-testing-with-phantomcss/
 https://css-tricks.com/recreating-the-google-logo-animation-with-svg-and-greensock/
 https://css-tricks.com/creating-an-animated-menu-indicator-with-css-selectors/
+https://css-tricks.com/the-blur-up-technique-for-loading-background-images/
+
 
 ############################################## Mozilla Hacks ##########################################################
 https://hacks.mozilla.org/2015/08/making-and-breaking-the-web-with-css-gradients/
@@ -60,6 +67,20 @@ http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin
 http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567
 
 
+
+############################################## Telerik ########################################################## 
+http://developer.telerik.com/featured/lazy-loading-images-on-the-web/
+http://developer.telerik.com/featured/css-preprocessing-with-visual-studio/
+
+
+
+############################################## The New Code ########################################################## 
+http://thenewcode.com/272/Interactive-Geographical-Map-with-SVG-and-JavaScript
+http://thenewcode.com/1064/Classical-Greek-Geometric-Borders-In-SVG
+http://thenewcode.com/279/Rotate-Elements-on-Scroll-with-JavaScript
+
+
+
 http://flexboxfroggy.com/
 http://ashleynolan.co.uk/blog/managing-inline-images-in-css
 https://developers.google.com/web/updates/2015/10/splashscreen?hl=en
@@ -68,7 +89,6 @@ https://www.webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches
 http://bitsofco.de/2015/how-floating-works/
 https://ghinda.net/article/css-ripple-material-design/
 http://tobiasahlin.com/blog/how-to-animate-box-shadow/
-http://thenewcode.com/1064/Classical-Greek-Geometric-Borders-In-SVG
 http://www.kirupa.com/html5/css_transitions_cheatsheet.htm
 http://seesparkbox.com/foundry/why_you_need_to_refactor_your_css
 http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users/
@@ -84,7 +104,6 @@ http://tympanus.net/codrops/2015/09/30/shaded-progress-bars-css-sass-excercise/
 http://shaneprendergast.co.uk/html/sass-theming/
 https://aerotwist.com/blog/cors-for-concern/
 https://ponyfoo.com/articles/inlining-critical-css
-http://developer.telerik.com/featured/lazy-loading-images-on-the-web/
 http://blogs.windows.com/msedgedev/2015/10/07/using-extended-srcset-and-the-picture-element-to-tailor-your-image-to-every-device-and-layout/
 http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/
 https://24ways.org/2015/animating-your-brand/
