@@ -8,6 +8,7 @@ http://www.sitepoint.com/component-based-web-apps-react/
 http://www.sitepoint.com/creating-note-taking-app-react-flux/
 http://www.sitepoint.com/immutability-react/
 http://www.sitepoint.com/demystifying-react-components-state/
+http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
 
 ###################################### Scotch.io ################################################################## 
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
@@ -32,6 +33,7 @@ https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint
 https://medium.com/the-exponent-log/routing-and-navigation-in-react-native-6b27bee39603
 
 
+###################################### Miscellaneous ##################################################################
 http://buildwithreact.com
 http://reactjs.net/getting-started/tutorial.html
 http://browniefed.com/blog/2015/11/07/react-native-how-to-create-twitter-exploding-hearts/
@@ -66,3 +68,6 @@ https://jamesfriend.com.au/better-assertions-shallow-rendered-react-components
 http://www.mattzabriskie.com/blog/adventures-with-react-native
 http://krasimirtsonev.com/blog/article/distributing-react-components-babel-browserify-webpack-uglifyjs
 https://www.twilio.com/blog/2015/11/reactjs-tutorial-call-monitoring-with-react-express-and-socket-io.html
+https://bugsnag.com/blog/moving-bugsnags-frontend-to-react
+http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html
+http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/
