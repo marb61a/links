@@ -81,6 +81,7 @@ http://developer.telerik.com/featured/spying-on-james-bond-with-node-js/
 ######################################## Stormpath ##############################################
 https://stormpath.com/blog/heroku-stormpath-and-expressjs/
 https://stormpath.com/blog/angular-node-15-minutes/
+https://stormpath.com/blog/building-secure-apis-with-express/
 
 
 
@@ -91,6 +92,7 @@ http://davidwalsh.name/promises-callbacks-promisifynode
 https://davidwalsh.name/catching-fatal-errors-nodejs-childprocess
 https://davidwalsh.name/nvm
 https://davidwalsh.name/node-modules-intern
+https://davidwalsh.name/convert-image-ascii-art
 
 
 
@@ -105,6 +107,11 @@ https://www.distelli.com/docs/tutorials/automated-mocha-tests-for-node
 https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
 
 
+######################################## NPMJS ##############################################
+http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts
+http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku
+http://blog.npmjs.org/post/130644130685/how-to-email-daily-gifs-use-nodemailer-w-gmail
+
 ######################################## Miscellaneous ##############################################
 http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/
 http://stackabuse.com/avoiding-callback-hell-in-node-js/
@@ -115,7 +122,8 @@ http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
 http://www.bymichaellancaster.com/blog/deploying-nodejs-on-heroku-cloud/
 http://howtonode.org/deploy-blog-to-heroku
 https://hacks.mozilla.org/2015/12/web-push-notifications-from-irssi/
-http://eladnava.com/write-synchronous-node-js-code-with-es6-generators/?
+http://eladnava.com/write-synchronous-node-js-code-with-es6-generators/
+http://www.craigkerstiens.com/2015/12/08/massive-json/
 https://developer.atlassian.com/blog/2015/11/scripting-with-node/
 https://dzone.com/articles/multicore-programming-in-nodejs
 https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/
@@ -125,7 +133,6 @@ https://www.codementor.io/nodejs/tutorial/google-deep-dreaming-web-automation-ch
 http://mziccard.me/2015/08/10/node-timsort-fast-sorting-nodejs/
 http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/
 http://blogs.msdn.com/b/vscode/archive/2015/08/11/getting-started-with-docker.aspx
-http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts?
 http://blog.redradix.com/an-architecture-for-complex-node-js-apps-with-dependency-injection/
 https://www.twilio.com/blog/2015/08/playing-tunes-over-the-phone-with-the-twilio-nodejs-library-in-es6.html
 http://ifelse.io/2015/08/17/dockerizing-a-nodejs-app/
@@ -135,7 +142,6 @@ https://codeforgeek.com/2015/09/command-line-application-nodejs/
 http://shellmonger.com/2015/08/29/continuous-deployment-nodejs-and-microsoft-azure/
 https://lob.com/blog/building-an-instagram-postcard-app-in-express-js/?
 https://stefanscherer.github.io/create-an-io-js-container-image-for-windows/
-http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku
 http://blog.benmcmahen.com/post/41122888102/creating-slugs-for-your-blog-using-expressjs-and
 http://xeektech.com/post/129055775448/debugging-nodejs-using-node-inspector-and-chrome
 http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/02/13/how-to-use-nodejs-express-and-bower-to-create-angularjs-apps.aspx
@@ -145,6 +151,7 @@ http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/
 http://jxcore.com/using-jxcores-packaging-feature-to-deploy-ghost/
 http://www.toptal.com/nodejs/debugging-memory-leaks-node-js-applications
 http://rethinkdb.com/blog/node-4/
+http://ditrospecta.com/node/javascript/arduino/2015/11/29/introduction-arduino-node-plant.html
 http://zpalexander.com/blog/javascript-promises-node-js/
 http://digitaljunky.io/make-your-own-data-platform-for-the-internet-of-things-using-node-js-and-express-js/
 http://spin.atomicobject.com/2015/09/25/debug-node-js/
@@ -156,7 +163,6 @@ http://www.capitalone.io/blog/contrasting-enterprise-nodejs-frameworks/
 https://www.codementor.io/nodejs/tutorial/how-to-implement-twitter-sign-expressjs-oauth
 http://ditrospecta.com/javascript/plugin/hubot/2015/10/03/hubot-plugin-choose-place-to-drink-coffee.html
 http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/
-http://blog.npmjs.org/post/130644130685/how-to-email-daily-gifs-use-nodemailer-w-gmail
 http://engineering.widen.com/blog/future-of-the-web-react-falcor/
 http://www.2ality.com/2015/10/google-analytics-api.html
 http://blog.couchbase.com/2015/october/adding-google-sign-in-with-node.js-to-a-couchbase-mobile-application
@@ -174,3 +180,4 @@ http://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-nod
 https://developer.atlassian.com/blog/2015/10/profiling-node-apps/
 https://www.pubnub.com/blog/2014-12-16-realtime-mongodb-to-fetch-and-stream-report-data/
 http://www.nicoespeon.com/en/2015/11/plop-micro-generator-boilerplate-yeoman-alternative/
+https://semaphoreci.com/community/tutorials/how-to-deploy-a-node-js-application-to-elastic-beanstalk-with-semaphore
