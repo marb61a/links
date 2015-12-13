@@ -28,6 +28,7 @@ http://www.sitepoint.com/javascript-goes-asynchronous-awesome/
 http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
 http://www.sitepoint.com/using-javascript-frameworks-inside-c-with-chakrabridge/
 http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
+http://www.sitepoint.com/whats-new-in-vue-js-1-0/
 
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
@@ -61,7 +62,7 @@ https://medium.com/developers-writing/building-a-desktop-application-with-electr
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
 https://medium.com/all-about-feathersjs/using-feathersjs-as-an-open-source-alternative-to-firebase-b5d93c200cee
 https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.ne34oba7j
-
+https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.cbe1m8fo3
 
 
 ####################################### Telerik ###########################################################
@@ -86,11 +87,18 @@ http://www.2ality.com/2015/11/sequential-execution.html
 http://www.2ality.com/2015/11/tc39-process.html
 http://www.2ality.com/2015/11/string-padding.html
 http://www.2ality.com/2015/11/trailing-comma-parameters.html
+http://www.2ality.com/2015/11/configuring-babel6.html
+
 
 ####################################### James K Nelson ###########################################################
 http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/
 http://jamesknelson.com/why-you-shouldnt-style-with-javascript/
 
+
+####################################### Emanuele Ferronato ###########################################################
+http://www.emanueleferonato.com/2015/08/27/learn-how-phaser-manages-draggable-objects-by-making-the-html5-engine-behind-rush-hour-game/
+http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
+http://www.emanueleferonato.com/2015/12/10/calculating-dynamic-light-and-shadows-in-tile-based-roguelike-games-part-1-bresenhams-line-algorithm/
 
 
 ####################################### Miscellaneous ###########################################################
@@ -114,10 +122,9 @@ https://zyan.scripts.mit.edu/blog/backdooring-js/
 http://renderedtext.com/blog/2015/11/18/closures-are-not-magic/
 http://goose.ninja/2015/08/29/pixi-js-tutorial-getting-started/
 http://www.gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
-http://www.emanueleferonato.com/2015/08/27/learn-how-phaser-manages-draggable-objects-by-making-the-html5-engine-behind-rush-hour-game/
-http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
 http://heidloff.net/article/usage-of-swagger-in-nodejs-applications-to-document-apis
 https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/
+https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
 http://dmitryfrank.com/articles/js_closures
 https://www.nczonline.net/blog/2015/10/ecmascript-6-destructuring-gotcha/
 http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
@@ -142,6 +149,6 @@ https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_J
 http://blog.getify.com/arrow-this/
 http://blog.getify.com/concurrently-javascript-1/
 http://blog.getsentry.com/2015/10/29/debuggable-javascript-with-source-maps.html
-https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
 https://aerotwist.com/blog/the-cost-of-frameworks/
 http://engineroom.teamwork.com/10-things-to-know-about-gulp/
+http://www.raymondcamden.com/2015/12/08/parsing-rss-feeds-in-javascript-options
