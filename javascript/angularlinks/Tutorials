@@ -47,6 +47,7 @@ http://www.kogonuso.com/2015/09/10-best-angularjs-frameworks.html
 http://www.kogonuso.com/2015/09/creating-angularjs-application-without.html
 http://www.kogonuso.com/2015/09/angular-with-rails-part-ii-building-hr.html
 
+
 ################################################# Dzone ##################################################### 
 https://dzone.com/articles/dependency-injection-in-angular-1-vs-angular-2
 https://dzone.com/articles/migrating-a-spring-web-mvc-application-from-jsp-to
@@ -62,6 +63,7 @@ http://www.bennadel.com/blog/2935-enable-animations-explicitly-for-a-performance
 http://www.bennadel.com/blog/2922-decoupling-component-directives-from-layout-in-angularjs.htm
 http://www.bennadel.com/blog/2966-rendering-image-previews-using-object-urls-vs-base64-data-uris-in-angularjs.htm
 
+
 ################################################# Todd Motto ##################################################### 
 http://toddmotto.com/exploring-the-angular-1-5-component-method/
 http://toddmotto.com/walkthrough-to-migrate-an-angular-1-component-to-angular-2
@@ -69,6 +71,7 @@ http://toddmotto.com/super-fast-angular-ng-model-options-limit-digest-cycles
 http://toddmotto.com/moving-from-ng-model-parsers-to-ng-model-validates-ng-messages
 http://toddmotto.com/no-scope-soup-bind-to-controller-angularjs
 http://toddmotto.com/angular-component-method-back-ported-to-1.3/
+https://toddmotto.com/directive-to-directive-communication-with-require/
 
 
 ################################################# Codelord ##################################################### 
@@ -76,7 +79,19 @@ http://www.codelord.net/2015/10/29/angular-authentication-remember-where-you-wer
 http://www.codelord.net/2015/10/22/angular-authentication-3-step-recipe/
 http://www.codelord.net/2015/11/18/the-deal-with-angular-and-minification/?
 http://www.codelord.net/2015/12/03/lazy-loading-your-first-component-in-angular/
+http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/
 
+################################################# Thoughtram ##################################################### 
+http://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html
+http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html
+http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html
+
+################################################# Syntax Success ##################################################### 
+http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0
+http://www.syntaxsuccess.com/viewarticle/dependency-injection-in-angular-2.0
+http://www.syntaxsuccess.com/viewarticle/using-jquery-with-angular-2.0
+http://www.syntaxsuccess.com/viewarticle/input-controls-in-angular-2.0
+http://www.syntaxsuccess.com/viewarticle/loading-components-dynamically-in-angular-2.0
 
 ################################################# Auth0 ##################################################### 
 https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/#
@@ -86,8 +101,6 @@ https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular
 https://blog.pusher.com/real-time-apps-angular-2/
 http://www.dunebook.com/from-zero-to-hero-all-about-filters-in-angularjs/
 http://www.infoworld.com/article/3010853/application-development/up-close-with-googles-angular-2-javascript-framework.html
-http://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html
-http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0
 http://www.jvandemo.com/how-to-build-minesweeper-using-angular-2-and-immutable-js/
 https://eng.saucelabs.com/blog/building-a-ui-style-guide-with-angularjs-directives
 http://www.dunebook.com/introduction-to-resource-with-http-service-in-angularjs/
@@ -95,7 +108,6 @@ http://blog.pluralsight.com/tutorial-angularjs
 http://bencentra.com/code/2015/11/16/unit-testing-angularjs.html
 https://stormpath.com/blog/fullstack-express-angular-stormpath/
 http://anandmanisankar.com/posts/angularjs-best-parts/
-http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html
 http://thejackalofjavascript.com/node-webkit-webrtc-and-angularjs-a-video-chat-client/
 http://www.w3schools.com/angular/
 http://blog.rangle.io/unittests/
@@ -113,20 +125,17 @@ http://stepansuvorov.com/blog/2015/04/angularjs-concept-diagram/
 http://julienrenaux.fr/2015/08/17/modular-angularjs-and-ionic-architecture-a-first-step-towards-angularjs-2/
 http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/08/26/validating-user-input-on-a-form-in-angular-js.aspx
 http://social.technet.microsoft.com/wiki/contents/articles/32300.angularjs-unit-testing-using-karma-part-1.aspx
-http://www.syntaxsuccess.com/viewarticle/using-jquery-with-angular-2.0
 http://www.codeproject.com/Articles/1031858/Comprehensive-CRUD-Operations-with-AngularJS-and-W?display=Normal
 http://eatcodeplay.com/dry-directives-with-scope-inheritance-in-angularjs
 http://www.bloggerever.com/2015/09/create-multiple-tabs-using-angular-js.html
 http://code.tutsplus.com/tutorials/create-a-mobile-application-using-wordpress-ionic-and-angularjs--cms-24170
 http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html
-http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/
 http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/
-http://www.syntaxsuccess.com/viewarticle/input-controls-in-angular-2.0
 http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/
 http://victorsavkin.com/post/99998937651/building-angular-apps-using-flux-architecture
-http://www.syntaxsuccess.com/viewarticle/dependency-injection-in-angular-2.0
 http://g00glen00b.be/e2e-testing-angularjs-applications-with-protractor/
 http://theleancoder.net/index.php/2015/10/18/angularjs-introduction/
 http://branchandbound.net/blog/web/2015/11/exploring-angular2/
-
+http://angularjs.blogspot.cl/2015/12/building-mobile-apps-with-angular-2-and.html
+https://daveceddia.com/sharing-data-between-controllers-best-practice-use-a-service/
 
