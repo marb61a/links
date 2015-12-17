@@ -14,6 +14,8 @@ http://www.sitepoint.com/watch-compiling-sass-using-grunt-contrib-watch/
 http://www.sitepoint.com/introduction-to-hardware-acceleration-css-animations/
 http://www.sitepoint.com/intuitive-scrolling-interfaces-with-css-scroll-snap-points/
 http://www.sitepoint.com/introducing-sgrid-a-stylus-based-flexbox-grid-system/
+http://www.sitepoint.com/decorating-the-web-with-css-border-images/
+http://www.sitepoint.com/top-9-animation-libraries-use-2016/
 
 
 ############################################## Smashing ########################################################## 
@@ -80,12 +82,20 @@ http://thenewcode.com/1064/Classical-Greek-Geometric-Borders-In-SVG
 http://thenewcode.com/279/Rotate-Elements-on-Scroll-with-JavaScript
 
 
+############################################## CSS Animation ########################################################## 
+https://cssanimation.rocks/stereoscopic/
+https://cssanimation.rocks/starwars/
+https://cssanimation.rocks/clocks/
+https://cssanimation.rocks/principles/
 
+
+http://tech.noredink.com/post/135195074668/creating-repeatable-css-animations-with-sass
 http://flexboxfroggy.com/
 http://ashleynolan.co.uk/blog/managing-inline-images-in-css
 https://developers.google.com/web/updates/2015/10/splashscreen?hl=en
 http://vanseodesign.com/web-design/how-to-work-with-svg-text/
 https://www.webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/
+https://www.webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
 http://bitsofco.de/2015/how-floating-works/
 https://ghinda.net/article/css-ripple-material-design/
 http://tobiasahlin.com/blog/how-to-animate-box-shadow/
@@ -94,7 +104,6 @@ http://seesparkbox.com/foundry/why_you_need_to_refactor_your_css
 http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users/
 http://speckyboy.com/2015/09/09/css-animation/
 http://sarasoueidan.com/blog/svg-vs-gif/
-https://www.webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
 http://joshnh.com/weblog/getting-responsive-tables-to-behave/
 https://justmarkup.com/log/2015/07/31/dealing-with-long-words-in-css/
 http://vincentp.me/blog/use-cases-for-calc/
@@ -107,3 +116,4 @@ https://ponyfoo.com/articles/inlining-critical-css
 http://blogs.windows.com/msedgedev/2015/10/07/using-extended-srcset-and-the-picture-element-to-tailor-your-image-to-every-device-and-layout/
 http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/
 https://24ways.org/2015/animating-your-brand/
+https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/
