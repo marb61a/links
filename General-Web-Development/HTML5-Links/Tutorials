@@ -12,6 +12,7 @@ http://www.sitepoint.com/html5-native-drag-and-drop-api/
 http://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/?
 http://www.sitepoint.com/10-guidelines-better-website-background-videos/
 
+
 ################################################# Tutsplus #####################################################  
 http://code.tutsplus.com/tutorials/the-web-audio-api-make-your-own-web-synthesizer--cms-23887
 http://code.tutsplus.com/tutorials/using-squire-a-lightweight-html5-rich-text-editor--cms-22934
@@ -19,6 +20,8 @@ http://code.tutsplus.com/tutorials/an-introduction-to-the-html5-history-api--cms
 http://code.tutsplus.com/articles/html5-page-visibility-api--cms-22021
 http://code.tutsplus.com/tutorials/how-to-use-zillow-neighborhood-maps-and-html5-geolocation--cms-21935
 http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598
+http://code.tutsplus.com/tutorials/must-know-techniques-for-html5-responsive-design--cms-25233
+http://code.tutsplus.com/tutorials/html5-mastery-scoping-rules--cms-24840
 
 
 ################################################# Medium ##################################################### 
@@ -31,9 +34,17 @@ http://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/
 http://www.smashingmagazine.com/2015/10/responsive-material-design-app-with-polymer-starter-kit/
 http://www.smashingmagazine.com/2015/11/gamepad-api-in-web-games/
 
+
 ################################################# Google ##################################################### 
 https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints
 https://developers.google.com/web/updates/2015/09/history-api-scroll-restoration
+
+
+################################################# HTML5 Doctor ##################################################### 
+http://html5doctor.com/the-header-element/
+http://html5doctor.com/finding-your-position-with-geolocation/
+http://html5doctor.com/html-developers-please-consider/
+http://html5doctor.com/html5-check-it-before-you-wreck-it-with-miketm-smith/
 
 
 http://www.hongkiat.com/blog/modernizr/
@@ -67,3 +78,4 @@ http://developer.telerik.com/featured/16-ways-to-search-find-and-edit-with-chrom
 http://belenalbeza.com/tilemaps-in-html-5-games/
 http://thenewcode.com/109/Marking-Up-Measurements-Correctly-in-HTML5
 http://scholarly.vernacular.io/
+http://baymard.com/labs/touch-keyboard-types
