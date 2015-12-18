@@ -13,7 +13,9 @@ http://www.sitepoint.com/build-and-publish-your-own-grunt-plugin/
 http://www.sitepoint.com/real-time-photo-update-app-instagram-api/
 http://www.sitepoint.com/tabbed-browser-node-webkit-angularjs/
 http://www.sitepoint.com/understanding-module-exports-exports-node-js/
-
+http://www.sitepoint.com/how-to-use-rethinkdb-with-node-js-applications/
+http://www.sitepoint.com/how-to-build-a-wi-fi-dashboard/
+http://www.sitepoint.com/manifoldjs-with-crosswalk-a-simpler-dev-experience-for-android/
 
 ######################################## Scotch.io ##############################################
 https://scotch.io/tutorials/use-ejs-to-template-your-node-application
@@ -107,6 +109,11 @@ https://www.distelli.com/docs/tutorials/automated-mocha-tests-for-node
 https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
 
 
+######################################## Semaphoreci ##############################################
+https://semaphoreci.com/blog/2015/12/15/nodejs-version-usage-in-commercial-projects-2015-edition.html?
+https://semaphoreci.com/community/tutorials/how-to-deploy-a-node-js-application-to-elastic-beanstalk-with-semaphore
+
+
 ######################################## NPMJS ##############################################
 http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts
 http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku
@@ -180,4 +187,5 @@ http://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-nod
 https://developer.atlassian.com/blog/2015/10/profiling-node-apps/
 https://www.pubnub.com/blog/2014-12-16-realtime-mongodb-to-fetch-and-stream-report-data/
 http://www.nicoespeon.com/en/2015/11/plop-micro-generator-boilerplate-yeoman-alternative/
-https://semaphoreci.com/community/tutorials/how-to-deploy-a-node-js-application-to-elastic-beanstalk-with-semaphore
+http://wesbos.com/javascript-modules/
+https://meetfinch.com/blog/cross-platform-app-nwjs-react-flux
