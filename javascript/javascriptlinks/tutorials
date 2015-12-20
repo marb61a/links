@@ -29,6 +29,9 @@ http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
 http://www.sitepoint.com/using-javascript-frameworks-inside-c-with-chakrabridge/
 http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
 http://www.sitepoint.com/whats-new-in-vue-js-1-0/
+http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/
+http://www.sitepoint.com/google-maps-made-easy-with-gmaps-js/
+http://www.sitepoint.com/using-socket-io-and-cordova-to-create-a-real-time-chat-app/
 
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
@@ -63,6 +66,7 @@ https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
 https://medium.com/all-about-feathersjs/using-feathersjs-as-an-open-source-alternative-to-firebase-b5d93c200cee
 https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.ne34oba7j
 https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.cbe1m8fo3
+https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617#.sh8tlnfvb
 
 
 ####################################### Telerik ###########################################################
@@ -104,6 +108,7 @@ http://www.emanueleferonato.com/2015/12/10/calculating-dynamic-light-and-shadows
 ####################################### Miscellaneous ###########################################################
 http://www.tutorialspoint.com/javascript/
 http://www.w3schools.com/js/
+http://tech.trivago.com/2015/12/17/export-multiple-javascript-module-formats/
 http://blog.onthewings.net/2015/08/05/typescript-vs-haxe/
 https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
 https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
@@ -152,3 +157,4 @@ http://blog.getsentry.com/2015/10/29/debuggable-javascript-with-source-maps.html
 https://aerotwist.com/blog/the-cost-of-frameworks/
 http://engineroom.teamwork.com/10-things-to-know-about-gulp/
 http://www.raymondcamden.com/2015/12/08/parsing-rss-feeds-in-javascript-options
+http://www.rricard.me/es6/aws/lambda/nodejs/2015/11/29/es6-on-aws-lambda.html
