@@ -9,8 +9,9 @@ http://www.sitepoint.com/look-at-ecmarkup-ecmascript-spec-custom-html/
 http://www.sitepoint.com/how-to-use-modernizr-responsibly/
 http://www.sitepoint.com/an-introduction-to-googles-accelerated-mobile-pages-amp/
 http://www.sitepoint.com/html5-native-drag-and-drop-api/
-http://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/?
+http://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/
 http://www.sitepoint.com/10-guidelines-better-website-background-videos/
+http://www.sitepoint.com/front-end-tools-favorite-finds-2015/
 
 
 ################################################# Tutsplus #####################################################  
@@ -38,6 +39,8 @@ http://www.smashingmagazine.com/2015/11/gamepad-api-in-web-games/
 ################################################# Google ##################################################### 
 https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints
 https://developers.google.com/web/updates/2015/09/history-api-scroll-restoration
+https://developers.google.com/web/updates/2015/12/security-panel
+https://developers.google.com/web/updates/2015/09/tab-discarding-in-chrome-46
 
 
 ################################################# HTML5 Doctor ##################################################### 
@@ -49,13 +52,14 @@ http://html5doctor.com/html5-check-it-before-you-wreck-it-with-miketm-smith/
 
 http://www.hongkiat.com/blog/modernizr/
 http://www.wufoo.com/html5/attributes/13-formaction.html
+http://blog.nparashuram.com/2015/12/using-chrome-traces-to-automate.html
+http://websitesetup.org/html-5-canvas-cheat-sheet/
 http://www.tutorialspoint.com/html5/html5_modernizr.htm
 https://heipei.github.io/2015/08/20/Persistent-AppCache-Injections/
 http://www.raymondcamden.com/2015/11/23/til-autocomplete-and-forms
 http://yal.cc/gamemaker-html5-loading-bar-image/
 https://www.talater.com/upup/getting-started-with-offline-first.html
 https://palant.de/2015/08/30/why-you-probably-want-to-disable-jqueryparsehtml-even-though-you-don-t-call-it
-https://developers.google.com/web/updates/2015/09/tab-discarding-in-chrome-46
 https://gdstechnology.blog.gov.uk/2015/08/27/making-radio-buttons-and-checkboxes-easier-to-use/
 https://hacks.mozilla.org/2015/09/flash-free-clipboard-for-the-web/
 http://www.creativebloq.com/web-design/master-screen-orientation-html5-101517371
@@ -79,3 +83,5 @@ http://belenalbeza.com/tilemaps-in-html-5-games/
 http://thenewcode.com/109/Marking-Up-Measurements-Correctly-in-HTML5
 http://scholarly.vernacular.io/
 http://baymard.com/labs/touch-keyboard-types
+http://www.infragistics.com/community/blogs/anand_raja/archive/2015/12/02/build-html5-desktop-apps-with-native-performance.aspx
+https://glebbahmutov.com/blog/instant-web-application/
