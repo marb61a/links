@@ -26,6 +26,7 @@ http://blog.honeybadger.io/ruby-self-cheat-sheet/
 http://blog.honeybadger.io/how-ruby-interprets-and-runs-your-programs/
 http://blog.honeybadger.io/spying-on-running-ruby-processes/
 http://blog.honeybadger.io/lexical-scoping-and-ruby-class-variables/
+http://blog.honeybadger.io/what-does-argv-mean-in-ruby/
 
 
 ###################################### Toptal ####################################################
@@ -40,6 +41,8 @@ https://medium.com/@christophelimpalair/why-the-founder-of-rails-automatically-r
 https://medium.com/kamil-lelonek-personal-blog/why-a-function-signature-may-sometimes-lie-to-you-43b05931bf41
 https://medium.com/@WoloxEngineering/image-processing-in-rails-using-aws-lambda-43b5b268019f
 https://medium.com/raise-coffee/you-ll-love-module-function-ca5f05284310#.fnhibx8mw
+https://medium.com/@heidar/switching-from-rbenv-to-postmodern-s-ruby-install-and-chruby-f0daa24b36e6#.qibldfs14
+https://medium.com/@wclittle/rails5-actioncable-redux-and-react-walking-through-an-example-chat-application-84fced7c5d27#.die8rq3lw
 
 
 ###################################### Justin Weiss ####################################################
@@ -72,6 +75,7 @@ http://jakeyesbeck.com/2015/09/20/rails-http-status-codes/
 http://jakeyesbeck.com/2015/11/22/how-to-write-futureproof-mocks/
 http://jakeyesbeck.com/2015/12/06/how-to-use-rails-strong-parameters/
 http://jakeyesbeck.com/2015/12/13/ruby-refinements/
+http://jakeyesbeck.com/2015/12/20/rails-5-attributes/
 
 
 ###################################### Codeship ####################################################
@@ -92,12 +96,19 @@ http://blog.codeship.com/unit-testing-in-ruby/
 https://rossta.net/blog/pascals-triangle-with-rubys-enumerator.html
 https://rossta.net/blog/infinite-sequences-in-ruby.html
 https://rossta.net/blog/paginated-resources-in-ruby.html
+https://rossta.net/blog/using-rspec-metadata.html
 
 
 ###################################### JamisBuck ####################################################
 http://weblog.jamisbuck.org/2015/9/12/little-things-heredocs.html
 http://weblog.jamisbuck.org/2015/9/19/default-scopes-anti-pattern.html
 http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html
+
+
+###################################### Nate Berkopec ####################################################
+http://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
+http://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html
+http://www.nateberkopec.com/2015/08/05/rack-mini-profiler-the-secret-weapon.html
 
 
 ###################################### Miscellaneous ####################################################
@@ -107,8 +118,6 @@ http://sorentwo.com/2015/10/19/layering-api-defenses-with-caching.html
 http://vaidehijoshi.github.io/blog/2015/07/28/clipping-images-for-rails-using-paperclip/
 http://tutor.lugolabs.com/articles/17-jquery-ui-autocomplete-with-ruby-on-rails
 https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/
-http://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
-www.nateberkopec.com/2015/08/05/rack-mini-profiler-the-secret-weapon.html
 http://rubylogs.com/exception-handling-and-testing/
 http://chriskottom.com/blog/2015/11/testing-rails-background-workers/
 http://nandovieira.com/using-es6-with-asset-pipeline-on-ruby-on-rails
@@ -161,7 +170,6 @@ https://tech.greenhouse.io/2015/10/07/effectively-debugging-capybara-feature-spe
 https://rorsecurity.info/portfolio/cross-site-request-forgery-and-rails
 http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html
 http://blog.chaps.io/2015/11/13/role-based-authorization-in-rails.html
-http://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html
 http://realtimeweekly.co/realtime-quiz-app-with-ror-reactjs-and-pubnub/
 https://www.twilio.com/blog/2015/10/delay-api-calls-to-twilio-with-rails-active-job-and-sidekiq.html
 https://viget.com/extend/pundit-your-new-favorite-authorization-library
@@ -183,3 +191,4 @@ http://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-rai
 https://wyeworks.com/blog/2015/12/1/immutable-strings-in-ruby-2-dot-3
 http://gespinosa.org/2015/descriptive-specs/
 http://eftimov.net/rails-tls-hsts-cookies/
+http://eftimov.net/tdd-extract-class/
