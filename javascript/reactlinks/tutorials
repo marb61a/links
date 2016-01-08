@@ -31,6 +31,13 @@ https://medium.com/code-cartoons/a-cartoon-guide-to-flux-6157355ab207
 https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.cqy6vtpdb
 https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878
 https://medium.com/the-exponent-log/routing-and-navigation-in-react-native-6b27bee39603
+https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.i31p1x9oj
+https://medium.com/@davidvlsea/react-without-undue-complications-f3490403fdc0#.l3f37lmab
+
+
+###################################### James K Nelson ##################################################################
+http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
+http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/
 
 
 ###################################### Miscellaneous ##################################################################
@@ -59,15 +66,16 @@ https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react
 http://dapperdeveloper.com/2015/09/21/tutorial-build-a-date-picker-with-react-js/
 https://github.com/HubSpot/react-experiments
-http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
 http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack
+http://krasimirtsonev.com/blog/article/distributing-react-components-babel-browserify-webpack-uglifyjs
 http://jaero.space/blog/imgur-react-native/
 https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
 https://jamesfriend.com.au/better-assertions-shallow-rendered-react-components
 http://www.mattzabriskie.com/blog/adventures-with-react-native
-http://krasimirtsonev.com/blog/article/distributing-react-components-babel-browserify-webpack-uglifyjs
 https://www.twilio.com/blog/2015/11/reactjs-tutorial-call-monitoring-with-react-express-and-socket-io.html
 https://bugsnag.com/blog/moving-bugsnags-frontend-to-react
 http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html
 http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/
+https://voice.kadira.io/let-s-compose-some-react-containers-3b91b6d9b7c8#.4j0ejbwya
+https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql-e0802695648c#.g20mw1nvn
