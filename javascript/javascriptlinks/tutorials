@@ -32,6 +32,8 @@ http://www.sitepoint.com/whats-new-in-vue-js-1-0/
 http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/
 http://www.sitepoint.com/google-maps-made-easy-with-gmaps-js/
 http://www.sitepoint.com/using-socket-io-and-cordova-to-create-a-real-time-chat-app/
+http://www.sitepoint.com/joys-block-scoping-es6/
+
 
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
@@ -67,6 +69,7 @@ https://medium.com/all-about-feathersjs/using-feathersjs-as-an-open-source-alter
 https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.ne34oba7j
 https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.cbe1m8fo3
 https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617#.sh8tlnfvb
+https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64#.fc4k35icy
 
 
 ####################################### Telerik ###########################################################
@@ -75,6 +78,8 @@ http://developer.telerik.com/featured/hail-babel-the-transpiling-overlord/
 http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/
 http://developer.telerik.com/featured/jquerys-relevancy-there-and-back-again/
 http://developer.telerik.com/featured/pro-javascript-concepts-for-enterprise-developers/
+http://developer.telerik.com/featured/what-is-a-webview/
+http://developer.telerik.com/featured/flip-that-app-hybrid-mobile-to-javascript-native/
 
 
 ####################################### 2Ality ###########################################################
@@ -92,6 +97,7 @@ http://www.2ality.com/2015/11/tc39-process.html
 http://www.2ality.com/2015/11/string-padding.html
 http://www.2ality.com/2015/11/trailing-comma-parameters.html
 http://www.2ality.com/2015/11/configuring-babel6.html
+http://www.2ality.com/2016/01/private-data-classes.html
 
 
 ####################################### James K Nelson ###########################################################
@@ -158,3 +164,6 @@ https://aerotwist.com/blog/the-cost-of-frameworks/
 http://engineroom.teamwork.com/10-things-to-know-about-gulp/
 http://www.raymondcamden.com/2015/12/08/parsing-rss-feeds-in-javascript-options
 http://www.rricard.me/es6/aws/lambda/nodejs/2015/11/29/es6-on-aws-lambda.html
+https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-when-const-isnt-constant
+http://technologyadvice.github.io/es7-decorators-babel6/
+http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6
