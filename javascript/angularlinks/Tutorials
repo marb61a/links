@@ -23,6 +23,8 @@ https://medium.com/@murdockcrc/angularjs-date-filter-with-momentjs-369b742e7440#
 https://medium.com/@andreaterzani/hotel-booking-engine-with-laravel-5-and-angularjs-part-1-81af69432b1a#.6mj7up83g
 https://medium.com/@PinakinMistry/angular-component-cutter-using-es2015-gulp-webpack-127957aa0d70
 https://medium.com/@marcosloic/managing-state-in-angular-2-using-rxjs-b849d6bbd5a5#.o6jeyotet
+https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.js1g2yjib
+https://medium.com/@thomassolow/building-a-front-end-only-app-with-angular-e67d1d7573d0#.ut8mcewi5
 
 
 ################################################# Scotch.io ##################################################### 
@@ -97,7 +99,8 @@ http://www.syntaxsuccess.com/viewarticle/loading-components-dynamically-in-angul
 https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/#
 https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular2-authentication/
 
-
+http://blog.scottlogic.com/2015/12/07/angular-2.html
+http://orizens.com/wp/topics/from-angular-es5-directive-to-angular-es2015-component/
 https://blog.pusher.com/real-time-apps-angular-2/
 http://www.dunebook.com/from-zero-to-hero-all-about-filters-in-angularjs/
 http://www.infoworld.com/article/3010853/application-development/up-close-with-googles-angular-2-javascript-framework.html
@@ -138,4 +141,4 @@ http://theleancoder.net/index.php/2015/10/18/angularjs-introduction/
 http://branchandbound.net/blog/web/2015/11/exploring-angular2/
 http://angularjs.blogspot.cl/2015/12/building-mobile-apps-with-angular-2-and.html
 https://daveceddia.com/sharing-data-between-controllers-best-practice-use-a-service/
-
+https://daveceddia.com/testing-angular-part-1-karma-setup/
