@@ -16,6 +16,8 @@ http://www.sitepoint.com/understanding-module-exports-exports-node-js/
 http://www.sitepoint.com/how-to-use-rethinkdb-with-node-js-applications/
 http://www.sitepoint.com/how-to-build-a-wi-fi-dashboard/
 http://www.sitepoint.com/manifoldjs-with-crosswalk-a-simpler-dev-experience-for-android/
+http://www.sitepoint.com/build-a-web-app-with-backbone-js-and-socket-io/
+
 
 ######################################## Scotch.io ##############################################
 https://scotch.io/tutorials/use-ejs-to-template-your-node-application
@@ -34,6 +36,8 @@ https://medium.com/@will123195/the-bleh-stack-simple-websites-with-node-js-98175
 https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801
 https://medium.com/@rssilva/talking-with-arduino-using-telegram-and-javascript-d874a0b560cb#.h3tyw3ib6
 https://medium.com/@mweststrate/how-to-create-strongly-typed-npm-modules-1e1bda23a7f4#.1b1cbpj5t
+https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.8yu0dp630
+
 
 ######################################## Risingstack ##############################################
 https://blog.risingstack.com/dependency-injection-in-node-js/
@@ -42,6 +46,8 @@ https://blog.risingstack.com/terminal-guide-for-nodejs/
 https://blog.risingstack.com/node-js-security-checklist/
 https://blog.risingstack.com/graffiti-mongoose-mongodb-for-graphql/
 https://blog.risingstack.com/web-authentication-methods-explained/
+https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/
+
 
 ######################################## Confluent ##############################################
 http://www.confluent.io/blog/getting-started-with-kafka-in-node.js-with-the-confluent-rest-proxy
@@ -58,20 +64,17 @@ http://code.tutsplus.com/articles/real-time-chat-with-modulus-and-nodejs--cms-22
 http://code.tutsplus.com/articles/social-authentication-for-nodejs-apps-with-passport--cms-21618
 http://code.tutsplus.com/tutorials/http-mock-testing-in-nodejs--cms-22836
 http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543
-https://code.tutsplus.com/tutorials/restful-api-design-with-nodejs-restify--cms-22637
+http://code.tutsplus.com/tutorials/restful-api-design-with-nodejs-restify--cms-22637
 http://code.tutsplus.com/tutorials/multi-instance-nodejs-app-in-paas-using-redis-pubsub--cms-22239
-
+http://code.tutsplus.com/articles/understanding-the-magic-of-bloom-filters-with-nodejs-redis--cms-25397?utm_source=nodeweekly&utm_medium=email
 
 ######################################## Reindex ##############################################
 https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql
 
 
 
-
-
 ######################################## Joyent ##############################################
 https://www.joyent.com/developers/node/design/errors
-
 
 
 
@@ -84,7 +87,7 @@ http://developer.telerik.com/featured/spying-on-james-bond-with-node-js/
 https://stormpath.com/blog/heroku-stormpath-and-expressjs/
 https://stormpath.com/blog/angular-node-15-minutes/
 https://stormpath.com/blog/building-secure-apis-with-express/
-
+https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs/
 
 
 ######################################## David Walsh ##############################################
@@ -189,3 +192,4 @@ https://www.pubnub.com/blog/2014-12-16-realtime-mongodb-to-fetch-and-stream-repo
 http://www.nicoespeon.com/en/2015/11/plop-micro-generator-boilerplate-yeoman-alternative/
 http://wesbos.com/javascript-modules/
 https://meetfinch.com/blog/cross-platform-app-nwjs-react-flux
+http://stackabuse.com/setting-up-a-node-js-cluster/
