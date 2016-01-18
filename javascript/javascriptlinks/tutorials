@@ -33,7 +33,9 @@ http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/
 http://www.sitepoint.com/google-maps-made-easy-with-gmaps-js/
 http://www.sitepoint.com/using-socket-io-and-cordova-to-create-a-real-time-chat-app/
 http://www.sitepoint.com/joys-block-scoping-es6/
-
+http://www.sitepoint.com/parallel-javascript-with-paralleljs/
+http://www.sitepoint.com/creating-webgl-game-unity-5-javascript/
+http://www.sitepoint.com/getting-started-with-underscore-js/
 
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
@@ -98,6 +100,7 @@ http://www.2ality.com/2015/11/string-padding.html
 http://www.2ality.com/2015/11/trailing-comma-parameters.html
 http://www.2ality.com/2015/11/configuring-babel6.html
 http://www.2ality.com/2016/01/private-data-classes.html
+http://www.2ality.com/2016/01/classes-inner-names.html
 
 
 ####################################### James K Nelson ###########################################################
@@ -105,10 +108,24 @@ http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/
 http://jamesknelson.com/why-you-shouldnt-style-with-javascript/
 
 
+
 ####################################### Emanuele Ferronato ###########################################################
 http://www.emanueleferonato.com/2015/08/27/learn-how-phaser-manages-draggable-objects-by-making-the-html5-engine-behind-rush-hour-game/
 http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
 http://www.emanueleferonato.com/2015/12/10/calculating-dynamic-light-and-shadows-in-tile-based-roguelike-games-part-1-bresenhams-line-algorithm/
+
+
+
+####################################### Kyle Simpson ###########################################################
+http://blog.getify.com/arrow-this/
+http://blog.getify.com/concurrently-javascript-1/
+
+
+####################################### Auth0 ###########################################################
+https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/
+https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
+https://auth0.com/blog/2015/10/07/refresh-tokens-what-are-they-and-when-to-use-them/
+
 
 
 ####################################### Miscellaneous ###########################################################
@@ -134,8 +151,6 @@ http://renderedtext.com/blog/2015/11/18/closures-are-not-magic/
 http://goose.ninja/2015/08/29/pixi-js-tutorial-getting-started/
 http://www.gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
 http://heidloff.net/article/usage-of-swagger-in-nodejs-applications-to-document-apis
-https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/
-https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
 http://dmitryfrank.com/articles/js_closures
 https://www.nczonline.net/blog/2015/10/ecmascript-6-destructuring-gotcha/
 http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
@@ -157,8 +172,6 @@ http://josecasanova.com/blog/how-to-build-a-tvos-application-for-apple-tv-tutori
 http://www.ociweb.com/resources/publications/sett/javascript-iterators-and-generators/
 https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript
 https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript
-http://blog.getify.com/arrow-this/
-http://blog.getify.com/concurrently-javascript-1/
 http://blog.getsentry.com/2015/10/29/debuggable-javascript-with-source-maps.html
 https://aerotwist.com/blog/the-cost-of-frameworks/
 http://engineroom.teamwork.com/10-things-to-know-about-gulp/
@@ -167,3 +180,5 @@ http://www.rricard.me/es6/aws/lambda/nodejs/2015/11/29/es6-on-aws-lambda.html
 https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-when-const-isnt-constant
 http://technologyadvice.github.io/es7-decorators-babel6/
 http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6
+https://blog.mariusschulz.com/2016/01/13/disassembling-javascripts-iife-syntax
+https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
