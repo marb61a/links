@@ -16,6 +16,7 @@ http://www.sitepoint.com/save-multiple-checkbox-values-database-rails/
 http://www.sitepoint.com/learn-concurrency-by-implementing-futures-in-ruby/
 http://www.sitepoint.com/building-an-rss-reader-in-rails-is-easy/
 http://www.sitepoint.com/fun-and-practical-alfred-workflows-in-ruby/
+http://www.sitepoint.com/learn-the-first-best-practices-for-rails-and-rspec/
 
 
 ###################################### Honeybadger ####################################################
@@ -43,6 +44,7 @@ https://medium.com/@WoloxEngineering/image-processing-in-rails-using-aws-lambda-
 https://medium.com/raise-coffee/you-ll-love-module-function-ca5f05284310#.fnhibx8mw
 https://medium.com/@heidar/switching-from-rbenv-to-postmodern-s-ruby-install-and-chruby-f0daa24b36e6#.qibldfs14
 https://medium.com/@wclittle/rails5-actioncable-redux-and-react-walking-through-an-example-chat-application-84fced7c5d27#.die8rq3lw
+https://medium.com/@heidar/how-i-test-rails-apps-with-minitest-capybara-and-guard-5e07a6856781#.15xxbwyjn
 
 
 ###################################### Justin Weiss ####################################################
@@ -76,6 +78,7 @@ http://jakeyesbeck.com/2015/11/22/how-to-write-futureproof-mocks/
 http://jakeyesbeck.com/2015/12/06/how-to-use-rails-strong-parameters/
 http://jakeyesbeck.com/2015/12/13/ruby-refinements/
 http://jakeyesbeck.com/2015/12/20/rails-5-attributes/
+http://jakeyesbeck.com/2016/01/10/how-to-parallelize-ruby-http-requests/
 
 
 ###################################### Codeship ####################################################
@@ -109,6 +112,13 @@ http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html
 http://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
 http://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html
 http://www.nateberkopec.com/2015/08/05/rack-mini-profiler-the-secret-weapon.html
+https://www.nateberkopec.com/2016/01/07/what-http2-means-for-ruby-developers.html
+
+
+###################################### Iljia Eftimov ####################################################
+http://eftimov.net/rails-tls-hsts-cookies/
+http://eftimov.net/tdd-extract-class/
+http://eftimov.net/refactoring-builder-pattern/
 
 
 ###################################### Miscellaneous ####################################################
@@ -168,6 +178,7 @@ http://nts.strzibny.name/using-openshift-s2i-docker-images-to-build-ruby-applica
 http://firedev.com/posts/2015/bottomless-ruby-hash/
 https://tech.greenhouse.io/2015/10/07/effectively-debugging-capybara-feature-specs.html
 https://rorsecurity.info/portfolio/cross-site-request-forgery-and-rails
+https://rorsecurity.info/portfolio/new-http-headers-for-more-security
 http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html
 http://blog.chaps.io/2015/11/13/role-based-authorization-in-rails.html
 http://realtimeweekly.co/realtime-quiz-app-with-ror-reactjs-and-pubnub/
@@ -190,5 +201,5 @@ https://www.rubyplus.com/articles/2791
 http://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/
 https://wyeworks.com/blog/2015/12/1/immutable-strings-in-ruby-2-dot-3
 http://gespinosa.org/2015/descriptive-specs/
-http://eftimov.net/rails-tls-hsts-cookies/
-http://eftimov.net/tdd-extract-class/
+http://rorbservations.com/post/136816741674/rubys-unless-x-is-processed-differently
+http://gorubyrails.com/blog/Model-tests-with-shoulda-matchers/
