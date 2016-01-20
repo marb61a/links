@@ -82,11 +82,14 @@ http://www.codelord.net/2015/10/22/angular-authentication-3-step-recipe/
 http://www.codelord.net/2015/11/18/the-deal-with-angular-and-minification/?
 http://www.codelord.net/2015/12/03/lazy-loading-your-first-component-in-angular/
 http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/
+http://www.codelord.net/2016/01/14/adding-the-first-angular-2-component-to-your-angular-1-app/
+
 
 ################################################# Thoughtram ##################################################### 
 http://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html
 http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html
 http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html
+
 
 ################################################# Syntax Success ##################################################### 
 http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0
@@ -94,11 +97,21 @@ http://www.syntaxsuccess.com/viewarticle/dependency-injection-in-angular-2.0
 http://www.syntaxsuccess.com/viewarticle/using-jquery-with-angular-2.0
 http://www.syntaxsuccess.com/viewarticle/input-controls-in-angular-2.0
 http://www.syntaxsuccess.com/viewarticle/loading-components-dynamically-in-angular-2.0
+http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0
+
+
+################################################# Dave Ceddia ##################################################### 
+https://daveceddia.com/sharing-data-between-controllers-best-practice-use-a-service/
+https://daveceddia.com/testing-angular-part-1-karma-setup/
+https://daveceddia.com/testing-angular-part-3-testing-recipes/
+
 
 ################################################# Auth0 ##################################################### 
 https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/#
 https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular2-authentication/
 
+
+################################################# Miscellaneous ##################################################### 
 http://blog.scottlogic.com/2015/12/07/angular-2.html
 http://orizens.com/wp/topics/from-angular-es5-directive-to-angular-es2015-component/
 https://blog.pusher.com/real-time-apps-angular-2/
@@ -140,10 +153,9 @@ http://g00glen00b.be/e2e-testing-angularjs-applications-with-protractor/
 http://theleancoder.net/index.php/2015/10/18/angularjs-introduction/
 http://branchandbound.net/blog/web/2015/11/exploring-angular2/
 http://angularjs.blogspot.cl/2015/12/building-mobile-apps-with-angular-2-and.html
-https://daveceddia.com/sharing-data-between-controllers-best-practice-use-a-service/
-https://daveceddia.com/testing-angular-part-1-karma-setup/
 https://blog.nraboy.com/2016/01/include-external-javascript-libraries-in-an-angular-2-typescript-project/
 http://www.creativebloq.com/web-design/build-data-dashboard-angularjs-121518544
 http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
 http://angularjs4u.com/directive/angularjs-popup-window-social-authentication-directive/
 http://www.webcodegeeks.com/javascript/angular-js/mock-responses-http-calls-network-traffic-simulation-using-ngmocke2e/
+http://www.webcodegeeks.com/javascript/angular-js/angular-js-transclusion-example/
