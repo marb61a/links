@@ -33,7 +33,9 @@ https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint
 https://medium.com/the-exponent-log/routing-and-navigation-in-react-native-6b27bee39603
 https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.i31p1x9oj
 https://medium.com/@davidvlsea/react-without-undue-complications-f3490403fdc0#.l3f37lmab
-
+https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.80z1q4mv7
+https://medium.com/@roman01la/om-next-for-react-devs-introduction-and-project-setup-52b88f87264#.s1h3djud5
+https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.epvw0gxdw
 
 ###################################### James K Nelson ##################################################################
 http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
@@ -79,3 +81,6 @@ http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html
 http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/
 https://voice.kadira.io/let-s-compose-some-react-containers-3b91b6d9b7c8#.4j0ejbwya
 https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql-e0802695648c#.g20mw1nvn
+http://blog.getsentry.com/2016/01/07/react-i18n.html
+https://christianalfoni.github.io/react-webpack-cookbook/index.html
+http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/
