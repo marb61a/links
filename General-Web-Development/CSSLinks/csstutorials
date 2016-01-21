@@ -18,6 +18,7 @@ http://www.sitepoint.com/decorating-the-web-with-css-border-images/
 http://www.sitepoint.com/top-9-animation-libraries-use-2016/
 http://www.sitepoint.com/whats-new-in-foundation-6
 http://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/
+http://www.sitepoint.com/its-time-to-rethink-vendor-prefixes-in-css/
 
 
 ############################################## Smashing ########################################################## 
@@ -36,6 +37,7 @@ http://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/
 http://www.smashingmagazine.com/2015/12/getting-started-css-calc-techniques/
 http://www.smashingmagazine.com/2015/12/introduction-to-postcss/
 https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/
+https://www.smashingmagazine.com/2016/01/leaner-responsive-images-client-hints/
 
 
 ############################################## CSS Tricks ##########################################################
@@ -51,7 +53,7 @@ https://css-tricks.com/visual-regression-testing-with-phantomcss/
 https://css-tricks.com/recreating-the-google-logo-animation-with-svg-and-greensock/
 https://css-tricks.com/creating-an-animated-menu-indicator-with-css-selectors/
 https://css-tricks.com/the-blur-up-technique-for-loading-background-images/
-
+https://css-tricks.com/designing-a-product-page-layout-with-flexbox/
 
 ############################################## Mozilla Hacks ##########################################################
 https://hacks.mozilla.org/2015/08/making-and-breaking-the-web-with-css-gradients/
@@ -65,6 +67,7 @@ https://medium.com/@dte/understanding-css-selector-specificity-a02238a02a59
 https://medium.com/@vilcins/usefull-sass-mixins-7a68c5491bda
 https://medium.com/@mjtweaver/css-product-magnification-without-javascript-497ab5932419#.ro7qz9lfz
 https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-1-67e8f2d4035#.7ldkonsto
+https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-1-67e8f2d4035#.8q1immeeq
 
 
 ############################################## Tutsplus ##########################################################
@@ -126,3 +129,5 @@ http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-acces
 https://24ways.org/2015/animating-your-brand/
 https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/
 http://12devsofxmas.co.uk/2016/01/day-7-surprising-css-properties-you-can-use-today/
+http://jordankoschei.com/itcss/
+http://ipestov.com/22-essential-css-recipes/
