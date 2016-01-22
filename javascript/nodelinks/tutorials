@@ -37,6 +37,7 @@ https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801
 https://medium.com/@rssilva/talking-with-arduino-using-telegram-and-javascript-d874a0b560cb#.h3tyw3ib6
 https://medium.com/@mweststrate/how-to-create-strongly-typed-npm-modules-1e1bda23a7f4#.1b1cbpj5t
 https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.8yu0dp630
+https://medium.com/@keithwhor/hello-nodal-why-we-re-building-node-js-servers-for-everybody-dce14b27a233#.rcb2lrq50
 
 
 ######################################## Risingstack ##############################################
@@ -81,6 +82,7 @@ https://www.joyent.com/developers/node/design/errors
 ######################################## Telerik ##############################################
 http://developer.telerik.com/featured/merging-dynamic-and-static-sites/
 http://developer.telerik.com/featured/spying-on-james-bond-with-node-js/
+http://www.telerik.com/kendo-ui/exporting-web-content
 
 
 ######################################## Stormpath ##############################################
@@ -186,10 +188,15 @@ https://news.floobits.com/2015/10/26/why-is-nodejs-crashing-a-deep-dive-into-a-t
 http://stackabuse.com/how-to-write-express-js-middleware/
 http://jamesknelson.com/writing-npm-packages-with-es6-using-the-babel-6-cli/
 http://coderesponsible.com/scraping-the-web-with-node-js/
-http://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-node-js/
+https://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-node-js/
+https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/
 https://developer.atlassian.com/blog/2015/10/profiling-node-apps/
 https://www.pubnub.com/blog/2014-12-16-realtime-mongodb-to-fetch-and-stream-report-data/
 http://www.nicoespeon.com/en/2015/11/plop-micro-generator-boilerplate-yeoman-alternative/
 http://wesbos.com/javascript-modules/
 https://meetfinch.com/blog/cross-platform-app-nwjs-react-flux
 http://stackabuse.com/setting-up-a-node-js-cluster/
+http://apmblog.dynatrace.com/2016/01/14/how-to-track-down-cpu-issues-in-node-js/
+http://codeplanet.io/node-module-walk-through-get-port/
+https://www.garysieling.com/blog/building-squarespace-integration-node-js
+https://www.vincit.fi/en/blog/by-the-power-of-json-queries/
