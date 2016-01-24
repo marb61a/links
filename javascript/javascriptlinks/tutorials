@@ -36,6 +36,9 @@ http://www.sitepoint.com/joys-block-scoping-es6/
 http://www.sitepoint.com/parallel-javascript-with-paralleljs/
 http://www.sitepoint.com/creating-webgl-game-unity-5-javascript/
 http://www.sitepoint.com/getting-started-with-underscore-js/
+http://www.sitepoint.com/jquery-each-function-examples/
+http://www.sitepoint.com/whats-new-jquery-use/
+http://www.sitepoint.com/creating-a-multiselect-component-as-a-web-component/
 
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
@@ -102,6 +105,12 @@ http://www.2ality.com/2015/11/configuring-babel6.html
 http://www.2ality.com/2016/01/private-data-classes.html
 http://www.2ality.com/2016/01/classes-inner-names.html
 
+####################################### Mozilla ###########################################################
+https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
+https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
+https://hacks.mozilla.org/2016/01/firefox-and-the-web-speech-api/
+https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript
+
 
 ####################################### James K Nelson ###########################################################
 http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/
@@ -133,8 +142,6 @@ http://www.tutorialspoint.com/javascript/
 http://www.w3schools.com/js/
 http://tech.trivago.com/2015/12/17/export-multiple-javascript-module-formats/
 http://blog.onthewings.net/2015/08/05/typescript-vs-haxe/
-https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
-https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
 http://addyosmani.com/largescalejavascript/
 https://booker.codes/data-driven-tests-in-javascript-using-mocha/
 https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
@@ -171,7 +178,6 @@ http://runemadsen.github.io/rune.js/
 http://josecasanova.com/blog/how-to-build-a-tvos-application-for-apple-tv-tutorial/
 http://www.ociweb.com/resources/publications/sett/javascript-iterators-and-generators/
 https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript
-https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript
 http://blog.getsentry.com/2015/10/29/debuggable-javascript-with-source-maps.html
 https://aerotwist.com/blog/the-cost-of-frameworks/
 http://engineroom.teamwork.com/10-things-to-know-about-gulp/
@@ -182,3 +188,4 @@ http://technologyadvice.github.io/es7-decorators-babel6/
 http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6
 https://blog.mariusschulz.com/2016/01/13/disassembling-javascripts-iife-syntax
 https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
+https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fny7rj8y6
