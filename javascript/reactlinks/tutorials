@@ -17,6 +17,7 @@ https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 ###################################### Risingstack ################################################################
 https://blog.risingstack.com/the-react-way-getting-started-tutorial/
 https://blog.risingstack.com/using-react-with-webpack-tutorial/
+https://blog.risingstack.com/react-js-best-practices-for-2016/
 
 
 ###################################### Codementor ################################################################## 
@@ -84,3 +85,4 @@ https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql
 http://blog.getsentry.com/2016/01/07/react-i18n.html
 https://christianalfoni.github.io/react-webpack-cookbook/index.html
 http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/
+http://staltz.com/why-react-redux-is-an-inferior-paradigm.html
