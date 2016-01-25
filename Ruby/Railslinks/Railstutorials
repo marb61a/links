@@ -45,6 +45,8 @@ https://medium.com/raise-coffee/you-ll-love-module-function-ca5f05284310#.fnhibx
 https://medium.com/@heidar/switching-from-rbenv-to-postmodern-s-ruby-install-and-chruby-f0daa24b36e6#.qibldfs14
 https://medium.com/@wclittle/rails5-actioncable-redux-and-react-walking-through-an-example-chat-application-84fced7c5d27#.die8rq3lw
 https://medium.com/@heidar/how-i-test-rails-apps-with-minitest-capybara-and-guard-5e07a6856781#.15xxbwyjn
+https://medium.com/connect-the-dots/building-microservices-with-docker-and-the-rails-api-gem-2a463862f5d#.gwd910xs4
+https://medium.com/@albertstill/building-a-static-site-with-a-web-application-framework-using-wget-aws-s3-cli-circleci-5b9285d1af1d#.m44efl2je
 
 
 ###################################### Justin Weiss ####################################################
@@ -82,7 +84,7 @@ http://jakeyesbeck.com/2016/01/10/how-to-parallelize-ruby-http-requests/
 
 
 ###################################### Codeship ####################################################
-https://blog.codeship.com/how-to-apply-rubocop-to-your-large-rails-codebase/
+http://blog.codeship.com/how-to-apply-rubocop-to-your-large-rails-codebase/
 http://blog.codeship.com/testing-rails-application-docker/
 http://blog.codeship.com/how-to-use-rails-active-job/
 http://blog.codeship.com/know-your-sidekiq-testing-rights/
@@ -93,6 +95,7 @@ http://blog.codeship.com/architecting-rails-apps-as-microservices/
 http://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-i/
 http://blog.codeship.com/cross-model-search-with-ember-rails-and-elasticsearch/
 http://blog.codeship.com/unit-testing-in-ruby/
+http://blog.codeship.com/running-a-rails-application-on-deis/
 
 
 ###################################### Rossta ####################################################
@@ -100,6 +103,7 @@ https://rossta.net/blog/pascals-triangle-with-rubys-enumerator.html
 https://rossta.net/blog/infinite-sequences-in-ruby.html
 https://rossta.net/blog/paginated-resources-in-ruby.html
 https://rossta.net/blog/using-rspec-metadata.html
+https://rossta.net/blog/whats-new-in-ruby-2-3-enumerable.html
 
 
 ###################################### JamisBuck ####################################################
@@ -122,6 +126,7 @@ http://eftimov.net/refactoring-builder-pattern/
 
 
 ###################################### Miscellaneous ####################################################
+http://rubyonrails.org/doctrine/
 http://dreamingechoes.github.io/geosearch/mongodb/rails/geosearch-with-mongodb-and-geocoder/
 http://codenoble.com/blog/simple-rails-maintenance-mode/
 http://sorentwo.com/2015/10/19/layering-api-defenses-with-caching.html
@@ -166,6 +171,7 @@ http://techblog.shutl.com/2015/09/ruby-virtual-machine-internals-and-investigati
 https://cloud.google.com/ruby/getting-started/hello-world
 https://www.credible.com/code/setting-up-a-data-warehouse-with-aws-redshift-and-ruby/
 http://www.blackbytes.info/2015/09/ngram-analysis-ruby/
+http://www.blackbytes.info/2016/01/ruby-tricks/
 http://pchm.co/tutorial-how-to-build-a-cms-in-ruby-on-rails/?utm_source=rubyweekly&utm_medium=email
 http://www.blrice.net/blog/2015/09/18/a-middleware-stack-without-rack/
 http://blog.kontena.io/building-minimal-docker-image-for-rails/
@@ -203,3 +209,4 @@ https://wyeworks.com/blog/2015/12/1/immutable-strings-in-ruby-2-dot-3
 http://gespinosa.org/2015/descriptive-specs/
 http://rorbservations.com/post/136816741674/rubys-unless-x-is-processed-differently
 http://gorubyrails.com/blog/Model-tests-with-shoulda-matchers/
+http://engineering.wework.com/data/2015/11/05/add-columns-with-default-values-to-large-tables-in-rails-postgres/
