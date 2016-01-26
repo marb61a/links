@@ -22,7 +22,7 @@ https://blog.risingstack.com/react-js-best-practices-for-2016/
 
 ###################################### Codementor ################################################################## 
 https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
-
+https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app
 
 
 ###################################### Medium ##################################################################
@@ -37,6 +37,9 @@ https://medium.com/@davidvlsea/react-without-undue-complications-f3490403fdc0#.l
 https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.80z1q4mv7
 https://medium.com/@roman01la/om-next-for-react-devs-introduction-and-project-setup-52b88f87264#.s1h3djud5
 https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.epvw0gxdw
+https://medium.com/infinite-red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.5t0k19m09
+https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4#.wyov11d18
+
 
 ###################################### James K Nelson ##################################################################
 http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
@@ -86,3 +89,5 @@ http://blog.getsentry.com/2016/01/07/react-i18n.html
 https://christianalfoni.github.io/react-webpack-cookbook/index.html
 http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/
 http://staltz.com/why-react-redux-is-an-inferior-paradigm.html
+http://spencerdixon.com/blog/test-driven-react-tutorial.html
+https://www.stanleycyang.com/tutorials/mastering-react-redux
