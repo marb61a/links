@@ -75,6 +75,7 @@ https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.ne34oba7j
 https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.cbe1m8fo3
 https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617#.sh8tlnfvb
 https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64#.fc4k35icy
+https://medium.com/life-learning/your-life-is-tetris-stop-playing-it-like-chess-4baac6b2750d#.u44aav1n2
 
 
 ####################################### Telerik ###########################################################
@@ -122,7 +123,7 @@ http://jamesknelson.com/why-you-shouldnt-style-with-javascript/
 http://www.emanueleferonato.com/2015/08/27/learn-how-phaser-manages-draggable-objects-by-making-the-html5-engine-behind-rush-hour-game/
 http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
 http://www.emanueleferonato.com/2015/12/10/calculating-dynamic-light-and-shadows-in-tile-based-roguelike-games-part-1-bresenhams-line-algorithm/
-
+http://www.emanueleferonato.com/2016/01/15/phaser-tutorial-create-a-html5-prototype-of-the-ios-game-dashy-panda/
 
 
 ####################################### Kyle Simpson ###########################################################
@@ -157,6 +158,7 @@ https://zyan.scripts.mit.edu/blog/backdooring-js/
 http://renderedtext.com/blog/2015/11/18/closures-are-not-magic/
 http://goose.ninja/2015/08/29/pixi-js-tutorial-getting-started/
 http://www.gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
+http://gamedevacademy.org/phaser-rpg-tutorial/
 http://heidloff.net/article/usage-of-swagger-in-nodejs-applications-to-document-apis
 http://dmitryfrank.com/articles/js_closures
 https://www.nczonline.net/blog/2015/10/ecmascript-6-destructuring-gotcha/
@@ -189,3 +191,4 @@ http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-
 https://blog.mariusschulz.com/2016/01/13/disassembling-javascripts-iife-syntax
 https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
 https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fny7rj8y6
+http://gamedevelopment.tutsplus.com/tutorials/quick-tip-how-to-render-to-a-texture-in-threejs--cms-25686
