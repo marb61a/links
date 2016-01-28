@@ -19,6 +19,7 @@ http://www.sitepoint.com/top-9-animation-libraries-use-2016/
 http://www.sitepoint.com/whats-new-in-foundation-6
 http://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/
 http://www.sitepoint.com/its-time-to-rethink-vendor-prefixes-in-css/
+http://www.sitepoint.com/using-modern-css-to-build-a-responsive-image-grid/
 
 
 ############################################## Smashing ########################################################## 
@@ -101,13 +102,19 @@ http://tobiasahlin.com/blog/how-to-animate-box-shadow/
 http://tobiasahlin.com/blog/curved-path-animations-in-css/
 
 
+############################################## Webkit ########################################################## 
+https://www.webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/
+https://www.webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
+https://webkit.org/blog/5735/css-font-features/
+
+
+############################################## Miscellaneous ########################################################## 
+
 http://tech.noredink.com/post/135195074668/creating-repeatable-css-animations-with-sass
 http://flexboxfroggy.com/
 http://ashleynolan.co.uk/blog/managing-inline-images-in-css
 https://developers.google.com/web/updates/2015/10/splashscreen?hl=en
 http://vanseodesign.com/web-design/how-to-work-with-svg-text/
-https://www.webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/
-https://www.webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
 http://bitsofco.de/2015/how-floating-works/
 https://ghinda.net/article/css-ripple-material-design/
 http://www.kirupa.com/html5/css_transitions_cheatsheet.htm
@@ -131,3 +138,6 @@ https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/
 http://12devsofxmas.co.uk/2016/01/day-7-surprising-css-properties-you-can-use-today/
 http://jordankoschei.com/itcss/
 http://ipestov.com/22-essential-css-recipes/
+http://www.zell-weekeat.com/responsive-typography/
+http://thatemil.com/blog/2016/01/23/floating-label-no-js-pure-css/
+http://book.mixu.net/css/index.html
