@@ -37,6 +37,8 @@ https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801
 https://medium.com/@rssilva/talking-with-arduino-using-telegram-and-javascript-d874a0b560cb#.h3tyw3ib6
 https://medium.com/@mweststrate/how-to-create-strongly-typed-npm-modules-1e1bda23a7f4#.1b1cbpj5t
 https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91#.8yu0dp630
+https://medium.com/@DebashisBarman/creating-a-twitter-bot-with-node-js-bea760b80bd5#.i3ypt72m9
+https://medium.com/@jamesseanwright/automatically-validate-html-with-node-js-and-valimate-196c71a349bf#.rahy0ovdu
 https://medium.com/@keithwhor/hello-nodal-why-we-re-building-node-js-servers-for-everybody-dce14b27a233#.rcb2lrq50
 
 
@@ -67,7 +69,7 @@ http://code.tutsplus.com/tutorials/http-mock-testing-in-nodejs--cms-22836
 http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543
 http://code.tutsplus.com/tutorials/restful-api-design-with-nodejs-restify--cms-22637
 http://code.tutsplus.com/tutorials/multi-instance-nodejs-app-in-paas-using-redis-pubsub--cms-22239
-http://code.tutsplus.com/articles/understanding-the-magic-of-bloom-filters-with-nodejs-redis--cms-25397?utm_source=nodeweekly&utm_medium=email
+http://code.tutsplus.com/articles/understanding-the-magic-of-bloom-filters-with-nodejs-redis--cms-25397
 
 ######################################## Reindex ##############################################
 https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql
@@ -200,3 +202,7 @@ http://apmblog.dynatrace.com/2016/01/14/how-to-track-down-cpu-issues-in-node-js/
 http://codeplanet.io/node-module-walk-through-get-port/
 https://www.garysieling.com/blog/building-squarespace-integration-node-js
 https://www.vincit.fi/en/blog/by-the-power-of-json-queries/
+http://www.zell-weekeat.com/crud-express-mongodb/
+http://www.richardrodger.com/seneca-microservices-nodejs
+http://www.capitalone.io/blog/why-is-everyone-talking-about-isomorphic-javascript/
+http://info.appneta.com/9_common_node.js_design_patterns.html
