@@ -83,10 +83,16 @@ https://github.com/microsoft/chakracore
 https://github.com/apigee/trireme
 https://github.com/Jam3/devtool
 https://github.com/jiahaog/nativefier
+https://github.com/boyers/socket.js
+https://github.com/skerit/janeway
+https://github.com/GoogleChrome/node-big-rig
+https://github.com/chimneypot/chimneypot
 
 ##Important Links -
 https://nodejs.org
 http://node-machine.org
+https://parall.ax/vtop
+http://wallabyjs.com/docs/intro/get-started-sublime.html
 https://www.npmjs.com
 https://www.npmjs.com/package/cassandrom
 https://iojs.org/en/index.html
@@ -103,3 +109,5 @@ http://s-a.github.io/iron-node/
 http://strapi.io
 http://nodeontrain.xyz/
 https://www.urbanairship.com/blog/introducing-frock-easy-fake-services-for-a-microservices-environment
+http://wordexpress.io/
+https://www.npmjs.com/package/scalable-blob-store
