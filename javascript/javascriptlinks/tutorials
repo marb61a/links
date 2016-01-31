@@ -39,6 +39,10 @@ http://www.sitepoint.com/getting-started-with-underscore-js/
 http://www.sitepoint.com/jquery-each-function-examples/
 http://www.sitepoint.com/whats-new-jquery-use/
 http://www.sitepoint.com/creating-a-multiselect-component-as-a-web-component/
+http://www.sitepoint.com/using-inline-partials-and-decorators-with-handlebars-4-0/
+http://www.sitepoint.com/introduction-to-jcanvas-jquery-meets-html5-canvas/
+http://www.sitepoint.com/unit-test-javascript-mocha-chai/
+
 
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
@@ -76,6 +80,8 @@ https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other
 https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617#.sh8tlnfvb
 https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64#.fc4k35icy
 https://medium.com/life-learning/your-life-is-tetris-stop-playing-it-like-chess-4baac6b2750d#.u44aav1n2
+https://medium.com/ben-and-dion/what-can-we-learn-from-how-jquery-symbiotically-pushed-the-web-platform-forward-ce6b20cd4e98#.8z0eqe3w3
+https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.agqo9bdjf
 
 
 ####################################### Telerik ###########################################################
@@ -86,7 +92,7 @@ http://developer.telerik.com/featured/jquerys-relevancy-there-and-back-again/
 http://developer.telerik.com/featured/pro-javascript-concepts-for-enterprise-developers/
 http://developer.telerik.com/featured/what-is-a-webview/
 http://developer.telerik.com/featured/flip-that-app-hybrid-mobile-to-javascript-native/
-
+http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/
 
 ####################################### 2Ality ###########################################################
 http://www.2ality.com/2015/08/es6-map-json.html
@@ -164,6 +170,7 @@ http://dmitryfrank.com/articles/js_closures
 https://www.nczonline.net/blog/2015/10/ecmascript-6-destructuring-gotcha/
 http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
 http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/
+http://appcues.com/blog/64-tooltip-plugins-made-with-jquery-css-javascript-or-more/
 https://raygun.io/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/
 http://davidwalsh.name/creating-animated-product-slider-sequencejs
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html
@@ -192,3 +199,6 @@ https://blog.mariusschulz.com/2016/01/13/disassembling-javascripts-iife-syntax
 https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
 https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fny7rj8y6
 http://gamedevelopment.tutsplus.com/tutorials/quick-tip-how-to-render-to-a-texture-in-threejs--cms-25686
+http://www.jstips.co/en/filtering-and-sorting-a-list-of-strings/
+https://thesocietea.org/2016/01/building-es6-javascript-for-the-browser-with-gulp-babel-and-more/
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
