@@ -130,11 +130,18 @@ http://www.emanueleferonato.com/2015/08/27/learn-how-phaser-manages-draggable-ob
 http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
 http://www.emanueleferonato.com/2015/12/10/calculating-dynamic-light-and-shadows-in-tile-based-roguelike-games-part-1-bresenhams-line-algorithm/
 http://www.emanueleferonato.com/2016/01/15/phaser-tutorial-create-a-html5-prototype-of-the-ios-game-dashy-panda/
+http://www.emanueleferonato.com/2016/01/18/how-to-create-a-html-draggable-and-scrollable-map-with-inertia-using-phaser-framework/
 
 
 ####################################### Kyle Simpson ###########################################################
 http://blog.getify.com/arrow-this/
 http://blog.getify.com/concurrently-javascript-1/
+
+
+####################################### Game Dev Academy ###########################################################
+https://gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
+https://gamedevacademy.org/how-to-make-a-turn-based-rpg-game-in-phaser-part-2/
+https://gamedevacademy.org/phaser-rpg-tutorial/
 
 
 ####################################### Auth0 ###########################################################
@@ -163,8 +170,6 @@ https://www.thinkful.com/learn/intro-to-jquery
 https://zyan.scripts.mit.edu/blog/backdooring-js/
 http://renderedtext.com/blog/2015/11/18/closures-are-not-magic/
 http://goose.ninja/2015/08/29/pixi-js-tutorial-getting-started/
-http://www.gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
-http://gamedevacademy.org/phaser-rpg-tutorial/
 http://heidloff.net/article/usage-of-swagger-in-nodejs-applications-to-document-apis
 http://dmitryfrank.com/articles/js_closures
 https://www.nczonline.net/blog/2015/10/ecmascript-6-destructuring-gotcha/
