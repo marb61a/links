@@ -50,6 +50,7 @@ https://blog.risingstack.com/node-js-security-checklist/
 https://blog.risingstack.com/graffiti-mongoose-mongodb-for-graphql/
 https://blog.risingstack.com/web-authentication-methods-explained/
 https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/
+https://blog.risingstack.com/how-enterprises-benefit-from-nodejs/
 
 
 ######################################## Confluent ##############################################
@@ -92,6 +93,7 @@ https://stormpath.com/blog/heroku-stormpath-and-expressjs/
 https://stormpath.com/blog/angular-node-15-minutes/
 https://stormpath.com/blog/building-secure-apis-with-express/
 https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs/
+https://stormpath.com/blog/secure-password-hashing-in-node-with-argon2/
 
 
 ######################################## David Walsh ##############################################
@@ -130,7 +132,6 @@ http://blog.npmjs.org/post/130644130685/how-to-email-daily-gifs-use-nodemailer-w
 http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/
 http://stackabuse.com/avoiding-callback-hell-in-node-js/
 http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/
-https://booker.codes/input-validation-in-express-with-express-validator/
 http://jowanza.com/post/125602755114/dealing-with-soap-apis-in-nodejs
 http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
 http://www.bymichaellancaster.com/blog/deploying-nodejs-on-heroku-cloud/
@@ -172,6 +173,7 @@ http://spin.atomicobject.com/2015/09/25/debug-node-js/
 https://moroccojs.org/tutorials/npm-based-front-end-workflow/
 http://sagivo.com/post/130207525903/nodejs-addons
 https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/
+https://lob.com/blog/automate-payment-reminder-system-with-lob-customerio-segment/
 https://nodesource.com/blog/cpp-addons-for-nodejs-v4
 http://www.capitalone.io/blog/contrasting-enterprise-nodejs-frameworks/
 https://www.codementor.io/nodejs/tutorial/how-to-implement-twitter-sign-expressjs-oauth
@@ -182,7 +184,6 @@ http://www.2ality.com/2015/10/google-analytics-api.html
 http://blog.couchbase.com/2015/october/adding-google-sign-in-with-node.js-to-a-couchbase-mobile-application
 http://spanningcloudapps.github.io/2015/10/12/Long-running-Node-processes/
 http://dwcares.com/realchess/
-https://lob.com/blog/automate-payment-reminder-system-with-lob-customerio-segment/
 http://radek.io/2015/10/27/nodegit/
 https://community.oracle.com/docs/DOC-931127
 http://meow.noopkat.com/using-node-serialport-in-an-electron-app/
@@ -206,3 +207,6 @@ http://www.zell-weekeat.com/crud-express-mongodb/
 http://www.richardrodger.com/seneca-microservices-nodejs
 http://www.capitalone.io/blog/why-is-everyone-talking-about-isomorphic-javascript/
 http://info.appneta.com/9_common_node.js_design_patterns.html
+https://booker.codes/how-to-build-and-publish-es6-npm-modules-today-with-babel/
+https://booker.codes/input-validation-in-express-with-express-validator/
+http://paislee.io/the-ultimate-nodejs-development-setup-with-docker/
