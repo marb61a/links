@@ -42,6 +42,7 @@ http://www.sitepoint.com/creating-a-multiselect-component-as-a-web-component/
 http://www.sitepoint.com/using-inline-partials-and-decorators-with-handlebars-4-0/
 http://www.sitepoint.com/introduction-to-jcanvas-jquery-meets-html5-canvas/
 http://www.sitepoint.com/unit-test-javascript-mocha-chai/
+http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
 
 
 ####################################### Ponyfoo ###########################################################
@@ -53,13 +54,15 @@ http://ponyfoo.com/articles/es6-let-const-and-temporal-dead-zone-in-depth
 http://ponyfoo.com/articles/es6-proxies-in-depth
 http://ponyfoo.com/articles/es6-weakmaps-sets-and-weaksets-in-depth
 http://ponyfoo.com/articles/es6-number-improvements-in-depth
-https://ponyfoo.com/articles/es6
+http://ponyfoo.com/articles/es6
 http://ponyfoo.com/articles/es6-symbols-in-depth
-https://ponyfoo.com/articles/progressive-networking-serviceworker
+http://ponyfoo.com/articles/progressive-networking-serviceworker
 http://ponyfoo.com/articles/es6-promises-in-depth
 http://ponyfoo.com/articles/es6-array-extensions-in-depth
 http://ponyfoo.com/articles/es6-strings-and-unicode-in-depth
-https://ponyfoo.com/articles/progressive-app-serviceworker
+http://ponyfoo.com/articles/progressive-app-serviceworker
+https://ponyfoo.com/articles/understanding-javascript-async-await
+
 
 ####################################### Stormpath ###########################################################
 https://stormpath.com/blog/token-auth-spa/
@@ -82,6 +85,7 @@ https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64#.fc
 https://medium.com/life-learning/your-life-is-tetris-stop-playing-it-like-chess-4baac6b2750d#.u44aav1n2
 https://medium.com/ben-and-dion/what-can-we-learn-from-how-jquery-symbiotically-pushed-the-web-platform-forward-ce6b20cd4e98#.8z0eqe3w3
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.agqo9bdjf
+https://medium.com/bitovi-design-and-development/object-observe-is-dead-long-live-es6-proxies-c3f25454342#.gb916ev5h
 
 
 ####################################### Telerik ###########################################################
@@ -138,6 +142,13 @@ http://blog.getify.com/arrow-this/
 http://blog.getify.com/concurrently-javascript-1/
 
 
+####################################### Smashing Magazine ###########################################################
+http://www.smashingmagazine.com/2016/02/writing-next-generation-reusable-javascript-modules/
+http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
+http://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
+http://www.smashingmagazine.com/2016/02/javascript-ai-html-sliding-tiles-puzzle/
+
+
 ####################################### Game Dev Academy ###########################################################
 https://gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
 https://gamedevacademy.org/how-to-make-a-turn-based-rpg-game-in-phaser-part-2/
@@ -180,8 +191,6 @@ https://raygun.io/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/
 http://davidwalsh.name/creating-animated-product-slider-sequencejs
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html
 http://jonathancreamer.com/document-es6-with-esdoc/
-http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
-http://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
 http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
 http://www.bennadel.com/blog/2930-using-cmd-enter-to-submit-a-form-in-angularjs.htm
 http://www.masswerk.at/JavaPac/pacman-howto.html
@@ -207,3 +216,4 @@ http://gamedevelopment.tutsplus.com/tutorials/quick-tip-how-to-render-to-a-textu
 http://www.jstips.co/en/filtering-and-sorting-a-list-of-strings/
 https://thesocietea.org/2016/01/building-es6-javascript-for-the-browser-with-gulp-babel-and-more/
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
+https://developers.google.com/web/updates/2016/02/es2015-proxies
