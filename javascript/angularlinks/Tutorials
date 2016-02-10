@@ -25,14 +25,14 @@ https://medium.com/@PinakinMistry/angular-component-cutter-using-es2015-gulp-web
 https://medium.com/@marcosloic/managing-state-in-angular-2-using-rxjs-b849d6bbd5a5#.o6jeyotet
 https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.js1g2yjib
 https://medium.com/@thomassolow/building-a-front-end-only-app-with-angular-e67d1d7573d0#.ut8mcewi5
-
+https://medium.com/@AliyahChoudhry/is-angular-js-is-the-hottest-javascript-framework-b74495f4e567#.6ut70m67d
 
 ################################################# Scotch.io ##################################################### 
 https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron
 https://scotch.io/courses/build-an-etsy-clone-with-angularjs-and-stamplay
 https://scotch.io/tutorials/build-a-todo-app-using-sailsjs-and-angularjs
 https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron?
-
+https://scotch.io/tutorials/seamless-ways-to-upgrade-angular-1-x-to-angular-2
 
 
 ################################################# Konguso ##################################################### 
@@ -100,6 +100,13 @@ http://www.syntaxsuccess.com/viewarticle/loading-components-dynamically-in-angul
 http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0
 
 
+################################################# Code Project ##################################################### 
+http://www.codeproject.com/Articles/1046214/MVC-AngularJS-Master-Detail-CRUD-Filter-And-Sortin
+http://www.codeproject.com/Articles/988648/Angular-JS-Shopping-Cart-using-MVC-and-WCF-Rest
+http://www.codeproject.com/Articles/1076016/Using-AngularJS-in-SharePoint
+http://www.codeproject.com/Articles/1031858/Comprehensive-CRUD-Operations-with-AngularJS-and-W?display=Normal
+
+
 ################################################# Dave Ceddia ##################################################### 
 https://daveceddia.com/sharing-data-between-controllers-best-practice-use-a-service/
 https://daveceddia.com/testing-angular-part-1-karma-setup/
@@ -142,13 +149,10 @@ http://angularjs.blogspot.ie/2015/08/angular-1-and-angular-2-coexistence.html
 http://linkis.com/blog.stamplay.com/j4ZGS
 https://spring.io/guides/tutorials/spring-security-and-angular-js/
 http://onehungrymind.com/build-mailchimp-signup-form-angularjs/
-http://www.codeproject.com/Articles/1046214/MVC-AngularJS-Master-Detail-CRUD-Filter-And-Sortin
-http://www.codeproject.com/Articles/988648/Angular-JS-Shopping-Cart-using-MVC-and-WCF-Rest
 http://stepansuvorov.com/blog/2015/04/angularjs-concept-diagram/
 http://julienrenaux.fr/2015/08/17/modular-angularjs-and-ionic-architecture-a-first-step-towards-angularjs-2/
 http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/08/26/validating-user-input-on-a-form-in-angular-js.aspx
 http://social.technet.microsoft.com/wiki/contents/articles/32300.angularjs-unit-testing-using-karma-part-1.aspx
-http://www.codeproject.com/Articles/1031858/Comprehensive-CRUD-Operations-with-AngularJS-and-W?display=Normal
 http://eatcodeplay.com/dry-directives-with-scope-inheritance-in-angularjs
 http://www.bloggerever.com/2015/09/create-multiple-tabs-using-angular-js.html
 http://code.tutsplus.com/tutorials/create-a-mobile-application-using-wordpress-ionic-and-angularjs--cms-24170
@@ -166,3 +170,5 @@ http://www.webcodegeeks.com/javascript/angular-js/mock-responses-http-calls-netw
 http://www.webcodegeeks.com/javascript/angular-js/angular-js-transclusion-example/
 http://angularjs.chat/tutorials/angularjs-basic-chat-module/
 http://www.metaltoad.com/blog/angular-2-http-observables
+http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/
+https://kalimadev.wordpress.com/2016/02/05/hands-on-angularjs-browse-nyt-best-sellers/
