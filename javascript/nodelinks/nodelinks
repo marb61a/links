@@ -94,6 +94,10 @@ https://github.com/ParsePlatform/parse-server
 https://github.com/zzarcon/nodegram
 https://github.com/nettofarah/property-validator
 https://github.com/teamweek/instadate
+https://github.com/pbrandt1/sqlite3-upsert
+https://github.com/gajus/cluster-map
+https://github.com/BlueOakJS/blueoak-server
+https://github.com/jpadilla/ember-fastboot-docker
 
 ##Important Links -
 https://nodejs.org
@@ -102,6 +106,7 @@ https://parall.ax/vtop
 http://wallabyjs.com/docs/intro/get-started-sublime.html
 https://www.npmjs.com
 https://www.npmjs.com/package/cassandrom
+https://www.npmjs.com/package/hack-news
 https://iojs.org/en/index.html
 https://modulus.io
 https://medium.com/@c2c/my-7-node-js-mantras-edd6c148e8dc
@@ -118,3 +123,6 @@ http://nodeontrain.xyz/
 https://www.urbanairship.com/blog/introducing-frock-easy-fake-services-for-a-microservices-environment
 http://wordexpress.io/
 https://www.npmjs.com/package/scalable-blob-store
+http://www.actionherojs.com/
+http://graphql.nodaljs.com/
+http://merencia.com/node-cron/
