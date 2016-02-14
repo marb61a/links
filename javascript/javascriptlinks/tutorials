@@ -43,7 +43,8 @@ http://www.sitepoint.com/using-inline-partials-and-decorators-with-handlebars-4-
 http://www.sitepoint.com/introduction-to-jcanvas-jquery-meets-html5-canvas/
 http://www.sitepoint.com/unit-test-javascript-mocha-chai/
 http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
-
+http://www.sitepoint.com/lazy-loading-images-igaro-app-javascript-framework/
+http://www.sitepoint.com/quick-tip-master-closures-by-reimplementing-them-from-scratch/
 
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
@@ -86,6 +87,7 @@ https://medium.com/life-learning/your-life-is-tetris-stop-playing-it-like-chess-
 https://medium.com/ben-and-dion/what-can-we-learn-from-how-jquery-symbiotically-pushed-the-web-platform-forward-ce6b20cd4e98#.8z0eqe3w3
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.agqo9bdjf
 https://medium.com/bitovi-design-and-development/object-observe-is-dead-long-live-es6-proxies-c3f25454342#.gb916ev5h
+https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5#.rp9aytgjj
 
 
 ####################################### Telerik ###########################################################
@@ -97,6 +99,8 @@ http://developer.telerik.com/featured/pro-javascript-concepts-for-enterprise-dev
 http://developer.telerik.com/featured/what-is-a-webview/
 http://developer.telerik.com/featured/flip-that-app-hybrid-mobile-to-javascript-native/
 http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/
+http://developer.telerik.com/featured/leveling-up-your-javascript/
+http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-beyond-the-browser/
 
 ####################################### 2Ality ###########################################################
 http://www.2ality.com/2015/08/es6-map-json.html
@@ -162,7 +166,14 @@ https://gamedevacademy.org/phaser-rpg-tutorial/
 https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/
 https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
 https://auth0.com/blog/2015/10/07/refresh-tokens-what-are-they-and-when-to-use-them/
+https://auth0.com/learn/json-web-tokens/
 
+
+####################################### Marius Schultz ###########################################################
+https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-when-const-isnt-constant
+https://blog.mariusschulz.com/2016/01/13/disassembling-javascripts-iife-syntax
+https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
+https://blog.mariusschulz.com/2016/02/03/ecmascript-2016-array-prototype-includes
 
 
 ####################################### Miscellaneous ###########################################################
@@ -209,11 +220,8 @@ https://aerotwist.com/blog/the-cost-of-frameworks/
 http://engineroom.teamwork.com/10-things-to-know-about-gulp/
 http://www.raymondcamden.com/2015/12/08/parsing-rss-feeds-in-javascript-options
 http://www.rricard.me/es6/aws/lambda/nodejs/2015/11/29/es6-on-aws-lambda.html
-https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-when-const-isnt-constant
 http://technologyadvice.github.io/es7-decorators-babel6/
 http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6
-https://blog.mariusschulz.com/2016/01/13/disassembling-javascripts-iife-syntax
-https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
 https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.fny7rj8y6
 http://gamedevelopment.tutsplus.com/tutorials/quick-tip-how-to-render-to-a-texture-in-threejs--cms-25686
 http://www.jstips.co/en/filtering-and-sorting-a-list-of-strings/
@@ -222,3 +230,4 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternja
 https://developers.google.com/web/updates/2016/02/es2015-proxies
 http://www.lessmilk.com/game-design-1/
 http://www.adityaravishankar.com/2016/01/commandos-bel-html5-recreating-the-classic-2-5d-real-time-tactics-game-in-the-browser/
+http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/
