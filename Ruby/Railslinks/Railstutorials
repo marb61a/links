@@ -86,6 +86,7 @@ http://jakeyesbeck.com/2015/12/13/ruby-refinements/
 http://jakeyesbeck.com/2015/12/20/rails-5-attributes/
 http://jakeyesbeck.com/2016/01/10/how-to-parallelize-ruby-http-requests/
 http://jakeyesbeck.com/2016/01/24/ruby-private-class-methods/
+http://jakeyesbeck.com/2016/02/07/how-to-remove-a-column-with-zero-downtime-in-ruby-on-rails/
 
 
 ###################################### Codeship ####################################################
@@ -154,3 +155,11 @@ http://blog.chaps.io/2016/02/01/running-concurrent-workflows-in-ruby.html
 http://www.blackbytes.info/2015/09/ngram-analysis-ruby/
 http://www.blackbytes.info/2016/01/ruby-tricks/
 http://www.blackbytes.info/2016/02/ruby-procs-and-lambdas/
+
+
+
+###################################### Wyeworks ####################################################
+https://wyeworks.com/blog/2016/1/12/improvements-to-error-responses-in-rails-5-api-mode/
+https://wyeworks.com/blog/2015/12/1/immutable-strings-in-ruby-2-dot-3
+https://wyeworks.com/blog/2016/1/26/upgrading-to-ruby-on-rails-5-0/
+
