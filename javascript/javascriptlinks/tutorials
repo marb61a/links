@@ -45,6 +45,10 @@ http://www.sitepoint.com/unit-test-javascript-mocha-chai/
 http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
 http://www.sitepoint.com/lazy-loading-images-igaro-app-javascript-framework/
 http://www.sitepoint.com/quick-tip-master-closures-by-reimplementing-them-from-scratch/
+http://www.sitepoint.com/creating-an-imgur-app-with-nativescript/
+http://www.sitepoint.com/generating-pdfs-from-web-pages-on-the-fly-with-jspdf/
+http://www.sitepoint.com/sending-emails-gmail-javascript-api/
+
 
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
@@ -88,6 +92,7 @@ https://medium.com/ben-and-dion/what-can-we-learn-from-how-jquery-symbiotically-
 https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.agqo9bdjf
 https://medium.com/bitovi-design-and-development/object-observe-is-dead-long-live-es6-proxies-c3f25454342#.gb916ev5h
 https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5#.rp9aytgjj
+https://medium.com/@clayallsopp/incrementally-migrating-javascript-to-typescript-565020e49c88#.fnglivobo
 
 
 ####################################### Telerik ###########################################################
@@ -214,3 +219,4 @@ https://developers.google.com/web/updates/2016/02/es2015-proxies
 http://www.lessmilk.com/game-design-1/
 http://www.adityaravishankar.com/2016/01/commandos-bel-html5-recreating-the-classic-2-5d-real-time-tactics-game-in-the-browser/
 http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/
+http://andrejgajdos.com/setting-up-webpack-for-es6-react-sass-and-bootstrap/
