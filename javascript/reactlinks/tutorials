@@ -42,11 +42,14 @@ https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#
 https://medium.com/infinite-red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.5t0k19m09
 https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4#.wyov11d18
 https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.gfibl8yll
-
+https://medium.com/tech-quizlet/smooth-game-animations-in-react-df43ece916c8#.f0mvcvvz8
+https://medium.com/infinite-red/what-sucks-about-react-native-c38a307a210f#.mga6bcays
+https://medium.com/@sharifsbeat/learn-the-concepts-part-1-418952d968cb#.pa78i9jrh
 
 ###################################### James K Nelson ##################################################################
 http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
 http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/
+http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
 
 
 ###################################### Miscellaneous ##################################################################
@@ -86,6 +89,7 @@ http://www.mattzabriskie.com/blog/adventures-with-react-native
 https://www.twilio.com/blog/2015/11/reactjs-tutorial-call-monitoring-with-react-express-and-socket-io.html
 https://bugsnag.com/blog/moving-bugsnags-frontend-to-react
 http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html
+http://blog.nparashuram.com/2016/02/using-webworkers-to-make-react-faster.html
 http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/
 https://voice.kadira.io/let-s-compose-some-react-containers-3b91b6d9b7c8#.4j0ejbwya
 https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql-e0802695648c#.g20mw1nvn
@@ -101,3 +105,5 @@ https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
 http://www.proreactnative.com/Getting-Started-with-React-Native-on-Ubuntu-Linux/
 http://benchling.engineering/performance-engineering-with-react/
+https://react.rocks/blog/post/propTypes_React_Flow/
+http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/
