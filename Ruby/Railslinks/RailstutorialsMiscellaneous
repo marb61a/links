@@ -40,6 +40,7 @@ http://blog.skylight.io/fixing-the-mysterious-slow-request/
 http://www.grok-interactive.com/blog/value-objects-in-ruby-part-1/
 https://practicingruby.com/articles/formula-processing
 http://blog.arkency.com/2015/09/testing-race-conditions/
+http://blog.arkency.com/2016/02/how-rspec-helped-me-with-resolving-random-spec-failures/
 http://theartandscienceofruby.com/2015/09/11/switching-from-rspec-to-minitest/
 http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/
 http://eng.rightscale.com/2015/09/16/how-to-debug-ruby-memory-issues.html
@@ -64,7 +65,6 @@ http://rethinkdb.com/blog/ruby-opal/
 https://www.amberbit.com/blog/2015/10/15/rails-mountable-engines/
 http://engineering.appfolio.com/2013/06/17/ruby-mixins-activesupportconcern/
 http://phrack.org/papers/attacking_ruby_on_rails.html
-http://blog.bigbinary.com/2015/10/31/rails-5-allows-setting-custom-http-headers-for-assets.html
 https://gist.github.com/wvengen/f1097651c238b2f7f11d
 http://vaidehijoshi.github.io/blog/2015/11/17/peeking-under-the-hood-of-actioncontroller-parameters-part-1/
 http://www.be9.io/2015/12/01/heroku-deployment/
@@ -81,7 +81,6 @@ http://brandonhilkert.com/blog/sidekiq-as-a-microservice-message-queue/
 http://brandonhilkert.com/blog/solving-backwards-compatibility-in-ruby-with-a-proxy-object/
 https://blog.heroku.com/archives/2016/1/22/rails-5-beta-upgrade
 http://ilyabylich.svbtle.com/ruby-marshalling-from-a-to-z
-http://blog.bigbinary.com/2016/01/25/caching-in-development-environment-in-rails5.html
 https://www.leighhalliday.com/building-cli-ruby-with-gli
 https://about.futurelearn.com/blog/stubs-mocks-spies-rspec/
 http://dev.paperlesspost.com/skipping-tests-minitest/214
@@ -93,3 +92,7 @@ http://blog.rebased.pl/2016/02/03/so-you-want-to-use-pathnames.html
 https://blog.lelonek.me/defensive-programming-in-ruby-477f3505742a#.p1blj4urn
 http://readysteadycode.com/howto-access-the-gmail-api-with-ruby
 http://tutorials.pluralsight.com/review/elastic-search-with-ruby-on-rails
+http://blog.scoutapp.com/articles/2016/02/16/which-ruby-background-job-framework-is-right-for-you
+http://edgeguides.rubyonrails.org/api_app.html
+http://code.tutsplus.com/articles/improving-the-performance-of-your-rails-app-with-eager-loading--cms-25018
+http://thepracticaldev.com/communicating-intent-the-perpetually-misunderstood-ruby-bang
