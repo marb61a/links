@@ -20,6 +20,9 @@ http://www.sitepoint.com/learn-the-first-best-practices-for-rails-and-rspec/
 http://www.sitepoint.com/action-cable-and-websockets-an-in-depth-tutorial/
 http://www.sitepoint.com/integrate-jasmine-into-rails-for-solid-javascript-testing/
 http://www.sitepoint.com/hackable-pdf-typesetting-in-ruby-with-prawn/
+http://www.sitepoint.com/quick-tip-add-recaptcha-to-your-rails-application/
+http://www.sitepoint.com/the-how-and-why-of-property-based-testing-in-ruby/
+
 
 ###################################### Honeybadger ####################################################
 http://blog.honeybadger.io/ruby-regex-tricks/
@@ -73,6 +76,7 @@ https://semaphoreci.com/community/tutorials/writing-one-liner-rspec-tests-in-rai
 https://semaphoreci.com/community/tutorials/introduction-to-verifying-doubles-in-rspec
 https://semaphoreci.com/community/tutorials/getting-started-with-minitest
 https://semaphoreci.com/community/tutorials/stubbing-external-services-in-rails
+https://semaphoreci.com/community/tutorials/testing-mixins-in-isolation-with-minitest-and-rspec
 
 
 ###################################### Jake Yesbeck ####################################################
@@ -87,6 +91,7 @@ http://jakeyesbeck.com/2015/12/20/rails-5-attributes/
 http://jakeyesbeck.com/2016/01/10/how-to-parallelize-ruby-http-requests/
 http://jakeyesbeck.com/2016/01/24/ruby-private-class-methods/
 http://jakeyesbeck.com/2016/02/07/how-to-remove-a-column-with-zero-downtime-in-ruby-on-rails/
+http://jakeyesbeck.com/2016/02/14/ruby-threads-and-active-record-connections/
 
 
 ###################################### Codeship ####################################################
@@ -102,6 +107,7 @@ http://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-i/
 http://blog.codeship.com/cross-model-search-with-ember-rails-and-elasticsearch/
 http://blog.codeship.com/unit-testing-in-ruby/
 http://blog.codeship.com/running-a-rails-application-on-deis/
+http://blog.codeship.com/comparing-rails-and-phoenix-part-i/
 
 
 ###################################### Rossta ####################################################
@@ -163,3 +169,10 @@ https://wyeworks.com/blog/2016/1/12/improvements-to-error-responses-in-rails-5-a
 https://wyeworks.com/blog/2015/12/1/immutable-strings-in-ruby-2-dot-3
 https://wyeworks.com/blog/2016/1/26/upgrading-to-ruby-on-rails-5-0/
 
+
+###################################### BigBinary ####################################################
+http://blog.bigbinary.com/2016/02/13/rails-5-does-not-halt-callback-chain-when-false-is-returned.html
+http://blog.bigbinary.com/2016/01/25/caching-in-development-environment-in-rails5.html
+http://blog.bigbinary.com/2015/10/31/rails-5-allows-setting-custom-http-headers-for-assets.html
+http://blog.bigbinary.com/2016/02/16/rails-5-options-for-rake-routes.html
+http://blog.bigbinary.com/2016/02/17/active-support-improvements-in-Rails-5.html
