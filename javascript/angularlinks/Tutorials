@@ -56,7 +56,7 @@ http://www.kogonuso.com/2015/09/angular-with-rails-part-ii-building-hr.html
 https://dzone.com/articles/dependency-injection-in-angular-1-vs-angular-2
 https://dzone.com/articles/migrating-a-spring-web-mvc-application-from-jsp-to
 https://dzone.com/articles/embracing-the-future-with-angularjs-20-web-compone-1
-
+https://dzone.com/articles/10-reasons-web-developers
 
 
 ################################################# Ben Nadel ##################################################### 
@@ -76,6 +76,7 @@ http://toddmotto.com/moving-from-ng-model-parsers-to-ng-model-validates-ng-messa
 http://toddmotto.com/no-scope-soup-bind-to-controller-angularjs
 http://toddmotto.com/angular-component-method-back-ported-to-1.3/
 https://toddmotto.com/directive-to-directive-communication-with-require/
+https://toddmotto.com/on-init-require-object-syntax-angular-component/
 
 
 ################################################# Codelord ##################################################### 
@@ -107,7 +108,7 @@ http://www.codeproject.com/Articles/1046214/MVC-AngularJS-Master-Detail-CRUD-Fil
 http://www.codeproject.com/Articles/988648/Angular-JS-Shopping-Cart-using-MVC-and-WCF-Rest
 http://www.codeproject.com/Articles/1076016/Using-AngularJS-in-SharePoint
 http://www.codeproject.com/Articles/1031858/Comprehensive-CRUD-Operations-with-AngularJS-and-W?display=Normal
-
+http://www.codeproject.com/Articles/1080064/Understanding-Filters-In-AngularJS-Part
 
 ################################################# Dave Ceddia ##################################################### 
 https://daveceddia.com/sharing-data-between-controllers-best-practice-use-a-service/
@@ -184,3 +185,5 @@ http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/
 https://kalimadev.wordpress.com/2016/02/05/hands-on-angularjs-browse-nyt-best-sellers/
 http://www.c-sharpcorner.com/UploadFile/8af675/create-signature-pad-using-angularjs/
 http://www.dotnetcurry.com/angularjs/1252/angularjs-service-factory
+http://juristr.com/blog/2016/02/debugging-angular2-console/
+http://jslancer.com/2016/02/19/demystify-angularjs-15-one-way-data-binding/
