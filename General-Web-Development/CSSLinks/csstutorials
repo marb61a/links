@@ -40,6 +40,7 @@ http://www.smashingmagazine.com/2015/12/getting-started-css-calc-techniques/
 http://www.smashingmagazine.com/2015/12/introduction-to-postcss/
 https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/
 https://www.smashingmagazine.com/2016/01/leaner-responsive-images-client-hints/
+https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
 
 
 ############################################## CSS Tricks ##########################################################
@@ -57,6 +58,8 @@ https://css-tricks.com/creating-an-animated-menu-indicator-with-css-selectors/
 https://css-tricks.com/the-blur-up-technique-for-loading-background-images/
 https://css-tricks.com/designing-a-product-page-layout-with-flexbox/
 https://css-tricks.com/the-backgound-clip-property-and-use-cases/
+https://css-tricks.com/a-guide-on-svg-support-in-email/
+https://css-tricks.com/the-current-state-of-telephone-links/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -115,9 +118,10 @@ http://tobiasahlin.com/blog/curved-path-animations-in-css/
 
 
 ############################################## Webkit ########################################################## 
-https://www.webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/
-https://www.webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
+https://webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not-and-nth-child/
+https://webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
 https://webkit.org/blog/5735/css-font-features/
+https://webkit.org/blog/5663/editing-css-with-the-visual-styles-sidebar/
 
 
 ############################################## Miscellaneous ########################################################## 
@@ -156,3 +160,6 @@ http://cloudinary.com/blog/automatically_art_directed_responsive_images
 http://www.creativebloq.com/web-design/supercharge-svg-animations-gsap-11618683
 https://jakearchibald.com/2016/link-in-body/
 http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/
+https://aerotwist.com/blog/the-anatomy-of-a-frame/
+http://www.frontendevelopers.com/old-browser-css-hacks/
+https://robinrendle.com/essays/new-web-typography/
