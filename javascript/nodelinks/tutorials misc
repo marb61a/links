@@ -44,6 +44,7 @@ http://sagivo.com/post/130207525903/nodejs-addons
 https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/
 https://lob.com/blog/automate-payment-reminder-system-with-lob-customerio-segment/
 https://nodesource.com/blog/cpp-addons-for-nodejs-v4
+https://nodesource.com/blog/blacklisting-node-js-core-modules-and-bindings-to-enhance-application-security/
 http://www.capitalone.io/blog/contrasting-enterprise-nodejs-frameworks/
 https://www.codementor.io/nodejs/tutorial/how-to-implement-twitter-sign-expressjs-oauth
 http://ditrospecta.com/javascript/plugin/hubot/2015/10/03/hubot-plugin-choose-place-to-drink-coffee.html
@@ -86,3 +87,8 @@ http://blog.codeship.com/a-serverless-rest-api-in-minutes/
 https://snyk.io/blog/node-js-timing-attack-ccc-ctf/
 http://blog.greta.io/deploying-nodejs-with-spinnaker/
 http://zellwk.com/blog/crud-express-and-mongodb-2/
+https://www.joyent.com/developers/node/design/errors
+https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql
+http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
+https://nodeswat.com/blog/setting-up-a-secure-node-js-web-application/
+http://blog.honeybadger.io/how-to-report-node-js-errors-from-aws-lambda/
