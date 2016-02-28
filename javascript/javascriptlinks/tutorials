@@ -48,6 +48,7 @@ http://www.sitepoint.com/quick-tip-master-closures-by-reimplementing-them-from-s
 http://www.sitepoint.com/creating-an-imgur-app-with-nativescript/
 http://www.sitepoint.com/generating-pdfs-from-web-pages-on-the-fly-with-jspdf/
 http://www.sitepoint.com/sending-emails-gmail-javascript-api/
+http://www.sitepoint.com/functional-reactive-programming-rxjs/
 
 
 ####################################### Ponyfoo ###########################################################
@@ -66,7 +67,7 @@ http://ponyfoo.com/articles/es6-promises-in-depth
 http://ponyfoo.com/articles/es6-array-extensions-in-depth
 http://ponyfoo.com/articles/es6-strings-and-unicode-in-depth
 http://ponyfoo.com/articles/progressive-app-serviceworker
-https://ponyfoo.com/articles/understanding-javascript-async-await
+http://ponyfoo.com/articles/understanding-javascript-async-await
 
 
 ####################################### Stormpath ###########################################################
@@ -107,6 +108,7 @@ http://developer.telerik.com/featured/front-end-application-frameworks-component
 http://developer.telerik.com/featured/leveling-up-your-javascript/
 http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-beyond-the-browser/
 
+
 ####################################### 2Ality ###########################################################
 http://www.2ality.com/2015/08/es6-map-json.html
 http://www.2ality.com/2015/07/regexp-es6.html
@@ -124,6 +126,8 @@ http://www.2ality.com/2015/11/trailing-comma-parameters.html
 http://www.2ality.com/2015/11/configuring-babel6.html
 http://www.2ality.com/2016/01/private-data-classes.html
 http://www.2ality.com/2016/01/classes-inner-names.html
+http://www.2ality.com/2016/02/js-name-clashes.html
+
 
 ####################################### Mozilla ###########################################################
 https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
@@ -220,3 +224,4 @@ http://www.lessmilk.com/game-design-1/
 http://www.adityaravishankar.com/2016/01/commandos-bel-html5-recreating-the-classic-2-5d-real-time-tactics-game-in-the-browser/
 http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/
 http://andrejgajdos.com/setting-up-webpack-for-es6-react-sass-and-bootstrap/
+https://blog.risingstack.com/web-authentication-methods-explained/
