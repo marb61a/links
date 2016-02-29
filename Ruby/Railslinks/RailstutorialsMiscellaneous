@@ -39,8 +39,6 @@ https://www.fedux.org/articles/2015/08/26/creating-an-irb-based-repl-console-for
 http://blog.skylight.io/fixing-the-mysterious-slow-request/
 http://www.grok-interactive.com/blog/value-objects-in-ruby-part-1/
 https://practicingruby.com/articles/formula-processing
-http://blog.arkency.com/2015/09/testing-race-conditions/
-http://blog.arkency.com/2016/02/how-rspec-helped-me-with-resolving-random-spec-failures/
 http://theartandscienceofruby.com/2015/09/11/switching-from-rspec-to-minitest/
 http://vaidehijoshi.github.io/blog/2015/09/08/youve-got-mail-action-mailer-plus-letter-opener/
 http://eng.rightscale.com/2015/09/16/how-to-debug-ruby-memory-issues.html
@@ -85,7 +83,6 @@ https://www.leighhalliday.com/building-cli-ruby-with-gli
 https://about.futurelearn.com/blog/stubs-mocks-spies-rspec/
 http://dev.paperlesspost.com/skipping-tests-minitest/214
 https://www.amberbit.com/blog/2016/1/31/translating-existing-rails-applications-made-easier/
-http://ruby-performance-book.com/blog/2016/02/is-ruby-2-3-faster-rails-erb-template-rendering-performance.html
 https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html
 http://www.mikeperham.com/2016/02/09/kill-your-dependencies/
 http://blog.rebased.pl/2016/02/03/so-you-want-to-use-pathnames.html
@@ -96,3 +93,10 @@ http://blog.scoutapp.com/articles/2016/02/16/which-ruby-background-job-framework
 http://edgeguides.rubyonrails.org/api_app.html
 http://code.tutsplus.com/articles/improving-the-performance-of-your-rails-app-with-eager-loading--cms-25018
 http://thepracticaldev.com/communicating-intent-the-perpetually-misunderstood-ruby-bang
+https://engineering.heroku.com/blogs/2016-02-18-speeding-up-sprockets/
+https://blog.jbr.me/a-brief-tour-of-nokogiri-decorators/
+http://chrisstump.online/2016/02/20/docker-existing-rails-application/
+https://bibwild.wordpress.com/2016/02/18/struggling-towards-reliable-capybara-javascript-testing/
+http://vaneyckt.io/posts/how_to_write_your_own_rspec_retry_mechanism/
+http://blog.mojotech.com/how-to-use-a-react-datetimepicker-with-rails-forms/
+http://dreaming-neptune.blogspot.ie/2016/02/bond-spy-based-testing-and-mocking.html
