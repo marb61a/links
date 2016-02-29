@@ -22,6 +22,7 @@ http://www.sitepoint.com/integrate-jasmine-into-rails-for-solid-javascript-testi
 http://www.sitepoint.com/hackable-pdf-typesetting-in-ruby-with-prawn/
 http://www.sitepoint.com/quick-tip-add-recaptcha-to-your-rails-application/
 http://www.sitepoint.com/the-how-and-why-of-property-based-testing-in-ruby/
+http://www.sitepoint.com/put-your-finger-on-triggers-in-rails-with-hairtrigger/
 
 
 ###################################### Honeybadger ####################################################
@@ -33,6 +34,7 @@ http://blog.honeybadger.io/how-ruby-interprets-and-runs-your-programs/
 http://blog.honeybadger.io/spying-on-running-ruby-processes/
 http://blog.honeybadger.io/lexical-scoping-and-ruby-class-variables/
 http://blog.honeybadger.io/what-does-argv-mean-in-ruby/
+http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/
 
 
 ###################################### Toptal ####################################################
@@ -145,6 +147,7 @@ https://www.twilio.com/blog/2015/10/delay-api-calls-to-twilio-with-rails-active-
 https://www.twilio.com/blog/2016/01/two-factor-authentication-in-rails-4-with-devise-authy-and-puppies.html
 https://www.twilio.com/blog/2016/02/add-chat-to-a-rails-app-with-twilio-ip-messaging.html
 
+
 ###################################### Gavin Miller ####################################################
 http://gavinmiller.io/2016/creating-a-secure-sanitization-function/
 http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/
@@ -176,3 +179,16 @@ http://blog.bigbinary.com/2016/01/25/caching-in-development-environment-in-rails
 http://blog.bigbinary.com/2015/10/31/rails-5-allows-setting-custom-http-headers-for-assets.html
 http://blog.bigbinary.com/2016/02/16/rails-5-options-for-rake-routes.html
 http://blog.bigbinary.com/2016/02/17/active-support-improvements-in-Rails-5.html
+http://blog.bigbinary.com/2016/02/15/rails-5-makes-belong-to-association-required-by-default.html
+
+
+###################################### Performance Book ####################################################
+http://ruby-performance-book.com/blog/2016/02/is-ruby-2-3-faster-rails-erb-template-rendering-performance.html
+http://ruby-performance-book.com/blog/2016/02/is-ruby-2-3-faster-frozen-string-literals-performance.html
+http://ruby-performance-book.com/blog/2016/02/is-ruby-2-3-faster-how-to-prepare-yourself-for-frozen-string-literals-and-not-lose-performance.html
+
+
+###################################### Arkency ####################################################
+http://blog.arkency.com/2015/09/testing-race-conditions/
+http://blog.arkency.com/2016/02/how-rspec-helped-me-with-resolving-random-spec-failures/
+https://blog.arkency.com/2016/02/private-classes-in-ruby/
