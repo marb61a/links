@@ -133,6 +133,13 @@ http://orizens.com/wp/topics/from-angular-es5-directive-to-angular-es2015-compon
 http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/
 http://orizens.com/wp/topics/from-angular-1-x-ng-repeat-to-angular-2-ngfor-with-component/
 
+
+################################################# Codegeeks ##################################################### 
+http://www.webcodegeeks.com/javascript/angular-js/mock-responses-http-calls-network-traffic-simulation-using-ngmocke2e/
+http://www.webcodegeeks.com/javascript/angular-js/angular-js-transclusion-example/
+https://examples.javacodegeeks.com/enterprise-java/spring/mvc/angularjs-spring-integration-tutorial/
+
+
 ################################################# Auth0 ##################################################### 
 https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/#
 https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular2-authentication/
@@ -177,8 +184,6 @@ https://blog.nraboy.com/2016/01/include-external-javascript-libraries-in-an-angu
 http://www.creativebloq.com/web-design/build-data-dashboard-angularjs-121518544
 http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
 http://angularjs4u.com/directive/angularjs-popup-window-social-authentication-directive/
-http://www.webcodegeeks.com/javascript/angular-js/mock-responses-http-calls-network-traffic-simulation-using-ngmocke2e/
-http://www.webcodegeeks.com/javascript/angular-js/angular-js-transclusion-example/
 http://angularjs.chat/tutorials/angularjs-basic-chat-module/
 http://www.metaltoad.com/blog/angular-2-http-observables
 http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/
@@ -187,3 +192,8 @@ http://www.c-sharpcorner.com/UploadFile/8af675/create-signature-pad-using-angula
 http://www.dotnetcurry.com/angularjs/1252/angularjs-service-factory
 http://juristr.com/blog/2016/02/debugging-angular2-console/
 http://jslancer.com/2016/02/19/demystify-angularjs-15-one-way-data-binding/
+http://tutorials.pluralsight.com/review/using-a-spreadsheet-to-power-charts-in-angularjs-apps
+http://devproconnections.com/javascript/web-pages-more-dynamic-angularjs
+https://scotch.io/tutorials/build-an-angularjs-app-with-stamplay-the-ifttt-for-developers
+http://www.jvandemo.com/how-to-configure-your-angularjs-application-using-environment-variables/
+http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
