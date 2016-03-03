@@ -41,6 +41,7 @@ http://www.smashingmagazine.com/2015/12/introduction-to-postcss/
 https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/
 https://www.smashingmagazine.com/2016/01/leaner-responsive-images-client-hints/
 https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
+https://www.smashingmagazine.com/2016/03/pagination-infinite-scrolling-load-more-buttons/
 
 
 ############################################## CSS Tricks ##########################################################
@@ -60,6 +61,8 @@ https://css-tricks.com/designing-a-product-page-layout-with-flexbox/
 https://css-tricks.com/the-backgound-clip-property-and-use-cases/
 https://css-tricks.com/a-guide-on-svg-support-in-email/
 https://css-tricks.com/the-current-state-of-telephone-links/
+https://css-tricks.com/introducing-css-scroll-snap-points/
+https://css-tricks.com/squigglevision-in-css-and-svg/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -136,7 +139,6 @@ http://www.kirupa.com/html5/css_transitions_cheatsheet.htm
 http://seesparkbox.com/foundry/why_you_need_to_refactor_your_css
 http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users/
 http://speckyboy.com/2015/09/09/css-animation/
-http://sarasoueidan.com/blog/svg-vs-gif/
 http://joshnh.com/weblog/getting-responsive-tables-to-behave/
 https://justmarkup.com/log/2015/07/31/dealing-with-long-words-in-css/
 http://vincentp.me/blog/use-cases-for-calc/
@@ -163,3 +165,6 @@ http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/
 https://aerotwist.com/blog/the-anatomy-of-a-frame/
 http://www.frontendevelopers.com/old-browser-css-hacks/
 https://robinrendle.com/essays/new-web-typography/
+http://blog.lunarlogic.io/2016/boost-your-css-animation-performance-with-repaintless-css/
+http://sarasoueidan.com/blog/svg-vs-gif/
+https://sarasoueidan.com/blog/svg-style-inheritance-and-FOUSVG/
