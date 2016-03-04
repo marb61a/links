@@ -58,17 +58,13 @@ http://radek.io/2015/10/27/nodegit/
 https://community.oracle.com/docs/DOC-931127
 http://meow.noopkat.com/using-node-serialport-in-an-electron-app/
 https://news.floobits.com/2015/10/26/why-is-nodejs-crashing-a-deep-dive-into-a-tricky-bug/
-http://stackabuse.com/how-to-write-express-js-middleware/
 http://jamesknelson.com/writing-npm-packages-with-es6-using-the-babel-6-cli/
 http://coderesponsible.com/scraping-the-web-with-node-js/
-https://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-node-js/
-https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/
 https://developer.atlassian.com/blog/2015/10/profiling-node-apps/
 https://www.pubnub.com/blog/2014-12-16-realtime-mongodb-to-fetch-and-stream-report-data/
 http://www.nicoespeon.com/en/2015/11/plop-micro-generator-boilerplate-yeoman-alternative/
 http://wesbos.com/javascript-modules/
 https://meetfinch.com/blog/cross-platform-app-nwjs-react-flux
-http://stackabuse.com/setting-up-a-node-js-cluster/
 http://apmblog.dynatrace.com/2016/01/14/how-to-track-down-cpu-issues-in-node-js/
 http://codeplanet.io/node-module-walk-through-get-port/
 https://www.garysieling.com/blog/building-squarespace-integration-node-js
@@ -92,3 +88,6 @@ https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql
 http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
 https://nodeswat.com/blog/setting-up-a-secure-node-js-web-application/
 http://blog.honeybadger.io/how-to-report-node-js-errors-from-aws-lambda/
+http://www.confluent.io/blog/getting-started-with-kafka-in-node.js-with-the-confluent-rest-proxy
+http://toobler.com/blog/how-to-get-a-node-js-application-into-a-docker-container
+https://blog.stamplay.com/build-a-weather-by-sms-service-with-twilio-and-nodejs/
