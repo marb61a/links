@@ -19,6 +19,8 @@ http://www.sitepoint.com/manifoldjs-with-crosswalk-a-simpler-dev-experience-for-
 http://www.sitepoint.com/build-a-web-app-with-backbone-js-and-socket-io/
 http://www.sitepoint.com/build-sms-appointment-reminder-app-with-twilio/
 http://www.sitepoint.com/jade-tutorial-for-beginners/
+http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/
+
 
 ######################################## Scotch.io ##############################################
 https://scotch.io/tutorials/use-ejs-to-template-your-node-application
@@ -44,6 +46,8 @@ https://medium.com/@keithwhor/hello-nodal-why-we-re-building-node-js-servers-for
 https://medium.com/@nodejs/node-js-foundation-to-add-express-as-an-incubator-project-225fa3008f70#.92znqq235
 https://medium.com/@betable/getting-started-with-mdb-v8-5401c9c0e98f#.4qwuo6fyi
 https://medium.com/@dashersw/introducing-dovecôte-f9383a34ed09#.ew8v7161f
+https://medium.com/@eliezer/first-experiences-scaling-a-meteor-app-14a48e62a4af#.rr15xfqzs
+https://medium.com/getty-logs/a-aws-lambda-microservices-architecture-for-node-js-4513799101d4#.4cpn9rfbz
 
 
 ######################################## Risingstack ##############################################
@@ -55,10 +59,7 @@ https://blog.risingstack.com/graffiti-mongoose-mongodb-for-graphql/
 https://blog.risingstack.com/web-authentication-methods-explained/
 https://blog.risingstack.com/getting-started-with-nodejs-and-mqtt/
 https://blog.risingstack.com/how-enterprises-benefit-from-nodejs/
-
-
-######################################## Confluent ##############################################
-http://www.confluent.io/blog/getting-started-with-kafka-in-node.js-with-the-confluent-rest-proxy
+https://blog.risingstack.com/private-npm-with-docker/
 
 
 ######################################## Tutsplus ##############################################
@@ -96,10 +97,22 @@ https://davidwalsh.name/convert-image-ascii-art
 https://davidwalsh.name/nodejs-services
 
 
+######################################## Smashing Magazine ##############################################
+https://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-node-js/
+https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/
+https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/
+
+
 ######################################## Nic Raboy ##############################################
 https://blog.nraboy.com/2015/11/using-passportjs-in-your-node-js-couchbase-web-application/
 https://blog.nraboy.com/2015/10/create-a-simple-restful-api-with-node-js/
 https://blog.nraboy.com/2015/10/create-a-full-stack-app-using-node-js-couchbase-server/
+
+
+######################################## Stack Abuse ##############################################
+http://stackabuse.com/how-to-write-express-js-middleware/
+http://stackabuse.com/setting-up-a-node-js-cluster/
+http://stackabuse.com/bookshelf-js-a-node-js-orm/
 
 
 ######################################## Distelli ##############################################
