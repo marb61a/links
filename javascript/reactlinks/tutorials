@@ -33,7 +33,6 @@ https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-1-the-basic-tem
 https://medium.com/code-cartoons/a-cartoon-guide-to-flux-6157355ab207
 https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.cqy6vtpdb
 https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878
-https://medium.com/the-exponent-log/routing-and-navigation-in-react-native-6b27bee39603
 https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.i31p1x9oj
 https://medium.com/@davidvlsea/react-without-undue-complications-f3490403fdc0#.l3f37lmab
 https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.80z1q4mv7
@@ -43,10 +42,12 @@ https://medium.com/infinite-red/using-redux-saga-to-simplify-your-growing-react-
 https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4#.wyov11d18
 https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.gfibl8yll
 https://medium.com/tech-quizlet/smooth-game-animations-in-react-df43ece916c8#.f0mvcvvz8
-https://medium.com/infinite-red/what-sucks-about-react-native-c38a307a210f#.mga6bcays
 https://medium.com/@sharifsbeat/learn-the-concepts-part-1-418952d968cb#.pa78i9jrh
-https://medium.com/@clayallsopp/2016-the-year-react-native-eats-mobile-development-83e8482f78a6#.nsxq1zepl
 https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.yt1lly3o4
+https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.w2nhf67km
+https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.28ckh4i2h
+https://medium.com/the-redge-says/a-dead-simple-tutorial-on-how-to-use-react-js-for-those-who-know-html-css-and-some-javascript-9540426a67de#.v3wxf9miw
+https://medium.com/@lavrton/using-react-with-html5-canvas-871d07d8d753#.8bs2zptwl
 
 
 ###################################### James K Nelson ##################################################################
@@ -58,7 +59,6 @@ http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
 ###################################### Miscellaneous ##################################################################
 http://buildwithreact.com
 http://reactjs.net/getting-started/tutorial.html
-http://browniefed.com/blog/2015/11/07/react-native-how-to-create-twitter-exploding-hearts/
 http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
 http://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js/
 https://zapier.com/engineering/react-js-tutorial-guide-gotchas/
@@ -70,7 +70,6 @@ https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
 http://jaysoo.ca/2015/02/06/what-the-flux/
 http://shellmonger.com/2015/09/02/react-flux-localforage-and-saving-data/
 http://ditrospecta.com/javascript/react/es6/socketio/nodejs/realtime/2015/08/21/creating-real-time-instagram-socketio-react.html
-http://blog.bigbinary.com/2015/08/25/how-to-test-react-native-app-on-real-iphone.html
 https://quickleft.com/blog/#defusing-race-conditions-when-using-promises
 http://css-max.com/testing-react-tool-implementation/
 http://benclinkinbeard.com/posts/up-and-running-with-es6-and-react-in-under-5-minutes/
@@ -84,12 +83,10 @@ http://dapperdeveloper.com/2015/09/21/tutorial-build-a-date-picker-with-react-js
 https://github.com/HubSpot/react-experiments
 http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack
 http://krasimirtsonev.com/blog/article/distributing-react-components-babel-browserify-webpack-uglifyjs
-http://jaero.space/blog/imgur-react-native/
 http://jaero.space/blog/react-performance-1/
 https://www.nczonline.net/blog/2016/01/react-and-the-economics-of-dynamic-web-interfaces/
 https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
-http://www.mattzabriskie.com/blog/adventures-with-react-native
 https://www.twilio.com/blog/2015/11/reactjs-tutorial-call-monitoring-with-react-express-and-socket-io.html
 https://bugsnag.com/blog/moving-bugsnags-frontend-to-react
 http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html
@@ -107,8 +104,11 @@ https://jamesfriend.com.au/better-assertions-shallow-rendered-react-components
 https://pseudoconcurrentthought.wordpress.com/2016/01/26/my-reaction-to-react/
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
-http://www.proreactnative.com/Getting-Started-with-React-Native-on-Ubuntu-Linux/
 http://benchling.engineering/performance-engineering-with-react/
 https://react.rocks/blog/post/propTypes_React_Flow/
 https://stormpath.com/blog/react-sdk-custom-forms/
 http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/
+http://benchling.engineering/deep-dive-react-perf-debugging/
+http://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem
+http://technologyadvice.github.io/eradicate-runtime-errors-in-react-with-flow/
+https://blog.redradix.com/why-we-are-switching-to-redux-and-sticking-with-react-too/
