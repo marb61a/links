@@ -18,7 +18,6 @@ https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/
 http://www.roialty.com/ruby-the-grape-swagger-stack/
 http://hashrocket.com/blog/posts/lets-write-some-bad-ruby
 http://devdungeon.com/content/writing-mumble-bot-ruby
-http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html
 http://rom-rb.org/tutorials/todo-app-with-rails/
 http://www.integralist.co.uk/posts/eigenclass.html
 http://designisrefactoring.com/2016/02/03/factories/
@@ -87,7 +86,6 @@ https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html
 http://www.mikeperham.com/2016/02/09/kill-your-dependencies/
 http://blog.rebased.pl/2016/02/03/so-you-want-to-use-pathnames.html
 https://blog.lelonek.me/defensive-programming-in-ruby-477f3505742a#.p1blj4urn
-http://readysteadycode.com/howto-access-the-gmail-api-with-ruby
 http://tutorials.pluralsight.com/review/elastic-search-with-ruby-on-rails
 http://blog.scoutapp.com/articles/2016/02/16/which-ruby-background-job-framework-is-right-for-you
 http://edgeguides.rubyonrails.org/api_app.html
@@ -100,3 +98,15 @@ https://bibwild.wordpress.com/2016/02/18/struggling-towards-reliable-capybara-ja
 http://vaneyckt.io/posts/how_to_write_your_own_rspec_retry_mechanism/
 http://blog.mojotech.com/how-to-use-a-react-datetimepicker-with-rails-forms/
 http://dreaming-neptune.blogspot.ie/2016/02/bond-spy-based-testing-and-mocking.html
+http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/
+http://readysteadycode.com/howto-access-amazon-dynamodb-with-ruby
+http://readysteadycode.com/howto-access-the-gmail-api-with-ruby
+http://brewhouse.io/2016/02/26/five-practices-for-robust-ruby-on-rails-applications.html
+http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html
+http://blog.thefrontiergroup.com.au/2016/02/clean-rails_helper-file
+http://blog.plataformatec.com.br/2016/02/experimenting-with-explicit-contracts-with-ruby/
+http://mixandgo.com/blog/how-to-write-a-cucumber-test-for-google-maps
+http://mixandgo.com/blog/understanding-and-extending-rails-form-helpers
+http://www.toptal.com/ruby/tips-and-practices
+http://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds
+
