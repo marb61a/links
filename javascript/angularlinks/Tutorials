@@ -4,11 +4,9 @@
 ################################################# Sitepoint #####################################################  
 http://www.sitepoint.com/tabbed-browser-node-webkit-angularjs/
 http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/
-http://www.sitepoint.com/getting-started-with-angular-2-using-typescript/
 http://www.sitepoint.com/easy-form-validation-angularjs-ngmessages/
-http://www.sitepoint.com/creating-components-angular-2-typescript-es5/
 http://www.sitepoint.com/closer-look-angulars-ngmessages-module/
-
+http://www.sitepoint.com/easy-angularjs-authentication-with-auth0/
 
 ################################################# Thinkful #####################################################
 https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Introduction#Getting-Started-with-AngularJS
@@ -27,6 +25,7 @@ https://medium.com/@marcosloic/managing-state-in-angular-2-using-rxjs-b849d6bbd5
 https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.js1g2yjib
 https://medium.com/@thomassolow/building-a-front-end-only-app-with-angular-e67d1d7573d0#.ut8mcewi5
 https://medium.com/@AliyahChoudhry/is-angular-js-is-the-hottest-javascript-framework-b74495f4e567#.6ut70m67d
+https://medium.com/algotech-solutions/create-interactive-charts-with-ui-grid-and-angular-chart-8e0c436cc0ec#.t4fqpnelw
 
 
 ################################################# Scotch.io ##################################################### 
@@ -77,6 +76,7 @@ http://toddmotto.com/no-scope-soup-bind-to-controller-angularjs
 http://toddmotto.com/angular-component-method-back-ported-to-1.3/
 https://toddmotto.com/directive-to-directive-communication-with-require/
 https://toddmotto.com/on-init-require-object-syntax-angular-component/
+https://toddmotto.com/angular-modules-setters-getters/
 
 
 ################################################# Codelord ##################################################### 
@@ -86,21 +86,6 @@ http://www.codelord.net/2015/11/18/the-deal-with-angular-and-minification/?
 http://www.codelord.net/2015/12/03/lazy-loading-your-first-component-in-angular/
 http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/
 http://www.codelord.net/2016/01/14/adding-the-first-angular-2-component-to-your-angular-1-app/
-
-
-################################################# Thoughtram ##################################################### 
-http://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html
-http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html
-http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html
-
-
-################################################# Syntax Success ##################################################### 
-http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0
-http://www.syntaxsuccess.com/viewarticle/dependency-injection-in-angular-2.0
-http://www.syntaxsuccess.com/viewarticle/using-jquery-with-angular-2.0
-http://www.syntaxsuccess.com/viewarticle/input-controls-in-angular-2.0
-http://www.syntaxsuccess.com/viewarticle/loading-components-dynamically-in-angular-2.0
-http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0
 
 
 ################################################# Code Project ##################################################### 
@@ -140,16 +125,8 @@ http://www.webcodegeeks.com/javascript/angular-js/angular-js-transclusion-exampl
 https://examples.javacodegeeks.com/enterprise-java/spring/mvc/angularjs-spring-integration-tutorial/
 
 
-################################################# Auth0 ##################################################### 
-https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/#
-https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular2-authentication/
-
-
 ################################################# Miscellaneous ##################################################### 
-http://blog.scottlogic.com/2015/12/07/angular-2.html
-https://blog.pusher.com/real-time-apps-angular-2/
-http://www.infoworld.com/article/3010853/application-development/up-close-with-googles-angular-2-javascript-framework.html
-http://www.jvandemo.com/how-to-build-minesweeper-using-angular-2-and-immutable-js/
+http://www.cloudcity.io/blog/2016/03/03/angular-loading-annoyances/
 https://eng.saucelabs.com/blog/building-a-ui-style-guide-with-angularjs-directives
 http://blog.pluralsight.com/tutorial-angularjs
 http://bencentra.com/code/2015/11/16/unit-testing-angularjs.html
@@ -178,9 +155,6 @@ http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html
 http://victorsavkin.com/post/99998937651/building-angular-apps-using-flux-architecture
 http://g00glen00b.be/e2e-testing-angularjs-applications-with-protractor/
 http://theleancoder.net/index.php/2015/10/18/angularjs-introduction/
-http://branchandbound.net/blog/web/2015/11/exploring-angular2/
-http://angularjs.blogspot.cl/2015/12/building-mobile-apps-with-angular-2-and.html
-https://blog.nraboy.com/2016/01/include-external-javascript-libraries-in-an-angular-2-typescript-project/
 http://www.creativebloq.com/web-design/build-data-dashboard-angularjs-121518544
 http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
 http://angularjs4u.com/directive/angularjs-popup-window-social-authentication-directive/
@@ -196,4 +170,5 @@ http://tutorials.pluralsight.com/review/using-a-spreadsheet-to-power-charts-in-a
 http://devproconnections.com/javascript/web-pages-more-dynamic-angularjs
 https://scotch.io/tutorials/build-an-angularjs-app-with-stamplay-the-ifttt-for-developers
 http://www.jvandemo.com/how-to-configure-your-angularjs-application-using-environment-variables/
-http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+http://www.dotnetcurry.com/angularjs/1255/unit-testing-angularjs-using-jasmine-karma
+https://stormpath.com/blog/jwt-authentication-angularjs/
