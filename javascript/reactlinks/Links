@@ -8,6 +8,7 @@ https://egghead.io/series/react-flux-architecture
 https://www.udemy.com/learn-and-understand-reactjs/
 https://www.udemy.com/reactnative/
 https://www.udemy.com/react_native/
+http://courses.reactjsprogram.com/courses/reactnativeios
 
 ##Videos - 
 https://www.youtube.com/watch?v=xsSnOQynTHs - Dan Abramov : Hot Reloading
@@ -31,7 +32,6 @@ https://github.com/gaearon/react-dnd
 https://www.npmjs.com/package/react-blessed/
 https://github.com/omnidan/redux-undo
 https://github.com/gajus/react-css-modules
-https://github.com/cyclejs/cycle-react-native
 https://github.com/Adphorus/react-date-range
 https://github.com/relax/relax
 https://facebook.github.io/relay/
@@ -48,6 +48,9 @@ http://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html
 https://github.com/ngduc/react-setup?v=2.0.2
 https://github.com/gaearon/react-makes-you-sad
 https://griddlegriddle.github.io/Griddle/next/
+https://github.com/gaearon/react-transform-boilerplate
+https://github.com/theadam/react-inform
+https://github.com/UniversalAvenue/react-compose
 
 
 ##Links -
@@ -70,4 +73,5 @@ http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react
 http://reactcheatsheet.com
 https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
 http://jxnblk.com/rebass/
+http://reactcompose.com
 
