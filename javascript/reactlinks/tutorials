@@ -38,7 +38,6 @@ https://medium.com/@davidvlsea/react-without-undue-complications-f3490403fdc0#.l
 https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.80z1q4mv7
 https://medium.com/@roman01la/om-next-for-react-devs-introduction-and-project-setup-52b88f87264#.s1h3djud5
 https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.epvw0gxdw
-https://medium.com/infinite-red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.5t0k19m09
 https://medium.com/front-end-developers/handcrafting-an-isomorphic-redux-application-with-love-40ada4468af4#.wyov11d18
 https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.gfibl8yll
 https://medium.com/tech-quizlet/smooth-game-animations-in-react-df43ece916c8#.f0mvcvvz8
@@ -48,6 +47,11 @@ https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-re
 https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.28ckh4i2h
 https://medium.com/the-redge-says/a-dead-simple-tutorial-on-how-to-use-react-js-for-those-who-know-html-css-and-some-javascript-9540426a67de#.v3wxf9miw
 https://medium.com/@lavrton/using-react-with-html5-canvas-871d07d8d753#.8bs2zptwl
+https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6#.xhcmg5b5y
+https://medium.com/modus-create-front-end-development/automatic-code-splitting-for-react-router-w-es6-imports-a0abdaa491e9#.6333zpkrs
+https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.lf8qxgy0h
+https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.4440jxj42
+https://medium.com/nfl-engineers/nfl-react-84e9cd11d384#.5uleqg5v3
 
 
 ###################################### James K Nelson ##################################################################
@@ -75,7 +79,6 @@ http://css-max.com/testing-react-tool-implementation/
 http://benclinkinbeard.com/posts/up-and-running-with-es6-and-react-in-under-5-minutes/
 http://merrickchristensen.com/articles/single-state-tree.html
 http://konkle.us/state-management-with-redux/
-https://mattiamanzati.gitbooks.io/react-native-for-web/content/
 http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react
@@ -112,3 +115,8 @@ http://benchling.engineering/deep-dive-react-perf-debugging/
 http://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem
 http://technologyadvice.github.io/eradicate-runtime-errors-in-react-with-flow/
 https://blog.redradix.com/why-we-are-switching-to-redux-and-sticking-with-react-too/
+http://14islands.com/blog/2016/03/03/why-we-chose-react-for-hybrid-app/
+https://deepstream.io/tutorials/deepstream-react.html
+http://iamdustan.com/2016/02/19/react-devtools-renderer-integration/
+http://technologyadvice.github.io/eradicate-runtime-errors-in-react-with-flow/
+http://manuel.bernhardt.io/2016/02/25/upgrading-from-react-0-11-2-to-0-14-7-in-374-easy-steps/
