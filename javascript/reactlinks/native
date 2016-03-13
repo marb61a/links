@@ -1,20 +1,28 @@
                               React Native Links
                               
 ##### Tutorials #####
-http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993
-http://browniefed.com/blog/2015/11/07/react-native-how-to-create-twitter-exploding-hearts/
-http://www.proreactnative.com/Getting-Started-with-React-Native-on-Ubuntu-Linux/
-http://www.mattzabriskie.com/blog/adventures-with-react-native
-http://jaero.space/blog/imgur-react-native/
-http://blog.bigbinary.com/2015/08/25/how-to-test-react-native-app-on-real-iphone.html
 
 
 ###################################### Medium ##################################################################
 https://medium.com/infinite-red/what-sucks-about-react-native-c38a307a210f#.mga6bcays
 https://medium.com/@clayallsopp/2016-the-year-react-native-eats-mobile-development-83e8482f78a6#.nsxq1zepl
 https://medium.com/the-exponent-log/routing-and-navigation-in-react-native-6b27bee39603
+https://medium.com/infinite-red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.5t0k19m09
+
+
+###################################### Miscellaneous ##################################################################
+http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993
+http://browniefed.com/blog/2015/11/07/react-native-how-to-create-twitter-exploding-hearts/
+http://www.proreactnative.com/Getting-Started-with-React-Native-on-Ubuntu-Linux/
+http://www.mattzabriskie.com/blog/adventures-with-react-native
+http://jaero.space/blog/imgur-react-native/
+http://blog.bigbinary.com/2015/08/25/how-to-test-react-native-app-on-real-iphone.html
+https://mattiamanzati.gitbooks.io/react-native-for-web/content/
+https://getsiphon.com/docs/build-a-youtube-browser/
+http://www.infoq.com/articles/react-native-introduction
 
 
 ##### Code #####
 https://github.com/xiekw2010/react-native-gitfeed
 https://github.com/babotech/react-ingrid
+https://github.com/cyclejs/cycle-react-native
