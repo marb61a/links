@@ -8,10 +8,29 @@ http://www.sitepoint.com/using-the-youtube-api-to-embed-video-in-an-android-app/
 http://www.sitepoint.com/how-to-build-an-ar-android-app-with-vuforia-and-unity/
 http://www.sitepoint.com/integrating-the-facebook-api-with-android/
 
+
+######################################## Medium ##############################################
+https://medium.com/google-developers/mediabrowserservicecompat-and-the-modern-media-playback-app-7959a5196d90#.rvqud8g4c
+https://medium.com/sebs-top-tips/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286#.ne6lemmnc
+https://medium.com/@czyrux/presenter-surviving-orientation-changes-with-loaders-6da6d86ffbbf#.9k4s6m87x
+https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850#.uclrnsgh1
+https://medium.com/@kurtisnusbaum/rxandroid-basics-part-2-6e877af352#.1us78526e
+https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.ydzx9coco
+https://medium.com/@seebrock3r/analyse-a-stack-trace-android-studio-protips-2-7d452056223a#.gm5dxj5ez
+
+
 ######################################## Android Hive ##############################################
 http://www.androidhive.info/2015/08/android-adding-sms-verification-like-whatsapp-part-1/
 http://www.androidhive.info/2015/08/android-adding-sms-verification-like-whatsapp-part-2/
 http://www.androidhive.info/2015/08/android-integrating-google-analytics-v4/
 
 
+######################################## Miscellaneous ##############################################
 http://blogen.stickypassword.com/biometrics-fingerprint-authentication-on-your-android/                                        
+http://hannesdorfmann.com/android/let-mosby-flow
+http://www.tinmegali.com/en/model-view-presenter-android-part-1/
+https://blog.stylingandroid.com/indeterminate-part-1/
+http://akarnokd.blogspot.ie/2016/03/rxjava-design-retrospect.html
+http://frogermcs.github.io/dependency-injection-with-dagger-2-producers/
+http://artemzin.com/blog/why-i-dont-want-to-use-kotlin-for-android-development-yet/
+http://blog.nimbledroid.com/2016/03/07/performance-of-dependency-injection-libraries.html
