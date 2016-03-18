@@ -48,6 +48,9 @@ https://medium.com/@betable/getting-started-with-mdb-v8-5401c9c0e98f#.4qwuo6fyi
 https://medium.com/@dashersw/introducing-dovecôte-f9383a34ed09#.ew8v7161f
 https://medium.com/@eliezer/first-experiences-scaling-a-meteor-app-14a48e62a4af#.rr15xfqzs
 https://medium.com/getty-logs/a-aws-lambda-microservices-architecture-for-node-js-4513799101d4#.4cpn9rfbz
+https://medium.com/@keithwhor/realtime-doesn-t-belong-everywhere-build-scalable-api-services-in-node-js-with-nodal-10d0adfb66d#.vlbubamkc
+https://medium.com/@Grigorkh/understanding-socket-io-23ad6d26d003#.5cctlve15
+https://medium.com/@devlucky/how-to-get-a-performance-boost-using-node-js-native-addons-fd3a24719c85#.661rteqkw
 
 
 ######################################## Risingstack ##############################################
@@ -84,6 +87,7 @@ https://stormpath.com/blog/angular-node-15-minutes/
 https://stormpath.com/blog/building-secure-apis-with-express/
 https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs/
 https://stormpath.com/blog/secure-password-hashing-in-node-with-argon2/
+https://stormpath.com/blog/migrating-parse-authentication/
 
 
 ######################################## David Walsh ##############################################
@@ -101,6 +105,7 @@ https://davidwalsh.name/nodejs-services
 https://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-node-js/
 https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/
 https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/
+https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/
 
 
 ######################################## Nic Raboy ##############################################
@@ -113,6 +118,7 @@ https://blog.nraboy.com/2015/10/create-a-full-stack-app-using-node-js-couchbase-
 http://stackabuse.com/how-to-write-express-js-middleware/
 http://stackabuse.com/setting-up-a-node-js-cluster/
 http://stackabuse.com/bookshelf-js-a-node-js-orm/
+http://stackabuse.com/avoiding-callback-hell-in-node-js/
 
 
 ######################################## Distelli ##############################################
@@ -123,6 +129,12 @@ https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
 ######################################## Semaphoreci ##############################################
 https://semaphoreci.com/blog/2015/12/15/nodejs-version-usage-in-commercial-projects-2015-edition.html?
 https://semaphoreci.com/community/tutorials/how-to-deploy-a-node-js-application-to-elastic-beanstalk-with-semaphore
+
+
+######################################## Michael Herman ##############################################
+http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/
+http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/
+http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/
 
 
 ######################################## NPMJS ##############################################
