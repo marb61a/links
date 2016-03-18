@@ -1,6 +1,5 @@
 ######################################## Miscellaneous Tutorials ##############################################
 http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/
-http://stackabuse.com/avoiding-callback-hell-in-node-js/
 http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/
 http://jowanza.com/post/125602755114/dealing-with-soap-apis-in-nodejs
 http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
@@ -19,6 +18,7 @@ http://mziccard.me/2015/08/10/node-timsort-fast-sorting-nodejs/
 http://blogs.msdn.com/b/vscode/archive/2015/08/11/getting-started-with-docker.aspx
 http://blog.redradix.com/an-architecture-for-complex-node-js-apps-with-dependency-injection/
 https://www.twilio.com/blog/2015/08/playing-tunes-over-the-phone-with-the-twilio-nodejs-library-in-es6.html
+https://www.twilio.com/blog/2016/03/building-sms-weather-forecasts-with-stamplay-twilio-and-nodejs.html
 http://ifelse.io/2015/08/17/dockerizing-a-nodejs-app/
 http://heidloff.net/article/deploying-apis-built-via-nodejs-to-ibm-bluemix
 http://www.jut.io/blog/2015/pushing-node-js-performance-limits
@@ -31,7 +31,6 @@ http://xeektech.com/post/129055775448/debugging-nodejs-using-node-inspector-and-
 http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/02/13/how-to-use-nodejs-express-and-bower-to-create-angularjs-apps.aspx
 http://www.tutorialsavvy.com/2014/05/web-sockets-with-socket-io-and-node-js.html/
 http://www.kogonuso.com/2015/09/better-beginners-guide-to-nodejs-server.html
-http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/
 http://jxcore.com/using-jxcores-packaging-feature-to-deploy-ghost/
 http://www.toptal.com/nodejs/debugging-memory-leaks-node-js-applications
 http://rethinkdb.com/blog/node-4/
@@ -42,13 +41,13 @@ http://spin.atomicobject.com/2015/09/25/debug-node-js/
 https://moroccojs.org/tutorials/npm-based-front-end-workflow/
 http://sagivo.com/post/130207525903/nodejs-addons
 https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/
+http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/
 https://lob.com/blog/automate-payment-reminder-system-with-lob-customerio-segment/
 https://nodesource.com/blog/cpp-addons-for-nodejs-v4
 https://nodesource.com/blog/blacklisting-node-js-core-modules-and-bindings-to-enhance-application-security/
 http://www.capitalone.io/blog/contrasting-enterprise-nodejs-frameworks/
 https://www.codementor.io/nodejs/tutorial/how-to-implement-twitter-sign-expressjs-oauth
 http://ditrospecta.com/javascript/plugin/hubot/2015/10/03/hubot-plugin-choose-place-to-drink-coffee.html
-http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/
 http://engineering.widen.com/blog/future-of-the-web-react-falcor/
 http://www.2ality.com/2015/10/google-analytics-api.html
 http://blog.couchbase.com/2015/october/adding-google-sign-in-with-node.js-to-a-couchbase-mobile-application
@@ -91,3 +90,7 @@ http://blog.honeybadger.io/how-to-report-node-js-errors-from-aws-lambda/
 http://www.confluent.io/blog/getting-started-with-kafka-in-node.js-with-the-confluent-rest-proxy
 http://toobler.com/blog/how-to-get-a-node-js-application-into-a-docker-container
 https://blog.stamplay.com/build-a-weather-by-sms-service-with-twilio-and-nodejs/
+http://rethinkdb.com/blog/v849-es6-features/
+http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html
+http://jonbho.net/2016/03/11/writing-interactive-command-line-apps-in-javascript-with-node-js-or-how-to-write-the-most-classic-type-of-software-on-the-most-modern-framework-without-frying-your-brain-in-the-process/
+http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804
