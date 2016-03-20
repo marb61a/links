@@ -18,7 +18,7 @@ https://www.youtube.com/user/MarakanaTechTV/playlists
 https://egghead.io/series/how-to-write-an-open-source-javascript-library
 http://www.devbattles.com/en/sand/post-1742-How_to_play_with_setIterval_in_JavaScript
 https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-
+https://www.youtube.com/watch?v=edq4dt98Mpg - 5 Tips To Improve Your JS with ES6
 
 ##Code -
 http://www.javascriptkit.com/javatutors/
@@ -100,13 +100,20 @@ https://github.com/cshum/caco
 https://github.com/atayahmet/jquery.easypin
 https://github.com/sindresorhus/matcher
 https://github.com/marten-de-vries/kneden
-https://github.com/santoshrajan/frpjs
-https://github.com/mobxjs/mobx
-https://github.com/georgebonnr/bug
+https://github.com/santoshrajan/frpjs - Functional Reactive Programming Library for JavaScript
+https://github.com/mobxjs/mobx - Simple, scalable state management
+https://github.com/georgebonnr/bug - Easier Debugging
+https://github.com/babel/babylon - Javascript parser
+https://github.com/DKirwan/calendar-heatmap - D3 Heatmap similar to Github contribution chart
+https://github.com/danigb/tonal - Music tonal elements —pitches, chords, scales, keys— in Javascript 
+https://dreamdom.github.io/speechrec.html - Javascript speech recogniser
+https://github.com/ulrobin/dynamicColorPage - Tiny jQuery plugin to easily adapt the page's styling
+https://github.com/ctrl-freaks/freezeframe.js - Pauses animated .gifs and enables automatic animate upon mouse hover
 
 
 ##Links - 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
+http://substance.io/ - Web content editor (Open Source)
 http://mdast.js.org
 https://github.com/bevacqua/js
 http://substance.io/
@@ -157,3 +164,6 @@ http://www.transcrypt.org/
 http://callmecavs.com/bricks.js/
 https://morr.cc/almightree/
 http://pressurejs.com/
+http://blog.wolksoftware.com/introducing-inversify-2
+http://kylebrumm.com/spotifyCurrentlyPlaying.js/
+http://www.gravmatt.com/force-js/ - Scroll and Animate pages
