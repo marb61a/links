@@ -23,6 +23,9 @@ http://www.sitepoint.com/hackable-pdf-typesetting-in-ruby-with-prawn/
 http://www.sitepoint.com/quick-tip-add-recaptcha-to-your-rails-application/
 http://www.sitepoint.com/the-how-and-why-of-property-based-testing-in-ruby/
 http://www.sitepoint.com/put-your-finger-on-triggers-in-rails-with-hairtrigger/
+http://www.sitepoint.com/improve-the-smell-of-your-code-with-microrefactorings/
+http://www.sitepoint.com/onwards-to-rails-5-additions-changes-and-deprecations/
+http://www.sitepoint.com/using-and-testing-the-adapter-design-pattern/
 
 
 ###################################### Honeybadger ####################################################
@@ -50,6 +53,7 @@ https://medium.com/connect-the-dots/building-microservices-with-docker-and-the-r
 https://medium.com/@albertstill/building-a-static-site-with-a-web-application-framework-using-wget-aws-s3-cli-circleci-5b9285d1af1d#.m44efl2je
 https://medium.com/@mccabe615/ugly-ruby-d6b0a43704d7#.tevipudwi
 https://medium.com/build-acl/using-aws-s-ruby-sdk-4434860e1a3#.fn9cioonz
+https://medium.com/@richardsondx/everything-you-should-know-about-the-obscure-world-of-jruby-jruby-with-ruby-on-rails-c3c90d8fdeec#.bfpixa1us
 
 
 ###################################### Justin Weiss ####################################################
@@ -82,6 +86,7 @@ http://jakeyesbeck.com/2016/01/10/how-to-parallelize-ruby-http-requests/
 http://jakeyesbeck.com/2016/01/24/ruby-private-class-methods/
 http://jakeyesbeck.com/2016/02/07/how-to-remove-a-column-with-zero-downtime-in-ruby-on-rails/
 http://jakeyesbeck.com/2016/02/14/ruby-threads-and-active-record-connections/
+http://jakeyesbeck.com/2016/03/13/the-power-of-arel/
 
 
 ###################################### Codeship ####################################################
@@ -98,6 +103,9 @@ http://blog.codeship.com/cross-model-search-with-ember-rails-and-elasticsearch/
 http://blog.codeship.com/unit-testing-in-ruby/
 http://blog.codeship.com/running-a-rails-application-on-deis/
 http://blog.codeship.com/comparing-rails-and-phoenix-part-i/
+http://blog.codeship.com/the-enumerable-module/
+http://blog.codeship.com/surrogate-websockets/
+http://blog.codeship.com/the-json-api-spec/
 
 
 ###################################### Rossta ####################################################
@@ -128,6 +136,7 @@ https://www.nateberkopec.com/2016/01/07/what-http2-means-for-ruby-developers.htm
 http://eftimov.net/rails-tls-hsts-cookies/
 http://eftimov.net/tdd-extract-class/
 http://eftimov.net/refactoring-builder-pattern/
+http://eftimov.net/primitive-obsession-ruby
 
 
 ###################################### Twillio ####################################################
@@ -153,7 +162,7 @@ http://blog.chaps.io/2016/02/01/running-concurrent-workflows-in-ruby.html
 http://www.blackbytes.info/2015/09/ngram-analysis-ruby/
 http://www.blackbytes.info/2016/01/ruby-tricks/
 http://www.blackbytes.info/2016/02/ruby-procs-and-lambdas/
-
+http://www.blackbytes.info/2016/03/enumerable-methods/
 
 
 ###################################### Wyeworks ####################################################
@@ -169,6 +178,7 @@ http://blog.bigbinary.com/2015/10/31/rails-5-allows-setting-custom-http-headers-
 http://blog.bigbinary.com/2016/02/16/rails-5-options-for-rake-routes.html
 http://blog.bigbinary.com/2016/02/17/active-support-improvements-in-Rails-5.html
 http://blog.bigbinary.com/2016/02/15/rails-5-makes-belong-to-association-required-by-default.html
+http://blog.bigbinary.com/2016/03/08/rails-5-switches-from-strong-etags-to-weak-tags.html
 
 
 ###################################### Performance Book ####################################################
@@ -180,4 +190,5 @@ http://ruby-performance-book.com/blog/2016/02/is-ruby-2-3-faster-how-to-prepare-
 ###################################### Arkency ####################################################
 http://blog.arkency.com/2015/09/testing-race-conditions/
 http://blog.arkency.com/2016/02/how-rspec-helped-me-with-resolving-random-spec-failures/
-https://blog.arkency.com/2016/02/private-classes-in-ruby/
+http://blog.arkency.com/2016/02/private-classes-in-ruby/
+http://blog.arkency.com/2016/03/creating-new-content-types-in-rails-4-dot-2/
