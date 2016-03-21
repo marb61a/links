@@ -127,6 +127,14 @@ https://github.com/molybdenum-99/reality
 https://github.com/janlelis/unicode-display_width
 https://github.com/westonganger/spreadsheet_architect
 https://github.com/acorncache/acorn-cache
+https://github.com/iridakos/duckrails - A development tool to quickly & dynamically mock API endpoints
+https://github.com/SudhagarS/dpr - The simplest Ruby HTTP client.
+https://github.com/tobiasfeistmantl/LeSSL - A certificate manager for lets-encrypt certificates
+https://github.com/efigence/has_reindexable_associations - Automatic Elasticsearch Reindexing of Active Record Associations
+https://github.com/altmetric/urn - Ruby library to validate and normalize URNs according to RFC 2141.
+https://github.com/jdantonio/functional-ruby - A gem for adding functional programming tools to Ruby
+https://github.com/amatsuda/stateful_enum - A very simple state machine plugin built on top of ActiveRecord::Enum
+https://github.com/ruby-concurrency/concurrent-ruby - Modern concurrency tools 
 
 
 ## Links
@@ -135,6 +143,7 @@ http://trailblazer.to/
 http://twin.github.io/ode-to-sequel/
 https://rubymonk.com
 https://rubygems.org/gems
+http://opalphaser.com/ - Opal wrapper for the phaser framework
 https://isitvulnerable.com/
 http://rom-rb.org
 https://www.fedux.org/articles.html
@@ -158,3 +167,4 @@ http://zachcapalbo.com/projects/flammarion.html
 http://necula01.github.io/bond/tutorial.html
 https://minhajuddin.com/2016/03/03/put-this-in-your-code-to-debug-anything/
 http://slides.com/apneadiving/code-ruby-like-you-build-lego#/
+http://jvns.ca/blog/2016/03/04/whats-up-with-ruby-http-libraries/
