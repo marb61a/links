@@ -10,6 +10,8 @@ http://www.sitepoint.com/immutability-react/
 http://www.sitepoint.com/demystifying-react-components-state/
 http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
 http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/
+http://www.sitepoint.com/quick-tip-video-player-component-react/
+http://www.sitepoint.com/bind-javascripts-this-keyword-react/
 
 
 ###################################### Scotch.io ################################################################## 
@@ -52,12 +54,20 @@ https://medium.com/modus-create-front-end-development/automatic-code-splitting-f
 https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.lf8qxgy0h
 https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.4440jxj42
 https://medium.com/nfl-engineers/nfl-react-84e9cd11d384#.5uleqg5v3
+https://medium.com/@cheapsteak/animations-with-reacttransitiongroup-4972ad7da286#.c5d5i0hpn
+https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.7j6z8mw2n
 
 
 ###################################### James K Nelson ##################################################################
 http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
 http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/
 http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
+http://jamesknelson.com/universal-react-youre-doing-it-wrong/
+
+
+###################################### ReactJS News ##################################################################
+https://reactjsnews.com/webpack-in-production
+https://reactjsnews.com/redux-middleware
 
 
 ###################################### Miscellaneous ##################################################################
@@ -67,7 +77,6 @@ http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps
 http://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js/
 https://zapier.com/engineering/react-js-tutorial-guide-gotchas/
 http://up.svbtle.com/blackjackin-with-react-js
-http://swizec.com/blog/using-react-in-the-real-world/swizec/6710
 http://dapperdeveloper.com/2015/07/04/react-js-and-flux-todo-tutorial/
 http://tonyspiro.com/building-a-simple-react-application-using-the-flux-pattern/
 https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
@@ -120,3 +129,6 @@ https://deepstream.io/tutorials/deepstream-react.html
 http://iamdustan.com/2016/02/19/react-devtools-renderer-integration/
 http://technologyadvice.github.io/eradicate-runtime-errors-in-react-with-flow/
 http://manuel.bernhardt.io/2016/02/25/upgrading-from-react-0-11-2-to-0-14-7-in-374-easy-steps/
+http://swizec.com/blog/using-react-in-the-real-world/swizec/6710
+http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775
+http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/
