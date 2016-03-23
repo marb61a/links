@@ -7,10 +7,11 @@ http://www.sitepoint.com/building-chat-app-node-webkit-firebase-angularjs/
 http://www.sitepoint.com/easy-form-validation-angularjs-ngmessages/
 http://www.sitepoint.com/closer-look-angulars-ngmessages-module/
 http://www.sitepoint.com/easy-angularjs-authentication-with-auth0/
+http://www.sitepoint.com/angular-2-mockbackend/
+
 
 ################################################# Thinkful #####################################################
 https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Introduction#Getting-Started-with-AngularJS
-
 
 
 ################################################# Medium ##################################################### 
@@ -21,8 +22,6 @@ https://medium.com/@YOzaz/generation-angularjs-production-files-with-gulp-12214f
 https://medium.com/@murdockcrc/angularjs-date-filter-with-momentjs-369b742e7440#.25mh8bepj
 https://medium.com/@andreaterzani/hotel-booking-engine-with-laravel-5-and-angularjs-part-1-81af69432b1a#.6mj7up83g
 https://medium.com/@PinakinMistry/angular-component-cutter-using-es2015-gulp-webpack-127957aa0d70
-https://medium.com/@marcosloic/managing-state-in-angular-2-using-rxjs-b849d6bbd5a5#.o6jeyotet
-https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.js1g2yjib
 https://medium.com/@thomassolow/building-a-front-end-only-app-with-angular-e67d1d7573d0#.ut8mcewi5
 https://medium.com/@AliyahChoudhry/is-angular-js-is-the-hottest-javascript-framework-b74495f4e567#.6ut70m67d
 https://medium.com/algotech-solutions/create-interactive-charts-with-ui-grid-and-angular-chart-8e0c436cc0ec#.t4fqpnelw
@@ -139,13 +138,11 @@ http://blog.dreamfactory.com/tutorial-angular-and-rest-made-simple
 http://blog.workshape.io/making-a-spherical-globe-using-d3js/
 http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/
 http://builtwithangular2.com/post/127785702682/hackernews-clone-built-with-angularjs-20-github
-http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/
 http://angularjs.blogspot.ie/2015/08/angular-1-and-angular-2-coexistence.html
 http://linkis.com/blog.stamplay.com/j4ZGS
 https://spring.io/guides/tutorials/spring-security-and-angular-js/
 http://onehungrymind.com/build-mailchimp-signup-form-angularjs/
 http://stepansuvorov.com/blog/2015/04/angularjs-concept-diagram/
-http://julienrenaux.fr/2015/08/17/modular-angularjs-and-ionic-architecture-a-first-step-towards-angularjs-2/
 http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/08/26/validating-user-input-on-a-form-in-angular-js.aspx
 http://social.technet.microsoft.com/wiki/contents/articles/32300.angularjs-unit-testing-using-karma-part-1.aspx
 http://eatcodeplay.com/dry-directives-with-scope-inheritance-in-angularjs
@@ -156,15 +153,12 @@ http://victorsavkin.com/post/99998937651/building-angular-apps-using-flux-archit
 http://g00glen00b.be/e2e-testing-angularjs-applications-with-protractor/
 http://theleancoder.net/index.php/2015/10/18/angularjs-introduction/
 http://www.creativebloq.com/web-design/build-data-dashboard-angularjs-121518544
-http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
 http://angularjs4u.com/directive/angularjs-popup-window-social-authentication-directive/
 http://angularjs.chat/tutorials/angularjs-basic-chat-module/
-http://www.metaltoad.com/blog/angular-2-http-observables
 http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/
 https://kalimadev.wordpress.com/2016/02/05/hands-on-angularjs-browse-nyt-best-sellers/
 http://www.c-sharpcorner.com/UploadFile/8af675/create-signature-pad-using-angularjs/
 http://www.dotnetcurry.com/angularjs/1252/angularjs-service-factory
-http://juristr.com/blog/2016/02/debugging-angular2-console/
 http://jslancer.com/2016/02/19/demystify-angularjs-15-one-way-data-binding/
 http://tutorials.pluralsight.com/review/using-a-spreadsheet-to-power-charts-in-angularjs-apps
 http://devproconnections.com/javascript/web-pages-more-dynamic-angularjs
@@ -172,3 +166,12 @@ https://scotch.io/tutorials/build-an-angularjs-app-with-stamplay-the-ifttt-for-d
 http://www.jvandemo.com/how-to-configure-your-angularjs-application-using-environment-variables/
 http://www.dotnetcurry.com/angularjs/1255/unit-testing-angularjs-using-jasmine-karma
 https://stormpath.com/blog/jwt-authentication-angularjs/
+https://lingohub.com/blog/2016/03/angularjs-directives-image-cropping/
+https://davidwalsh.name/angular-charts
+http://madebymunsters.com/blog/posts/creating-a-mock-backend-in-angular/
+http://blog.ionic.io/angular-is-a-design-pattern/
+https://www.webcodegeeks.com/javascript/angular-js/using-angularjs-to-extend-your-code-quality/
+http://www.bacancytechnology.com/blog/reasons-to-choose-angularjs-as-your-web-development-project
+https://www.eduonix.com/blog/web-programming-tutorials/learn-filters-in-angularjs/
+http://www.dhtmlx.com/blog/wrappers-for-suite-components-from-an-angularjs-fan/
+http://blog.askjoelit.com/2016/02/pre-loading-angularjs-controllers-and.html
