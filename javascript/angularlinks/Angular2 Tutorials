@@ -14,11 +14,18 @@ http://www.syntaxsuccess.com/viewarticle/loading-components-dynamically-in-angul
 http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0
 
 
+################################################# Medium ##################################################### 
+https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.bmutqoccu
+https://medium.com/@marcosloic/managing-state-in-angular-2-using-rxjs-b849d6bbd5a5#.o6jeyotet
+https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.js1g2yjib
+
+
 ################################################# Thoughtram ##################################################### 
 http://blog.thoughtram.io/angular2/2015/11/23/multi-providers-in-angular-2.html
 http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-feature-in-angular.html
 http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html
 http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
+http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html
 
 
 ################################################# Auth0 ##################################################### 
@@ -32,7 +39,16 @@ https://blog.pusher.com/real-time-apps-angular-2/
 http://www.infoworld.com/article/3010853/application-development/up-close-with-googles-angular-2-javascript-framework.html
 http://www.jvandemo.com/how-to-build-minesweeper-using-angular-2-and-immutable-js/
 http://www.codeproject.com/Articles/1081551/Angular-Tutorial-in-JavaScript-ES
-http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
 http://branchandbound.net/blog/web/2015/11/exploring-angular2/
 http://angularjs.blogspot.cl/2015/12/building-mobile-apps-with-angular-2-and.html
 https://blog.nraboy.com/2016/01/include-external-javascript-libraries-in-an-angular-2-typescript-project/
+http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
+http://julienrenaux.fr/2015/08/17/modular-angularjs-and-ionic-architecture-a-first-step-towards-angularjs-2/
+http://www.metaltoad.com/blog/angular-2-http-observables
+http://www.bennadel.com/blog/3052-injecting-html-with-the-browserdomadapter-in-angularjs-2-beta-9.htm
+https://toddmotto.com/component-events-event-emitter-output-angular-2
+http://www.syntaxsuccess.com/viewarticle/dynamic-form-in-angular-2.0
+http://blog.rangle.io/upgrade-your-application-to-angular-2-with-ng-upgrade/
+http://juristr.com/blog/2016/02/debugging-angular2-console/
+http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/
+http://csharperimage.jeremylikness.com/2016/03/lessons-learned-re-writing-6502.html
