@@ -1,7 +1,7 @@
                                         General Python Links
                                               
 ##Videos - 
-
+https://www.youtube.com/watch?v=jDrcvoWp3Es - Scalable Machine Learning in R and Python with H2O
 
 
 
@@ -11,8 +11,26 @@
 
 
 ##Code -
-
+https://github.com/pavlovml/match - Scalable reverse image search built on Kubernetes and Elasticsearch
+https://github.com/fortyninemaps/karta - A tidy Python package for geospatial computation
+https://github.com/mdipierro/nlib - Python Library of Numerical Algorithms
+https://github.com/JdeH/Numscrypt - A modest attempt to port a microscopic part of Numpy to Transcrypt using JS typed arrays.
+https://github.com/dodger487/dplython - dplyr for python
+https://github.com/timofurrer/try - Cli tool to try out python packages
+https://github.com/burrows-labs/pyship - Create statically linked python for easy desktop application distribution
+https://github.com/jeffball55/rop_compiler - An open source, multi-architecture ROP compiler written in python
+https://github.com/Yelp/venv-update - Synchronize your virtualenv quickly and exactly
+https://github.com/mmp2/megaman - Manifold Learning for Millions of Points
+https://github.com/mrsmn/hazelnut -
+https://github.com/thombashi/SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database
+https://github.com/pilat/redis-astra - Python light ORM for Redis
 
 
 
 ##Links -
+http://fortyninemaps.com/karta.html - Python toolkit for geospatial analysis
+http://www.grantjenks.com/docs/diskcache/
+https://talkpython.fm - Podcast Mp3
+http://pythonpodcast.com - Podcast show
+
+
