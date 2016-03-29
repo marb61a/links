@@ -1,4 +1,4 @@
-                                          DJANGO TUTORIALS
+                                     DJANGO TUTORIALS
                                           
 ######################################## Sitepoint ##############################################
 http://www.sitepoint.com/deploying-a-django-app-with-mod_wsgi-on-ubuntu-14-04/
@@ -10,3 +10,7 @@ http://getblimp.github.io/django-rest-framework-jwt/
 https://micropyramid.com/blog/integration-of-linkedin-api-in-python-django/
 http://www.machinalis.com/blog/introduction-to-django-channels/
 http://mmorejon.github.io/en/blog/deployment-diagram-docker-django/
+https://www.algotech.solutions/blog/python/django-migrations-and-how-to-manage-conflicts/
+https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
+https://qbox.io/blog/how-to-elasticsearch-python-django-part1
+http://kracekumar.com/post/141377389440/permissions-in-django-admin
