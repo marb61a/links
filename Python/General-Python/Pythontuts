@@ -9,11 +9,18 @@ http://www.sitepoint.com/using-python-templates-jinja-google-app-engine/
 
 ####################################### Medium ###########################################################
 https://medium.com/@ZeroDB_/scalable-full-text-search-over-encrypted-data-cb2b5dd5bce2#.w5lxtmo5u
+https://medium.com/coding-with-clarity/speeding-up-python-and-numpy-c-ing-the-way-3b9658ed78f4#.vw3irl8vt
 
 
 ####################################### Python Library ###########################################################
 http://www.blog.pythonlibrary.org/2016/02/25/python-an-intro-to-caching/
 http://www.blog.pythonlibrary.org/2016/03/01/python-101-all-about-imports/
+http://www.blog.pythonlibrary.org/2016/03/15/python-201-namedtuple/
+
+
+####################################### Armin Ronacher ###########################################################
+http://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/
+http://lucumr.pocoo.org/2011/7/9/python-and-pola/
 
   
 ####################################### Miscellaneous ###########################################################                                            
@@ -45,3 +52,10 @@ http://geezhawk.github.io/2016/03/24/user-authentication-with-react-and-django-r
 https://www.mapr.com/blog/churn-prediction-pyspark-using-mllib-and-ml-packages
 https://blog.scrapinghub.com/2016/03/23/scrapy-tips-from-the-pros-march-2016-edition/
 http://fullstackdatascientist.io/2016-03-15-genomic-data-visualization-using-python/
+http://kldavenport.com/examining-your-presence-on-twitter-with-python/
+https://blogs.msdn.microsoft.com/pythonengineering/2016/03/14/idiomatic-python-comprehensions/
+http://www.talaikis.com/bayes-theorem-in-simple-words-and-bayesian-expected-returns-estimation-using-python/
+http://hkupty.github.io/2016/Functional-Programming-Concepts-Idioms-and-Philosophy/
+http://vknight.org/unpeudemath/code/2016/03/07/Property-based-testing-and-finding-a-bug.html
+http://tomassetti.me/python-reflection-how-to-list-modules-and-inspect-functions/
+http://www.jamalmoir.com/2016/03/learn-to-mock-in-python.html
