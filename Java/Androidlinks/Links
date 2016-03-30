@@ -14,6 +14,9 @@ https://vimeo.com/43612849 - Bob Martin Clean Architecture
 https://corner.squareup.com/2016/03/android-journey-videos.html
 https://www.youtube.com/watch?v=Hm37rWYdfv4 - Better Android Development with Kotlin and Gradle
 https://www.youtube.com/watch?v=gk2D7A8MjDo - Performance Testing Tools in Android
+https://realm.io/news/kau-felipe-lima-adopting-rxjava-airbnb-android/
+https://realm.io/news/donn-felker-reactive-android-ui-programming-with-rxbinding/
+https://www.youtube.com/watch?v=BxTfwT7mkB4 - StrictMode for enforcing best practices at runtime 
 
 
 ##Code - 
@@ -24,6 +27,12 @@ https://github.com/f2prateek/dart/
 https://github.com/requery/requery
 https://github.com/brianegan/bansa
 https://github.com/patloew/RxFit
+https://github.com/eleventigers/rxeither - Either type for RxJava
+https://github.com/JeroenMols/LandscapeVideoCamera - Powerful custom Android Camera with granular control
+https://github.com/soundcloud/lightcycle - LightCycle lets self-contained classes respond to Android’s lifecycle events
+https://github.com/lisawray/passwordview - A Material Android password view that toggles password visibility via an eye icon.
+https://github.com/pakoito/RxSealedUnions - Tagged Unions for the RxJava aesthete
+https://github.com/patloew/RxWear - Reactive Wearable API Library for Android and RxJava
 
 
 ##Links - 
