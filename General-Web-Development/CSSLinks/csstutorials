@@ -45,6 +45,7 @@ https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/
 https://www.smashingmagazine.com/2016/01/leaner-responsive-images-client-hints/
 https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
 https://www.smashingmagazine.com/2016/03/pagination-infinite-scrolling-load-more-buttons/
+https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/
 
 
 ############################################## CSS Tricks ##########################################################
@@ -67,6 +68,9 @@ https://css-tricks.com/the-current-state-of-telephone-links/
 https://css-tricks.com/introducing-css-scroll-snap-points/
 https://css-tricks.com/squigglevision-in-css-and-svg/
 https://css-tricks.com/rem-global-em-local/
+https://css-tricks.com/accessible-simple-responsive-tables/
+https://css-tricks.com/right-click-logo-show-logo-download-options/
+https://css-tricks.com/whats-deal-declaring-font-properties-font-face/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -129,6 +133,7 @@ https://webkit.org/blog/3615/css-selectors-inside-selectors-discover-matches-not
 https://webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
 https://webkit.org/blog/5735/css-font-features/
 https://webkit.org/blog/5663/editing-css-with-the-visual-styles-sidebar/
+https://webkit.org/blog/5989/css-variables-in-webkit/
 
 
 ############################################## Miscellaneous ########################################################## 
@@ -171,7 +176,14 @@ http://www.frontendevelopers.com/old-browser-css-hacks/
 https://robinrendle.com/essays/new-web-typography/
 http://blog.lunarlogic.io/2016/boost-your-css-animation-performance-with-repaintless-css/
 http://sarasoueidan.com/blog/svg-vs-gif/
-https://sarasoueidan.com/blog/svg-style-inheritance-and-FOUSVG/
+http://sarasoueidan.com/blog/svg-style-inheritance-and-FOUSVG/
 http://rentafounder.com/textured-gradients-in-pure-css/
 http://www.noupe.com/development/perfectly-responsive-typographic-headlines-with-css-and-javascript-96178.html
 http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate
+http://bitsofco.de/holy-grail-layout-css-grid/
+https://www.viget.com/articles/css-typography-kerning-ligatures-swashes-small-caps?
+http://fvsch.com/code/svg-icons/how-to/
+http://dsheiko.com/weblog/10-things-to-need-to-know-about-css
+http://vcl.github.io/presentation/index.html
+http://tympanus.net/codrops/2016/03/16/interactive-animated-svg-drum-kit/
+http://johnpolacek.com/content-display-patterns/
