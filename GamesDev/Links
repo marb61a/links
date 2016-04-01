@@ -20,6 +20,9 @@ https://github.com/edankwan/hyper-mix
 https://www.npmjs.com/package/html5-plugin-canvas-gamepad
 https://github.com/ajakubo1/CanvasMenu
 http://kurzgame.github.io/FastPixel/
+https://github.com/orange-games/phaser-input - Adds input boxes to Phaser like CanvasInput
+http://codepen.io/jackrugile/pen/Xdaavx/ - Canvas Light Explosion
+http://codepen.io/zadvorsky/pen/xVrMMO - Three text animation
 
   
 ### Links ###
@@ -30,3 +33,4 @@ http://www.qiciengine.com/
 http://iamthecu.be/
 https://lightsaber.withgoogle.com/
 http://developer.playcanvas.com/en/tutorials/
+http://cburgmer.github.io/rasterizeHTML.js/
