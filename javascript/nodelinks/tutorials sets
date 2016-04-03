@@ -20,6 +20,7 @@ http://www.sitepoint.com/build-a-web-app-with-backbone-js-and-socket-io/
 http://www.sitepoint.com/build-sms-appointment-reminder-app-with-twilio/
 http://www.sitepoint.com/jade-tutorial-for-beginners/
 http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/
+http://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
 
 
 ######################################## Scotch.io ##############################################
@@ -51,6 +52,7 @@ https://medium.com/getty-logs/a-aws-lambda-microservices-architecture-for-node-j
 https://medium.com/@keithwhor/realtime-doesn-t-belong-everywhere-build-scalable-api-services-in-node-js-with-nodal-10d0adfb66d#.vlbubamkc
 https://medium.com/@Grigorkh/understanding-socket-io-23ad6d26d003#.5cctlve15
 https://medium.com/@devlucky/how-to-get-a-performance-boost-using-node-js-native-addons-fd3a24719c85#.661rteqkw
+https://medium.com/@Trott/a-quick-guide-to-reading-node-js-core-source-c968d83e4194#.kta0o52nt
 
 
 ######################################## Risingstack ##############################################
@@ -79,6 +81,7 @@ http://code.tutsplus.com/articles/understanding-the-magic-of-bloom-filters-with-
 http://developer.telerik.com/featured/merging-dynamic-and-static-sites/
 http://developer.telerik.com/featured/spying-on-james-bond-with-node-js/
 http://www.telerik.com/kendo-ui/exporting-web-content
+http://developer.telerik.com/featured/left-pad-indicative-fragile-javascript-ecosystem/
 
 
 ######################################## Stormpath ##############################################
@@ -121,6 +124,12 @@ http://stackabuse.com/bookshelf-js-a-node-js-orm/
 http://stackabuse.com/avoiding-callback-hell-in-node-js/
 
 
+######################################## Lob.Com ##############################################
+https://lob.com/blog/building-an-instagram-postcard-app-in-express-js/
+https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/
+https://lob.com/blog/automate-payment-reminder-system-with-lob-customerio-segment/
+
+
 ######################################## Distelli ##############################################
 https://www.distelli.com/docs/tutorials/automated-mocha-tests-for-node
 https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
@@ -141,6 +150,6 @@ http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/
 http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts
 http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku
 http://blog.npmjs.org/post/130644130685/how-to-email-daily-gifs-use-nodemailer-w-gmail
-
-
+http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy
+http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability
 
