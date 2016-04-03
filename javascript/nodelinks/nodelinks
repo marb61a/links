@@ -109,13 +109,23 @@ https://github.com/sungwoncho/editer
 https://github.com/dthree/cash
 https://github.com/dthree/vorpal
 https://github.com/copy/v86
-https://github.com/dbuarque/basic-express-api
+https://github.com/dbuarque/basic-express-api - Just a another express api using Mongoose, ES2015, Webpack, Mocha
 https://github.com/tyrchen/node-eventasync - node.js event emitter
 https://github.com/NodeBB/NodeBB - Node.js based forum software 
 https://github.com/sindresorhus/ora - Elegant Terminal Spinner
 https://github.com/DylanPiercey/vdo - Minimal JSX compatible html focused templating engine
 https://github.com/lvarayut/relay-fullstack  -  Relay Starter Kit - Integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS
 https://github.com/VictorBjelkholm/trymodule - Tool for trying out node modules
+https://github.com/appetizermonster/hain - An 'alt+space' launcher for Windows, built with Electron
+https://github.com/Chris911/mocha-http-detect - Detect HTTP requests in your mocha test suites
+https://github.com/QubitProducts/urlite - A very small, fast, dependency free url parser and formatter for nodejs and the web
+https://github.com/typicode/hotel - local .dev domains for everyone and more
+https://github.com/parro-it/canibekikked - Tool to check if any of your NPM repositories name are trademarked
+https://github.com/ryanaghdam/propDeep - Returns the given deeply-nested property of an object using dot-notation or an array of keys
+https://github.com/keithwhor/cmnd - Command Line Interface Utility for Node.js using ES6 idioms
+http://grimmdude.github.io/MidiWriterJS/ - MidiWriterJS is a JavaScript library providing an API for generating expressive multi-track MIDI files from code
+
+
 
 ##Important Links -
 https://nodejs.org
@@ -147,3 +157,6 @@ http://merencia.com/node-cron/
 http://veriacms.com/
 http://www.nodebb.org/
 http://lorenzopicoli.github.io/Sark/
+http://keystonejs.com/ 
+http://everythingstays.com/ - Immutable & Distributed NodeJS Modules With IPFS
+http://feathersjs.com/ - A minimalist real-time framework for tomorrow's apps.
