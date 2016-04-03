@@ -24,7 +24,6 @@ http://heidloff.net/article/deploying-apis-built-via-nodejs-to-ibm-bluemix
 http://www.jut.io/blog/2015/pushing-node-js-performance-limits
 https://codeforgeek.com/2015/09/command-line-application-nodejs/
 http://shellmonger.com/2015/08/29/continuous-deployment-nodejs-and-microsoft-azure/
-https://lob.com/blog/building-an-instagram-postcard-app-in-express-js/?
 https://stefanscherer.github.io/create-an-io-js-container-image-for-windows/
 http://blog.benmcmahen.com/post/41122888102/creating-slugs-for-your-blog-using-expressjs-and
 http://xeektech.com/post/129055775448/debugging-nodejs-using-node-inspector-and-chrome
@@ -40,9 +39,7 @@ http://digitaljunky.io/make-your-own-data-platform-for-the-internet-of-things-us
 http://spin.atomicobject.com/2015/09/25/debug-node-js/
 https://moroccojs.org/tutorials/npm-based-front-end-workflow/
 http://sagivo.com/post/130207525903/nodejs-addons
-https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/
 http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/
-https://lob.com/blog/automate-payment-reminder-system-with-lob-customerio-segment/
 https://nodesource.com/blog/cpp-addons-for-nodejs-v4
 https://nodesource.com/blog/blacklisting-node-js-core-modules-and-bindings-to-enhance-application-security/
 http://www.capitalone.io/blog/contrasting-enterprise-nodejs-frameworks/
@@ -85,6 +82,7 @@ http://zellwk.com/blog/crud-express-and-mongodb-2/
 https://www.joyent.com/developers/node/design/errors
 https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql
 http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
+https://blog.nodeswat.com/implement-access-control-in-node-js-8567e7b484d1#.ytb431ocu
 https://nodeswat.com/blog/setting-up-a-secure-node-js-web-application/
 http://blog.honeybadger.io/how-to-report-node-js-errors-from-aws-lambda/
 http://www.confluent.io/blog/getting-started-with-kafka-in-node.js-with-the-confluent-rest-proxy
@@ -94,3 +92,11 @@ http://rethinkdb.com/blog/v849-es6-features/
 http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html
 http://jonbho.net/2016/03/11/writing-interactive-command-line-apps-in-javascript-with-node-js-or-how-to-write-the-most-classic-type-of-software-on-the-most-modern-framework-without-frying-your-brain-in-the-process/
 http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804
+http://blog.sandeepchivukula.com/posts/2016/03/06/photo-search/
+http://krasimirtsonev.com/blog/article/debugging-with-node
+https://www.outlearn.com/learn/jonathanfmills/picking-a-nodejs-framework
+https://blog.jscrambler.com/setting-up-5-useful-middlewares-for-an-express-api/
+https://blog.jscrambler.com/building-expense-application-electron-react/
+http://www.softwareontheside.info/2016/03/bash-to-audit-of-your-npm-dependencies.html
+https://ponyfoo.com/articles/npm-meltdown-security-concerns
+http://withouttheloop.com/articles/2016-03-24-node-web-ts/
