@@ -52,6 +52,10 @@ http://www.sitepoint.com/functional-reactive-programming-rxjs/
 http://www.sitepoint.com/building-3d-engine-javascript/
 http://www.sitepoint.com/14-jquery-modal-dialog-boxes/
 http://www.sitepoint.com/introduction-jquery-deferred-objects/
+http://www.sitepoint.com/10-jquery-horizontal-scroll-demos-plugins/
+http://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/
+http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
+http://www.sitepoint.com/creating-donation-widget-with-flight-components/
 
 
 ####################################### Ponyfoo ###########################################################
@@ -71,6 +75,7 @@ http://ponyfoo.com/articles/es6-array-extensions-in-depth
 http://ponyfoo.com/articles/es6-strings-and-unicode-in-depth
 http://ponyfoo.com/articles/progressive-app-serviceworker
 http://ponyfoo.com/articles/understanding-javascript-async-await
+https://ponyfoo.com/articles/javascript-decorators-proposal
 
 
 ####################################### Medium ###########################################################
@@ -90,6 +95,9 @@ https://medium.com/@clayallsopp/incrementally-migrating-javascript-to-typescript
 https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.bnpd6d3ny
 https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.s12ky2exz
 https://medium.freecodecamp.com/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb#.ek04n5ne4
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.vpo0l5z5q
+https://medium.freecodecamp.com/three-ways-to-find-the-longest-word-in-a-string-in-javascript-a2fb04c9757c#.f4pcumepi
+
 
 ####################################### Telerik ###########################################################
 http://developer.telerik.com/featured/the-javascript-looping-evolution/
@@ -102,6 +110,8 @@ http://developer.telerik.com/featured/flip-that-app-hybrid-mobile-to-javascript-
 http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/
 http://developer.telerik.com/featured/leveling-up-your-javascript/
 http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-beyond-the-browser/
+http://developer.telerik.com/featured/whats-new-in-jquery-3/
+http://developer.telerik.com/featured/native-mobile-maps-from-telerik-and-mapbox/
 
 
 ####################################### 2Ality ###########################################################
@@ -122,6 +132,8 @@ http://www.2ality.com/2015/11/configuring-babel6.html
 http://www.2ality.com/2016/01/private-data-classes.html
 http://www.2ality.com/2016/01/classes-inner-names.html
 http://www.2ality.com/2016/02/js-name-clashes.html
+http://www.2ality.com/2016/02/arrow-functions-vs-bind.html
+http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html
 
 
 ####################################### Mozilla ###########################################################
@@ -155,6 +167,7 @@ https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/
 https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
 https://auth0.com/blog/2015/10/07/refresh-tokens-what-are-they-and-when-to-use-them/
 https://auth0.com/learn/json-web-tokens/
+https://auth0.com/blog/2016/03/23/intro-to-immutable-js/
 
 
 ####################################### Marius Schultz ###########################################################
