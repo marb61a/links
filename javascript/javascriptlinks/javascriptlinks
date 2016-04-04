@@ -19,6 +19,8 @@ https://egghead.io/series/how-to-write-an-open-source-javascript-library
 http://www.devbattles.com/en/sand/post-1742-How_to_play_with_setIterval_in_JavaScript
 https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 https://www.youtube.com/watch?v=edq4dt98Mpg - 5 Tips To Improve Your JS with ES6
+https://www.youtube.com/watch?v=QtgR94Q2pt4 - The rise of async JavaScript
+
 
 ##Code -
 http://www.javascriptkit.com/javatutors/
@@ -109,7 +111,10 @@ https://github.com/danigb/tonal - Music tonal elements —pitches, chords, scale
 https://dreamdom.github.io/speechrec.html - Javascript speech recogniser
 https://github.com/ulrobin/dynamicColorPage - Tiny jQuery plugin to easily adapt the page's styling
 https://github.com/ctrl-freaks/freezeframe.js - Pauses animated .gifs and enables automatic animate upon mouse hover
-
+https://github.com/highrisehq/snapback_cache - A client side page cache for jquery
+https://github.com/krig/eventcontrol - EventControl, jQuery timeline control
+https://github.com/ozkxr/match - A JavaScript library to test JSON with some nice features.
+https://github.com/charto/cwait - Limit number of promises running in parallel
 
 ##Links - 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -164,6 +169,10 @@ http://www.transcrypt.org/
 http://callmecavs.com/bricks.js/
 https://morr.cc/almightree/
 http://pressurejs.com/
+https://skorokithakis.github.io/expounder/ - JS Library for hding text
 http://blog.wolksoftware.com/introducing-inversify-2
 http://kylebrumm.com/spotifyCurrentlyPlaying.js/
 http://www.gravmatt.com/force-js/ - Scroll and Animate pages
+http://dimplejs.org/ - An object-oriented API for business analytics powered by d3.
+https://psdtowp.net/learn-javascript.html - Tips for learning JS
+http://interactjs.io/ - JavaScript drag and drop, resizing and multi-touch gestures
