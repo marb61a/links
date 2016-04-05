@@ -25,9 +25,10 @@ https://www.youtube.com/user/JakeDayWilliams/playlists
 http://confreaks.tv/events/rubyconf2015
 https://www.youtube.com/watch?v=KifjmbSHHs0
 https://www.youtube.com/watch?v=ojd1G4gOMdk
+https://www.youtube.com/watch?v=b77V0rkr5rk - How are Method Calls Formed? by Aaron Patterson
 
 ## Code
-https://github.com/tf/pr_log
+https://github.com/tf/pr_log - Turn pull requests into changelog entries
 http://githubengineering.com/scientist/
 https://github.com/ndea/regressor
 https://github.com/clearwater-rb/clearwater
@@ -135,6 +136,14 @@ https://github.com/altmetric/urn - Ruby library to validate and normalize URNs a
 https://github.com/jdantonio/functional-ruby - A gem for adding functional programming tools to Ruby
 https://github.com/amatsuda/stateful_enum - A very simple state machine plugin built on top of ActiveRecord::Enum
 https://github.com/ruby-concurrency/concurrent-ruby - Modern concurrency tools 
+https://github.com/AtomicPair/wolfentext3d - 3-D dungeon crawling in your terminal
+https://github.com/fedux-org/proxy_rb - Helps to test your proxy infrastructure
+https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby - Solving the second hard problem in Computer Science
+https://github.com/marcelotto/sycamore - An unordered tree data structure for Ruby 
+https://github.com/usmanbashir/haikunator - Heroku-like random name generator
+https://github.com/thredded/db_text_search - A unified interface on top of ActiveRecord for case-insensitive string-in-set querying and full-text search
+https://github.com/vinhnglx/active_bootstrap_skin - Bootstrap skin for Active Admin
+https://github.com/deepcerulean/passive_record - no-persistence pure ruby relational algebra
 
 
 ## Links
