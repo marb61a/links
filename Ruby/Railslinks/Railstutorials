@@ -26,6 +26,7 @@ http://www.sitepoint.com/put-your-finger-on-triggers-in-rails-with-hairtrigger/
 http://www.sitepoint.com/improve-the-smell-of-your-code-with-microrefactorings/
 http://www.sitepoint.com/onwards-to-rails-5-additions-changes-and-deprecations/
 http://www.sitepoint.com/using-and-testing-the-adapter-design-pattern/
+http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/
 
 
 ###################################### Honeybadger ####################################################
@@ -54,6 +55,8 @@ https://medium.com/@albertstill/building-a-static-site-with-a-web-application-fr
 https://medium.com/@mccabe615/ugly-ruby-d6b0a43704d7#.tevipudwi
 https://medium.com/build-acl/using-aws-s-ruby-sdk-4434860e1a3#.fn9cioonz
 https://medium.com/@richardsondx/everything-you-should-know-about-the-obscure-world-of-jruby-jruby-with-ruby-on-rails-c3c90d8fdeec#.bfpixa1us
+https://medium.com/jobteaser-dev-team/rails-bitwise-enum-with-super-powers-5030bda5dbab#.muceir9c5
+https://medium.com/@tair/how-to-upgrade-to-rails-5-657b3bfd83#.alfqxwsnu
 
 
 ###################################### Justin Weiss ####################################################
@@ -87,6 +90,8 @@ http://jakeyesbeck.com/2016/01/24/ruby-private-class-methods/
 http://jakeyesbeck.com/2016/02/07/how-to-remove-a-column-with-zero-downtime-in-ruby-on-rails/
 http://jakeyesbeck.com/2016/02/14/ruby-threads-and-active-record-connections/
 http://jakeyesbeck.com/2016/03/13/the-power-of-arel/
+http://jakeyesbeck.com/2016/03/27/five-more-active-record-features-you-should-be-using/
+http://jakeyesbeck.com/2016/03/20/how-to-build-a-ruby-on-rails-engine/
 
 
 ###################################### Codeship ####################################################
@@ -106,6 +111,7 @@ http://blog.codeship.com/comparing-rails-and-phoenix-part-i/
 http://blog.codeship.com/the-enumerable-module/
 http://blog.codeship.com/surrogate-websockets/
 http://blog.codeship.com/the-json-api-spec/
+http://blog.codeship.com/a-deep-dive-into-ruby-scopes/
 
 
 ###################################### Rossta ####################################################
@@ -123,6 +129,7 @@ https://rossta.net/blog/a-ruby-antihero-thread-pool.html
 http://weblog.jamisbuck.org/2015/9/12/little-things-heredocs.html
 http://weblog.jamisbuck.org/2015/9/19/default-scopes-anti-pattern.html
 http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html
+http://weblog.jamisbuck.org/2016/3/26/introducing-query-composer.html
 
 
 ###################################### Nate Berkopec ####################################################
@@ -192,3 +199,4 @@ http://blog.arkency.com/2015/09/testing-race-conditions/
 http://blog.arkency.com/2016/02/how-rspec-helped-me-with-resolving-random-spec-failures/
 http://blog.arkency.com/2016/02/private-classes-in-ruby/
 http://blog.arkency.com/2016/03/creating-new-content-types-in-rails-4-dot-2/
+http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/
