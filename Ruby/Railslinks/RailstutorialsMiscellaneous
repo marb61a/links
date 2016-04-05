@@ -1,7 +1,6 @@
 ###################################### Miscellaneous ####################################################
 http://rubyonrails.org/doctrine/
 http://solidfoundationwebdev.com/blog/posts/how-to-locally-save-a-bundler-gem-with-git-source-to-vendor-cache
-http://dreamingechoes.github.io/geosearch/mongodb/rails/geosearch-with-mongodb-and-geocoder/
 http://codenoble.com/blog/simple-rails-maintenance-mode/
 http://sorentwo.com/2015/10/19/layering-api-defenses-with-caching.html
 http://vaidehijoshi.github.io/blog/2015/07/28/clipping-images-for-rails-using-paperclip/
@@ -66,6 +65,7 @@ https://gist.github.com/wvengen/f1097651c238b2f7f11d
 http://vaidehijoshi.github.io/blog/2015/11/17/peeking-under-the-hood-of-actioncontroller-parameters-part-1/
 http://www.be9.io/2015/12/01/heroku-deployment/
 http://elcuervo.github.io/minuteman/
+http://dreamingechoes.github.io/geosearch/mongodb/rails/geosearch-with-mongodb-and-geocoder/
 http://dreamingechoes.github.io/game/gosu/ruby/become-a-videogame-developer-master-with-gosu-and-ruby/
 https://www.rubyplus.com/articles/2791
 http://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/
@@ -87,9 +87,9 @@ http://www.mikeperham.com/2016/02/09/kill-your-dependencies/
 http://blog.rebased.pl/2016/02/03/so-you-want-to-use-pathnames.html
 https://blog.lelonek.me/defensive-programming-in-ruby-477f3505742a#.p1blj4urn
 http://tutorials.pluralsight.com/review/elastic-search-with-ruby-on-rails
+http://tutorials.pluralsight.com/ruby-ruby-on-rails/ruby-on-rails-nested-attributes
 http://blog.scoutapp.com/articles/2016/02/16/which-ruby-background-job-framework-is-right-for-you
 http://edgeguides.rubyonrails.org/api_app.html
-http://code.tutsplus.com/articles/improving-the-performance-of-your-rails-app-with-eager-loading--cms-25018
 http://thepracticaldev.com/communicating-intent-the-perpetually-misunderstood-ruby-bang
 https://engineering.heroku.com/blogs/2016-02-18-speeding-up-sprockets/
 https://blog.jbr.me/a-brief-tour-of-nokogiri-decorators/
@@ -120,3 +120,18 @@ https://subvisual.co/blog/posts/73-factorygirl-beyond-the-database
 http://blog.rubyroidlabs.com/2016/02/capistrano-tools/
 http://tomdallimore.com/blog/how-to-run-with-rails-configure-travis-ci-to-use-multiple-databases/
 http://coderascal.com/ruby/writing-a-microservice-in-ruby/
+http://eatcodeplay.com/the-transition-to-react-in-rails-angular-app/
+https://blog.ably.io/rails-5-actioncable-the-good-and-bad-parts-1b56c3b31404#.axxewz8m3
+https://crondev.com/ruby-timedsemaphore/
+http://guides.rubygems.org/security/
+http://code.tutsplus.com/articles/improving-the-performance-of-your-rails-app-with-eager-loading--cms-25018
+http://code.tutsplus.com/articles/antipatterns-basics-rails-views--cms-25670
+http://code-reuse.yerdle.com
+https://rubyplus.com/articles/3051
+http://6ftdan.com/allyourdev/2016/03/22/rails-has-one-through-polymorphic-relation/
+http://blog.appsignal.com/blog/2016/03/17/ruby-magic-mastering-concurrency.html
+http://lanceolsen.net/preventing-race-conditions-with-fencing-tokens-in-rails/
+http://dalibornasevic.com/posts/68-processing-large-csv-files-with-ruby
+http://www.akitaonrails.com/2016/03/22/is-your-rails-app-ready-for-production
+http://www.betterruby.com/gangs-in-ruby-remember-me/
+http://dev.mensfeld.pl/2016/03/speeding-up-rspec-and-cucumber-on-the-ci-server-with-postgresql-fsync-flag-and-parallel-execution/
