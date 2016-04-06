@@ -3,6 +3,7 @@
 ################################################# Sitepoint ##################################################### 
 http://www.sitepoint.com/getting-started-with-angular-2-using-typescript/
 http://www.sitepoint.com/creating-components-angular-2-typescript-es5/
+http://www.sitepoint.com/angular-2-mockbackend/
 
 
 ################################################# Syntax Success ##################################################### 
@@ -18,6 +19,7 @@ http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0
 https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.bmutqoccu
 https://medium.com/@marcosloic/managing-state-in-angular-2-using-rxjs-b849d6bbd5a5#.o6jeyotet
 https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.js1g2yjib
+https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e
 
 
 ################################################# Thoughtram ##################################################### 
@@ -26,11 +28,23 @@ http://blog.thoughtram.io/angular/2015/12/10/ng-message-format-the-unheard-featu
 http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html
 http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
 http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html
+http://blog.thoughtram.io/angular/2016/03/21/template-driven-forms-in-angular-2.html
+
+
+################################################# Todd Motto ##################################################### 
+http://toddmotto.com/walkthrough-to-migrate-an-angular-1-component-to-angular-2
+https://toddmotto.com/creating-your-first-angular-2-component
+https://toddmotto.com/component-events-event-emitter-output-angular-2
 
 
 ################################################# Auth0 ##################################################### 
 https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/#
 https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular2-authentication/
+
+
+################################################# Orizens ##################################################### 
+http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/
+http://orizens.com/wp/topics/from-angular-1-x-ng-repeat-to-angular-2-ngfor-with-component/
 
 
 ################################################# Miscellaneous ##################################################### 
@@ -46,9 +60,13 @@ http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
 http://julienrenaux.fr/2015/08/17/modular-angularjs-and-ionic-architecture-a-first-step-towards-angularjs-2/
 http://www.metaltoad.com/blog/angular-2-http-observables
 http://www.bennadel.com/blog/3052-injecting-html-with-the-browserdomadapter-in-angularjs-2-beta-9.htm
-https://toddmotto.com/component-events-event-emitter-output-angular-2
 http://www.syntaxsuccess.com/viewarticle/dynamic-form-in-angular-2.0
 http://blog.rangle.io/upgrade-your-application-to-angular-2-with-ng-upgrade/
 http://juristr.com/blog/2016/02/debugging-angular2-console/
 http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/
 http://csharperimage.jeremylikness.com/2016/03/lessons-learned-re-writing-6502.html
+http://angularjs.blogspot.ie/2016/03/code-reuse-in-angular-2-native-mobile.html
+https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components
+http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/
+http://codewithdan.com/2016/03/19/angular-2-typescript-and-html-snippets-for-vs-code/
+https://yakovfain.com/2016/03/21/implementing-the-mediator-design-pattern-in-angular-2/
