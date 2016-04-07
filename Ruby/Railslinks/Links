@@ -27,129 +27,13 @@ https://www.youtube.com/watch?v=KifjmbSHHs0
 https://www.youtube.com/watch?v=ojd1G4gOMdk
 https://www.youtube.com/watch?v=b77V0rkr5rk - How are Method Calls Formed? by Aaron Patterson
 
-## Code
-https://github.com/tf/pr_log - Turn pull requests into changelog entries
-http://githubengineering.com/scientist/
-https://github.com/ndea/regressor
-https://github.com/clearwater-rb/clearwater
-https://github.com/chaps-io/access-granted
-https://github.com/ankane/the-ultimate-guide-to-timeouts-in-ruby
-https://github.com/JuanitoFatas/fast-ruby
-https://github.com/ndea/rstreamor
-https://github.com/mudge/comp
-https://github.com/mattvperry/mumble-ruby
-http://rubylogs.com/test-doubles-theory-minitest-rspec/
-https://github.com/ccallebs/pokey
-https://github.com/gdpelican/inline_translation
-https://github.com/davydovanton/sidekiq-statistic
-https://github.com/choonkeat/attache
-https://github.com/ndea/rockflow
-https://github.com/pawurb/termit
-https://github.com/electric-feel/i18n-backend-side_by_side
-https://github.com/schneidmaster/eqn
-https://github.com/yammer/model_attribute
-https://github.com/DarthSim/carrierwave-bombshelter
-https://github.com/gottfrois/grape-attack
-http://fullscreen.github.io/squid/
-https://github.com/mattheworiordan/capybara-screenshot
-https://github.com/AvnerCohen/restful-client
-https://github.com/owen2345/camaleon-cms
-https://github.com/peter-murach/pastel
-https://github.com/peter-murach/tty-screen
-https://github.com/csm123/rsstoapi/
-https://github.com/altmetric/decontaminator
-https://github.com/doches/rwordnet
-https://github.com/MightySignal/slackiq
-https://github.com/jcantara/em-rubyserial?
-https://github.com/orbitalimpact/opal-pixi
-https://github.com/backupify/data_filter
-https://github.com/hothero/awesome-rails-gem
-https://github.com/cnorthwood/backtalk
-https://github.com/FGRibreau/mailchecker
-https://github.com/leemachin/ask_awesomely/
-https://github.com/kenyonj/dashed
-https://github.com/stellar/ruby-xdr
-https://github.com/ankane/groupdate
-https://github.com/ur0/statusify
-https://github.com/eduardordm/enginevib
-https://github.com/igorkasyanchuk/rails_db
-https://github.com/basecamp/trix
-https://github.com/ndea/rimportor
-https://github.com/ASoftCo/leaky-gems
-https://github.com/IFTTT/polo
-https://github.com/mushishi78/womb
-https://github.com/jstrait/wavefile/
-https://github.com/shakacode/react_on_rails/
-https://github.com/krisleech/not_found
-https://github.com/rob-murray/five-star
-https://github.com/varvet/godmin
-https://github.com/kwatch/rack-test_app
-https://github.com/NullVoxPopuli/skinny_controllers
-https://github.com/seamusabshere/lock_and_cache
-https://github.com/matsumoto-r/rcon
-https://github.com/solidusio/solidus
-https://github.com/karthikv/model_schema
-https://github.com/zhulik/pinball
-https://github.com/charliesome/better_errors
-https://github.com/spilin/puma_doctor
-https://github.com/sony/v8eval/tree/master
-https://github.com/ankane/strong_migrations
-https://github.com/chriskottom/minitest-hyper
-https://github.com/monkeylearn/monkeylearn-ruby
-https://github.com/nasa/earthdata-search
-https://github.com/SimplyBuilt/activejob-retriable
-https://github.com/codelittinc/slacked
-https://github.com/shakacode/react_on_rails
-https://github.com/powerpak/tqdm-ruby
-https://github.com/Masa331/it_sorts
-https://github.com/kciter/simple-slack-bot
-https://github.com/erdostom/devise-argon2
-https://github.com/schneems/derailed_benchmarks/
-https://github.com/atipugin/telegram-bot-ruby
-https://github.com/thoughtbot/scenic
-https://github.com/0x0dea/viva
-https://github.com/madrobby/zaru
-https://github.com/zverok/worldize
-https://github.com/mwpastore/dalli-rate_limiter
-https://github.com/zendesk/ruby-kafka
-https://github.com/ioquatix/http-accept
-https://github.com/ID25/rails_emoji_picker
-https://github.com/dirkholzapfel/abuelo
-https://github.com/mohitjain/layzr-rails
-https://github.com/mz026/log_spy
-https://github.com/testdouble/good-migrations
-https://github.com/MichaelSp/opal-actioncable
-https://github.com/JVillella/tiny-path
-https://github.com/henrylawson/dynamodb-migration
-https://github.com/ivarvong/googledoc_markdown
-https://github.com/saghm/very-ants
-https://github.com/zeisler/active_enumerable
-https://github.com/molybdenum-99/reality
-https://github.com/janlelis/unicode-display_width
-https://github.com/westonganger/spreadsheet_architect
-https://github.com/acorncache/acorn-cache
-https://github.com/iridakos/duckrails - A development tool to quickly & dynamically mock API endpoints
-https://github.com/SudhagarS/dpr - The simplest Ruby HTTP client.
-https://github.com/tobiasfeistmantl/LeSSL - A certificate manager for lets-encrypt certificates
-https://github.com/efigence/has_reindexable_associations - Automatic Elasticsearch Reindexing of Active Record Associations
-https://github.com/altmetric/urn - Ruby library to validate and normalize URNs according to RFC 2141.
-https://github.com/jdantonio/functional-ruby - A gem for adding functional programming tools to Ruby
-https://github.com/amatsuda/stateful_enum - A very simple state machine plugin built on top of ActiveRecord::Enum
-https://github.com/ruby-concurrency/concurrent-ruby - Modern concurrency tools 
-https://github.com/AtomicPair/wolfentext3d - 3-D dungeon crawling in your terminal
-https://github.com/fedux-org/proxy_rb - Helps to test your proxy infrastructure
-https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby - Solving the second hard problem in Computer Science
-https://github.com/marcelotto/sycamore - An unordered tree data structure for Ruby 
-https://github.com/usmanbashir/haikunator - Heroku-like random name generator
-https://github.com/thredded/db_text_search - A unified interface on top of ActiveRecord for case-insensitive string-in-set querying and full-text search
-https://github.com/vinhnglx/active_bootstrap_skin - Bootstrap skin for Active Admin
-https://github.com/deepcerulean/passive_record - no-persistence pure ruby relational algebra
-
 
 ## Links
 http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html
 http://trailblazer.to/
 http://twin.github.io/ode-to-sequel/
+http://githubengineering.com/scientist/
+https://github.com/ankane/the-ultimate-guide-to-timeouts-in-ruby
 https://rubymonk.com
 https://rubygems.org/gems
 http://opalphaser.com/ - Opal wrapper for the phaser framework
