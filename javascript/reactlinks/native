@@ -8,6 +8,9 @@ https://medium.com/infinite-red/what-sucks-about-react-native-c38a307a210f#.mga6
 https://medium.com/@clayallsopp/2016-the-year-react-native-eats-mobile-development-83e8482f78a6#.nsxq1zepl
 https://medium.com/the-exponent-log/routing-and-navigation-in-react-native-6b27bee39603
 https://medium.com/infinite-red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.5t0k19m09
+https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f#.ur0vyz3k1
+https://medium.com/@tomgoldenberg/why-we-re-open-sourcing-our-react-native-app-bb29c03b398d#.42lowlej6
+
 
 
 ###################################### Miscellaneous ##################################################################
@@ -22,7 +25,12 @@ https://getsiphon.com/docs/build-a-youtube-browser/
 http://www.infoq.com/articles/react-native-introduction
 
 
+
 ##### Code #####
 https://github.com/xiekw2010/react-native-gitfeed
 https://github.com/babotech/react-ingrid
 https://github.com/cyclejs/cycle-react-native
+https://github.com/ptmt/react-native-desktop - React Native for OS X
+https://github.com/akveo/react-native-reddit-reader - react native
+https://github.com/Microsoft/vscode-react-native - vscode extension for react native
+
