@@ -51,11 +51,16 @@ https://medium.com/the-redge-says/a-dead-simple-tutorial-on-how-to-use-react-js-
 https://medium.com/@lavrton/using-react-with-html5-canvas-871d07d8d753#.8bs2zptwl
 https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6#.xhcmg5b5y
 https://medium.com/modus-create-front-end-development/automatic-code-splitting-for-react-router-w-es6-imports-a0abdaa491e9#.6333zpkrs
-https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.lf8qxgy0h
 https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.4440jxj42
 https://medium.com/nfl-engineers/nfl-react-84e9cd11d384#.5uleqg5v3
 https://medium.com/@cheapsteak/animations-with-reacttransitiongroup-4972ad7da286#.c5d5i0hpn
 https://medium.com/@rajaraodv/securing-react-redux-apps-with-jwt-tokens-fcfe81356ea0#.7j6z8mw2n
+https://medium.com/@rajaraodv/handling-transactional-emails-in-react-redux-apps-8b1134748f76#.po88q91rt
+https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.lf8qxgy0h
+https://medium.com/@matt.krick/introducing-redux-operations-332ab56e468b#.1z28xb4gg
+https://medium.com/@eluciano11/from-ember-to-react-5c2faa0e8d10#.ibel5vmnl
+https://medium.com/@delveeng/how-we-build-css-in-office-delve-3440ae67bae9#.ok1hpsq5l
+https://medium.com/@rajaraodv/how-draft-js-represents-rich-text-data-eeabb5f25cf2#.usuekaq68
 
 
 ###################################### James K Nelson ##################################################################
@@ -93,6 +98,7 @@ https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react
 http://dapperdeveloper.com/2015/09/21/tutorial-build-a-date-picker-with-react-js/
 https://github.com/HubSpot/react-experiments
+https://github.com/reactjs/react-basic
 http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack
 http://krasimirtsonev.com/blog/article/distributing-react-components-babel-browserify-webpack-uglifyjs
 http://jaero.space/blog/react-performance-1/
@@ -116,11 +122,9 @@ https://jamesfriend.com.au/better-assertions-shallow-rendered-react-components
 https://pseudoconcurrentthought.wordpress.com/2016/01/26/my-reaction-to-react/
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
-http://benchling.engineering/performance-engineering-with-react/
 https://react.rocks/blog/post/propTypes_React_Flow/
 https://stormpath.com/blog/react-sdk-custom-forms/
 http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/
-http://benchling.engineering/deep-dive-react-perf-debugging/
 http://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem
 http://technologyadvice.github.io/eradicate-runtime-errors-in-react-with-flow/
 https://blog.redradix.com/why-we-are-switching-to-redux-and-sticking-with-react-too/
@@ -132,3 +136,14 @@ http://manuel.bernhardt.io/2016/02/25/upgrading-from-react-0-11-2-to-0-14-7-in-3
 http://swizec.com/blog/using-react-in-the-real-world/swizec/6710
 http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775
 http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/
+http://benchling.engineering/deep-dive-react-perf-debugging/
+http://benchling.engineering/performance-engineering-with-react/
+http://www.zohaib.me/redux-call-service-async/
+http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
+http://blog.goguardian.com/nerds/chrome-extensions-in-react
+http://blog.daiwei.lu/what-i-learned-from-redux-the-redux-pattern/
+https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.k6ur7ru9q
+http://technologyadvice.github.io/app-analytics-redux/
+https://blog.searchkit.co/searchkit-0-8-2c6432f9b4ac#.n0irews75
+http://michalzalecki.com/use-rxjs-with-react/
+https://www.kirupa.com/react/from_data_to_ui_in_react.htm
