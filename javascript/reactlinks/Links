@@ -60,6 +60,9 @@ https://github.com/krasimir/react-cssx - CSS in React
 https://github.com/Adphorus/react-summary - Makes inline summaries for collections
 https://github.com/ayrton/react-key-handler - React component to handle keyboard events
 https://github.com/eanplatter/enclave - A simpler way to compile React applications
+https://github.com/InfomediaLtd/angular2-redux-example - Example project for using pure Redux with Angular 2 and TypeScript
+https://github.com/Wildhoney/Keo - Plain functions for a more functional Deku approach to creating stateless React components
+https://github.com/reactjs/react-basic - A description of the conceptual model of React without implementation burden.
 
 
 ##Links -
@@ -83,4 +86,5 @@ http://reactcheatsheet.com
 https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
 http://jxnblk.com/rebass/
 http://reactcompose.com
+https://www.draft-js-plugins.com
 
