@@ -11,19 +11,24 @@ http://www.sitepoint.com/integrating-the-facebook-api-with-android/
 
 ######################################## Medium ##############################################
 https://medium.com/google-developers/mediabrowserservicecompat-and-the-modern-media-playback-app-7959a5196d90#.rvqud8g4c
+https://medium.com/google-developer-experts/android-project-structure-alternative-way-29ce766682f0#.5b3b6yjvi
+https://medium.com/google-developers/writing-more-code-by-writing-less-code-with-android-studio-live-templates-244f648d17c7#.3c2egh6wj
 https://medium.com/sebs-top-tips/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286#.ne6lemmnc
 https://medium.com/@czyrux/presenter-surviving-orientation-changes-with-loaders-6da6d86ffbbf#.9k4s6m87x
 https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850#.uclrnsgh1
 https://medium.com/@kurtisnusbaum/rxandroid-basics-part-2-6e877af352#.1us78526e
 https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.ydzx9coco
 https://medium.com/@seebrock3r/analyse-a-stack-trace-android-studio-protips-2-7d452056223a#.gm5dxj5ez
-https://medium.com/google-developers/writing-more-code-by-writing-less-code-with-android-studio-live-templates-244f648d17c7#.3c2egh6wj
 https://medium.com/@p.tournaris/rxjava-rxreplayingshare-emit-only-once-b19acd61b469#.ieamwu29k
 https://medium.com/sebs-top-tips/analyse-data-flows-without-the-debugger-android-studio-protips-3-ef2885aaffd9#.ig06dopi6
 https://medium.com/@hitherejoe/android-n-introducing-picture-in-picture-for-android-tv-35f2392fb609#.4ehiuwftm
 https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.451mvxwyg
 https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675#.pq5hba5dc
 https://medium.com/@sergii/using-kotlin-for-tests-in-android-6d4a0c818776#.4z3swtrv9
+https://medium.com/@hitherejoe/android-n-introducing-upgraded-notifications-d4dd98a7ca92#.96qdgxu89
+https://medium.com/@krzychukosobudzki/repository-design-pattern-bc490b256006#.rkuxd740q
+https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-part-1-e0f51fc1a8b3#.vrkd94fcs
+https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1#.utufa0dr2
 
 
 ######################################## Android Hive ##############################################
@@ -36,9 +41,11 @@ http://www.androidhive.info/2015/08/android-integrating-google-analytics-v4/
 http://code.tutsplus.com/tutorials/google-fit-for-android-history-api--cms-25856
 http://code.tutsplus.com/articles/how-to-use-bottom-sheets-with-the-design-support-library--cms-26031
 
+
 ######################################## UXPlanet ##############################################
 https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f#.7bld6884h
 https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf#.175hj38ll
+
 
 ######################################## David Karnok ##############################################
 http://akarnokd.blogspot.ie/2016/03/rxjava-design-retrospect.html
@@ -49,15 +56,22 @@ http://akarnokd.blogspot.ie/2016/03/writing-custom-reactive-base-type.html
 https://blog.stylingandroid.com/indeterminate-part-1/
 https://blog.stylingandroid.com/vectors-for-all-finally/
 https://blog.stylingandroid.com/the-first-five-years/
+https://blog.stylingandroid.com/something-oclock-part-1/
+
 
 ######################################## Nimbledroid ##############################################
 http://blog.nimbledroid.com/2016/03/07/performance-of-dependency-injection-libraries.html
 http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread.html
+http://blog.nimbledroid.com/2016/04/06/slow-ClassLoader.getResourceAsStream.html
+
+
+######################################## Hannes Dorfmann ##############################################
+http://hannesdorfmann.com/android/let-mosby-flow
+http://hannesdorfmann.com/android/presenters-dont-need-lifecycle
 
 
 ######################################## Miscellaneous ##############################################
 http://blogen.stickypassword.com/biometrics-fingerprint-authentication-on-your-android/                                        
-http://hannesdorfmann.com/android/let-mosby-flow
 http://www.tinmegali.com/en/model-view-presenter-android-part-1/
 http://frogermcs.github.io/dependency-injection-with-dagger-2-producers/
 http://artemzin.com/blog/why-i-dont-want-to-use-kotlin-for-android-development-yet/
@@ -66,4 +80,12 @@ http://mcomella.xyz/blog/2016/thread-annotations.html
 http://antonioleiva.com/kotlin-ongloballayoutlistener/
 https://blog.prototypr.io/motion-design-is-the-future-of-ui-fc83ce55c02f#.onlq44nsn
 http://tomstechnicalblog.blogspot.ie/2016/03/rxjava-problem-with-subjects.html
-
+https://www.polidea.com/blog/RxAndroidBLE_the_most_Simple_way_to_code_Bluetooth_Low_Energy_devices/
+http://www.thedroidsonroids.com/blog/android/rxjava-production-line/
+http://ryanharter.com/blog/2016/03/22/autovalue/
+http://ryanharter.com/blog/2016/04/08/autovalue-deep-dive/
+http://blog.jetbrains.com/kotlin/2016/03/kotlins-android-roadmap/
+http://trickyandroid.com/the-dark-world-of-jack-and-jill/
+http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/
+https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
+https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/
