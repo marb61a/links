@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=gk2D7A8MjDo - Performance Testing Tools in Andro
 https://realm.io/news/kau-felipe-lima-adopting-rxjava-airbnb-android/
 https://realm.io/news/donn-felker-reactive-android-ui-programming-with-rxbinding/
 https://www.youtube.com/watch?v=BxTfwT7mkB4 - StrictMode for enforcing best practices at runtime 
+https://www.youtube.com/watch?v=n8nG5K_3BJM - Application Architecture: Designing Offline Application Case Studies
+https://www.youtube.com/playlist?list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn - Droidcon SF 2016
 
 
 ##Code - 
@@ -33,6 +35,11 @@ https://github.com/soundcloud/lightcycle - LightCycle lets self-contained classe
 https://github.com/lisawray/passwordview - A Material Android password view that toggles password visibility via an eye icon.
 https://github.com/pakoito/RxSealedUnions - Tagged Unions for the RxJava aesthete
 https://github.com/patloew/RxWear - Reactive Wearable API Library for Android and RxJava
+https://github.com/nshmura/strictmode-notifier - Improving StrictMode's reports for runtime analysis on Android
+https://github.com/googlesamples/android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+https://github.com/tobykurien/Xtendroid - Xtendroid is a DSL (domain-specific language) for Android that greatly reduces boilerplate code
+https://bitbucket.org/littlerobots/rxlint - a single lint check that checks if a rxjava subscriber is handling the onError() callback.
+https://github.com/mikepenz/AboutLibraries - AboutLibraries is a library to offer some information of libraries.
 
 
 ##Links - 
