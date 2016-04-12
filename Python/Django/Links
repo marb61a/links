@@ -1,13 +1,33 @@
                                           DJANGO LINKS
                                           
-  ###COURSES
+###COURSES
   
   
   
-  ###VIDEOS
+###VIDEOS
+https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t - DjangoCon 2015 (US)
   
   
-  ###CODE
+###CODE
+https://github.com/andrewgodwin/channels-examples - Example projects using Django Channels
+https://github.com/mjtamlyn/django-serial-forms - Constructible, introspectable serializers and forms
+https://github.com/tomchristie/django-rest-framework - Web APIs for Django.
+https://github.com/amitu/djangothis - SimpleHTTPServer with Django steroids
+https://github.com/zerok/channels-in-docker - An example project for getting to know django channels
+https://github.com/django-oscar/django-oscar - Domain-driven e-commerce for Django
+https://github.com/divio/django-cms - The easy-to-use and developer-friendly CMS
+https://github.com/django-tastypie/django-tastypie - Creating delicious APIs for Django apps since 2010.
+https://github.com/turnkeylinux-apps/django - Django - High-level Python Web Framework
+https://github.com/jpetazzo/django - Django on DotCloud tutorial 
+https://github.com/django/django - The Web framework for perfectionists with deadlines
+
   
-  
-  ###LINKS
+###LINKS
+https://www.djangoproject.com
+http://www.django-rest-framework.org
+http://amitu.com/smarturls/
+https://zerokspot.com/weblog/2016/04/04/channels-in-docker/
+http://oscarcommerce.com
+http://www.django-cms.org/en/
+http://tastypieapi.org
+https://www.turnkeylinux.org/django
