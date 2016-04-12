@@ -4,13 +4,22 @@
 http://www.sitepoint.com/deploying-a-django-app-with-mod_wsgi-on-ubuntu-14-04/
 
 
+######################################## Algotech ##############################################
+https://www.algotech.solutions/blog/python/django-migrations-and-how-to-manage-conflicts/
+https://www.algotech.solutions/blog/python/using-django-signals-for-database-logging/
+
+######################################## QBox ##############################################
+https://qbox.io/blog/how-to-elasticsearch-python-django-part1
+https://qbox.io/blog/elasticsearch-python-django-frontend-queries
 
 ######################################## Miscellaneous ##############################################
 http://getblimp.github.io/django-rest-framework-jwt/
 https://micropyramid.com/blog/integration-of-linkedin-api-in-python-django/
 http://www.machinalis.com/blog/introduction-to-django-channels/
 http://mmorejon.github.io/en/blog/deployment-diagram-docker-django/
-https://www.algotech.solutions/blog/python/django-migrations-and-how-to-manage-conflicts/
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
-https://qbox.io/blog/how-to-elasticsearch-python-django-part1
 http://kracekumar.com/post/141377389440/permissions-in-django-admin
+http://matthewdaly.co.uk/blog/2016/03/26/building-a-location-aware-web-app-with-geodjango/
+https://harishnarayanan.org/writing/kubernetes-django/
+https://www.willmcgugan.com/blog/tech/post/django-comparison/
+https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics
