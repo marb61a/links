@@ -24,11 +24,15 @@ https://github.com/primer/primer
 https://github.com/johnpolacek/expressive-css/
 https://github.com/vasanthk/css-refresher-notes
 https://github.com/andriussev/timelined
-https://github.com/bendc/animateplus
+https://github.com/bendc/animateplus - CSS and SVG animation library
 http://maxwellito.github.io/vivus/
 https://github.com/blog/2112-delivering-octicons-with-svg
 http://milligram.github.io/
-https://github.com/1000ch/grd
+https://github.com/1000ch/grd - A CSS grid framework using Flexbox
+https://github.com/morishitter/stylefmt - stylefmt is a tool that automatically formats stylesheets.
+https://github.com/bfred-it/object-fit-images - Adds support to object-fit to images on IE9, IE10, IE11, Edge and other old browsers.
+https://github.com/bfred-it/iphone-inline-video - Play videos inline on Safari iPhone
+
 
 ##Links -
 http://kazzkiq.github.io/balloon.css/
