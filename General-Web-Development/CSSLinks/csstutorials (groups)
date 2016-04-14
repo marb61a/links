@@ -24,6 +24,8 @@ http://www.sitepoint.com/an-introduction-to-postcss/
 http://www.sitepoint.com/css-multi-column-layout-tutorial-for-beginners/
 http://www.sitepoint.com/quick-tip-fixing-font-weight-problem-hover-states/
 http://www.sitepoint.com/parallax-burns-converting-photographs-2d-3d-svg/
+http://www.sitepoint.com/what-is-the-definition-of-a-css-hack/
+http://www.sitepoint.com/a-working-svg-workflow-for-accessible-icons/
 
 
 ############################################## Smashing ########################################################## 
@@ -71,6 +73,10 @@ https://css-tricks.com/rem-global-em-local/
 https://css-tricks.com/accessible-simple-responsive-tables/
 https://css-tricks.com/right-click-logo-show-logo-download-options/
 https://css-tricks.com/whats-deal-declaring-font-properties-font-face/
+https://css-tricks.com/css-modules-part-2-getting-started/
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://css-tricks.com/using-css-cursors/
+https://css-tricks.com/annotating-critical-css/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -95,6 +101,7 @@ https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-1-67e8f2d4035#.7
 https://medium.com/@baddrawings/16-css-lessons-via-post-it-notes-103d64809e7#.tud5te1y5
 https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.srxrzrzi5
 https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.rat7qsav4
+https://medium.com/@PatrykZabielski/how-to-make-multi-layered-parallax-illustration-with-css-javascript-2b56883c3f27#.c3c4ob1p0
 
 
 ############################################## Tutsplus ##########################################################
@@ -135,55 +142,3 @@ https://webkit.org/blog/5735/css-font-features/
 https://webkit.org/blog/5663/editing-css-with-the-visual-styles-sidebar/
 https://webkit.org/blog/5989/css-variables-in-webkit/
 
-
-############################################## Miscellaneous ########################################################## 
-
-http://tech.noredink.com/post/135195074668/creating-repeatable-css-animations-with-sass
-http://flexboxfroggy.com/
-http://ashleynolan.co.uk/blog/managing-inline-images-in-css
-http://vanseodesign.com/web-design/how-to-work-with-svg-text/
-http://bitsofco.de/2015/how-floating-works/
-https://ghinda.net/article/css-ripple-material-design/
-http://www.kirupa.com/html5/css_transitions_cheatsheet.htm
-http://seesparkbox.com/foundry/why_you_need_to_refactor_your_css
-http://uxmovement.com/buttons/making-selected-button-states-clear-for-color-blind-users/
-http://speckyboy.com/2015/09/09/css-animation/
-http://joshnh.com/weblog/getting-responsive-tables-to-behave/
-https://justmarkup.com/log/2015/07/31/dealing-with-long-words-in-css/
-http://vincentp.me/blog/use-cases-for-calc/
-http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox/
-http://franklinta.com/2014/11/30/image-diffing-using-css/
-http://tympanus.net/codrops/2015/09/30/shaded-progress-bars-css-sass-excercise/
-http://shaneprendergast.co.uk/html/sass-theming/
-https://aerotwist.com/blog/cors-for-concern/
-https://ponyfoo.com/articles/inlining-critical-css
-http://blogs.windows.com/msedgedev/2015/10/07/using-extended-srcset-and-the-picture-element-to-tailor-your-image-to-every-device-and-layout/
-http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/
-https://24ways.org/2015/animating-your-brand/
-https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/
-http://12devsofxmas.co.uk/2016/01/day-7-surprising-css-properties-you-can-use-today/
-http://jordankoschei.com/itcss/
-http://ipestov.com/22-essential-css-recipes/
-http://www.zell-weekeat.com/responsive-typography/
-http://thatemil.com/blog/2016/01/23/floating-label-no-js-pure-css/
-http://book.mixu.net/css/index.html
-http://cloudinary.com/blog/automatically_art_directed_responsive_images
-http://www.creativebloq.com/web-design/supercharge-svg-animations-gsap-11618683
-https://jakearchibald.com/2016/link-in-body/
-http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/
-https://aerotwist.com/blog/the-anatomy-of-a-frame/
-http://www.frontendevelopers.com/old-browser-css-hacks/
-https://robinrendle.com/essays/new-web-typography/
-http://blog.lunarlogic.io/2016/boost-your-css-animation-performance-with-repaintless-css/
-http://sarasoueidan.com/blog/svg-vs-gif/
-http://sarasoueidan.com/blog/svg-style-inheritance-and-FOUSVG/
-http://rentafounder.com/textured-gradients-in-pure-css/
-http://www.noupe.com/development/perfectly-responsive-typographic-headlines-with-css-and-javascript-96178.html
-http://taha-sh.com/blog/8-tips-to-write-css-you-wont-hate
-http://bitsofco.de/holy-grail-layout-css-grid/
-https://www.viget.com/articles/css-typography-kerning-ligatures-swashes-small-caps?
-http://fvsch.com/code/svg-icons/how-to/
-http://dsheiko.com/weblog/10-things-to-need-to-know-about-css
-http://vcl.github.io/presentation/index.html
-http://tympanus.net/codrops/2016/03/16/interactive-animated-svg-drum-kit/
-http://johnpolacek.com/content-display-patterns/
