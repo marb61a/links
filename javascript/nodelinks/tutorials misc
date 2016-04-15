@@ -5,6 +5,7 @@ http://jowanza.com/post/125602755114/dealing-with-soap-apis-in-nodejs
 http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
 http://www.bymichaellancaster.com/blog/deploying-nodejs-on-heroku-cloud/
 http://howtonode.org/deploy-blog-to-heroku
+https://blog.heroku.com/archives/2016/3/9/how-to-deploy-your-slack-bots-to-heroku
 https://hacks.mozilla.org/2015/12/web-push-notifications-from-irssi/
 http://eladnava.com/write-synchronous-node-js-code-with-es6-generators/
 http://www.craigkerstiens.com/2015/12/08/massive-json/
@@ -100,3 +101,7 @@ https://blog.jscrambler.com/building-expense-application-electron-react/
 http://www.softwareontheside.info/2016/03/bash-to-audit-of-your-npm-dependencies.html
 https://ponyfoo.com/articles/npm-meltdown-security-concerns
 http://withouttheloop.com/articles/2016-03-24-node-web-ts/
+http://webapplog.com/you-dont-know-node/#main
+https://blog.boldlisting.com/declarative-dependencies-for-unit-testing-node-js-services-45542ceb5703#.utooikv5m
+http://docs.botframework.com/builder/node/overview/
+https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/
