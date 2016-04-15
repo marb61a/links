@@ -106,9 +106,9 @@ https://github.com/ShyykoSerhiy/skyweb
 https://github.com/Netifriik/node-steam-market-manager
 https://github.com/zzarcon/psaux
 https://github.com/sungwoncho/editer
-https://github.com/dthree/cash
-https://github.com/dthree/vorpal
-https://github.com/copy/v86
+https://github.com/dthree/cash - Cross-platform Linux commands in ES6
+https://github.com/dthree/vorpal - Node's framework for interactive CLIs
+https://github.com/copy/v86 - x86 virtualization in JavaScript, running in your browser and NodeJS
 https://github.com/dbuarque/basic-express-api - Just a another express api using Mongoose, ES2015, Webpack, Mocha
 https://github.com/tyrchen/node-eventasync - node.js event emitter
 https://github.com/NodeBB/NodeBB - Node.js based forum software 
@@ -124,7 +124,15 @@ https://github.com/parro-it/canibekikked - Tool to check if any of your NPM repo
 https://github.com/ryanaghdam/propDeep - Returns the given deeply-nested property of an object using dot-notation or an array of keys
 https://github.com/keithwhor/cmnd - Command Line Interface Utility for Node.js using ES6 idioms
 http://grimmdude.github.io/MidiWriterJS/ - MidiWriterJS is a JavaScript library providing an API for generating expressive multi-track MIDI files from code
-
+https://github.com/groupon/ndu - node disk usage
+https://github.com/DiegoRBaquero/node-fb-messenger - Facebook Messenger Platform NodeJS API Wrapper
+https://github.com/dylang/npm-check - Check for outdated, incorrect, and unused dependencies.
+https://github.com/SBoudrias/Inquirer.js - A collection of common interactive command line user interfaces.
+https://github.com/joakimbeng/middl - A generic middleware library, inspired by Express and suitable for anything
+https://github.com/sindresorhus/cli-spinners - Spinners for use in the terminal
+https://github.com/mafintosh/unordered-array-remove - Efficiently remove an element from an unordered array without doing a splice
+https://github.com/alexhultman/uWebSockets - Highly scalable WebSocket server library
+https://github.com/testdouble/scripty - Because no one should be shell-scripting inside a JSON file
 
 
 ##Important Links -
@@ -160,3 +168,5 @@ http://lorenzopicoli.github.io/Sark/
 http://keystonejs.com/ 
 http://everythingstays.com/ - Immutable & Distributed NodeJS Modules With IPFS
 http://feathersjs.com/ - A minimalist real-time framework for tomorrow's apps.
+https://zeit.co/now - Realtime Node Deployments (Free Tier available)
+http://adriansieber.com/shaven/ - Shaven is a DOM building utility and template engine based upon JsonML
