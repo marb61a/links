@@ -115,11 +115,19 @@ https://github.com/highrisehq/snapback_cache - A client side page cache for jque
 https://github.com/krig/eventcontrol - EventControl, jQuery timeline control
 https://github.com/ozkxr/match - A JavaScript library to test JSON with some nice features.
 https://github.com/charto/cwait - Limit number of promises running in parallel
+https://github.com/brandonbloom/jseg - A super simple, in-memory, JS graph database.
+https://github.com/sonnyp/polygoat - Make JavaScript functions that support both promise and callback styles
+https://github.com/kenwheeler/cash/ - An absurdly small jQuery alternative for modern browsers
+http://ireade.github.io/inlinetweetjs/ - Create tweetable links out of any text
+
+
 
 ##Links - 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 http://substance.io/ - Web content editor (Open Source)
+https://popper.js.org -  CREATE POPPERS IN WEB APPLICATIONS
 http://mdast.js.org
+https://golden-layout.com/ - a multi-screen layout manager for webapps (tutorials available)
 https://github.com/bevacqua/js
 http://substance.io/
 https://stormpath.com/blog/secure-single-page-app-problem/
