@@ -6,6 +6,7 @@ http://blog.onthewings.net/2015/08/05/typescript-vs-haxe/
 http://addyosmani.com/largescalejavascript/
 https://booker.codes/data-driven-tests-in-javascript-using-mocha/
 https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
+https://jakearchibald.com/2016/streaming-template-literals/
 http://vegibit.com/vue-js-tutorial/
 http://derickbailey.com/2015/08/26/building-a-component-based-web-ui-with-modern-javascript-frameworks/
 http://www.pubnub.com/blog/webrtc-video-chat-app-in-20-lines-of-javascript/
@@ -21,11 +22,13 @@ http://goose.ninja/2015/08/29/pixi-js-tutorial-getting-started/
 http://heidloff.net/article/usage-of-swagger-in-nodejs-applications-to-document-apis
 http://dmitryfrank.com/articles/js_closures
 https://www.nczonline.net/blog/2015/10/ecmascript-6-destructuring-gotcha/
+https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/
 http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
 http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/
 http://appcues.com/blog/64-tooltip-plugins-made-with-jquery-css-javascript-or-more/
 https://raygun.io/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/
 http://davidwalsh.name/creating-animated-product-slider-sequencejs
+https://davidwalsh.name/javascript-documentation
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html
 http://jonathancreamer.com/document-es6-with-esdoc/
 http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
@@ -63,3 +66,10 @@ https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/
 http://rosenfeld.herokuapp.com/en/articles/2016-02-29-getting-an-spa-to-load-the-fastest-possible-way-and-how-webpack-can-help-you
 https://www.toptal.com/javascript/writing-testable-code-in-javascript
 http://nickmeldrum.com/blog/decorators-in-javascript-using-monkey-patching-closures-prototypes-proxies-and-middleware
+https://www.twilio.com/blog/2016/03/getting-started-with-the-twilio-video-javascript-sdk.html
+https://engineering.mongodb.com/post/code-generating-away-the-boilerplate-in-our-migration-back-to-spidermonkey/
+http://knpw.rs/blog/using-lodash
+http://bytearcher.com/articles/understanding-prototype-property-in-javascript/
+http://kamranahmed.info/blog/2016/04/04/es6-in-depth/
+https://www.redfin.com/blog/2016/04/destructuring-and-default-parameters-in-es6.html
+https://www.sitepen.com/blog/2016/04/13/es6-symbols-drumroll-please/
