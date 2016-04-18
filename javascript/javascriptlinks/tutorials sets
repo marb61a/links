@@ -56,6 +56,10 @@ http://www.sitepoint.com/10-jquery-horizontal-scroll-demos-plugins/
 http://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/
 http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
 http://www.sitepoint.com/creating-donation-widget-with-flight-components/
+http://www.sitepoint.com/using-soundcloud-api-javascript-sdk/
+http://www.sitepoint.com/javascript-modules-bundling-transpiling/
+http://www.sitepoint.com/proper-error-handling-javascript/
+http://www.sitepoint.com/10-jquery-time-picker-plugins/
 
 
 ####################################### Ponyfoo ###########################################################
@@ -97,6 +101,8 @@ https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915
 https://medium.freecodecamp.com/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb#.ek04n5ne4
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.vpo0l5z5q
 https://medium.freecodecamp.com/three-ways-to-find-the-longest-word-in-a-string-in-javascript-a2fb04c9757c#.f4pcumepi
+https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113#.5y9yppyq6
+https://medium.com/net-magazine/the-web-cryptography-api-15d052271494#.5llvddsli
 
 
 ####################################### Telerik ###########################################################
@@ -112,13 +118,14 @@ http://developer.telerik.com/featured/leveling-up-your-javascript/
 http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-beyond-the-browser/
 http://developer.telerik.com/featured/whats-new-in-jquery-3/
 http://developer.telerik.com/featured/native-mobile-maps-from-telerik-and-mapbox/
+http://developer.telerik.com/featured/tools-learn-javascript/
 
 
 ####################################### 2Ality ###########################################################
-http://www.2ality.com/2015/08/es6-map-json.html
-http://www.2ality.com/2015/07/regexp-es6.html
-http://www.2ality.com/2015/08/getting-started-es6.html
-http://www.2ality.com/2015/08/logging-variables-tagged-template.html
+<http://www.2ality.com/2015/08/es6-map-json.html>
+<http://www.2ality.com/2015/07/regexp-es6.html>
+<http://www.2ality.com/2015/08/getting-started-es6.html>
+<http://www.2ality.com/2015/08/logging-variables-tagged-template.html>
 http://www.2ality.com/2015/09/typed-arrays.html
 http://www.2ality.com/2015/09/function-names-es6.html
 http://www.2ality.com/2015/09/well-known-symbols-es6.html
@@ -134,6 +141,7 @@ http://www.2ality.com/2016/01/classes-inner-names.html
 http://www.2ality.com/2016/02/js-name-clashes.html
 http://www.2ality.com/2016/02/arrow-functions-vs-bind.html
 http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html
+http://www.2ality.com/2016/04/unhandled-rejections.html
 
 
 ####################################### Mozilla ###########################################################
@@ -163,12 +171,13 @@ http://www.smashingmagazine.com/2016/02/javascript-ai-html-sliding-tiles-puzzle/
 
 
 ####################################### Auth0 ###########################################################
-https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/
+<https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/>
 https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
 https://auth0.com/blog/2015/10/07/refresh-tokens-what-are-they-and-when-to-use-them/
 https://auth0.com/learn/json-web-tokens/
 https://auth0.com/blog/2016/03/23/intro-to-immutable-js/
-
+https://auth0.com/blog/2016/04/05/quicktip-use-jhipster/
+<https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/>
 
 ####################################### Marius Schultz ###########################################################
 https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-when-const-isnt-constant
