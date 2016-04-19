@@ -27,6 +27,9 @@ http://www.sitepoint.com/improve-the-smell-of-your-code-with-microrefactorings/
 http://www.sitepoint.com/onwards-to-rails-5-additions-changes-and-deprecations/
 http://www.sitepoint.com/using-and-testing-the-adapter-design-pattern/
 http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/
+http://www.sitepoint.com/ruby-interview-questions-problem-walkthroughs/
+http://www.sitepoint.com/generate-excel-spreadsheets-rails-axlsx-gem/
+http://www.sitepoint.com/rails-file-uploading-you-can-believe-in-with-shrine/
 
 
 ###################################### Honeybadger ####################################################
@@ -92,6 +95,8 @@ http://jakeyesbeck.com/2016/02/14/ruby-threads-and-active-record-connections/
 http://jakeyesbeck.com/2016/03/13/the-power-of-arel/
 http://jakeyesbeck.com/2016/03/27/five-more-active-record-features-you-should-be-using/
 http://jakeyesbeck.com/2016/03/20/how-to-build-a-ruby-on-rails-engine/
+http://jakeyesbeck.com/2016/04/03/how-to-deal-with-timezones-the-active-support-way/
+http://jakeyesbeck.com/2016/04/10/things-to-consider-when-metaprogramming-in-ruby/
 
 
 ###################################### Codeship ####################################################
@@ -112,6 +117,8 @@ http://blog.codeship.com/the-enumerable-module/
 http://blog.codeship.com/surrogate-websockets/
 http://blog.codeship.com/the-json-api-spec/
 http://blog.codeship.com/a-deep-dive-into-ruby-scopes/
+https://blog.codeship.com/producing-documentation-for-your-rails-api/
+https://blog.codeship.com/optimists-guide-pessimistic-library-versioning/
 
 
 ###################################### Rossta ####################################################
@@ -170,6 +177,7 @@ http://www.blackbytes.info/2015/09/ngram-analysis-ruby/
 http://www.blackbytes.info/2016/01/ruby-tricks/
 http://www.blackbytes.info/2016/02/ruby-procs-and-lambdas/
 http://www.blackbytes.info/2016/03/enumerable-methods/
+http://www.blackbytes.info/2016/04/twitter-api-from-ruby-tutorial/
 
 
 ###################################### Wyeworks ####################################################
@@ -186,12 +194,14 @@ http://blog.bigbinary.com/2016/02/16/rails-5-options-for-rake-routes.html
 http://blog.bigbinary.com/2016/02/17/active-support-improvements-in-Rails-5.html
 http://blog.bigbinary.com/2016/02/15/rails-5-makes-belong-to-association-required-by-default.html
 http://blog.bigbinary.com/2016/03/08/rails-5-switches-from-strong-etags-to-weak-tags.html
+http://blog.bigbinary.com/2016/04/13/rails-5-adds-option-to-log-warning-when-fetching-big-result-sets.html
 
 
 ###################################### Performance Book ####################################################
 http://ruby-performance-book.com/blog/2016/02/is-ruby-2-3-faster-rails-erb-template-rendering-performance.html
 http://ruby-performance-book.com/blog/2016/02/is-ruby-2-3-faster-frozen-string-literals-performance.html
 http://ruby-performance-book.com/blog/2016/02/is-ruby-2-3-faster-how-to-prepare-yourself-for-frozen-string-literals-and-not-lose-performance.html
+http://ruby-performance-book.com/blog/2016/04/frozen-string-literals-performance-investigation.html
 
 
 ###################################### Arkency ####################################################
