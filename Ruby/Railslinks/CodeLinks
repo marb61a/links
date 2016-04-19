@@ -93,8 +93,8 @@ https://github.com/henrylawson/dynamodb-migration
 https://github.com/ivarvong/googledoc_markdown
 https://github.com/saghm/very-ants
 https://github.com/zeisler/active_enumerable
-https://github.com/molybdenum-99/reality
-https://github.com/janlelis/unicode-display_width
+https://github.com/molybdenum-99/reality - Comprehensive data proxy to knowledge about real world
+https://github.com/janlelis/unicode-display_width - Monospace Unicode character width in Ruby
 https://github.com/westonganger/spreadsheet_architect - Lets you turn any activerecord relation or ruby object collection into a XLSX, ODS, or CSV spreadsheet
 https://github.com/acorncache/acorn-cache - A Configurable HTTP Proxy Caching Gem
 https://github.com/iridakos/duckrails - A development tool to quickly & dynamically mock API endpoints
@@ -113,3 +113,11 @@ https://github.com/usmanbashir/haikunator - Heroku-like random name generator
 https://github.com/thredded/db_text_search - A unified interface on top of ActiveRecord for case-insensitive string-in-set querying and full-text search
 https://github.com/vinhnglx/active_bootstrap_skin - Bootstrap skin for Active Admin
 https://github.com/deepcerulean/passive_record - no-persistence pure ruby relational algebra
+https://github.com/envato/zxcvbn-ruby - Ruby port of Dropbox's zxcvbn javascript lib
+https://github.com/arturoherrero/powercore - PowerCore extends the Ruby Core with useful extensions.
+https://github.com/spree/spree/tree/3-1-stable - Spree is a complete open source e-commerce solution for Ruby on Rails
+https://github.com/dogweather/validated_object - Self-validating Ruby objects
+https://github.com/mame/optcarrot - A NES emulator written in Ruby
+https://github.com/NullVoxPopuli/action_cable_client - A ruby client for interacting with Rails' ActionCable
+https://github.com/ndea/notifyor - Get realtime notifications on your desktop if something happens in your Rails app.
+https://github.com/vcr/vcr -Record your test suite's HTTP interactions and replay them during future test runs
