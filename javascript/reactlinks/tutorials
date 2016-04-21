@@ -63,7 +63,14 @@ https://medium.com/@delveeng/how-we-build-css-in-office-delve-3440ae67bae9#.ok1h
 https://medium.com/@rajaraodv/how-draft-js-represents-rich-text-data-eeabb5f25cf2#.usuekaq68
 https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669#.4e6xywjbz
 https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.401xth1fe
+https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.vtzyehioi
 
+
+###################################### Kadira ##################################################################
+https://voice.kadira.io/let-s-compose-some-react-containers-3b91b6d9b7c8#.4j0ejbwya
+https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql-e0802695648c#.g20mw1nvn
+https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.k6ur7ru9q
+https://voice.kadira.io/say-hello-to-react-cdk-97cff692e798#.rn4zwgx56
 
 
 ###################################### James K Nelson ##################################################################
@@ -76,7 +83,7 @@ http://jamesknelson.com/universal-react-youre-doing-it-wrong/
 ###################################### ReactJS News ##################################################################
 https://reactjsnews.com/webpack-in-production
 https://reactjsnews.com/redux-middleware
-
+https://reactjsnews.com/how-to-make-your-react-apps-10x-faster
 
 ###################################### Miscellaneous ##################################################################
 http://buildwithreact.com
@@ -97,7 +104,6 @@ http://benclinkinbeard.com/posts/up-and-running-with-es6-and-react-in-under-5-mi
 http://merrickchristensen.com/articles/single-state-tree.html
 http://konkle.us/state-management-with-redux/
 http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
-https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react
 http://dapperdeveloper.com/2015/09/21/tutorial-build-a-date-picker-with-react-js/
 https://github.com/HubSpot/react-experiments
@@ -106,15 +112,12 @@ http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webp
 http://krasimirtsonev.com/blog/article/distributing-react-components-babel-browserify-webpack-uglifyjs
 http://jaero.space/blog/react-performance-1/
 https://www.nczonline.net/blog/2016/01/react-and-the-economics-of-dynamic-web-interfaces/
-https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
 https://www.twilio.com/blog/2015/11/reactjs-tutorial-call-monitoring-with-react-express-and-socket-io.html
 https://bugsnag.com/blog/moving-bugsnags-frontend-to-react
 http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html
 http://blog.nparashuram.com/2016/02/using-webworkers-to-make-react-faster.html
 http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/
-https://voice.kadira.io/let-s-compose-some-react-containers-3b91b6d9b7c8#.4j0ejbwya
-https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql-e0802695648c#.g20mw1nvn
 http://blog.getsentry.com/2016/01/07/react-i18n.html
 https://christianalfoni.github.io/react-webpack-cookbook/index.html
 http://riadbenguella.com/from-actions-creators-to-sagas-redux-upgraded/
@@ -127,6 +130,7 @@ https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
 https://react.rocks/blog/post/propTypes_React_Flow/
 https://stormpath.com/blog/react-sdk-custom-forms/
+https://stormpath.com/blog/build-a-redux-powered-react-application/
 http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/
 http://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem
 http://technologyadvice.github.io/eradicate-runtime-errors-in-react-with-flow/
@@ -145,7 +149,6 @@ http://www.zohaib.me/redux-call-service-async/
 http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 http://blog.goguardian.com/nerds/chrome-extensions-in-react
 http://blog.daiwei.lu/what-i-learned-from-redux-the-redux-pattern/
-https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.k6ur7ru9q
 http://technologyadvice.github.io/app-analytics-redux/
 https://blog.searchkit.co/searchkit-0-8-2c6432f9b4ac#.n0irews75
 http://michalzalecki.com/use-rxjs-with-react/
@@ -154,4 +157,5 @@ https://blog.searchkit.co/searchkit-0-9-23d78568d219#.b5tu2y4hn
 http://jlongster.com/Two-Weird-Tricks-with-Redux
 http://andrewhfarmer.com/how-to-style-react/
 https://m.alphasights.com/killing-cors-preflight-requests-on-a-react-spa-1f9b04aa5730#.v12oj8toj
-https://reactjsnews.com/how-to-make-your-react-apps-10x-faster
+https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/
+https://blog.pusher.com/making-reactjs-realtime-with-websockets/
