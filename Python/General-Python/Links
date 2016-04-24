@@ -42,6 +42,16 @@ https://github.com/facebook/fbtftp - Facebook's implementation of a dynamic TFTP
 https://github.com/amirouche/AjguDB - everyday graphdb
 https://github.com/azazel75/metapensiero.pj - Javascript for refined palates: a Python 3 to ES6 Javascript translator
 https://github.com/reverse-shell/routersploit - The Router Exploitation Framework
+https://github.com/aymericdamien/TensorFlow-Examples - TensorFlow tutorials and code examples for beginners
+https://github.com/NoviceLive/bintut - Teach you a binary exploitation for great good
+https://github.com/koehlma/jaspy - Python VM written entirely from scratch in JavaScript with some unique features
+https://github.com/snare/voltron - A hacky debugger UI for hackers
+https://github.com/wit-ai/pywit - Python library for Wit.ai
+https://github.com/isamert/gedi - python code completion plugin for gedit3+
+https://github.com/ets-labs/dependency_injector - Python dependency injection framework
+https://github.com/mokhdzanifaeq/pyflirt - map file generator for intel x86 binary based on flirt signature
+https://github.com/capitalone/cloud-custodian - Policy rules engine for aws management, policies in yaml for query, filter, and take actions on resources
+https://github.com/kirbyfan64/arclib - A unified API for accessing Python's many supported archive formats
 
 
 
@@ -50,5 +60,6 @@ http://fortyninemaps.com/karta.html - Python toolkit for geospatial analysis
 http://www.grantjenks.com/docs/diskcache/
 https://talkpython.fm - Podcast Mp3
 http://pythonpodcast.com - Podcast show
-
+https://www.palletsprojects.com
+https://github.com/Junnplus/awesome-python-books - A directory of Python books
 
