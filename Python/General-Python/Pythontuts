@@ -17,11 +17,20 @@ https://medium.com/coding-with-clarity/speeding-up-python-and-numpy-c-ing-the-wa
 http://www.blog.pythonlibrary.org/2016/02/25/python-an-intro-to-caching/
 http://www.blog.pythonlibrary.org/2016/03/01/python-101-all-about-imports/
 http://www.blog.pythonlibrary.org/2016/03/15/python-201-namedtuple/
+http://www.blog.pythonlibrary.org/2016/04/14/python-201-whats-a-deque/
 
 
 ####################################### Armin Ronacher ###########################################################
 http://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/
 http://lucumr.pocoo.org/2011/7/9/python-and-pola/
+
+
+####################################### Github Tuts ###########################################################
+https://github.com/shekhargulati/52-technologies-in-2016/blob/master/16-newspaper/README.md
+http://jyotiska.github.io/blog/posts/python_libraries.html
+https://github.com/NoviceLive/bintut
+https://github.com/ntasfi/PyGame-Learning-Environment
+http://hkupty.github.io/2016/Understanding-the-math-behind-fp-monads/
 
   
 ####################################### Miscellaneous ###########################################################                                            
@@ -71,3 +80,11 @@ https://dbader.org/blog/catching-bogus-python-asserts
 http://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
 http://www.lihaoyi.com/post/PlanningBusTripswithPythonSingaporesSmartNationAPIs.html
 https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/
+https://semaphoreci.com/community/tutorials/getting-started-with-behavior-testing-in-python-with-behave
+http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/
+http://eli.thegreenplace.net/2016/comparing-types-in-python-3/
+http://xion.io/post/code/python-get-lambda-code.html
+http://podoliaka.org/2016/04/10/debugging-cpython-gdb/
+http://www.jamalmoir.com/2016/04/how-to-build-gui-in-python-3.html
+http://masnun.com/2016/04/19/composition-over-inheritance.html
+http://tech.marksblogg.com/bulk-ip-address-whois-python-hadoop.html
