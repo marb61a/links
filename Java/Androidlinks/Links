@@ -40,6 +40,12 @@ https://github.com/googlesamples/android-architecture - A collection of samples 
 https://github.com/tobykurien/Xtendroid - Xtendroid is a DSL (domain-specific language) for Android that greatly reduces boilerplate code
 https://bitbucket.org/littlerobots/rxlint - a single lint check that checks if a rxjava subscriber is handling the onError() callback.
 https://github.com/mikepenz/AboutLibraries - AboutLibraries is a library to offer some information of libraries.
+https://github.com/ribot/android-boilerplate - Android boilerplate app that showcases architecture and libraries used at ribot 
+https://github.com/johncarl81/parceler - Android Parcelables made easy through code generation. 
+https://github.com/realm/realm-java - Realm is a mobile database: a replacement for SQLite & ORMs
+https://github.com/square/retrofit - Type-safe HTTP client for Android and Java
+https://github.com/simplify20/PowerfulRecyclerViewAdapter - A Common RecyclerView.Adapter implementation which supports any kind of items
+https://github.com/bluelinelabs/Conductor - A small, yet full-featured framework that allows building View-based Android applications
 
 
 ##Links - 
