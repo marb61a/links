@@ -18,8 +18,8 @@ https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg
 
 
 ##Code -
-https://github.com/lapwinglabs/bare-auth
-https://github.com/tcs-de/nodecache
+https://github.com/lapwinglabs/bare-auth - Bare Auth is a ready-to-deploy stateless authentication server
+https://github.com/tcs-de/nodecache - a node internal caching module http://tcs-de.github.io/nodecache/
 https://github.com/marak/the-monolith-versus-the-microservice
 https://github.com/s-a/iron-node
 https://github.com/gillstrom/battery-level
@@ -105,7 +105,7 @@ https://github.com/node-schedule/node-schedule
 https://github.com/ShyykoSerhiy/skyweb
 https://github.com/Netifriik/node-steam-market-manager
 https://github.com/zzarcon/psaux
-https://github.com/sungwoncho/editer
+https://github.com/sungwoncho/editer - A high level multiline string manipulation library
 https://github.com/dthree/cash - Cross-platform Linux commands in ES6
 https://github.com/dthree/vorpal - Node's framework for interactive CLIs
 https://github.com/copy/v86 - x86 virtualization in JavaScript, running in your browser and NodeJS
@@ -133,6 +133,13 @@ https://github.com/sindresorhus/cli-spinners - Spinners for use in the terminal
 https://github.com/mafintosh/unordered-array-remove - Efficiently remove an element from an unordered array without doing a splice
 https://github.com/alexhultman/uWebSockets - Highly scalable WebSocket server library
 https://github.com/testdouble/scripty - Because no one should be shell-scripting inside a JSON file
+https://github.com/fresheneesz/deadunit - A dead-simple nestable unit testing library.
+https://github.com/elado/class-private-method-decorator - Private methods in a JavaScript ES6 class using an ES7 decorator
+https://github.com/dleitee/strman - A Javascript string manipulation library without npm dependences
+https://github.com/robconery/massive-js - A simple relational data access tool for NodeJS
+https://github.com/johansatge/jpeg-autorotate - Rotates JPEG images based on EXIF orientation.
+https://github.com/notonthehighstreet/breadboard - Inversion of control container for Node.js applications
+https://github.com/EclairJS/eclairjs-node - Node.js API for Apache Spark with Remote Client
 
 
 ##Important Links -
