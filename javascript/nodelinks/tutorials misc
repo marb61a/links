@@ -7,7 +7,8 @@ http://www.bymichaellancaster.com/blog/deploying-nodejs-on-heroku-cloud/
 http://howtonode.org/deploy-blog-to-heroku
 https://blog.heroku.com/archives/2016/3/9/how-to-deploy-your-slack-bots-to-heroku
 https://hacks.mozilla.org/2015/12/web-push-notifications-from-irssi/
-http://eladnava.com/write-synchronous-node-js-code-with-es6-generators/
+https://eladnava.com/write-synchronous-node-js-code-with-es6-generators/
+https://eladnava.com/deploying-resilient-node-js-apps-with-forever-and-nginx/
 http://www.craigkerstiens.com/2015/12/08/massive-json/
 https://developer.atlassian.com/blog/2015/11/scripting-with-node/
 https://dzone.com/articles/multicore-programming-in-nodejs
@@ -105,3 +106,12 @@ http://webapplog.com/you-dont-know-node/#main
 https://blog.boldlisting.com/declarative-dependencies-for-unit-testing-node-js-services-45542ceb5703#.utooikv5m
 http://docs.botframework.com/builder/node/overview/
 https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/
+https://certsimple.com/blog/deploy-node-on-linux
+http://niftylettuce.com/posts/automated-node-app-ci-graceful-zerodowntime-github-pm2/
+http://alan.norbauer.com/articles/cross-platform-nodejs/
+https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04
+http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/
+https://blog.plaid.com/npmserve/
+http://gajus.com/blog/8/using-mysql-in-node-js
+https://davidbruant.github.io/writings/2016/04/08/defeating-the-npm-worm.html
+https://toddmotto.com/angular-2-authentication
