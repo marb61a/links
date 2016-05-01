@@ -23,9 +23,8 @@ https://www.youtube.com/watch?v=-xiki68cpTc&list=PLXoXQD8Ev85ZZEg6Es3TU6AjmnFY1n
 
 
 ##Code -
-https://github.com/paramaggarwal/react-dropzone
-https://github.com/ssorallen/react-play
-https://github.com/gpbl/isomorphic500
+https://github.com/ssorallen/react-play - Render React components in the Play Framework with JDK8's JavaScript engine
+https://github.com/gpbl/isomorphic500 - A 500px app built with React and Fluxible with babeljs
 https://github.com/kriasoft/react-starter-kit
 https://github.com/svenanders/learn-react
 https://github.com/arminbhy/reactator
@@ -63,7 +62,12 @@ https://github.com/eanplatter/enclave - A simpler way to compile React applicati
 https://github.com/InfomediaLtd/angular2-redux-example - Example project for using pure Redux with Angular 2 and TypeScript
 https://github.com/Wildhoney/Keo - Plain functions for a more functional Deku approach to creating stateless React components
 https://github.com/reactjs/react-basic - A description of the conceptual model of React without implementation burden.
-
+https://github.com/Raathigesh/Dazzle - Dashboards made easy in React JS
+https://github.com/staxmanade/CssToReact - Quick online tool to transform CSS into React style JSON
+https://github.com/okonet/react-dropzone - Simple HTML5 drag-drop zone with React.js
+https://github.com/samuelsimoes/vim-jsx-utils - Plugin with some utilities for folks who work with JSX on Vim.
+https://github.com/dantrain/react-stonecutter - Animated grid layout component for React
+https://github.com/nachoaIvarez/flexbox-react/ - Unopinionated, standard compilant flexbox components
 
 ##Links -
 http://www.overreact.io/
