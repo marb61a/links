@@ -23,11 +23,10 @@ https://www.youtube.com/watch?v=QtgR94Q2pt4 - The rise of async JavaScript
 
 
 ##Code -
-http://www.javascriptkit.com/javatutors/
-https://github.com/systemjs/systemjs
-https://github.com/cyclejs/cycle-core/
-https://github.com/brion/ogv.js & https://brionv.com/misc/ogv.js/demo/
-https://github.com/wooorm/mdast
+https://github.com/systemjs/systemjs - Universal dynamic module loader
+https://github.com/cyclejs/cycle-core/ - A fully reactive JavaScript framework for Human-Computer Interaction
+https://github.com/brion/ogv.js - JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten
+https://github.com/wooorm/mdast - Markdown Abstract Syntax Tree format
 https://github.com/davidmerfield/typeset
 http://www.patrick-wied.at/static/heatmapjs/
 http://netflix.github.io/falcor/
@@ -119,7 +118,14 @@ https://github.com/brandonbloom/jseg - A super simple, in-memory, JS graph datab
 https://github.com/sonnyp/polygoat - Make JavaScript functions that support both promise and callback styles
 https://github.com/kenwheeler/cash/ - An absurdly small jQuery alternative for modern browsers
 http://ireade.github.io/inlinetweetjs/ - Create tweetable links out of any text
-
+https://github.com/elado/reuse-promise - Reuse the same promise that's returned from a function until it's resolved
+https://github.com/polarnotion/turntable/ - A Responsive JQuery Slider
+https://github.com/krasimir/cssx - CSS in JavaScript
+https://github.com/adriantoine/kewler - Simple functional and immutable color manipulation library
+https://github.com/pharzan/promiseRunner - A simple promise maker which creates promises out of normal functions when you need asynchronous run of the functions
+https://github.com/changbenny/scrollbear - A modern tool that maintains scroll position when images loaded
+https://github.com/davidedc/Algebrite - Computer Algebra System in Javascript 
+https://github.com/jdonaghue/es-search - Search ECMAScript structurally
 
 
 ##Links - 
@@ -127,12 +133,15 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 http://substance.io/ - Web content editor (Open Source)
 https://popper.js.org -  CREATE POPPERS IN WEB APPLICATIONS
 http://mdast.js.org
+http://www.javascriptkit.com/javatutors/
 https://golden-layout.com/ - a multi-screen layout manager for webapps (tutorials available)
 https://github.com/bevacqua/js
 http://substance.io/
 https://stormpath.com/blog/secure-single-page-app-problem/
 https://github.com/wbinnssmith/awesome-promises
 http://xregexp.com
+http://www.chartjs.org/
+https://rumbleinc.github.io/rumble-js-charts/
 http://3d-transforms.webflow.com/
 http://www.javascriptkit.com
 https://davidwalsh.name/javascript-loader
@@ -177,6 +186,7 @@ http://www.transcrypt.org/
 http://callmecavs.com/bricks.js/
 https://morr.cc/almightree/
 http://pressurejs.com/
+http://standardjs.com/
 https://skorokithakis.github.io/expounder/ - JS Library for hding text
 http://blog.wolksoftware.com/introducing-inversify-2
 http://kylebrumm.com/spotifyCurrentlyPlaying.js/
