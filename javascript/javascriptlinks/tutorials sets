@@ -60,6 +60,9 @@ http://www.sitepoint.com/using-soundcloud-api-javascript-sdk/
 http://www.sitepoint.com/javascript-modules-bundling-transpiling/
 http://www.sitepoint.com/proper-error-handling-javascript/
 http://www.sitepoint.com/10-jquery-time-picker-plugins/
+http://www.sitepoint.com/comprehensive-events-jquery/
+http://www.sitepoint.com/function-expressions-vs-declarations/
+http://www.sitepoint.com/javascript-testing-unit-functional-integration/
 
 
 ####################################### Ponyfoo ###########################################################
@@ -122,10 +125,10 @@ http://developer.telerik.com/featured/tools-learn-javascript/
 
 
 ####################################### 2Ality ###########################################################
-<http://www.2ality.com/2015/08/es6-map-json.html>
-<http://www.2ality.com/2015/07/regexp-es6.html>
-<http://www.2ality.com/2015/08/getting-started-es6.html>
-<http://www.2ality.com/2015/08/logging-variables-tagged-template.html>
+http://www.2ality.com/2015/08/es6-map-json.html
+http://www.2ality.com/2015/07/regexp-es6.html
+http://www.2ality.com/2015/08/getting-started-es6.html
+http://www.2ality.com/2015/08/logging-variables-tagged-template.html
 http://www.2ality.com/2015/09/typed-arrays.html
 http://www.2ality.com/2015/09/function-names-es6.html
 http://www.2ality.com/2015/09/well-known-symbols-es6.html
@@ -142,6 +145,7 @@ http://www.2ality.com/2016/02/js-name-clashes.html
 http://www.2ality.com/2016/02/arrow-functions-vs-bind.html
 http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html
 http://www.2ality.com/2016/04/unhandled-rejections.html
+http://www.2ality.com/2016/04/promise-trees.html
 
 
 ####################################### Mozilla ###########################################################
@@ -164,20 +168,22 @@ http://blog.getify.com/thoughts-on-thunks/
 
 
 ####################################### Smashing Magazine ###########################################################
-http://www.smashingmagazine.com/2016/02/writing-next-generation-reusable-javascript-modules/
-http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
-http://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
-http://www.smashingmagazine.com/2016/02/javascript-ai-html-sliding-tiles-puzzle/
+https://www.smashingmagazine.com/2016/02/writing-next-generation-reusable-javascript-modules/
+https://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
+https://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
+https://www.smashingmagazine.com/2016/02/javascript-ai-html-sliding-tiles-puzzle/
+https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/
 
 
 ####################################### Auth0 ###########################################################
-<https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/>
+https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1
 https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
 https://auth0.com/blog/2015/10/07/refresh-tokens-what-are-they-and-when-to-use-them/
 https://auth0.com/learn/json-web-tokens/
 https://auth0.com/blog/2016/03/23/intro-to-immutable-js/
 https://auth0.com/blog/2016/04/05/quicktip-use-jhipster/
-<https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/>
+https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them
+
 
 ####################################### Marius Schultz ###########################################################
 https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-when-const-isnt-constant
