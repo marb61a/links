@@ -32,6 +32,8 @@ https://github.com/1000ch/grd - A CSS grid framework using Flexbox
 https://github.com/morishitter/stylefmt - stylefmt is a tool that automatically formats stylesheets.
 https://github.com/bfred-it/object-fit-images - Adds support to object-fit to images on IE9, IE10, IE11, Edge and other old browsers.
 https://github.com/bfred-it/iphone-inline-video - Play videos inline on Safari iPhone
+https://github.com/cjcenizal/flexbox-patterns - Patterns for using flexbox CSS to build awesome UI components
+https://github.com/ademilter/bricklayer - Lightweight and independent Pinterest-like cascading grid layout library
 
 
 ##Links -
@@ -66,3 +68,4 @@ http://nativeformelements.com/
 https://design.google.com/articles/introducing-resizer/
 https://descartes.io/
 https://1000ch.github.io/grd/
+https://nexts.github.io/Multiple.js/
