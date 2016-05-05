@@ -30,6 +30,8 @@ http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/
 http://www.sitepoint.com/ruby-interview-questions-problem-walkthroughs/
 http://www.sitepoint.com/generate-excel-spreadsheets-rails-axlsx-gem/
 http://www.sitepoint.com/rails-file-uploading-you-can-believe-in-with-shrine/
+http://www.sitepoint.com/introduction-to-cells-a-better-view-layer-for-rails/
+http://www.sitepoint.com/speed-things-up-by-learning-about-caching-in-rails/
 
 
 ###################################### Honeybadger ####################################################
@@ -97,6 +99,7 @@ http://jakeyesbeck.com/2016/03/27/five-more-active-record-features-you-should-be
 http://jakeyesbeck.com/2016/03/20/how-to-build-a-ruby-on-rails-engine/
 http://jakeyesbeck.com/2016/04/03/how-to-deal-with-timezones-the-active-support-way/
 http://jakeyesbeck.com/2016/04/10/things-to-consider-when-metaprogramming-in-ruby/
+http://jakeyesbeck.com/2016/04/17/how-to-diagnose-ruby-on-rails-n-plus-1-query-problems/
 
 
 ###################################### Codeship ####################################################
@@ -119,6 +122,8 @@ http://blog.codeship.com/the-json-api-spec/
 http://blog.codeship.com/a-deep-dive-into-ruby-scopes/
 https://blog.codeship.com/producing-documentation-for-your-rails-api/
 https://blog.codeship.com/optimists-guide-pessimistic-library-versioning/
+https://blog.codeship.com/how-to-find-ruby-code-smells-with-reek/
+https://blog.codeship.com/unobtrusive-javascript-via-ajax-rails/
 
 
 ###################################### Rossta ####################################################
@@ -130,6 +135,8 @@ https://rossta.net/blog/whats-new-in-ruby-2-3-enumerable.html
 https://rossta.net/blog/how-to-write-a-simple-web-crawler-in-ruby-revisited.html
 https://rossta.net/blog/recurring-events-in-ruby.html
 https://rossta.net/blog/a-ruby-antihero-thread-pool.html
+https://rossta.net/blog/using-webpack-with-middleman.html
+https://rossta.net/blog/how-to-specify-local-ruby-gems-in-your-gemfile.html
 
 
 ###################################### JamisBuck ####################################################
@@ -210,3 +217,22 @@ http://blog.arkency.com/2016/02/how-rspec-helped-me-with-resolving-random-spec-f
 http://blog.arkency.com/2016/02/private-classes-in-ruby/
 http://blog.arkency.com/2016/03/creating-new-content-types-in-rails-4-dot-2/
 http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/
+http://blog.arkency.com/2016/04/how-i-hunted-the-most-odd-ruby-bug/
+
+
+###################################### Tutsplus ####################################################
+http://code.tutsplus.com/articles/improving-the-performance-of-your-rails-app-with-eager-loading--cms-25018
+http://code.tutsplus.com/articles/antipatterns-basics-rails-views--cms-25670
+http://code.tutsplus.com/tutorials/rails-image-upload-using-carrierwave-and-devise--cms-25681
+
+
+###################################### MixandGo ####################################################
+http://mixandgo.com/blog/how-to-write-a-cucumber-test-for-google-maps
+http://mixandgo.com/blog/understanding-and-extending-rails-form-helpers
+http://mixandgo.com/blog/how-to-test-a-function-that-yields-a-block-with-minitest-and-rspec
+
+
+###################################### Brandon Hilkert ####################################################
+http://brandonhilkert.com/blog/sidekiq-as-a-microservice-message-queue/
+http://brandonhilkert.com/blog/solving-backwards-compatibility-in-ruby-with-a-proxy-object/
+http://brandonhilkert.com/blog/ruby-gem-post-install-message/
