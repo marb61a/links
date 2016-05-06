@@ -52,8 +52,15 @@ https://github.com/ets-labs/dependency_injector - Python dependency injection fr
 https://github.com/mokhdzanifaeq/pyflirt - map file generator for intel x86 binary based on flirt signature
 https://github.com/capitalone/cloud-custodian - Policy rules engine for aws management, policies in yaml for query, filter, and take actions on resources
 https://github.com/kirbyfan64/arclib - A unified API for accessing Python's many supported archive formats
-
-
+https://github.com/MagicStack/httptools - Fast HTTP parser
+https://github.com/capitalone/cloud-custodian - Policy rules engine for aws management
+https://github.com/farrokhi/dnsdiag - DNS Diagnostics and Performance Measurement Tools
+https://github.com/detuxsandbox/detux - The Multiplatform Linux Sandbox
+https://github.com/pirate/security-growler - A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur
+https://github.com/openai/gym - A toolkit for developing and comparing reinforcement learning algorithms
+https://github.com/coala-analyzer/coala - Easy to use COde AnaLysis Application - yes! For all languages! 
+https://github.com/libeclipse/visionary - A smarter password manager.
+https://github.com/koehlma/jaspy - Python VM written entirely from scratch in JavaScript with some unique features
 
 ##Links -
 http://fortyninemaps.com/karta.html - Python toolkit for geospatial analysis
