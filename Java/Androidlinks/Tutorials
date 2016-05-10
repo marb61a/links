@@ -25,6 +25,11 @@ https://medium.com/@krzychukosobudzki/repository-design-pattern-bc490b256006#.rk
 https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-part-1-e0f51fc1a8b3#.vrkd94fcs
 https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1#.utufa0dr2
 https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df503343c0#.561m4c3ns
+https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.cvz97j6e3
+https://medium.com/@shelajev/looking-at-jrebel-for-android-and-instant-run-how-to-update-code-and-resources-in-android-89b5fc69a98a#.mxnqatvq5
+https://medium.com/@_tiwiz/bonjour-android-its-zeroconf-8e3d3fde760e#.mou1d340l
+https://medium.com/@andrzejchm/ittd-instrumentation-ttd-for-android-4894cbb82d37#.l9yr8snrv
+https://medium.com/@qhutch/android-simple-and-fast-image-processing-with-renderscript-2fa8316273e1#.ovumyyxu4
 
 
 ######################################## Sebs Top Tips ##############################################
@@ -43,12 +48,16 @@ http://www.androidhive.info/2015/08/android-integrating-google-analytics-v4/
 https://medium.com/google-developers/mediabrowserservicecompat-and-the-modern-media-playback-app-7959a5196d90#.rvqud8g4c
 https://medium.com/google-developer-experts/android-project-structure-alternative-way-29ce766682f0#.5b3b6yjvi
 https://medium.com/google-developers/writing-more-code-by-writing-less-code-with-android-studio-live-templates-244f648d17c7#.3c2egh6wj
+https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.s69wviru1
+https://plus.google.com/+JeffSharkey/posts/ZLFTiXkcLZS
+https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2#.pe3onpiea
 
 
 ######################################## Tutsplus ##############################################
 http://code.tutsplus.com/tutorials/google-fit-for-android-history-api--cms-25856
 http://code.tutsplus.com/articles/how-to-use-bottom-sheets-with-the-design-support-library--cms-26031
 http://code.tutsplus.com/tutorials/google-fit-for-android-sessions-api--cms-25857
+http://code.tutsplus.com/tutorials/android-from-scratch-understanding-views-and-view-groups--cms-26043
 
 
 ######################################## UXPlanet ##############################################
@@ -60,6 +69,7 @@ https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbac
 http://akarnokd.blogspot.ie/2016/03/rxjava-design-retrospect.html
 http://akarnokd.blogspot.ie/2016/03/writing-custom-reactive-base-type.html
 http://akarnokd.blogspot.ie/2016/04/operator-fusion-part-2-final.html
+http://akarnokd.blogspot.ie/2016/04/google-agera-vs-reactivex.html
 
 
 ######################################## Styling Android ##############################################
@@ -68,6 +78,7 @@ https://blog.stylingandroid.com/vectors-for-all-finally/
 https://blog.stylingandroid.com/the-first-five-years/
 https://blog.stylingandroid.com/something-oclock-part-1/
 https://blog.stylingandroid.com/something-oclock-part-4/
+https://blog.stylingandroid.com/something-oclock-part-6/
 
 
 ######################################## Nimbledroid ##############################################
@@ -75,6 +86,7 @@ http://blog.nimbledroid.com/2016/03/07/performance-of-dependency-injection-libra
 http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread.html
 http://blog.nimbledroid.com/2016/04/06/slow-ClassLoader.getResourceAsStream.html
 http://blog.nimbledroid.com/2016/04/20/pushing-limits-of-app-startup-time.html
+http://blog.nimbledroid.com/2016/04/25/problems-with-libraries-and-sdks.html
 
 
 ######################################## Hannes Dorfmann ##############################################
@@ -110,3 +122,10 @@ http://engineering.letsnurture.com/android-get-butter-knife/
 https://realm.io/news/donn-felker-solid-part-3/
 http://matthewwear.xyz/android-lightweight-syncing-to-sqlite-with-on-conflict-replace
 http://adelnizamutdinov.github.io/blog/2015/01/23/using-rxjavas-observable-semantics-for-greater-good/
+https://uxdesign.cc/the-absolute-minimum-android-developers-need-to-know-about-ux-part-1-of-5-cab50bbcf787#.wjscgr9nh
+http://leaks.wanari.com/2016/05/05/rendering-markers-for-android/
+http://blog.alexsimo.com/delightful-persistence-android/
+https://robots.thoughtbot.com/accessibility-testing-on-android
+https://www.novoda.com/blog/better-class-naming/
+https://tir38.com/archives/1423
+https://realm.io/news/donn-felker-solid-part-4/
