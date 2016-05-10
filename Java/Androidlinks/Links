@@ -46,7 +46,18 @@ https://github.com/realm/realm-java - Realm is a mobile database: a replacement 
 https://github.com/square/retrofit - Type-safe HTTP client for Android and Java
 https://github.com/simplify20/PowerfulRecyclerViewAdapter - A Common RecyclerView.Adapter implementation which supports any kind of items
 https://github.com/bluelinelabs/Conductor - A small, yet full-featured framework that allows building View-based Android applications
-
+https://github.com/andrzejchm/RESTMock - HTTP Server for Android Instrumentation tests
+https://github.com/francescocervone/RxDrive - RxJava wrapper for Google Drive Android API
+https://github.com/RoRoche/AndroidStarter - A sample Android app using the MVP architecture
+https://github.com/trello/navi - Adds listening capabilities to Activities and Fragments
+https://github.com/JakeWharton/retrolambda - Backport of Java 8's lambda expressions to Java 7, 6 and 5
+https://github.com/blablacar/flaggr-android - A library that allows you to enable/disable features and/or part of code regarding a Context
+https://github.com/google/agera - Reactive Programming for Android
+https://github.com/google/error-prone - Catch common Java mistakes as compile-time errors
+https://github.com/googlesamples/apk-patch-size-estimator - apk-patch-size-estimator
+https://github.com/CloudRail/cloudrail-si-android-sdk - Provides a repository for the CloudRail SI Android SDK
+https://github.com/google/flexbox-layout - Flexbox for Android
+https://github.com/passsy/CompositeAndroid - Composition over inheritance for Android components like Activity or Fragment
 
 ##Links - 
 http://developer.android.com/index.html
