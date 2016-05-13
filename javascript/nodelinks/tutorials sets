@@ -23,6 +23,7 @@ http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/
 http://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
 http://www.sitepoint.com/web-crawling-node-phantomjs-horseman/
 http://www.sitepoint.com/deploy-rest-api-in-30-mins-mlab-heroku/
+http://www.sitepoint.com/custom-slackbot-with-node/
 
 
 ######################################## Scotch.io ##############################################
@@ -31,6 +32,7 @@ https://scotch.io/tutorials/the-anatomy-of-a-json-web-token
 https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
 https://scotch.io/tutorials/a-realtime-room-chat-app-using-node-webkit-socket-io-and-mean
 https://scotch.io/tutorials/containerized-testing-for-node-applications-with-dockunit
+https://scotch.io/tutorials/better-node-with-es6-pt-i
 
 
 ######################################## Medium ##############################################
@@ -55,6 +57,8 @@ https://medium.com/@keithwhor/realtime-doesn-t-belong-everywhere-build-scalable-
 https://medium.com/@Grigorkh/understanding-socket-io-23ad6d26d003#.5cctlve15
 https://medium.com/@devlucky/how-to-get-a-performance-boost-using-node-js-native-addons-fd3a24719c85#.661rteqkw
 https://medium.com/@Trott/a-quick-guide-to-reading-node-js-core-source-c968d83e4194#.kta0o52nt
+https://medium.com/@fermads/node-js-process-load-balancing-comparing-cluster-iptables-and-nginx-6746aaf38272#.7qc8tr68l
+https://medium.com/@tarkus/how-to-build-and-publish-es6-modules-today-with-babel-and-rollup-4426d9c7ca71#.mi4sn9jed
 
 
 ######################################## Risingstack ##############################################
@@ -70,6 +74,8 @@ https://blog.risingstack.com/private-npm-with-docker/
 https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
 https://blog.risingstack.com/node-hero-async-programming-in-node-js/
 https://blog.risingstack.com/your-first-node-js-http-server/
+https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
+https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/
 
 
 ######################################## Tutsplus ##############################################
@@ -152,6 +158,7 @@ https://semaphoreci.com/community/tutorials/how-to-deploy-a-node-js-application-
 http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/
 http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/
 http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/
+http://mherman.org/blog/2016/04/28/test-driven-development-with-node/
 
 
 ######################################## NPMJS ##############################################
