@@ -140,7 +140,21 @@ https://github.com/robconery/massive-js - A simple relational data access tool f
 https://github.com/johansatge/jpeg-autorotate - Rotates JPEG images based on EXIF orientation.
 https://github.com/notonthehighstreet/breadboard - Inversion of control container for Node.js applications
 https://github.com/EclairJS/eclairjs-node - Node.js API for Apache Spark with Remote Client
-
+https://github.com/analog-nico/express-print-routes - Prints the tree of Express routes and middlewares to a file
+https://github.com/sindresorhus/execa - A better `child_process`
+https://github.com/railsware/bozon - Bootstrap, Build, Run and Package Electron application with ease
+https://github.com/emc-advanced-dev/unik - The Unikernel Compilation and Deployment Platform
+https://github.com/mayanklahiri/node-superchild - A smarter replacement for node.js's fork() and spawn()
+https://github.com/andris9/mailtrain - Self hosted newsletter app https://mailtrain.org/
+https://github.com/rjmacarthy/express-typescript-starter - An Express.js project implemented using Typescript with strongly typed objects
+https://github.com/metafloor/bwip-js - Barcode Writer in Pure JavaScript
+https://github.com/kosmodrey/telebot - The easy way to write Telegram bots in Node.js
+https://github.com/aniftyco/npm-as - Run npm as a certain user.
+https://github.com/ericholiveira/studio - A nodejs framework to create decoupled and scalable applications
+https://github.com/ohmu/node-posix - The missing POSIX system calls for node.js
+https://github.com/leo/args - Minimal toolkit for building CLIs
+https://github.com/Mostafa-Samir/klyng - A message-passing distributed computing framework for node.js
+https://github.com/adamhalasz/uniqid - Unique ID Generator
 
 ##Important Links -
 https://nodejs.org
