@@ -20,7 +20,7 @@ http://www.sitepoint.com/watch-using-webpack-to-transform-jsx/
 https://www.youtube.com/watch?v=gcnJcQ1vg_U
 https://www.youtube.com/watch?v=iVKPbH3qyW0&list=PLanDnKP78H3yAjtSHvXQ8nrj9KgdSRuEP 
 https://www.youtube.com/watch?v=-xiki68cpTc&list=PLXoXQD8Ev85ZZEg6Es3TU6AjmnFY1n4Bu&index=2
-
+https://vimeo.com/album/3930691 - Reverse Engineering React
 
 ##Code -
 https://github.com/ssorallen/react-play - Render React components in the Play Framework with JDK8's JavaScript engine
@@ -68,6 +68,15 @@ https://github.com/okonet/react-dropzone - Simple HTML5 drag-drop zone with Reac
 https://github.com/samuelsimoes/vim-jsx-utils - Plugin with some utilities for folks who work with JSX on Vim.
 https://github.com/dantrain/react-stonecutter - Animated grid layout component for React
 https://github.com/nachoaIvarez/flexbox-react/ - Unopinionated, standard compilant flexbox components
+https://github.com/garbles/why-did-you-update - Puts your console on blast when React is making unnecessary updates.
+https://github.com/alanbsmith/react-electron-starter - an example React + Electron application
+https://github.com/PlatziDev/react-url - A React.js High-Order Component and decorator for parsing and resolving URLs inside your application.
+https://github.com/djalbat/Reaction - An alternative implementation of React.
+https://github.com/javivelasco/react-css-themr - Easy theming and composition for CSS Modules.
+https://github.com/iamdustan/tiny-react-renderer - Learn you a React Renderer for Great Good
+https://github.com/relax/relax - New generation CMS on top of React, Redux and GraphQL
+https://github.com/flipace/lovli.js - A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server.
+https://github.com/Katochimoto/xblocks - HTML custom elements on the basis React and X-Tag
 
 ##Links -
 http://www.overreact.io/
@@ -91,4 +100,6 @@ https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78cc
 http://jxnblk.com/rebass/
 http://reactcompose.com
 https://www.draft-js-plugins.com
+https://github.com/dimaip/server-side-rendering - Interactive guide to server-side rendering with Webpack, React, React Transmit, CSS modules and more
+
 
