@@ -14,7 +14,7 @@ https://medium.com/the-exponent-log/routing-and-navigation-in-react-native-6b27b
 https://medium.com/infinite-red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.5t0k19m09
 https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f#.ur0vyz3k1
 https://medium.com/@tomgoldenberg/why-we-re-open-sourcing-our-react-native-app-bb29c03b398d#.42lowlej6
-
+https://medium.com/@dabit3/first-look-react-native-navigator-experimental-9a7cf39a615b#.2ir34p6b4
 
 
 ###################################### Miscellaneous ##################################################################
@@ -32,6 +32,7 @@ https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-
 https://www.viget.com/articles/learn-you-a-react-native
 https://blog.redradix.com/6-essential-libraries-to-use-on-your-next-react-native-app/
 https://onsen.io/blog/building-a-calculator-app-with-redux-and-onsenui/
+https://blog.callstack.io/login-users-with-facebook-in-react-native-4b230b847899#.zex5dlfme
 
 
 ##### Code #####
@@ -41,4 +42,10 @@ https://github.com/cyclejs/cycle-react-native
 https://github.com/ptmt/react-native-desktop - React Native for OS X
 https://github.com/akveo/react-native-reddit-reader - react native
 https://github.com/Microsoft/vscode-react-native - vscode extension for react native
+https://github.com/knowbody/react-native-platform-stylesheet - React Native Platform Specific Stylesheet
+https://github.com/angular/react-native-renderer - Use Angular 2 and React Native to build applications for Android and iOS
+https://github.com/FuYaoDe/react-native-app-intro  - A react native component implementing a parallax effect welcome page 
 
+
+### Links ###
+http://reactionic.github.io/
