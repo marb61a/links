@@ -29,6 +29,9 @@ http://www.sitepoint.com/a-working-svg-workflow-for-accessible-icons/
 http://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/
 http://www.sitepoint.com/how-to-design-rich-card-based-layouts-with-semantic-ui
 http://www.sitepoint.com/embedding-virtual-reality-across-the-web-with-vr-views/
+http://www.sitepoint.com/introducing-the-css-grid-layout/
+http://www.sitepoint.com/how-to-design-rich-card-based-layouts-with-semantic-ui/
+http://www.sitepoint.com/masking-in-the-browser-with-css-and-svg/
 
 
 ############################################## Smashing ########################################################## 
@@ -51,6 +54,8 @@ https://www.smashingmagazine.com/2016/01/leaner-responsive-images-client-hints/
 https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
 https://www.smashingmagazine.com/2016/03/pagination-infinite-scrolling-load-more-buttons/
 https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/
+https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/
+https://www.smashingmagazine.com/2016/05/fluid-typography/
 
 
 ############################################## CSS Tricks ##########################################################
@@ -80,6 +85,9 @@ https://css-tricks.com/css-modules-part-2-getting-started/
 https://css-tricks.com/snippets/css/complete-guide-grid/
 https://css-tricks.com/using-css-cursors/
 https://css-tricks.com/annotating-critical-css/
+https://css-tricks.com/comparison-animation-technologies/
+https://css-tricks.com/images-in-postcss/
+https://css-tricks.com/optimizing-large-scale-displays/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -106,6 +114,7 @@ https://medium.com/@_jh3y/how-to-pure-css-masonry-layouts-a8ede07ba31a#.srxrzrzi
 https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.rat7qsav4
 https://medium.com/@PatrykZabielski/how-to-make-multi-layered-parallax-illustration-with-css-javascript-2b56883c3f27#.c3c4ob1p0
 https://medium.com/@svilen/getting-started-with-postcss-a-quick-guide-for-sass-users-90c8b675d5f4#.vs9kdnr1j
+https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.isoq8iiq2
 
 
 ############################################## Tutsplus ##########################################################
@@ -119,6 +128,11 @@ http://webdesign.tutsplus.com/tutorials/better-css-drop-caps-with-initial-letter
 http://developer.telerik.com/featured/lazy-loading-images-on-the-web/
 http://developer.telerik.com/featured/css-preprocessing-with-visual-studio/
 
+
+############################################## Sara Soueidan ##########################################################
+http://sarasoueidan.com/blog/svg-vs-gif/
+http://sarasoueidan.com/blog/svg-style-inheritance-and-FOUSVG/
+https://sarasoueidan.com/blog/icon-fonts-to-svg/
 
 
 ############################################## The New Code ########################################################## 
