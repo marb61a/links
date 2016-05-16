@@ -19,6 +19,7 @@ http://www.sitepoint.com/canvas-vs-svg-choosing-the-right-tool-for-the-job/
 http://www.sitepoint.com/practical-introduction-material-design-lite-google/
 http://www.sitepoint.com/responsive-web-components/
 http://www.sitepoint.com/create-text-to-speech-chrome-extension/
+http://www.sitepoint.com/a-basic-html5-template/
 
 
 ################################################# Tutsplus #####################################################  
@@ -31,7 +32,7 @@ http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598
 http://code.tutsplus.com/tutorials/must-know-techniques-for-html5-responsive-design--cms-25233
 http://code.tutsplus.com/tutorials/html5-mastery-scoping-rules--cms-24840
 http://webdesign.tutsplus.com/tutorials/how-to-make-floating-input-labels-with-html5-validation--cms-26120?
-
+http://code.tutsplus.com/tutorials/20-of-the-most-popular-html5-game-templates--cms-26070
 
 ################################################# Medium ##################################################### 
 https://medium.com/@punksomething/how-i-learned-to-write-a-chrome-extension-in-5-hours-by-using-the-bruce-lee-technique-c72911ac7d86
@@ -48,6 +49,7 @@ https://www.smashingmagazine.com/2015/12/making-accessibility-simpler/
 https://www.smashingmagazine.com/2016/03/location-data-web-development-and-the-law/
 https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/
 https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/
+https://www.smashingmagazine.com/2016/04/html5-media-source-extensions-bringing-production-video-web/
 
 
 ################################################# Google ##################################################### 
@@ -55,7 +57,8 @@ https://developers.google.com/web/updates/2015/09/automating-resource-selection-
 https://developers.google.com/web/updates/2015/09/history-api-scroll-restoration
 https://developers.google.com/web/updates/2015/12/security-panel
 https://developers.google.com/web/updates/2015/09/tab-discarding-in-chrome-46
-
+https://developers.google.com/web/updates/2016/04/credential-management-api
+https://developers.google.com/web/updates/2016/04/geolocation-on-secure-contexts-only
 
 ################################################# Mozilla ##################################################### 
 https://hacks.mozilla.org/2016/01/building-games-for-firefox-os-tv/
@@ -74,6 +77,12 @@ http://html5doctor.com/html5-check-it-before-you-wreck-it-with-miketm-smith/
 http://html5doctor.com/the-woes-of-date-input/
 
 
+################################################# Github Hosted Tuts ##################################################### 
+https://heipei.github.io/2015/08/20/Persistent-AppCache-Injections/
+https://gist.github.com/paulirish/5d52fb081b3570c81e3a
+http://tscanlin.github.io/tocbot/
+http://w3c.github.io/html-aria/
+
 ####################################### Miscellaneous ###########################################################
 http://www.html5accessibility.com/html5elements/
 http://www.hongkiat.com/blog/modernizr/
@@ -81,7 +90,6 @@ http://www.wufoo.com/html5/attributes/13-formaction.html
 http://blog.nparashuram.com/2015/12/using-chrome-traces-to-automate.html
 http://websitesetup.org/html-5-canvas-cheat-sheet/
 http://www.tutorialspoint.com/html5/html5_modernizr.htm
-https://heipei.github.io/2015/08/20/Persistent-AppCache-Injections/
 http://www.raymondcamden.com/2015/11/23/til-autocomplete-and-forms
 http://yal.cc/gamemaker-html5-loading-bar-image/
 https://www.talater.com/upup/getting-started-with-offline-first.html
@@ -93,7 +101,6 @@ http://christianheilmann.com/2015/09/08/quick-trick-using-template-to-delay-load
 http://blogs.adobe.com/dreamweaver/2015/09/making-your-website-design-accessible.html
 http://webdesignwheel.com/tutorials-for-developing-html5-web-browser-games.html
 http://www.djcrontab.com/2015/09/building-html5-control-surface-for.html
-https://gist.github.com/paulirish/5d52fb081b3570c81e3a
 https://leanpub.com/html5shootemupinanafternoon/read
 https://www.paciellogroup.com/blog/2015/09/easy-content-organisation-with-html5/
 https://www.paciellogroup.com/blog/2016/02/short-note-on-use-of-alt-and-the-title-attribute/
