@@ -22,112 +22,6 @@ https://www.youtube.com/watch?v=edq4dt98Mpg - 5 Tips To Improve Your JS with ES6
 https://www.youtube.com/watch?v=QtgR94Q2pt4 - The rise of async JavaScript
 
 
-##Code -
-https://github.com/systemjs/systemjs - Universal dynamic module loader
-https://github.com/cyclejs/cycle-core/ - A fully reactive JavaScript framework for Human-Computer Interaction
-https://github.com/brion/ogv.js - JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten
-https://github.com/wooorm/mdast - Markdown Abstract Syntax Tree format
-https://github.com/davidmerfield/typeset
-http://www.patrick-wied.at/static/heatmapjs/
-http://netflix.github.io/falcor/
-https://github.com/JSON8
-http://sachinchoolur.github.io/lightGallery/
-https://github.com/BSteephenson/Deep-Type
-http://fent.github.io/randexp.js/
-http://algebra.js.org/
-https://nielse63.github.io/jquery.resizeend/
-https://github.com/cmpolis/smart-table-scroll
-http://gionkunz.github.io/chartist-js/
-https://cryptic.io/intro-to-daisywheeljs/
-https://github.com/danielstjules/mocha.parallel
-https://github.com/zb3/MockTheClock
-https://github.com/starikovs/stupidbox
-http://yoannmoinet.github.io/nipplejs/
-http://adrai.github.io/flowchart.js/
-https://github.com/PaulBGD/HashMap.js
-https://openseadragon.github.io/
-http://bramp.github.io/js-sequence-diagrams/
-http://bevacqua.github.io/promisees/
-https://github.com/aserg-ufmg/JSCity
-https://github.com/issuetrackapp/queryl
-https://github.com/slevithan/xregexp
-http://videojs.com/
-http://zenorocha.github.io/clipboard.js/
-http://gmarland.github.io/mercer/
-http://codepen.io/mike-zarandona/full/Dasnw
-http://js-grid.com/
-http://dinbror.dk/blazy/
-http://eggboxio.github.io/quick-select/
-http://zenorocha.github.io/clipboard.js/
-https://github.com/MaiaVictor/LJSON
-https://github.com/jwagner/smartcrop.js
-https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know
-https://github.com/dthree/vorpal/
-https://github.com/dleitee/valid.js?
-https://github.com/danvk/source-map-explorer
-https://github.com/Microsoft/JSanity
-https://github.com/helion3/inspire-tree
-http://fengyuanchen.github.io/viewer/
-https://github.com/ncsoft/Unreal.js
-https://github.com/callmecavs/jump.js
-https://github.com/zzarcon/microm
-https://github.com/nathancahill/Split.js
-https://github.com/ashh640/Highway
-https://github.com/djyde/PureSlider
-https://github.com/codemix/babel-plugin-contracts
-https://github.com/maperial/maperial.js
-https://github.com/n-fuse/pajax
-https://github.com/lugolabs/monthpicker
-http://mohayonao.github.io/timbre.js/
-https://github.com/jaredly/treed
-https://sensortower.github.io/daterangepicker/
-https://github.com/ecomfe/echarts
-https://github.com/jaxgeller/tweezer.js
-https://github.com/anvaka/VivaGraphJS
-https://github.com/rse/extraction
-https://github.com/roperzh/jroff
-https://github.com/c58/marsdb
-http://tvrtkom.github.io/jQTipnav/
-http://twitter.github.io/labella.js/
-http://fengyuanchen.github.io/cropperjs/
-http://fengyuanchen.github.io/viewerjs/
-https://github.com/Tapha/Custom-Highlight/
-https://github.com/bevacqua/trunc-html
-https://github.com/sgaurav/understanding-es6
-https://github.com/raphamorim/origami.js
-https://github.com/bevacqua/beautify-text
-https://github.com/AriaFallah/WebpackTutorial/tree/master/part1
-https://github.com/cshum/caco
-https://github.com/atayahmet/jquery.easypin
-https://github.com/sindresorhus/matcher
-https://github.com/marten-de-vries/kneden
-https://github.com/santoshrajan/frpjs - Functional Reactive Programming Library for JavaScript
-https://github.com/mobxjs/mobx - Simple, scalable state management
-https://github.com/georgebonnr/bug - Easier Debugging
-https://github.com/babel/babylon - Javascript parser
-https://github.com/DKirwan/calendar-heatmap - D3 Heatmap similar to Github contribution chart
-https://github.com/danigb/tonal - Music tonal elements —pitches, chords, scales, keys— in Javascript 
-https://dreamdom.github.io/speechrec.html - Javascript speech recogniser
-https://github.com/ulrobin/dynamicColorPage - Tiny jQuery plugin to easily adapt the page's styling
-https://github.com/ctrl-freaks/freezeframe.js - Pauses animated .gifs and enables automatic animate upon mouse hover
-https://github.com/highrisehq/snapback_cache - A client side page cache for jquery
-https://github.com/krig/eventcontrol - EventControl, jQuery timeline control
-https://github.com/ozkxr/match - A JavaScript library to test JSON with some nice features.
-https://github.com/charto/cwait - Limit number of promises running in parallel
-https://github.com/brandonbloom/jseg - A super simple, in-memory, JS graph database.
-https://github.com/sonnyp/polygoat - Make JavaScript functions that support both promise and callback styles
-https://github.com/kenwheeler/cash/ - An absurdly small jQuery alternative for modern browsers
-http://ireade.github.io/inlinetweetjs/ - Create tweetable links out of any text
-https://github.com/elado/reuse-promise - Reuse the same promise that's returned from a function until it's resolved
-https://github.com/polarnotion/turntable/ - A Responsive JQuery Slider
-https://github.com/krasimir/cssx - CSS in JavaScript
-https://github.com/adriantoine/kewler - Simple functional and immutable color manipulation library
-https://github.com/pharzan/promiseRunner - A simple promise maker which creates promises out of normal functions when you need asynchronous run of the functions
-https://github.com/changbenny/scrollbear - A modern tool that maintains scroll position when images loaded
-https://github.com/davidedc/Algebrite - Computer Algebra System in Javascript 
-https://github.com/jdonaghue/es-search - Search ECMAScript structurally
-
-
 ##Links - 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 http://substance.io/ - Web content editor (Open Source)
@@ -194,3 +88,4 @@ http://www.gravmatt.com/force-js/ - Scroll and Animate pages
 http://dimplejs.org/ - An object-oriented API for business analytics powered by d3.
 https://psdtowp.net/learn-javascript.html - Tips for learning JS
 http://interactjs.io/ - JavaScript drag and drop, resizing and multi-touch gestures
+http://jargon.js.org - Dictionary of JS jargon
