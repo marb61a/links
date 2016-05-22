@@ -1,70 +1,5 @@
                                         ##Tutorials -
-                                        
-####################################### Sitepoint ###########################################################
-http://www.sitepoint.com/es6-now-template-strings/
-http://www.sitepoint.com/creating-accessible-breakout-game-using-web-audio-svg/
-http://www.sitepoint.com/guide-to-npm-as-a-build-tool/
-http://www.sitepoint.com/full-screen-bootstrap-carousel-random-initial-image/
-http://www.sitepoint.com/multilingual-support-for-angularjs/
-http://www.sitepoint.com/currying-in-functional-javascript/
-http://www.sitepoint.com/experimenting-object-observe-javascript-found-useful/
-http://www.sitepoint.com/the-es6-conundrum/
-http://www.sitepoint.com/measuring-javascript-functions-performance/
-http://www.sitepoint.com/introducing-four-webgl-easier/
-http://www.sitepoint.com/writing-better-javascript-with-flow/
-http://www.sitepoint.com/guide-vanilla-ajax-without-jquery/
-http://www.sitepoint.com/voice-controlled-audio-player-web-speech-api/
-http://www.sitepoint.com/preloading-images-in-parallel-with-promises/
-http://www.sitepoint.com/creating-a-scrud-system-using-jquery-json-and-datatables/
-http://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/
-http://www.sitepoint.com/3-javascript-orms-you-might-not-know/
-http://www.sitepoint.com/command-line-api-fun-profit/
-http://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
-http://www.sitepoint.com/transpiling-es6-modules-to-amd-commonjs-using-babel-gulp/
-http://www.sitepoint.com/face-proximity-detection-with-javascript/
-http://www.sitepoint.com/importance-client-side-javascript-security/
-http://www.sitepoint.com/recursion-functional-javascript/
-http://www.sitepoint.com/javascript-goes-asynchronous-awesome/
-http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
-http://www.sitepoint.com/using-javascript-frameworks-inside-c-with-chakrabridge/
-http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
-http://www.sitepoint.com/whats-new-in-vue-js-1-0/
-http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/
-http://www.sitepoint.com/google-maps-made-easy-with-gmaps-js/
-http://www.sitepoint.com/using-socket-io-and-cordova-to-create-a-real-time-chat-app/
-http://www.sitepoint.com/joys-block-scoping-es6/
-http://www.sitepoint.com/parallel-javascript-with-paralleljs/
-http://www.sitepoint.com/creating-webgl-game-unity-5-javascript/
-http://www.sitepoint.com/getting-started-with-underscore-js/
-http://www.sitepoint.com/jquery-each-function-examples/
-http://www.sitepoint.com/whats-new-jquery-use/
-http://www.sitepoint.com/creating-a-multiselect-component-as-a-web-component/
-http://www.sitepoint.com/using-inline-partials-and-decorators-with-handlebars-4-0/
-http://www.sitepoint.com/introduction-to-jcanvas-jquery-meets-html5-canvas/
-http://www.sitepoint.com/unit-test-javascript-mocha-chai/
-http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
-http://www.sitepoint.com/lazy-loading-images-igaro-app-javascript-framework/
-http://www.sitepoint.com/quick-tip-master-closures-by-reimplementing-them-from-scratch/
-http://www.sitepoint.com/creating-an-imgur-app-with-nativescript/
-http://www.sitepoint.com/generating-pdfs-from-web-pages-on-the-fly-with-jspdf/
-http://www.sitepoint.com/sending-emails-gmail-javascript-api/
-http://www.sitepoint.com/functional-reactive-programming-rxjs/
-http://www.sitepoint.com/building-3d-engine-javascript/
-http://www.sitepoint.com/14-jquery-modal-dialog-boxes/
-http://www.sitepoint.com/introduction-jquery-deferred-objects/
-http://www.sitepoint.com/10-jquery-horizontal-scroll-demos-plugins/
-http://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/
-http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
-http://www.sitepoint.com/creating-donation-widget-with-flight-components/
-http://www.sitepoint.com/using-soundcloud-api-javascript-sdk/
-http://www.sitepoint.com/javascript-modules-bundling-transpiling/
-http://www.sitepoint.com/proper-error-handling-javascript/
-http://www.sitepoint.com/10-jquery-time-picker-plugins/
-http://www.sitepoint.com/comprehensive-events-jquery/
-http://www.sitepoint.com/function-expressions-vs-declarations/
-http://www.sitepoint.com/javascript-testing-unit-functional-integration/
-
-
+                        
 ####################################### Ponyfoo ###########################################################
 http://ponyfoo.com/articles/javascript-quality-guide
 http://ponyfoo.com/articles/es6-destructuring-in-depth
@@ -95,17 +30,22 @@ https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-main
 https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64#.fc4k35icy
 https://medium.com/life-learning/your-life-is-tetris-stop-playing-it-like-chess-4baac6b2750d#.u44aav1n2
 https://medium.com/ben-and-dion/what-can-we-learn-from-how-jquery-symbiotically-pushed-the-web-platform-forward-ce6b20cd4e98#.8z0eqe3w3
-https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.agqo9bdjf
 https://medium.com/bitovi-design-and-development/object-observe-is-dead-long-live-es6-proxies-c3f25454342#.gb916ev5h
 https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5#.rp9aytgjj
 https://medium.com/@clayallsopp/incrementally-migrating-javascript-to-typescript-565020e49c88#.fnglivobo
 https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.bnpd6d3ny
 https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.s12ky2exz
-https://medium.freecodecamp.com/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb#.ek04n5ne4
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.vpo0l5z5q
+https://medium.com/net-magazine/the-web-cryptography-api-15d052271494#.5llvddsli
+https://medium.com/@tarkus/how-to-build-and-publish-es6-modules-today-with-babel-and-rollup-4426d9c7ca71#.qkwb1l6gv
+
+
+###################################### Freecodecamp ###########################################################
+https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.agqo9bdjf
+https://medium.freecodecamp.com/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb#.ek04n5ne4
 https://medium.freecodecamp.com/three-ways-to-find-the-longest-word-in-a-string-in-javascript-a2fb04c9757c#.f4pcumepi
 https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113#.5y9yppyq6
-https://medium.com/net-magazine/the-web-cryptography-api-15d052271494#.5llvddsli
+https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.1pyvvbtlc
 
 
 ####################################### Telerik ###########################################################
@@ -122,6 +62,7 @@ http://developer.telerik.com/featured/what-to-expect-from-javascript-in-2016-bey
 http://developer.telerik.com/featured/whats-new-in-jquery-3/
 http://developer.telerik.com/featured/native-mobile-maps-from-telerik-and-mapbox/
 http://developer.telerik.com/featured/tools-learn-javascript/
+http://developer.telerik.com/content-types/tutorials/easier-web-application-debugging-command-line-api/
 
 
 ####################################### 2Ality ###########################################################
@@ -154,6 +95,8 @@ https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
 https://hacks.mozilla.org/2016/01/firefox-and-the-web-speech-api/
 https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript
 https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas/engine
+https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest?
 
 
 ####################################### James K Nelson ###########################################################
