@@ -13,7 +13,9 @@ http://www.syntaxsuccess.com/viewarticle/using-jquery-with-angular-2.0
 http://www.syntaxsuccess.com/viewarticle/input-controls-in-angular-2.0
 http://www.syntaxsuccess.com/viewarticle/loading-components-dynamically-in-angular-2.0
 http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0
-
+http://www.syntaxsuccess.com/viewarticle/dynamic-form-in-angular-2.0
+http://www.syntaxsuccess.com/viewarticle/buffering-with-rxjs-in-angular-2.0
+http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0
 
 ################################################# Medium ##################################################### 
 https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.bmutqoccu
@@ -35,6 +37,7 @@ http://blog.thoughtram.io/angular/2016/03/21/template-driven-forms-in-angular-2.
 http://toddmotto.com/walkthrough-to-migrate-an-angular-1-component-to-angular-2
 https://toddmotto.com/creating-your-first-angular-2-component
 https://toddmotto.com/component-events-event-emitter-output-angular-2
+https://toddmotto.com/angular-2-authentication
 
 
 ################################################# Auth0 ##################################################### 
@@ -60,7 +63,6 @@ http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
 http://julienrenaux.fr/2015/08/17/modular-angularjs-and-ionic-architecture-a-first-step-towards-angularjs-2/
 http://www.metaltoad.com/blog/angular-2-http-observables
 http://www.bennadel.com/blog/3052-injecting-html-with-the-browserdomadapter-in-angularjs-2-beta-9.htm
-http://www.syntaxsuccess.com/viewarticle/dynamic-form-in-angular-2.0
 http://blog.rangle.io/upgrade-your-application-to-angular-2-with-ng-upgrade/
 http://juristr.com/blog/2016/02/debugging-angular2-console/
 http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/
@@ -70,3 +72,8 @@ https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components
 http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-router-angular-2/
 http://codewithdan.com/2016/03/19/angular-2-typescript-and-html-snippets-for-vs-code/
 https://yakovfain.com/2016/03/21/implementing-the-mediator-design-pattern-in-angular-2/
+http://developer.telerik.com/content-types/tutorials/super-fast-setup-angular-2-components-component-router/
+https://www.thepolyglotdeveloper.com/2016/05/build-simple-mobile-app-nativescript-angular-2/
+https://www.infoq.com/articles/Angular2-TypeScript-High-Level-Overview
+https://thinkster.io/angular-2-migration-tutoria
+https://damienbod.com/2016/04/21/creating-an-angular-2-component-for-plotly/
