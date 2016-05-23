@@ -25,6 +25,7 @@ https://medium.com/@thomassolow/building-a-front-end-only-app-with-angular-e67d1
 https://medium.com/@AliyahChoudhry/is-angular-js-is-the-hottest-javascript-framework-b74495f4e567#.6ut70m67d
 https://medium.com/algotech-solutions/create-interactive-charts-with-ui-grid-and-angular-chart-8e0c436cc0ec#.t4fqpnelw
 https://medium.com/opinionated-angularjs/angular-model-objects-with-javascript-classes-2e6a067c73bc#.pgauogpv7
+https://medium.com/@danieljoonlee/using-broadcast-to-change-your-partials-in-angularjs-920c2b9f5e96#.36kkiot8u
 
 
 ################################################# Scotch.io ##################################################### 
@@ -64,6 +65,8 @@ http://www.bennadel.com/blog/2930-using-cmd-enter-to-submit-a-form-in-angularjs.
 http://www.bennadel.com/blog/2935-enable-animations-explicitly-for-a-performance-boost-in-angularjs.htm
 http://www.bennadel.com/blog/2922-decoupling-component-directives-from-layout-in-angularjs.htm
 http://www.bennadel.com/blog/2966-rendering-image-previews-using-object-urls-vs-base64-data-uris-in-angularjs.htm
+http://www.bennadel.com/blog/3092-creating-an-abstract-value-accessor-for-ngmodel-in-angular-2-beta-17.htm
+http://www.bennadel.com/blog/3076-creating-an-index-loop-structural-directive-in-angular-2-beta-14.htm
 
 
 ################################################# Todd Motto ##################################################### 
@@ -93,6 +96,9 @@ http://www.codeproject.com/Articles/988648/Angular-JS-Shopping-Cart-using-MVC-an
 http://www.codeproject.com/Articles/1076016/Using-AngularJS-in-SharePoint
 http://www.codeproject.com/Articles/1031858/Comprehensive-CRUD-Operations-with-AngularJS-and-W?display=Normal
 http://www.codeproject.com/Articles/1080064/Understanding-Filters-In-AngularJS-Part
+http://www.codeproject.com/Articles/1095313/Integrating-Angular-Js-Grid-ui-grid-with-MVC-plus
+http://www.codeproject.com/Articles/1094784/angles-of-angularjs-part
+
 
 ################################################# Dave Ceddia ##################################################### 
 https://daveceddia.com/sharing-data-between-controllers-best-practice-use-a-service/
@@ -115,6 +121,7 @@ https://www.dunebook.com/introduction-to-resource-with-http-service-in-angularjs
 http://www.webcodegeeks.com/javascript/angular-js/mock-responses-http-calls-network-traffic-simulation-using-ngmocke2e/
 http://www.webcodegeeks.com/javascript/angular-js/angular-js-transclusion-example/
 https://examples.javacodegeeks.com/enterprise-java/spring/mvc/angularjs-spring-integration-tutorial/
+https://www.webcodegeeks.com/javascript/angular-js/using-angularjs-to-extend-your-code-quality
 
 
 ################################################# Miscellaneous ##################################################### 
@@ -147,11 +154,13 @@ http://orizens.com/wp/topics/from-angular-es5-directive-to-angular-es2015-compon
 http://g00glen00b.be/e2e-testing-angularjs-applications-with-protractor/
 http://theleancoder.net/index.php/2015/10/18/angularjs-introduction/
 http://www.creativebloq.com/web-design/build-data-dashboard-angularjs-121518544
+http://angularjs.blogspot.ie/2016/04/5-rookie-mistakes-to-avoid-with-angular.html
 http://angularjs4u.com/directive/angularjs-popup-window-social-authentication-directive/
 http://angularjs.chat/tutorials/angularjs-basic-chat-module/
 http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/
 https://kalimadev.wordpress.com/2016/02/05/hands-on-angularjs-browse-nyt-best-sellers/
 http://www.c-sharpcorner.com/UploadFile/8af675/create-signature-pad-using-angularjs/
+http://www.c-sharpcorner.com/article/learn-angularjs-from-beginning-part-1/
 http://www.dotnetcurry.com/angularjs/1252/angularjs-service-factory
 http://jslancer.com/2016/02/19/demystify-angularjs-15-one-way-data-binding/
 http://tutorials.pluralsight.com/review/using-a-spreadsheet-to-power-charts-in-angularjs-apps
@@ -163,8 +172,7 @@ https://stormpath.com/blog/jwt-authentication-angularjs/
 https://lingohub.com/blog/2016/03/angularjs-directives-image-cropping/
 https://davidwalsh.name/angular-charts
 http://madebymunsters.com/blog/posts/creating-a-mock-backend-in-angular/
-http://blog.ionic.io/angular-is-a-design-pattern/
-https://www.webcodegeeks.com/javascript/angular-js/using-angularjs-to-extend-your-code-quality/
+http://blog.ionic.io/angular-is-a-design-pattern//
 http://www.bacancytechnology.com/blog/reasons-to-choose-angularjs-as-your-web-development-project
 https://www.eduonix.com/blog/web-programming-tutorials/learn-filters-in-angularjs/
 http://www.dhtmlx.com/blog/wrappers-for-suite-components-from-an-angularjs-fan/
@@ -175,3 +183,13 @@ http://blog.mimacom.com/angular-component-method-the-natural-evolution/
 http://blog.thoughtram.io/angularjs/2016/03/29/exploring-angular-1.5-lifecycle-hooks.html
 http://www.fabiobiondi.com/blog/2016/03/new-component-method-in-angular-1-5/
 http://www.java-allandsundry.com/2016/03/single-page-angularjs-application-with.html
+http://opensourceconnections.stfi.re/blog/2013/09/16/prototype-angular-uis-without-a-backend/
+http://blog.portswigger.net/2016/04/adapting-angularjs-payloads-to-exploit.html
+http://www.airpair.stfi.re/angularjs/posts/angularjs-from-prototyping-to-functional-code
+https://tech.luc.id/implementing-the-segment-analytics-platform-in-an-angular-spa-58caf6197619#.ty1ecxsir
+https://www.twilio.com/blog/2016/05/build-video-chat-using-angularjs-1-x.html
+http://www.lunametrics.com/blog/2016/05/04/integrating-angularjs-google-tag-manager/
+http://www.centric.eu/NL/Default/Craft/Blogs/2016/04/15/Running-AngularJS-20-unit-tests-in-Visual-Studio
+http://www.allaboutweb.biz/angular-js-framework-for-creating-ambitious-web-applications/
+http://www.codelord.net/2016/04/21/angular-performance-updating-bind-once-elements/
+http://www.c-sharpcorner.com/article/currency-filter-in-angular-js/
