@@ -19,6 +19,7 @@ https://realm.io/news/donn-felker-reactive-android-ui-programming-with-rxbinding
 https://www.youtube.com/watch?v=BxTfwT7mkB4 - StrictMode for enforcing best practices at runtime 
 https://www.youtube.com/watch?v=n8nG5K_3BJM - Application Architecture: Designing Offline Application Case Studies
 https://www.youtube.com/playlist?list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn - Droidcon SF 2016
+https://codelabs.developers.google.com - Video Tutorials
 
 
 ##Code - 
@@ -58,6 +59,13 @@ https://github.com/googlesamples/apk-patch-size-estimator - apk-patch-size-estim
 https://github.com/CloudRail/cloudrail-si-android-sdk - Provides a repository for the CloudRail SI Android SDK
 https://github.com/google/flexbox-layout - Flexbox for Android
 https://github.com/passsy/CompositeAndroid - Composition over inheritance for Android components like Activity or Fragment
+https://github.com/stephanenicolas/toothpick - A scope tree based Dependency Injection (DI) library for Java
+https://github.com/yongjhih/mocker - Fluent mockito
+https://github.com/ubiratansoares/rxassertions - Nice AssertJ assertions for RxJava
+https://github.com/ArthurHub/Android-Image-Cropper - Image Cropping Library for Android, optimized for Camera / Gallery.
+https://github.com/metova/Cappuccino - A sweeter Espresso. Never write your own IdlingResource again. Never manually turn off system animations again.
+https://github.com/lukaspili/Reactive-Billing - Lightweight reactive wrapper around In App Billing API v3 for Android 
+https://github.com/prolificinteractive/swipe-action-layout - A nice swipe layout that provides new actions with a material design look and feel
 
 ##Links - 
 http://developer.android.com/index.html
