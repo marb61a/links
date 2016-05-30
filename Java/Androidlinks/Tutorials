@@ -27,9 +27,14 @@ https://medium.com/@simonpercic/effortless-network-response-logging-on-android-c
 https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df503343c0#.561m4c3ns
 https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.cvz97j6e3
 https://medium.com/@shelajev/looking-at-jrebel-for-android-and-instant-run-how-to-update-code-and-resources-in-android-89b5fc69a98a#.mxnqatvq5
+https://medium.com/@shelajev/getting-started-with-jrebel-for-android-426633cde736#.8as871kpb
 https://medium.com/@_tiwiz/bonjour-android-its-zeroconf-8e3d3fde760e#.mou1d340l
 https://medium.com/@andrzejchm/ittd-instrumentation-ttd-for-android-4894cbb82d37#.l9yr8snrv
 https://medium.com/@qhutch/android-simple-and-fast-image-processing-with-renderscript-2fa8316273e1#.ovumyyxu4
+https://medium.com/@mreichelt/android-apk-size-dexcount-charts-on-jenkins-ae518e961818#.sl9keflnx
+https://medium.com/@workingkills/understanding-the-renderthread-4dc17bcaf979#.gw7xmg8ph
+https://medium.com/@duhroach/how-vectordrawable-works-fed96e110e35#.play6v6yr
+https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1#.3vnp86pqk
 
 
 ######################################## Sebs Top Tips ##############################################
@@ -51,6 +56,8 @@ https://medium.com/google-developers/writing-more-code-by-writing-less-code-with
 https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.s69wviru1
 https://plus.google.com/+JeffSharkey/posts/ZLFTiXkcLZS
 https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2#.pe3onpiea
+https://medium.com/google-developers/tasks-and-the-back-stack-dbb7c3b0f6d4#.t4ijsptpm
+https://developers.google.com/awareness/
 
 
 ######################################## Tutsplus ##############################################
@@ -63,6 +70,7 @@ http://code.tutsplus.com/tutorials/android-from-scratch-understanding-views-and-
 ######################################## UXPlanet ##############################################
 https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f#.7bld6884h
 https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf#.175hj38ll
+https://uxplanet.org/design-patterns-progressive-disclosure-for-mobile-apps-f41001a293ba#.2dzmap4nm
 
 
 ######################################## David Karnok ##############################################
@@ -79,6 +87,9 @@ https://blog.stylingandroid.com/the-first-five-years/
 https://blog.stylingandroid.com/something-oclock-part-1/
 https://blog.stylingandroid.com/something-oclock-part-4/
 https://blog.stylingandroid.com/something-oclock-part-6/
+https://blog.stylingandroid.com/flexboxlayout-part-1/
+https://blog.stylingandroid.com/flexboxlayout-part2/
+https://blog.stylingandroid.com/flexboxlayout-part-3/
 
 
 ######################################## Nimbledroid ##############################################
@@ -89,9 +100,16 @@ http://blog.nimbledroid.com/2016/04/20/pushing-limits-of-app-startup-time.html
 http://blog.nimbledroid.com/2016/04/25/problems-with-libraries-and-sdks.html
 
 
+######################################## Ryan Harter ##############################################
+http://ryanharter.com/blog/2016/03/22/autovalue/
+http://ryanharter.com/blog/2016/04/08/autovalue-deep-dive/
+http://ryanharter.com/blog/2016/05/16/autovalue-extensions/
+
+
 ######################################## Hannes Dorfmann ##############################################
 http://hannesdorfmann.com/android/let-mosby-flow
 http://hannesdorfmann.com/android/presenters-dont-need-lifecycle
+http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house
 
 
 ######################################## Miscellaneous ##############################################
@@ -107,12 +125,11 @@ https://blog.prototypr.io/motion-design-is-the-future-of-ui-fc83ce55c02f#.onlq44
 http://tomstechnicalblog.blogspot.ie/2016/03/rxjava-problem-with-subjects.html
 https://www.polidea.com/blog/RxAndroidBLE_the_most_Simple_way_to_code_Bluetooth_Low_Energy_devices/
 http://www.thedroidsonroids.com/blog/android/rxjava-production-line/
-http://ryanharter.com/blog/2016/03/22/autovalue/
-http://ryanharter.com/blog/2016/04/08/autovalue-deep-dive/
 http://blog.jetbrains.com/kotlin/2016/03/kotlins-android-roadmap/
 http://trickyandroid.com/the-dark-world-of-jack-and-jill/
 http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/
 https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
+https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/?
 https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/
 https://nullpointer.wtf/android/using-retrofit-realm-parceler/
 http://www.dmytrodanylyk.com/android-data-sync-part-2/
@@ -129,3 +146,8 @@ https://robots.thoughtbot.com/accessibility-testing-on-android
 https://www.novoda.com/blog/better-class-naming/
 https://tir38.com/archives/1423
 https://realm.io/news/donn-felker-solid-part-4/
+https://lambdasoup.com/post/automate_screenshots_1/
+http://android-developers.blogspot.ie/2016/05/designing-for-multi-window.html
+http://android-developers.blogspot.ie/2016/05/enhancing-android-pay-apis.html
+http://riggaroo.co.za/constraintlayout-101-new-layout-builder-android-studio/
+https://developer.android.com/wear/preview/features/notifications.html
