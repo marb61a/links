@@ -127,6 +127,7 @@ http://blog.appsignal.com/blog/2016/03/17/ruby-magic-mastering-concurrency.html
 http://lanceolsen.net/preventing-race-conditions-with-fencing-tokens-in-rails/
 http://dalibornasevic.com/posts/68-processing-large-csv-files-with-ruby
 http://www.akitaonrails.com/2016/03/22/is-your-rails-app-ready-for-production
+http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room
 http://www.betterruby.com/gangs-in-ruby-remember-me/
 http://dev.mensfeld.pl/2016/03/speeding-up-rspec-and-cucumber-on-the-ci-server-with-postgresql-fsync-flag-and-parallel-execution/
 http://crypt.codemancers.com/posts/2016-03-18-rails-webpack-heroku/
@@ -138,7 +139,17 @@ http://testdroid.com/tech/how-to-setup-and-get-started-with-calabash
 http://www.ombulabs.com/blog/ruby/performance/using-bumbler-to-reduce-runtime-dependencies.html
 https://about.futurelearn.com/blog/null-objects-and-the-law-of-demeter/
 http://tutorialsfordevs.com/tutorials/build-json-api-rails-jsonapi-resources/
-https://www.twilio.com/blog/2016/04/receive-and-reply-to-sms-in-rails.htm
 http://toeatapp.startuplandia.io/
 http://blacklane.github.io/2016/04/23/lessons-learned-from-some-of-the-best-ruby-codebases-part-1/
-http://aaronlasseigne.com/2016/04/27/improving-large-rails-apps-with-service-objects/
+https://tech.blacklane.com/2016/05/04/lessons-learned-from-some-of-the-best-ruby-codebases-part-2/
+https://blog.heroku.com/archives/2016/5/9/real_time_rails_implementing_websockets_in_rails_5_with_action_cable
+http://hokstadconsulting.com/nginx/mruby-virtualhosts
+https://eng.goprimer.com/fixing-imagetragick-in-rails-23f237a0bb6d#.9qisb4xev
+https://github.com/rbotafogo/jCSV/wiki/Tutorial
+http://www.zenruby.info/2016/05/procs-and-lambdas-closures-in-ruby.html
+http://www.monkeyandcrow.com/blog/reading_rails_http_delete_with_a_link/
+http://alanwsmith.com/embedding-a-test-suite-in-a-single-file-ruby-app--part-1
+http://ducktypelabs.com/four-ways-to-filter-has_many-associations/
+http://tutorials.pluralsight.com/ruby-ruby-on-rails/react-vs-angular-2-integration-with-rails
+http://idiosyncratic-ruby.com/49-what-the-format.html
+http://www.mikeperham.com/2016/05/17/commercial-gems/
