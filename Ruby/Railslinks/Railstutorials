@@ -32,6 +32,12 @@ http://www.sitepoint.com/generate-excel-spreadsheets-rails-axlsx-gem/
 http://www.sitepoint.com/rails-file-uploading-you-can-believe-in-with-shrine/
 http://www.sitepoint.com/introduction-to-cells-a-better-view-layer-for-rails/
 http://www.sitepoint.com/speed-things-up-by-learning-about-caching-in-rails/
+https://www.sitepoint.com/use-react-today-in-ruby-by-heading-to-cuba/
+https://www.sitepoint.com/easily-provide-excel-reports-with-rails-and-jxls/
+https://www.sitepoint.com/introduction-to-using-jwt-in-rails/
+https://www.sitepoint.com/get-the-low-down-on-ruby-modules/
+https://www.sitepoint.com/an-in-depth-look-at-basic-rails-routing/
+https://www.sitepoint.com/generate-barcodes-with-jruby-and-barcodes4j/
 
 
 ###################################### Honeybadger ####################################################
@@ -79,6 +85,7 @@ https://semaphoreci.com/community/tutorials/introduction-to-verifying-doubles-in
 https://semaphoreci.com/community/tutorials/getting-started-with-minitest
 https://semaphoreci.com/community/tutorials/stubbing-external-services-in-rails
 https://semaphoreci.com/community/tutorials/testing-mixins-in-isolation-with-minitest-and-rspec
+https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec
 
 
 ###################################### Jake Yesbeck ####################################################
@@ -124,6 +131,11 @@ https://blog.codeship.com/producing-documentation-for-your-rails-api/
 https://blog.codeship.com/optimists-guide-pessimistic-library-versioning/
 https://blog.codeship.com/how-to-find-ruby-code-smells-with-reek/
 https://blog.codeship.com/unobtrusive-javascript-via-ajax-rails/
+https://blog.codeship.com/exploring-structure-ruby-gems/
+https://blog.codeship.com/build-math-evaluation-engine/
+https://blog.codeship.com/running-concurrent-workflows-in-ruby/
+https://blog.codeship.com/how-to-get-started-with-a-content-security-policy/
+https://blog.codeship.com/the-straight-dope-on-deprecations/
 
 
 ###################################### Rossta ####################################################
@@ -165,6 +177,7 @@ https://www.twilio.com/blog/2015/10/4-ways-to-parse-a-json-api-with-ruby.html
 https://www.twilio.com/blog/2015/10/delay-api-calls-to-twilio-with-rails-active-job-and-sidekiq.html
 https://www.twilio.com/blog/2016/01/two-factor-authentication-in-rails-4-with-devise-authy-and-puppies.html
 https://www.twilio.com/blog/2016/02/add-chat-to-a-rails-app-with-twilio-ip-messaging.html
+https://www.twilio.com/blog/2016/04/receive-and-reply-to-sms-in-rails.htm
 
 
 ###################################### Gavin Miller ####################################################
@@ -224,6 +237,7 @@ http://blog.arkency.com/2016/04/how-i-hunted-the-most-odd-ruby-bug/
 http://code.tutsplus.com/articles/improving-the-performance-of-your-rails-app-with-eager-loading--cms-25018
 http://code.tutsplus.com/articles/antipatterns-basics-rails-views--cms-25670
 http://code.tutsplus.com/tutorials/rails-image-upload-using-carrierwave-and-devise--cms-25681
+http://code.tutsplus.com/articles/antipatterns-basics-rails-controllers--cms-25900?
 
 
 ###################################### MixandGo ####################################################
@@ -236,3 +250,9 @@ http://mixandgo.com/blog/how-to-test-a-function-that-yields-a-block-with-minites
 http://brandonhilkert.com/blog/sidekiq-as-a-microservice-message-queue/
 http://brandonhilkert.com/blog/solving-backwards-compatibility-in-ruby-with-a-proxy-object/
 http://brandonhilkert.com/blog/ruby-gem-post-install-message/
+
+
+###################################### Aaron Lasseigne ####################################################
+http://aaronlasseigne.com/2016/04/27/improving-large-rails-apps-with-service-objects/
+http://aaronlasseigne.com/2016/05/11/dont-forget-about-infinite-enumerators/
+http://aaronlasseigne.com/2016/05/24/know-ruby-with_index/
