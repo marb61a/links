@@ -124,7 +124,6 @@ https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby - Solving the seco
 https://github.com/marcelotto/sycamore - An unordered tree data structure for Ruby 
 https://github.com/usmanbashir/haikunator - Heroku-like random name generator
 https://github.com/thredded/db_text_search - A unified interface on top of ActiveRecord for case-insensitive string-in-set querying and full-text search
-https://github.com/vinhnglx/active_bootstrap_skin - Bootstrap skin for Active Admin
 https://github.com/deepcerulean/passive_record - no-persistence pure ruby relational algebra
 https://github.com/envato/zxcvbn-ruby - Ruby port of Dropbox's zxcvbn javascript lib
 https://github.com/arturoherrero/powercore - PowerCore extends the Ruby Core with useful extensions.
@@ -136,3 +135,13 @@ https://github.com/ndea/notifyor - Get realtime notifications on your desktop if
 https://github.com/ivantsepp/annotate_gem - Add comments to your Gemfile with each dependency's description
 https://github.com/jeremyevans/rodauth - Authentication and Account Management Framework for Rack Applications
 https://github.com/hyperoslo/facebook-messenger/ - Definitely the best Ruby client for Bots on Messenger
+https://github.com/peter/rails-cms-bootstrap - Bootstrap/demo app for a simple CMS based on Rails 5, Postgres, and Bootstrap 4
+https://github.com/vinhnglx/active_bootstrap_skin - Bootstrap skin for Active Admin
+https://github.com/janko-m/shrine - Toolkit for handling file uploads in Ruby
+https://github.com/JuanitoFatas/active_error - Create an exception with backtrace has never been easier
+https://github.com/blendle/object-cache - Simple Ruby object caching solution using Redis as a backend
+https://github.com/rails-api/active_model_serializers - ActiveModel::Serializer implementation and Rails hooks
+https://github.com/AndrewRadev/vimrunner - Control a vim instance through ruby code
+
+
+
