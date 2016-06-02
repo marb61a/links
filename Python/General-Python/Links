@@ -3,6 +3,9 @@
 ##Videos - 
 https://www.youtube.com/watch?v=jDrcvoWp3Es - Scalable Machine Learning in R and Python with H2O
 https://www.youtube.com/playlist?list=PLGVZCDnMOq0rzDLHi5WxWmN5vueHU5Ar7 - PyData Amsterdam 2016
+http://www.dataschool.io/easier-data-analysis-with-pandas/ - Video Series
+https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
+https://www.youtube.com/playlist?list=PL4_MBPz5hOsK1fflMqTEbOC9rPAsksG4A - Swiss Python Summit 2016
 
 
 
@@ -61,6 +64,23 @@ https://github.com/openai/gym - A toolkit for developing and comparing reinforce
 https://github.com/coala-analyzer/coala - Easy to use COde AnaLysis Application - yes! For all languages! 
 https://github.com/libeclipse/visionary - A smarter password manager.
 https://github.com/koehlma/jaspy - Python VM written entirely from scratch in JavaScript with some unique features
+https://github.com/trailbehind/DeepOSM - Train a deep learning net with OpenStreetMap features and satellite imagery.
+https://github.com/VinF/deer - DEEp Reinforcement learning framework
+https://github.com/robinhood/thorn - Easy Webhooks for Python
+https://github.com/salamer/jolla - A web framework based on Python
+https://github.com/adaptivethreat/EmPyre - A post-exploitation OS X/Linux agent written in Python 2.7
+https://github.com/mjs7231/pygrid - Quickly move windows around the an X11 desktop
+https://github.com/ondergetekende/python-panavatar - Generate pseudo-random SVG avatars for anything (not just users)
+https://github.com/graphql-python/graphene-gae - GraphQL Support for Google AppEngine
+https://github.com/ujjwalkarn/DataSciencePython - common data analysis and machine learning tasks using python
+https://github.com/jarun/Buku - Powerful command-line bookmark manager. Your mini web!
+https://github.com/wcember/pypub - Python library to programatically create epub files
+https://github.com/mschwager/fierce - A DNS reconnaissance tool for locating non-contiguous IP space.
+https://github.com/matthewearl/deep-anpr - Using neural networks to build an automatic number plate recognition system
+https://github.com/thombashi/sqlitebiter - sqlitebiter is a CLI tool to convert CSV/JSON/Excel/Google-Sheets to a SQLite database 
+https://github.com/nccgroup/featherduster - An automated, modular cryptanalysis tool
+https://github.com/alanhamlett/pip-update-requirements - Update the packages in a requirements.txt file
+
 
 ##Links -
 http://fortyninemaps.com/karta.html - Python toolkit for geospatial analysis
@@ -69,4 +89,4 @@ https://talkpython.fm - Podcast Mp3
 http://pythonpodcast.com - Podcast show
 https://www.palletsprojects.com
 https://github.com/Junnplus/awesome-python-books - A directory of Python books
-
+http://pythonhosted.org/arcade/ - Making Games in Python
