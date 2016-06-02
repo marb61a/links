@@ -20,6 +20,7 @@ http://www.blog.pythonlibrary.org/2016/03/01/python-101-all-about-imports/
 http://www.blog.pythonlibrary.org/2016/03/15/python-201-namedtuple/
 http://www.blog.pythonlibrary.org/2016/04/14/python-201-whats-a-deque/
 http://www.blog.pythonlibrary.org/2016/04/20/python-201-an-intro-to-itertools/
+http://www.blog.pythonlibrary.org/2016/05/18/python-3-an-intro-to-encryption/
 
 
 ####################################### Eli Bendersky ###########################################################
@@ -31,6 +32,7 @@ http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch-part-2/
 ####################################### Scraping Hub ###########################################################
 https://blog.scrapinghub.com/2016/04/20/scrapy-tips-from-the-pros-april-2016-edition/
 https://blog.scrapinghub.com/2016/03/23/scrapy-tips-from-the-pros-march-2016-edition/
+https://blog.scrapinghub.com/2016/05/18/scrapy-tips-from-the-pros-may-2016-edition/
 
 
 ####################################### Armin Ronacher ###########################################################
@@ -49,6 +51,7 @@ http://nbviewer.jupyter.org/github/AYLIEN/headline_analysis/blob/06f1223012d2854
 http://tomaugspurger.github.io/modern-1.html
 http://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
 http://activisiongamescience.github.io/2016/04/19/IPython-Parallel-Introduction/
+https://d10genes.github.io/blog/2016/05/03/word2vec/
 
   
 ####################################### Miscellaneous ###########################################################                                            
@@ -63,6 +66,7 @@ http://www.tomforb.es/segfaulting-python-with-afl-fuzz
 http://python-resources.pythonblogs.com/304_python_resources/archive/1521_an_introduction_to_mocking_in_python.html
 https://www.dataquest.io/blog/using-json-data-in-pandas/
 https://www.twilio.com/blog/2016/02/ios-and-web-browser-video-calls-with-python-and-swift-2.html
+https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html
 http://www.fullstackpython.com/task-queues.html
 http://code.activestate.com/recipes/580616-python-method-chaining-examples/
 http://pythontips.com/2016/02/27/learning-python-for-data-science/
@@ -111,3 +115,9 @@ https://www.peterbe.com/plog/ga-pageviews-on-non-web
 http://benjaminbolte.com/blog/2016/keras-language-modeling.html
 https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/
 http://www.benfrederickson.com/matrix-factorization/
+https://www.oreilly.com/ideas/5-reasons-you-need-to-learn-to-write-python-decorators
+http://geoffboeing.com/2016/05/analyzing-lastfm-history/
+https://www.dataquest.io/blog/matplotlib-tutorial/
+https://gregtinkers.wordpress.com/2016/03/25/car-speed-detector/
+https://www.smallsurething.com/list-dict-and-set-comprehensions-by-example/
+http://blog.keras.io/building-autoencoders-in-keras.html
