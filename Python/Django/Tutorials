@@ -8,9 +8,11 @@ http://www.sitepoint.com/deploying-a-django-app-with-mod_wsgi-on-ubuntu-14-04/
 https://www.algotech.solutions/blog/python/django-migrations-and-how-to-manage-conflicts/
 https://www.algotech.solutions/blog/python/using-django-signals-for-database-logging/
 
+
 ######################################## QBox ##############################################
 https://qbox.io/blog/how-to-elasticsearch-python-django-part1
 https://qbox.io/blog/elasticsearch-python-django-frontend-queries
+
 
 ######################################## Miscellaneous ##############################################
 http://getblimp.github.io/django-rest-framework-jwt/
@@ -23,3 +25,6 @@ http://matthewdaly.co.uk/blog/2016/03/26/building-a-location-aware-web-app-with-
 https://harishnarayanan.org/writing/kubernetes-django/
 https://www.willmcgugan.com/blog/tech/post/django-comparison/
 https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics
+http://tech.octopus.energy/2016/05/05/django-elb-health-checks.html
+https://www.smallsurething.com/making-ember-and-django-play-nicely-together-a-todo-mvc-walkthrough/
+http://dezoito.github.io/2016/05/11/django-gitlab-continuous-integration-phantomjs.html
