@@ -15,6 +15,7 @@ https://vimeo.com/136965797 - Joao Parreira - Scaling Node.js to 500 million Use
 https://www.youtube.com/watch?v=u2XCdkL4bWI
 https://www.youtube.com/channel/UC7z0nOE8ITfrGnXJgNzYaEQ
 https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg
+https://www.youtube.com/playlist?list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2#nodeconflondon2016 - Node Conf London 2016
 
 
 ##Code -
@@ -155,6 +156,24 @@ https://github.com/ohmu/node-posix - The missing POSIX system calls for node.js
 https://github.com/leo/args - Minimal toolkit for building CLIs
 https://github.com/Mostafa-Samir/klyng - A message-passing distributed computing framework for node.js
 https://github.com/adamhalasz/uniqid - Unique ID Generator
+https://github.com/joshwcomeau/panther - Discover artists through an infinite node graph
+https://github.com/parro-it/is-fqdn - Check if a string represent a fully qualified domain name
+https://github.com/sindresorhus/anatine - Pristine Twitter app
+https://github.com/kriasoft/node-sqlite - SQLite client library for Node.js applications
+https://github.com/thomas4019/expressa - Data-driven API framework/cms for Node.js
+https://github.com/sindresorhus/fast-cli - Test your download speed using fast.com
+https://github.com/vitaly-t/pg-promise - Advanced access layer to PG via promises
+https://github.com/lerna/lerna/ - A tool for managing JavaScript projects with multiple packages
+https://github.com/sachinchoolur/lightgallery-desktop - A modern, electron and nodejs based image viewer for Mac, Windows and Linux
+https://github.com/wtfaremyinitials/jxa - Access OS X JavaScript for Automation APIs directly in node
+https://github.com/inikulin/publish-please - Safe and highly functional replacement for `npm publish`.
+https://github.com/stackgl/headless-gl - Creates WebGL contexts without making windows
+https://github.com/dtinth/babel-plugin-__coverage__ - Istanbul-compatible code coverage instrumentation plugin for Babel.
+https://github.com/hzlmn/xeon - module loader for bash scripts with `require` style
+https://github.com/facundoolano/aso - Tools for app store optimization on iTunes and Google Play
+https://github.com/ianunay/mock-node - A configurable mock server with an intuitive configuration management interface and a http api
+https://github.com/alm-tools/alm/ - A next generation IDE just for TypeScript 
+
 
 ##Important Links -
 https://nodejs.org
