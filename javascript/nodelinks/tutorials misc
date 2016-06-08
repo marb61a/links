@@ -110,6 +110,7 @@ https://certsimple.com/blog/deploy-node-on-linux
 http://niftylettuce.com/posts/automated-node-app-ci-graceful-zerodowntime-github-pm2/
 http://alan.norbauer.com/articles/cross-platform-nodejs/
 https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04
 http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/
 https://blog.plaid.com/npmserve/
 http://gajus.com/blog/8/using-mysql-in-node-js
@@ -121,4 +122,7 @@ https://reaktor.com/blog/debugging-node-js-applications-using-core-dumps/
 https://nodevision.com.au/blog/post/how-to-integrate-nodejsreact-app-with-xero
 https://jimpick.com/2016/05/05/introducing-lambda-comments/
 https://remysharp.com/2016/05/02/faster-tests-for-multi-node-code-with-es6-and-babel
-
+http://blog.slashdeploy.com/2016/05/18/docker-node-boilerplate/
+http://www.mattmillican.com/blog/post/build-a-slackbot-in-node-js
+http://zeke.sikelianos.com/npm-and-github-automation-with-heroku/
+http://www.dwmkerr.com/learn-docker-by-building-a-microservice/?
