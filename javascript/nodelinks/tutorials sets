@@ -59,6 +59,7 @@ https://medium.com/@devlucky/how-to-get-a-performance-boost-using-node-js-native
 https://medium.com/@Trott/a-quick-guide-to-reading-node-js-core-source-c968d83e4194#.kta0o52nt
 https://medium.com/@fermads/node-js-process-load-balancing-comparing-cluster-iptables-and-nginx-6746aaf38272#.7qc8tr68l
 https://medium.com/@tarkus/how-to-build-and-publish-es6-modules-today-with-babel-and-rollup-4426d9c7ca71#.mi4sn9jed
+https://medium.com/@tarkus/node-js-and-sqlite-for-rapid-prototyping-bc9cf1f26f10#.5f4ihda31
 
 
 ######################################## Risingstack ##############################################
@@ -76,6 +77,9 @@ https://blog.risingstack.com/node-hero-async-programming-in-node-js/
 https://blog.risingstack.com/your-first-node-js-http-server/
 https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
 https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/
+https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/
+https://blog.risingstack.com/node-js-windows-10-tutorial/
+
 
 
 ######################################## Tutsplus ##############################################
@@ -115,6 +119,7 @@ https://davidwalsh.name/nvm
 https://davidwalsh.name/node-modules-intern
 https://davidwalsh.name/convert-image-ascii-art
 https://davidwalsh.name/nodejs-services
+https://davidwalsh.name/git-hook-npm-install-package-json-modified
 
 
 ######################################## Smashing Magazine ##############################################
@@ -167,4 +172,5 @@ http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to
 http://blog.npmjs.org/post/130644130685/how-to-email-daily-gifs-use-nodemailer-w-gmail
 http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy
 http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability
+http://blog.npmjs.org/post/145260155635/introducing-hooks-get-notifications-of-npm
 
