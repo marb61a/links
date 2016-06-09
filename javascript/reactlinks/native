@@ -33,6 +33,9 @@ https://www.viget.com/articles/learn-you-a-react-native
 https://blog.redradix.com/6-essential-libraries-to-use-on-your-next-react-native-app/
 https://onsen.io/blog/building-a-calculator-app-with-redux-and-onsenui/
 https://blog.callstack.io/login-users-with-facebook-in-react-native-4b230b847899#.zex5dlfme
+https://docs.google.com/document/d/1PU51njrUweehKFgSu69C7OAEdyp6rHmsvQ7KIcLaHqw/edit
+https://blog.nativebase.io/the-caveats-of-using-navigator-in-react-native-9547d99172ce#.jcm2cf7bd
+http://blog.cloudoki.com/going-native/
 
 
 ##### Code #####
@@ -45,7 +48,11 @@ https://github.com/Microsoft/vscode-react-native - vscode extension for react na
 https://github.com/knowbody/react-native-platform-stylesheet - React Native Platform Specific Stylesheet
 https://github.com/angular/react-native-renderer - Use Angular 2 and React Native to build applications for Android and iOS
 https://github.com/FuYaoDe/react-native-app-intro  - A react native component implementing a parallax effect welcome page 
+https://github.com/react-native-contrib/react-native-heyzap - A Heyzap plugin for React Native
+https://github.com/futurice/pepperoni-app-kit - Pepperoni - React Native App Starter Kit for Android and iOS
+
 
 
 ### Links ###
 http://reactionic.github.io/
+https://www.decosoftware.com - New React Native IDE
