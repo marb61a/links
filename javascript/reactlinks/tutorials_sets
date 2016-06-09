@@ -17,6 +17,7 @@ http://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/
 
 ###################################### Scotch.io ################################################################## 
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+https://scotch.io/tutorials/build-a-react-flux-app-with-user-authentication
 
 
 ###################################### Risingstack ################################################################
@@ -63,6 +64,10 @@ https://medium.com/@fay_jai/react-elements-vs-react-components-vs-component-back
 https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1#.50tnsx62r
 https://medium.com/@delveeng/how-we-use-the-flux-architecture-in-delve-effc551f8fbc#.6xwyldsqw
 https://medium.com/@denisraslov/the-redux-ecosystem-539c630ec521#.jnmef9xm9
+https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.wka9pfm51
+https://medium.com/@joshuawcomeau/beautiful-animations-in-the-dom-f3228c7f9a16#.f1fd2crp1
+https://medium.com/apollo-stack/apollo-client-graphql-with-react-and-redux-49b35d0f2641#.j18ezqwge
+https://medium.com/@david.gilbertson/react-and-firebase-sittin-in-a-tree-a00d481786cb#.ntny384gm
 
 
 ###################################### Raja Rao ##################################################################
@@ -89,6 +94,7 @@ http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-
 http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
 http://jamesknelson.com/universal-react-youre-doing-it-wrong/
 http://jamesknelson.com/learned-stop-worrying-love-jsx/
+http://jamesknelson.com/should-i-use-shouldcomponentupdate/
 
 
 ###################################### Swizec ################################################################
