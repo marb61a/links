@@ -142,6 +142,12 @@ https://github.com/JuanitoFatas/active_error - Create an exception with backtrac
 https://github.com/blendle/object-cache - Simple Ruby object caching solution using Redis as a backend
 https://github.com/rails-api/active_model_serializers - ActiveModel::Serializer implementation and Rails hooks
 https://github.com/AndrewRadev/vimrunner - Control a vim instance through ruby code
-
-
+https://github.com/zverok/geo_coord - Simple yet useful Geo Coordinates class for Ruby
+https://github.com/Authorea/latexml-ruby - A Ruby wrapper for LaTeXML
+https://github.com/BankExchange/bank_exchange_ruby_api - Official Ruby client for BankExchange API
+https://github.com/cryptosphere/sysrandom - Secure random number generation for Ruby using system RNG facilities
+https://github.com/zverok/time_math2 - Small library for operations with time steps
+https://github.com/thredded/thredded - The best Rails forums engine ever
+https://github.com/piotrmurach/tty-command - Execute shell commands with pretty output logging and capture stdout, stderr and exit status.
+https://github.com/rbotafogo/scicom - Scientific Computing for JRuby
 
