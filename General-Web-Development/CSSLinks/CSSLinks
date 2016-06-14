@@ -5,6 +5,9 @@ https://www.udemy.com/mobi5-html5-and-css3-for-mobile-web-applications/
 
 ##Videos
 http://wesbos.com/css-highlight-animation/
+https://www.youtube.com/watch?v=qDlswTzbnmk - Flexbox: WTF - Forward 4 Web Summit
+https://www.youtube.com/watch?v=9AG35HCBpo4 - CSS in 2016 and Beyond
+
 
 
 ##Code -
@@ -39,6 +42,11 @@ https://github.com/polarnotion/starwarsintro/ - A CSS Library for the Star Wars 
 https://github.com/jasonmoo/smlr - Re-encode jpeg images with no perceivable quality loss.
 https://github.com/adamsilver/maintainablecss.com/ - MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS
 https://github.com/matejlatin/Gutenberg - A meaningful web typography starter kit.
+https://github.com/planttheidea/jile - Modular CSS in pure JavaScript
+https://github.com/ruanyf/css-modules-demos - a collection of simple demos of CSS Modules
+https://github.com/StefanKovac/flex-layout-attribute - HTML layout helper based on CSS flexbox specification
+https://github.com/cutestrap/cutestrap - A tiny alternative to Bootstrap.
+
 
 
 ##Links -
@@ -75,3 +83,9 @@ https://design.google.com/articles/introducing-resizer/
 https://descartes.io/
 https://1000ch.github.io/grd/
 https://nexts.github.io/Multiple.js/
+http://howtocenterincss.com/
+http://www.csspurge.com/
+https://ausi.github.io/respimagelint/ - Linter for responsive images
+http://bulma.io/ - A modern CSS framework based on Flexbox
+http://cssspecificity.com/
+http://www.cssfontstack.com/
