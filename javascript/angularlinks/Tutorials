@@ -79,6 +79,7 @@ https://toddmotto.com/directive-to-directive-communication-with-require/
 https://toddmotto.com/on-init-require-object-syntax-angular-component/
 https://toddmotto.com/angular-modules-setters-getters/
 https://toddmotto.com/exploring-the-angular-1-5-component-method/
+https://toddmotto.com/angular-1-5-lifecycle-hooks
 
 
 ################################################# Codelord ##################################################### 
@@ -88,6 +89,7 @@ http://www.codelord.net/2015/11/18/the-deal-with-angular-and-minification/?
 http://www.codelord.net/2015/12/03/lazy-loading-your-first-component-in-angular/
 http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/
 http://www.codelord.net/2016/01/14/adding-the-first-angular-2-component-to-your-angular-1-app/
+http://www.codelord.net/2016/06/02/$scope-dot-$watch-and-controlleras/
 
 
 ################################################# Code Project ##################################################### 
@@ -104,6 +106,7 @@ http://www.codeproject.com/Articles/1094784/angles-of-angularjs-part
 https://daveceddia.com/sharing-data-between-controllers-best-practice-use-a-service/
 https://daveceddia.com/testing-angular-part-1-karma-setup/
 https://daveceddia.com/testing-angular-part-3-testing-recipes/
+https://daveceddia.com/angular-directives-mapped-to-react/
 
 
 ################################################# Minko Gechev ##################################################### 
@@ -115,6 +118,7 @@ http://blog.mgechev.com/2016/01/23/angular2-viewchildren-contentchildren-differe
 https://www.dunebook.com/from-zero-to-hero-all-about-filters-in-angularjs/
 https://www.dunebook.com/create-a-simple-social-networking-app-with-angularjs/
 https://www.dunebook.com/introduction-to-resource-with-http-service-in-angularjs/
+https://www.dunebook.com/create-mapify-app-using-angularjs/
 
 
 ################################################# Codegeeks ##################################################### 
@@ -124,10 +128,15 @@ https://examples.javacodegeeks.com/enterprise-java/spring/mvc/angularjs-spring-i
 https://www.webcodegeeks.com/javascript/angular-js/using-angularjs-to-extend-your-code-quality
 
 
+################################################# Pluralsight ##################################################### 
+http://blog.pluralsight.com/tutorial-angularjs
+http://tutorials.pluralsight.com/review/using-a-spreadsheet-to-power-charts-in-angularjs-apps
+http://tutorials.pluralsight.com/front-end-javascript/filter-components-in-angularjs
+
+
 ################################################# Miscellaneous ##################################################### 
 http://www.cloudcity.io/blog/2016/03/03/angular-loading-annoyances/
 https://eng.saucelabs.com/blog/building-a-ui-style-guide-with-angularjs-directives
-http://blog.pluralsight.com/tutorial-angularjs
 http://bencentra.com/code/2015/11/16/unit-testing-angularjs.html
 https://stormpath.com/blog/fullstack-express-angular-stormpath/
 http://anandmanisankar.com/posts/angularjs-best-parts/
@@ -163,7 +172,6 @@ http://www.c-sharpcorner.com/UploadFile/8af675/create-signature-pad-using-angula
 http://www.c-sharpcorner.com/article/learn-angularjs-from-beginning-part-1/
 http://www.dotnetcurry.com/angularjs/1252/angularjs-service-factory
 http://jslancer.com/2016/02/19/demystify-angularjs-15-one-way-data-binding/
-http://tutorials.pluralsight.com/review/using-a-spreadsheet-to-power-charts-in-angularjs-apps
 http://devproconnections.com/javascript/web-pages-more-dynamic-angularjs
 https://scotch.io/tutorials/build-an-angularjs-app-with-stamplay-the-ifttt-for-developers
 http://www.jvandemo.com/how-to-configure-your-angularjs-application-using-environment-variables/
@@ -193,3 +201,8 @@ http://www.centric.eu/NL/Default/Craft/Blogs/2016/04/15/Running-AngularJS-20-uni
 http://www.allaboutweb.biz/angular-js-framework-for-creating-ambitious-web-applications/
 http://www.codelord.net/2016/04/21/angular-performance-updating-bind-once-elements/
 http://www.c-sharpcorner.com/article/currency-filter-in-angular-js/
+http://www.wisdomofjim.com/woj-blog/working-effectively-with-legacy-angular-code
+http://www.siddharthpandey.net/write-angularjs-components-with-nested-routing-using-typescript/
+http://victorsavkin.com/post/145672529346/angular-router
+http://webdev.snapagency.com/how-to-use-angular-js-and-json-api-to-build-wordpress-theme/
+http://www.codeproject.com/Articles/1103321/Custom-Validation-with-AngularJS
