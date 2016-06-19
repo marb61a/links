@@ -22,6 +22,7 @@ https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.bmutq
 https://medium.com/@marcosloic/managing-state-in-angular-2-using-rxjs-b849d6bbd5a5#.o6jeyotet
 https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.js1g2yjib
 https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e
+https://medium.com/@castillo.io/native-web-push-notifications-with-angular-2-c774a72c009e#.vy580ik4j
 
 
 ################################################# Thoughtram ##################################################### 
@@ -31,13 +32,14 @@ http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-n
 http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
 http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html
 http://blog.thoughtram.io/angular/2016/03/21/template-driven-forms-in-angular-2.html
-
+http://blog.thoughtram.io/angular/2016/06/08/component-relative-paths-in-angular-2.html
 
 ################################################# Todd Motto ##################################################### 
 http://toddmotto.com/walkthrough-to-migrate-an-angular-1-component-to-angular-2
 https://toddmotto.com/creating-your-first-angular-2-component
 https://toddmotto.com/component-events-event-emitter-output-angular-2
 https://toddmotto.com/angular-2-authentication
+https://toddmotto.com/rewriting-angular-styleguide-angular-2
 
 
 ################################################# Auth0 ##################################################### 
@@ -77,3 +79,8 @@ https://www.thepolyglotdeveloper.com/2016/05/build-simple-mobile-app-nativescrip
 https://www.infoq.com/articles/Angular2-TypeScript-High-Level-Overview
 https://thinkster.io/angular-2-migration-tutoria
 https://damienbod.com/2016/04/21/creating-an-angular-2-component-for-plotly/
+http://blog.backand.com/angular-2-nativescript-vs-react-native/
+https://scotch.io/tutorials/use-the-angular-cli-for-faster-angular-2-projects
+https://www.toptal.com/angular-js/angular-2-upgrading-from-1-5
+http://developer.telerik.com/featured/quick-angular-2-hosting-angular-cli-github-pages
+http://onehungrymind.com/electron-angular-2-things/
