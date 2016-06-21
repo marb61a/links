@@ -6,7 +6,7 @@ https://www.udemy.com/mobile-app-development-with-android-2015/?dtcode=5kTpTwH3l
 https://www.udacity.com/course/android-developer-nanodegree--nd801
 
 
-##Videos -
+##Videos\Podcasts -
 https://www.youtube.com/watch?v=nBD4xhH5vIE&list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh - Derek Banas
 https://www.youtube.com/watch?v=SUOWNXGRc6g&list=PL2F07DBCDCC01493A - Thenewboston
 https://www.youtube.com/user/androiddevelopers/playlists
@@ -20,6 +20,11 @@ https://www.youtube.com/watch?v=BxTfwT7mkB4 - StrictMode for enforcing best prac
 https://www.youtube.com/watch?v=n8nG5K_3BJM - Application Architecture: Designing Offline Application Case Studies
 https://www.youtube.com/playlist?list=PLnVy79PaFHMXpPlgs1uUny8eb-PEfEQNn - Droidcon SF 2016
 https://codelabs.developers.google.com - Video Tutorials
+https://voicerepublic.com/users/droidcon-berlin
+https://www.youtube.com/playlist?list=PL79il-55EZPu3xoT9Ig9wLb65tPOS4D4_ - Mobile Central Europe Conference 2016
+http://peirr.com/writing-android-tests-with-espresso-test-recorder/
+http://theblerg.net
+http://fragmentedpodcast.com/category/episodes/
 
 
 ##Code - 
@@ -66,6 +71,15 @@ https://github.com/ArthurHub/Android-Image-Cropper - Image Cropping Library for 
 https://github.com/metova/Cappuccino - A sweeter Espresso. Never write your own IdlingResource again. Never manually turn off system animations again.
 https://github.com/lukaspili/Reactive-Billing - Lightweight reactive wrapper around In App Billing API v3 for Android 
 https://github.com/prolificinteractive/swipe-action-layout - A nice swipe layout that provides new actions with a material design look and feel
+https://github.com/emmaguy/rxjava-mvp-giphy - Showcase of RxJava used with MVP and some other popular android libraries
+https://github.com/square/auto-value-redacted - An extension for Google's AutoValue that omits redacted fields from toString().
+https://github.com/Dimezis/BlurView - Dynamic iOS-like blur of underlying Views for Android
+https://github.com/FrantisekGazo/Blade - Android library for boilerplate destruction
+https://github.com/shchurov/HorizontalWheelView - Custom view for user input that models horizontal wheel controller. 
+https://github.com/nisrulz/sensey - Android library to make detecting gestures easy
+https://github.com/nisrulz/easydeviceinfo - Android library to get device information in a super easy way.
+https://github.com/hitherejoe/Mondroid - A simple Mondo client for Android
+
 
 ##Links - 
 http://developer.android.com/index.html
