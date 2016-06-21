@@ -35,6 +35,17 @@ https://medium.com/@mreichelt/android-apk-size-dexcount-charts-on-jenkins-ae518e
 https://medium.com/@workingkills/understanding-the-renderthread-4dc17bcaf979#.gw7xmg8ph
 https://medium.com/@duhroach/how-vectordrawable-works-fed96e110e35#.play6v6yr
 https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1#.3vnp86pqk
+https://medium.com/groupon-eng/better-android-intents-with-dart-henson-1ca91793944b#.wf3om3onx
+https://medium.com/@froger_mcs/inject-everything-viewholder-and-dagger-2-e1551a76a908#.fgyoc7omz
+https://medium.com/@HackDdroid/yet-another-way-for-applying-fonts-and-more-350d45accf10#.65b0wei2f
+https://medium.com/crunching-rxandroid
+
+
+######################################## Android Developers Blog ##############################################
+http://android-developers.blogspot.ie/2016/05/designing-for-multi-window.html
+http://android-developers.blogspot.ie/2016/05/enhancing-android-pay-apis.html
+http://android-developers.blogspot.ie/2016/06/notifications-in-android-n.html
+http://android-developers.blogspot.ie/2016/06/security-crypto-provider-deprecated-in.html
 
 
 ######################################## Sebs Top Tips ##############################################
@@ -71,6 +82,10 @@ http://code.tutsplus.com/tutorials/android-from-scratch-understanding-views-and-
 https://uxplanet.org/perfect-bottom-navigation-for-mobile-app-effabbb98c0f#.7bld6884h
 https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf#.175hj38ll
 https://uxplanet.org/design-patterns-progressive-disclosure-for-mobile-apps-f41001a293ba#.2dzmap4nm
+https://uxplanet.org/mobile-ux-design-product-screen-5fec660f2e84#.2h21ggg8g
+https://uxplanet.org/mobile-ux-design-user-errors-1ad1f5d664f9#.1b2pd9hdi
+https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27#.2t0ecuhdf
+https://uxplanet.org/mobile-app-ux-design-making-a-great-first-impression-bed2805b967d#.ye0el548x
 
 
 ######################################## David Karnok ##############################################
@@ -90,6 +105,9 @@ https://blog.stylingandroid.com/something-oclock-part-6/
 https://blog.stylingandroid.com/flexboxlayout-part-1/
 https://blog.stylingandroid.com/flexboxlayout-part2/
 https://blog.stylingandroid.com/flexboxlayout-part-3/
+https://blog.stylingandroid.com/constraintlayout-part-1/
+https://blog.stylingandroid.com/constraintlayout-part-2/
+https://blog.stylingandroid.com/constraintlayout-part-3/
 
 
 ######################################## Nimbledroid ##############################################
@@ -98,6 +116,8 @@ http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread.html
 http://blog.nimbledroid.com/2016/04/06/slow-ClassLoader.getResourceAsStream.html
 http://blog.nimbledroid.com/2016/04/20/pushing-limits-of-app-startup-time.html
 http://blog.nimbledroid.com/2016/04/25/problems-with-libraries-and-sdks.html
+http://blog.nimbledroid.com/2016/06/15/app-diets-not-a-fad.html
+http://blog.nimbledroid.com/2016/05/23/memory-leaks.html
 
 
 ######################################## Ryan Harter ##############################################
@@ -112,12 +132,16 @@ http://hannesdorfmann.com/android/presenters-dont-need-lifecycle
 http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house
 
 
+######################################## Artemzin ##############################################
+http://artemzin.com/blog/why-i-dont-want-to-use-kotlin-for-android-development-yet/
+http://artemzin.com/blog/certificate-pinning-notes-for-android-java/
+https://artemzin.com/blog/rxui-talking-to-android-view-layer-in-a-reactive-way/
+
+
 ######################################## Miscellaneous ##############################################
 http://blogen.stickypassword.com/biometrics-fingerprint-authentication-on-your-android/                                        
 http://www.tinmegali.com/en/model-view-presenter-android-part-1/
 http://frogermcs.github.io/dependency-injection-with-dagger-2-producers/
-http://artemzin.com/blog/why-i-dont-want-to-use-kotlin-for-android-development-yet/
-http://artemzin.com/blog/certificate-pinning-notes-for-android-java/
 http://blog.iangclifton.com/2016/03/19/bottom-tabs-on-android/
 http://mcomella.xyz/blog/2016/thread-annotations.html
 http://antonioleiva.com/kotlin-ongloballayoutlistener/
@@ -147,7 +171,13 @@ https://www.novoda.com/blog/better-class-naming/
 https://tir38.com/archives/1423
 https://realm.io/news/donn-felker-solid-part-4/
 https://lambdasoup.com/post/automate_screenshots_1/
-http://android-developers.blogspot.ie/2016/05/designing-for-multi-window.html
-http://android-developers.blogspot.ie/2016/05/enhancing-android-pay-apis.html
 http://riggaroo.co.za/constraintlayout-101-new-layout-builder-android-studio/
 https://developer.android.com/wear/preview/features/notifications.html
+http://saulmm.github.io/the-powerful-android-studio
+http://blog.danlew.net/2016/06/13/multicasting-in-rxjava/
+http://www.developerphil.com/no-you-can-not-override-the-home-button-but-you-dont-have-to/
+https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
+http://blog.alexsimo.com/clean-java-immutability/
+http://www.philosophicalhacker.com/post/psa-dont-use-esprsso-idling-resources-like-this/
+https://labs.ribot.co.uk/exploring-buy-with-android-pay-4c8822c86133#.5054m2uw2
+http://jeroenmols.com/blog/2016/05/06/methodcount/
