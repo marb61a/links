@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=iVKPbH3qyW0&list=PLanDnKP78H3yAjtSHvXQ8nrj9KgdSR
 https://www.youtube.com/watch?v=-xiki68cpTc&list=PLXoXQD8Ev85ZZEg6Es3TU6AjmnFY1n4Bu&index=2
 https://vimeo.com/album/3930691 - Reverse Engineering React
 
+
 ##Code -
 https://github.com/ssorallen/react-play - Render React components in the Play Framework with JDK8's JavaScript engine
 https://github.com/gpbl/isomorphic500 - A 500px app built with React and Fluxible with babeljs
@@ -77,6 +78,17 @@ https://github.com/iamdustan/tiny-react-renderer - Learn you a React Renderer fo
 https://github.com/relax/relax - New generation CMS on top of React, Redux and GraphQL
 https://github.com/flipace/lovli.js - A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server.
 https://github.com/Katochimoto/xblocks - HTML custom elements on the basis React and X-Tag
+https://github.com/julienvincent/modelizr - Generate GraphQL queries from models that can be mocked and normalized
+https://github.com/HubSpot/react-experiments - React components for implementing UI experiments
+https://github.com/reactjs/react-basic - A description of the conceptual model of React without implementation burden.
+https://github.com/andreypopp/react-css-components - Define React presentational components with CSS
+https://github.com/airbnb/hypernova - A service for server-side rendering your JavaScript views
+https://github.com/tj/react-enroute - React router with a small footprint for modern browsers
+https://github.com/RamonGebben/react-perf-tool - Debug performance of your React application
+https://github.com/mkautzmann/react-update-helper - Precise React re-renders with debug and immutable support
+https://github.com/clauderic/react-infinite-calendar -  Infinite scrolling date-picker built with React
+https://github.com/insin/react-heatpack - A 'heatpack' command for quick React development with webpack hot reloading
+
 
 ##Links -
 http://www.overreact.io/
