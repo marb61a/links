@@ -38,6 +38,7 @@ https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.vpo0l5z5q
 https://medium.com/net-magazine/the-web-cryptography-api-15d052271494#.5llvddsli
 https://medium.com/@tarkus/how-to-build-and-publish-es6-modules-today-with-babel-and-rollup-4426d9c7ca71#.qkwb1l6gv
+https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.6ambti44v
 
 
 ###################################### Freecodecamp ###########################################################
@@ -87,7 +88,8 @@ http://www.2ality.com/2016/02/arrow-functions-vs-bind.html
 http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html
 http://www.2ality.com/2016/04/unhandled-rejections.html
 http://www.2ality.com/2016/04/promise-trees.html
-
+http://www.2ality.com/2016/05/six-nifty-es6-tricks.html
+http://www.2ality.com/2016/05/template-literal-whitespace.html
 
 ####################################### Mozilla ###########################################################
 https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
@@ -96,7 +98,7 @@ https://hacks.mozilla.org/2016/01/firefox-and-the-web-speech-api/
 https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript
 https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas/engine
 https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/
-https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest?
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
 
 
 ####################################### James K Nelson ###########################################################
@@ -108,6 +110,8 @@ http://jamesknelson.com/why-you-shouldnt-style-with-javascript/
 http://blog.getify.com/arrow-this/
 http://blog.getify.com/concurrently-javascript-1/
 http://blog.getify.com/thoughts-on-thunks/
+https://blog.getify.com/promises-wrong-ways/
+https://blog.getify.com/not-awaiting-1/
 
 
 ####################################### Smashing Magazine ###########################################################
