@@ -60,6 +60,8 @@ https://medium.com/@Trott/a-quick-guide-to-reading-node-js-core-source-c968d83e4
 https://medium.com/@fermads/node-js-process-load-balancing-comparing-cluster-iptables-and-nginx-6746aaf38272#.7qc8tr68l
 https://medium.com/@tarkus/how-to-build-and-publish-es6-modules-today-with-babel-and-rollup-4426d9c7ca71#.mi4sn9jed
 https://medium.com/@tarkus/node-js-and-sqlite-for-rapid-prototyping-bc9cf1f26f10#.5f4ihda31
+https://medium.com/@jamischarles/adding-autocomplete-to-npm-install-5efd3c424067#.8wctzu22w
+https://medium.com/@leo/getting-started-with-javascript-robotics-5c54e716562c#.awuf1a9ty
 
 
 ######################################## Risingstack ##############################################
@@ -79,7 +81,8 @@ https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
 https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/
 https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/
 https://blog.risingstack.com/node-js-windows-10-tutorial/
-
+https://blog.risingstack.com/node-js-examples-how-enterprises-use-node-in-2016/
+https://blog.risingstack.com/node-hero-node-js-debugging-tutorial/
 
 
 ######################################## Tutsplus ##############################################
@@ -157,6 +160,7 @@ https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
 ######################################## Semaphoreci ##############################################
 https://semaphoreci.com/blog/2015/12/15/nodejs-version-usage-in-commercial-projects-2015-edition.html?
 https://semaphoreci.com/community/tutorials/how-to-deploy-a-node-js-application-to-elastic-beanstalk-with-semaphore
+https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb
 
 
 ######################################## Michael Herman ##############################################
