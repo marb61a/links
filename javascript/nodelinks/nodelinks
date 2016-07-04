@@ -16,12 +16,29 @@ https://www.youtube.com/watch?v=u2XCdkL4bWI
 https://www.youtube.com/channel/UC7z0nOE8ITfrGnXJgNzYaEQ
 https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg
 https://www.youtube.com/playlist?list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2#nodeconflondon2016 - Node Conf London 2016
+https://www.youtube.com/watch?v=B90OabhYJpA - Yunong Xiao - Slaying Monoliths with Docker and Node.js, a Netflix Original
+
 
 
 ##Code -
 https://github.com/lapwinglabs/bare-auth - Bare Auth is a ready-to-deploy stateless authentication server
 https://github.com/tcs-de/nodecache - a node internal caching module http://tcs-de.github.io/nodecache/
 https://github.com/marak/the-monolith-versus-the-microservice
+https://github.com/wimagguc/node-serverless-reports - A Serverless - Node.js project to create reports from database queries, and send those reports out in pretty email
+https://github.com/tomdale/apple-pay-merchant-session-server - Server for obtaining Apple Pay for the Web merchant sessions
+https://github.com/Xananax/calibre-serve - A node.js Calibre API and server
+https://github.com/sindresorhus/env-paths - Get paths for storing things like data, config, cache, etc
+https://github.com/leebyron/iterall - Minimal zero-dependency utilities for using Iterables in all JavaScript environments.
+https://github.com/gberger/mongoose-named-scopes - Define custom, chainable Mongoose queries
+https://github.com/SamyPesse/gitkit-js - Pure javascript implementation of Git (Node.js and Browser)
+https://github.com/fed135/Kalm - Node socket wrapper and optimizer
+https://github.com/af/envalid - Environment variable validation for Node.js
+https://github.com/airbnb/hypernova - A service for server-side rendering your JavaScript views
+https://github.com/sindresorhus/emoj - Find relevant emoji from text on the command-line
+https://github.com/caiogondim/fast-memoize.js  - Fastest possible memoization library
+https://github.com/ratneshsinghparihar/Node-Data - Node-Data is a Node.js javascript framework where all back end concerns are wrapped in annotations.
+https://github.com/Tennu/tennu - IRC Bot Framework for Node.js
+https://github.com/devTristan/simple-postgres - a minimal postgres interface for node
 https://github.com/s-a/iron-node
 https://github.com/gillstrom/battery-level
 https://github.com/h2non/toxy
