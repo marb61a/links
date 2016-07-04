@@ -6,6 +6,7 @@ http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
 http://www.bymichaellancaster.com/blog/deploying-nodejs-on-heroku-cloud/
 http://howtonode.org/deploy-blog-to-heroku
 https://blog.heroku.com/archives/2016/3/9/how-to-deploy-your-slack-bots-to-heroku
+https://devcenter.heroku.com/articles/mean-apps-restful-api
 https://hacks.mozilla.org/2015/12/web-push-notifications-from-irssi/
 https://eladnava.com/write-synchronous-node-js-code-with-es6-generators/
 https://eladnava.com/deploying-resilient-node-js-apps-with-forever-and-nginx/
@@ -125,4 +126,11 @@ https://remysharp.com/2016/05/02/faster-tests-for-multi-node-code-with-es6-and-b
 http://blog.slashdeploy.com/2016/05/18/docker-node-boilerplate/
 http://www.mattmillican.com/blog/post/build-a-slackbot-in-node-js
 http://zeke.sikelianos.com/npm-and-github-automation-with-heroku/
-http://www.dwmkerr.com/learn-docker-by-building-a-microservice/?
+http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
+http://codeutopia.net/blog/2016/06/10/mongoose-models-and-unit-tests-the-definitive-guide
+http://elijahmanor.com/npm-precommit-scripts/
+http://www.jamasoftware.com/blog/upgrade-node-module-right-way/
+http://getmesh.io/Blog/Integration+Testing+of+a+Dockerized+Angular+App
+https://snyk.io/blog/whats-an-npm-dependency/
+http://blog.yld.io/2016/05/10/introducing-queues/
+http://www.joshmorony.com/building-a-review-app-with-ionic-2-mongodb-node/
