@@ -41,6 +41,9 @@ https://www.sitepoint.com/generate-barcodes-with-jruby-and-barcodes4j/
 https://www.sitepoint.com/learn-concurrency-by-making-a-countdown-latch-in-ruby/
 https://www.sitepoint.com/brush-up-your-knowledge-of-rails-associations/
 https://www.sitepoint.com/exploring-cryptography-fundamentals-in-ruby/
+https://www.sitepoint.com/make-easy-graphs-and-charts-on-rails-with-chartkick/
+https://www.sitepoint.com/create-a-chat-app-with-rails-5-actioncable-and-devise/
+
 
 ###################################### Honeybadger ####################################################
 http://blog.honeybadger.io/ruby-regex-tricks/
@@ -138,6 +141,8 @@ https://blog.codeship.com/build-math-evaluation-engine/
 https://blog.codeship.com/running-concurrent-workflows-in-ruby/
 https://blog.codeship.com/how-to-get-started-with-a-content-security-policy/
 https://blog.codeship.com/the-straight-dope-on-deprecations/
+https://blog.codeship.com/metaprogramming-in-ruby/ 
+https://blog.codeship.com/solving-backwards-compatibility-ruby-proxy-object/
 
 
 ###################################### Rossta ####################################################
@@ -200,12 +205,15 @@ http://www.blackbytes.info/2016/01/ruby-tricks/
 http://www.blackbytes.info/2016/02/ruby-procs-and-lambdas/
 http://www.blackbytes.info/2016/03/enumerable-methods/
 http://www.blackbytes.info/2016/04/twitter-api-from-ruby-tutorial/
+http://www.blackbytes.info/2016/06/linux-tools-with-ruby/
+http://www.blackbytes.info/2016/06/ruby-ranges-how-do-they-work/
 
 
 ###################################### Wyeworks ####################################################
 https://wyeworks.com/blog/2016/1/12/improvements-to-error-responses-in-rails-5-api-mode/
 https://wyeworks.com/blog/2015/12/1/immutable-strings-in-ruby-2-dot-3
 https://wyeworks.com/blog/2016/1/26/upgrading-to-ruby-on-rails-5-0/
+https://wyeworks.com/blog/2016/6/22/behavior-changes-in-ruby-2.4/
 
 
 ###################################### BigBinary ####################################################
@@ -233,6 +241,8 @@ http://blog.arkency.com/2016/02/private-classes-in-ruby/
 http://blog.arkency.com/2016/03/creating-new-content-types-in-rails-4-dot-2/
 http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/
 http://blog.arkency.com/2016/04/how-i-hunted-the-most-odd-ruby-bug/
+http://blog.arkency.com/2016/06/mutation-testing-of-rails-views/
+
 
 
 ###################################### Tutsplus ####################################################
@@ -252,9 +262,11 @@ http://mixandgo.com/blog/how-to-test-a-function-that-yields-a-block-with-minites
 http://brandonhilkert.com/blog/sidekiq-as-a-microservice-message-queue/
 http://brandonhilkert.com/blog/solving-backwards-compatibility-in-ruby-with-a-proxy-object/
 http://brandonhilkert.com/blog/ruby-gem-post-install-message/
+http://brandonhilkert.com/blog/rails-progress-indicator-for-turbolinks-using-nprogress/
 
 
 ###################################### Aaron Lasseigne ####################################################
 http://aaronlasseigne.com/2016/04/27/improving-large-rails-apps-with-service-objects/
 http://aaronlasseigne.com/2016/05/11/dont-forget-about-infinite-enumerators/
 http://aaronlasseigne.com/2016/05/24/know-ruby-with_index/
+http://aaronlasseigne.com/2016/06/10/proper-regexp-anchoring/
