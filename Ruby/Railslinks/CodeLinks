@@ -27,8 +27,11 @@ https://github.com/mattvperry/mumble-ruby
 https://github.com/ccallebs/pokey
 https://github.com/gdpelican/inline_translation
 https://github.com/davydovanton/sidekiq-statistic
+https://github.com/JuanitoFatas/active_loader - Load YAML and JSON easily and safely with Active Loader.
 https://github.com/choonkeat/attache
 https://github.com/ndea/rockflow
+https://github.com/strzibny/invoice_printer - Super simple PDF invoicing in Ruby
+https://github.com/airbnb/hypernova - A service for server-side rendering your JavaScript views
 https://github.com/pawurb/termit
 https://github.com/electric-feel/i18n-backend-side_by_side
 https://github.com/schneidmaster/eqn
@@ -38,17 +41,26 @@ https://github.com/gottfrois/grape-attack
 http://fullscreen.github.io/squid/
 https://github.com/mattheworiordan/capybara-screenshot
 https://github.com/AvnerCohen/restful-client
+https://github.com/ioquatix/fingerprint - Fingerprint is a simple tool that can be used to verify the contents of a directory
 https://github.com/owen2345/camaleon-cms
 https://github.com/peter-murach/pastel
+https://github.com/handwritingio/ruby-client - Ruby language client for Handwriting.io API
+https://github.com/adamakhtar/slack_dj - A slack powered music player for your team
 https://github.com/peter-murach/tty-screen
 https://github.com/csm123/rsstoapi/
 https://github.com/altmetric/decontaminator
 https://github.com/doches/rwordnet
 https://github.com/MightySignal/slackiq
-https://github.com/jcantara/em-rubyserial?
+https://github.com/jcantara/em-rubyserial
+https://github.com/cerebris/jsonapi-resources - A resource-focused Rails library for developing JSON API compliant servers.
+https://github.com/palkan/logidze - Log Files
+https://github.com/chatbotcity/ruby-facebook-messenger-starter - Example Facebook Messenger App in Ruby
 https://github.com/orbitalimpact/opal-pixi
 https://github.com/backupify/data_filter
 https://github.com/hothero/awesome-rails-gem
+https://github.com/choonkeat/active_params - Automatic strong parameters
+https://github.com/rkh/income-tax - Ruby library to calculate the income tax for any country
+https://github.com/jedld/resugan - simple, powerful and unobstrusive event driven architecture framework for ruby
 https://github.com/cnorthwood/backtalk
 https://github.com/FGRibreau/mailchecker
 https://github.com/leemachin/ask_awesomely/
