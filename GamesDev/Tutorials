@@ -21,7 +21,13 @@ http://www.emanueleferonato.com/2016/03/22/html5-prototype-of-pop-the-lock-ios-b
 http://www.emanueleferonato.com/2016/03/16/understanding-signal-dispatch-with-phaser/
 http://www.emanueleferonato.com/2016/03/14/manage-leaderboards-in-your-html5-game-with-app42-cloud-api/
 http://www.emanueleferonato.com/2016/03/24/run-a-html5-games-portal-the-quick-and-easy-way-with-best-arcade-script/
-
+http://www.emanueleferonato.com/2016/06/20/make-your-html5-games-run-on-android-devices-with-cordova-and-android-studio/
+http://www.emanueleferonato.com/2016/06/28/html5-drag-and-match-engine-made-with-phaser-updated-to-phaser-2-5-0/
+http://www.emanueleferonato.com/2016/06/15/control-your-html5-game-character-like-in-vvvvvv-mobile-game-with-construct2-adding-more-directions/
+http://www.emanueleferonato.com/2016/05/25/easily-add-googles-doubleclick-ads-in-your-html5-games-with-a-little-phaser-plugin/
+http://www.emanueleferonato.com/2016/06/03/make-your-javascript-application-or-html5-game-protect-itself-with-jscrambler-4/
+http://www.emanueleferonato.com/2016/06/09/html5-dungeon-raid-tile-engine-made-with-phaser-part-3/
+http://www.emanueleferonato.com/2016/06/17/match-3-bejeweled-html5-prototype-made-with-phaser-suggesting-moves/
 
 ####################################### Game Dev Academy ###########################################################
 https://gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
@@ -37,11 +43,20 @@ https://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/
 https://www.smashingmagazine.com/2015/11/gamepad-api-in-web-games/
 https://www.smashingmagazine.com/2016/02/simple-augmented-reality-with-opencv-a-three-js/
 https://www.smashingmagazine.com/2016/03/procedural-content-generation-introduction/
+https://www.smashingmagazine.com/2016/06/make-music-in-the-browser-with-a-web-audio-theremin/#
 
 
 ######################################## Tutsplus ##################################################### 
 http://gamedevelopment.tutsplus.com/articles/game-development-for-kids--cms-25298
 http://gamedevelopment.tutsplus.com/tutorials/how-to-implement-and-use-a-message-queue-in-your-game--cms-25407
+http://code.tutsplus.com/articles/which-platform-to-choose-for-your-next-mobile-game--cms-25843
+
+
+######################################## Mozilla ##################################################### 
+https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_A-Frame
+https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory
+https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/GLSL_Shaders
+https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/
 
 
 ####################################### Miscellaneous ###########################################################
@@ -51,6 +66,13 @@ http://hombrealto.com/blog/2d_lighting_system.html
 http://metroid.niklasberg.se/2016/02/29/making-a-custom-pool-class-by-extending-phaser-group/
 http://www.html5gamedevs.com/topic/19361-cheatsheets-for-phaser-v244/
 http://www.html5gamedevelopment.com/html5-game-tutorials/2016-02-building-a-google-chromecast-game
-https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_A-Frame
 http://www.askforgametask.com/2015/12/07/reddit-image-scraper/
 https://developer.amazon.com/appsandservices/community/post/Tx1RUB5UH2BXGM3/Webinar-From-Idea-to-Appstore-Building-Successful-Cross-Platform-Games
+http://code.tutsplus.com/articles/which-platform-to-choose-for-your-next-mobile-game--cms-25843
+http://www.gamasutra.com/blogs/TequilaWorks/20160620/275347/How_to_take_advantage_of_textures_in_the_vertex_shader.php
+http://www.gamasutra.com/view/news/273325/Game_Design_Deep_Dive_Dying_Lights_Natural_Movement_system.php
+https://www.anexia-it.com/blog/en/introduction-to-the-phaser-framework/
+http://dev.agnis.in/cooking-a-new-html5-game-in-phaser/
+https://dotdev.co/how-to-write-a-readme-that-rocks-bc29f279611a#.pj3zlhgti
+http://hacknplan.com/understanding-vertical-slicing/
+
