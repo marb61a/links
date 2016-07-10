@@ -25,14 +25,25 @@ https://www.youtube.com/playlist?list=PL79il-55EZPu3xoT9Ig9wLb65tPOS4D4_ - Mobil
 http://peirr.com/writing-android-tests-with-espresso-test-recorder/
 http://theblerg.net
 http://fragmentedpodcast.com/category/episodes/
+https://www.youtube.com/watch?v=hi5R0gq9tdA - Designing for Split-Screen Multi-Window (Android Development Patterns S3 Ep 1)
+https://www.youtube.com/watch?v=4Dbko7ebrZA - Steven Soneff – Building simple and secure account systems on Android
+https://www.youtube.com/watch?v=QGqzJjJAhBU - Michael Guntli – Android Industrial: Real-time data visualization
+https://caster.io/episodes/custom-views-and-viewgroups-part-1/
 
 
 ##Code - 
+https://github.com/vickychijwani/quill - The beautiful Android app for your Ghost blog
+https://github.com/joerogers/EspressoDescendantActions - Custom espresso actions for operating on descendant views such as children of a RecyclerView
 https://github.com/AkashBang/NavigationView
 https://github.com/JakeWharton/butterknife
 https://github.com/klnusbaum/rxandroidexamples/
+https://github.com/andrzejchm/DroidMVP - Small Android library to help you incorporate MVP, Passive View and Presentation Model patterns in your app
 https://github.com/f2prateek/dart/
 https://github.com/requery/requery
+https://github.com/beworker/featured - Simple yet powerful composition library for Android
+https://github.com/borjabravo10/FocusResize - A custom animation with scroll listener to recycler views
+https://github.com/googlesamples/android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+https://gist.github.com/rock3r/369ef6fa734c865c564ef4fe5fb6ef6b - A simple bash script to enable demo mode on a Marshmallow+ device via ADB 
 https://github.com/brianegan/bansa
 https://github.com/patloew/RxFit
 https://github.com/eleventigers/rxeither - Either type for RxJava
@@ -89,3 +100,4 @@ http://www.exoguru.com/android
 http://fragmentedpodcast.com
 https://caster.io/episode-list/
 http://androidbackstage.blogspot.ie
+http://google.github.io/android-gradle-dsl/current/index.html
