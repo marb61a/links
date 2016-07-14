@@ -20,6 +20,11 @@ https://github.com/django-tastypie/django-tastypie - Creating delicious APIs for
 https://github.com/turnkeylinux-apps/django - Django - High-level Python Web Framework
 https://github.com/jpetazzo/django - Django on DotCloud tutorial 
 https://github.com/django/django - The Web framework for perfectionists with deadlines
+https://github.com/anymail/django-anymail - Django email backends and webhooks for Mailgun, Postmark, SendGrid, SparkPost and more
+https://github.com/bitpixdigital/django-next-train - A lightweight public transit Django app for finding "next train" times in the Washington DC Metro system.
+https://github.com/jay-johnson/docker-django-nginx-slack-sphinx - Django + nginx using Docker Compose with Slack + uWSGI + Sphinx + Bootstrap + Bootswatch + AJAX
+https://github.com/bfirsh/django-docker-cloud-template - A template for creating Django applications that run on Docker Cloud
+https://github.com/maykinmedia/django-timeline-logger - A reusable Django app to log actions and display them in a timeline
 
   
 ###LINKS
