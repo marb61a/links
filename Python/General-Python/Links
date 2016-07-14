@@ -10,83 +10,24 @@ https://www.youtube.com/playlist?list=PL4_MBPz5hOsK1fflMqTEbOC9rPAsksG4A - Swiss
 
 
 ##Courses - 
-
-
-
-
-##Code -
-https://github.com/pavlovml/match - Scalable reverse image search built on Kubernetes and Elasticsearch
-https://github.com/fortyninemaps/karta - A tidy Python package for geospatial computation
-https://github.com/mdipierro/nlib - Python Library of Numerical Algorithms
-https://github.com/JdeH/Numscrypt - A modest attempt to port a microscopic part of Numpy to Transcrypt using JS typed arrays.
-https://github.com/dodger487/dplython - dplyr for python
-https://github.com/timofurrer/try - Cli tool to try out python packages
-https://github.com/burrows-labs/pyship - Create statically linked python for easy desktop application distribution
-https://github.com/jeffball55/rop_compiler - An open source, multi-architecture ROP compiler written in python
-https://github.com/Yelp/venv-update - Synchronize your virtualenv quickly and exactly
-https://github.com/mmp2/megaman - Manifold Learning for Millions of Points
-https://github.com/mrsmn/hazelnut -
-https://github.com/thombashi/SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database
-https://github.com/pilat/redis-astra - Python light ORM for Redis
-https://github.com/emansim/text2image - Generating Images from Captions with Attention
-https://github.com/hearthsim/python-unitypack - Python deserialization library for Unity3D Asset format
-https://github.com/swistakm/pyrilla - Python bindings to gorilla-audio library
-https://github.com/airbnb/caravel - Caravel is a data exploration platform designed to be visual, intuitive, and interactive
-https://github.com/bopen/elevation - Python script to download global terrain digital elevation models
-https://github.com/byt3bl33d3r/CrackMapExec - A swiss army knife for pentesting Windows/Active Directory environments
-https://github.com/ResidentMario/missingno - Missing data visualization module for Python.
-https://github.com/ui/rq-scheduler - A light library that adds job scheduling capabilities to RQ (Redis Queue)
-https://github.com/FinalTheory/wireless-network-reproduction - Advanced network emulation tool.
-https://github.com/tflearn/tflearn - Deep learning library featuring a higher-level API for TensorFlow.
-https://github.com/wesm/feather - Feather: fast, interoperable binary data frame storage for Python
-https://github.com/owocki/pytrader - cryptocurrency trading robot
-https://github.com/YosaiProject/yosai - A Security Framework for Python Applications
-https://github.com/facebook/fbtftp - Facebook's implementation of a dynamic TFTP server framework.
-https://github.com/amirouche/AjguDB - everyday graphdb
-https://github.com/azazel75/metapensiero.pj - Javascript for refined palates: a Python 3 to ES6 Javascript translator
-https://github.com/reverse-shell/routersploit - The Router Exploitation Framework
-https://github.com/aymericdamien/TensorFlow-Examples - TensorFlow tutorials and code examples for beginners
-https://github.com/NoviceLive/bintut - Teach you a binary exploitation for great good
-https://github.com/koehlma/jaspy - Python VM written entirely from scratch in JavaScript with some unique features
-https://github.com/snare/voltron - A hacky debugger UI for hackers
-https://github.com/wit-ai/pywit - Python library for Wit.ai
-https://github.com/isamert/gedi - python code completion plugin for gedit3+
-https://github.com/ets-labs/dependency_injector - Python dependency injection framework
-https://github.com/mokhdzanifaeq/pyflirt - map file generator for intel x86 binary based on flirt signature
-https://github.com/capitalone/cloud-custodian - Policy rules engine for aws management, policies in yaml for query, filter, and take actions on resources
-https://github.com/kirbyfan64/arclib - A unified API for accessing Python's many supported archive formats
-https://github.com/MagicStack/httptools - Fast HTTP parser
-https://github.com/capitalone/cloud-custodian - Policy rules engine for aws management
-https://github.com/farrokhi/dnsdiag - DNS Diagnostics and Performance Measurement Tools
-https://github.com/detuxsandbox/detux - The Multiplatform Linux Sandbox
-https://github.com/pirate/security-growler - A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur
-https://github.com/openai/gym - A toolkit for developing and comparing reinforcement learning algorithms
-https://github.com/coala-analyzer/coala - Easy to use COde AnaLysis Application - yes! For all languages! 
-https://github.com/libeclipse/visionary - A smarter password manager.
-https://github.com/koehlma/jaspy - Python VM written entirely from scratch in JavaScript with some unique features
-https://github.com/trailbehind/DeepOSM - Train a deep learning net with OpenStreetMap features and satellite imagery.
-https://github.com/VinF/deer - DEEp Reinforcement learning framework
-https://github.com/robinhood/thorn - Easy Webhooks for Python
-https://github.com/salamer/jolla - A web framework based on Python
-https://github.com/adaptivethreat/EmPyre - A post-exploitation OS X/Linux agent written in Python 2.7
-https://github.com/mjs7231/pygrid - Quickly move windows around the an X11 desktop
-https://github.com/ondergetekende/python-panavatar - Generate pseudo-random SVG avatars for anything (not just users)
-https://github.com/graphql-python/graphene-gae - GraphQL Support for Google AppEngine
-https://github.com/ujjwalkarn/DataSciencePython - common data analysis and machine learning tasks using python
-https://github.com/jarun/Buku - Powerful command-line bookmark manager. Your mini web!
-https://github.com/wcember/pypub - Python library to programatically create epub files
-https://github.com/mschwager/fierce - A DNS reconnaissance tool for locating non-contiguous IP space.
-https://github.com/matthewearl/deep-anpr - Using neural networks to build an automatic number plate recognition system
-https://github.com/thombashi/sqlitebiter - sqlitebiter is a CLI tool to convert CSV/JSON/Excel/Google-Sheets to a SQLite database 
-https://github.com/nccgroup/featherduster - An automated, modular cryptanalysis tool
-https://github.com/alanhamlett/pip-update-requirements - Update the packages in a requirements.txt file
-
+https://www.udemy.com/pythonforbeginners/
+https://www.udemy.com/python-the-complete-python-developer-course/
+https://www.udemy.com/the-complete-python-postgresql-developer-course/
+https://www.udemy.com/the-complete-python-web-course-learn-by-building-8-apps/
+https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/
+https://www.udemy.com/learning-python-for-data-analysis-and-visualization/
+https://www.udemy.com/kypython-101/
+https://www.udemy.com/become-a-professional-python-programmer/
+https://www.udemy.com/python-programming-for-real-life-networking-use/
 
 ##Links -
 http://fortyninemaps.com/karta.html - Python toolkit for geospatial analysis
 http://www.grantjenks.com/docs/diskcache/
 https://talkpython.fm - Podcast Mp3
 http://pythonpodcast.com - Podcast show
+http://mongoframes.com
+http://pendulum.eustace.io
+https://xmldataset.readthedocs.io/en/latest/
 https://www.palletsprojects.com
 https://github.com/Junnplus/awesome-python-books - A directory of Python books
 http://pythonhosted.org/arcade/ - Making Games in Python
