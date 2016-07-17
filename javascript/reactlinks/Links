@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=gcnJcQ1vg_U
 https://www.youtube.com/watch?v=iVKPbH3qyW0&list=PLanDnKP78H3yAjtSHvXQ8nrj9KgdSRuEP 
 https://www.youtube.com/watch?v=-xiki68cpTc&list=PLXoXQD8Ev85ZZEg6Es3TU6AjmnFY1n4Bu&index=2
 https://vimeo.com/album/3930691 - Reverse Engineering React
+https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU - React Amsterdam 2016 conference
 
 
 ##Code -
@@ -30,29 +31,39 @@ https://github.com/kriasoft/react-starter-kit
 https://github.com/svenanders/learn-react
 https://github.com/arminbhy/reactator
 https://github.com/Swizec/react-real-world
+https://github.com/telescopejs/telescope/- An open-source social news app built with Meteor
 https://github.com/wangzuo/react-input-color
 https://github.com/gaearon/dnd-core
+https://github.com/Klathmon/react-class-binder - auto-bind react class methods
 https://github.com/gaearon/react-dnd
 https://www.npmjs.com/package/react-blessed/
 https://github.com/omnidan/redux-undo
 https://github.com/gajus/react-css-modules
+https://github.com/koistya/demos/tree/master/declarative-react-routes - demonstrates how to implement declarative routes in React applications where the list of routes can be represented in YAML or JSON format
 https://github.com/Adphorus/react-date-range
 https://github.com/relax/relax
 https://facebook.github.io/relay/
+https://github.com/charlieschwabacher/gestalt - Use the GraphQL schema language and a small set of directives to define an API
 https://github.com/Khan/style-guides/blob/master/style/react.md
 http://milworm.github.io/react-progress-2/
 https://github.com/accommodavid/spooky-react
+https://github.com/ffxsam/formous - Simple and elegant form-handling for React
 https://github.com/BelkaLab/react-yearly-calendar
 https://github.com/burakcan/react-snowstorm
+https://github.com/rofrischmann/react-fela - React bindings for Fela
 https://github.com/airbnb/reagent
 https://github.com/bartonhammond/snowflake
+https://github.com/alexkuz/react-input-enhancements - Set of enhancements for input control
 https://github.com/satya164/quik
+https://github.com/queicherius/react-globe - Painless localising of React applications with translations, plurals, numbers, dates and times.
 https://github.com/richardkall/react-starter
 http://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html
 https://github.com/ngduc/react-setup
 https://github.com/gaearon/react-makes-you-sad
+https://github.com/narqo/react-islands - react-islands Components Library
 https://griddlegriddle.github.io/Griddle/next/
 https://github.com/gaearon/react-transform-boilerplate
+https://github.com/davezuko/react-reformed - Make React forms simple again
 https://github.com/theadam/react-inform
 https://github.com/UniversalAvenue/react-compose
 https://gist.github.com/justinwoo/08f9f8fcdcf865025f18 - Using RxJS instead of Flux with React to organize data flow
@@ -92,6 +103,8 @@ https://github.com/insin/react-heatpack - A 'heatpack' command for quick React d
 
 ##Links -
 http://www.overreact.io/
+http://madewithreact.com
+http://www.telescopeapp.org/blog/introducing-nova-a-new-kind-of-back-end-for-react-apps/
 http://jamesknelson.com/wp-content/uploads/2016/01/react-with-babel-cheatsheet.pdf
 https://github.com/yelouafi/redux-saga
 https://gist.github.com/diegoconcha/8918294bb9df69876b22
