@@ -12,16 +12,23 @@ https://www.youtube.com/watch?v=9AG35HCBpo4 - CSS in 2016 and Beyond
 
 ##Code -
 https://github.com/macropodhq/postcss-local-constants
+https://github.com/mozilla/css-grid-inspector - A Firefox extension for seeing the grid lines created by CSS Grid
 https://github.com/morishitter/cssfmt
 https://github.com/postcss/postcss
+https://github.com/andreypopp/react-css-components - Define React presentational components with CSS
 http://codepen.io/rgg/full/QbRyOq/
 http://www.sequencejs.com/
+https://github.com/deuill/fawkss - Fawkss is a CSS preprocessor for people who dislike CSS preprocessors
+https://codepen.io/jonneal/pen/PzGYEE - Decorative Text Underline
 https://github.com/cmpolis/smart-table-scroll
 https://github.com/stylelint/stylelint/
+http://codepen.io/kizu/pen/PzGadO - Coloring emoji using CSS
 http://simurai.com/lab/2011/08/21/brushed-metal/
 http://codepen.io/rachel_web/pen/rOLRvM/
+https://github.com/filipelinhares/ress - A modern CSS reset
 https://github.com/Specro/Philter
 https://github.com/jacksleight/ayre
+https://github.com/voronianski/griddy.css - Responsive 12 column based grid in 311 Bytes gzipped
 https://github.com/edwardtufte/tufte-css
 https://github.com/primer/primer
 https://github.com/johnpolacek/expressive-css/
@@ -51,6 +58,7 @@ https://github.com/cutestrap/cutestrap - A tiny alternative to Bootstrap.
 
 ##Links -
 http://kazzkiq.github.io/balloon.css/
+http://www.deque.com/blog/introducing-axe-2-0/
 http://dbushell.com/2016/03/04/css-only-responsive-tables/
 http://demosthenes.info/blog
 http://juicedcss.com/
