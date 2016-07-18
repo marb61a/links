@@ -20,6 +20,9 @@ http://www.sitepoint.com/practical-introduction-material-design-lite-google/
 http://www.sitepoint.com/responsive-web-components/
 http://www.sitepoint.com/create-text-to-speech-chrome-extension/
 http://www.sitepoint.com/a-basic-html5-template/
+https://www.sitepoint.com/jpegcamera-and-canvas/
+https://www.sitepoint.com/webrtc-video-chat-application-peerjs/
+https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/
 
 
 ################################################# Tutsplus #####################################################  
@@ -33,6 +36,8 @@ http://code.tutsplus.com/tutorials/must-know-techniques-for-html5-responsive-des
 http://code.tutsplus.com/tutorials/html5-mastery-scoping-rules--cms-24840
 http://webdesign.tutsplus.com/tutorials/how-to-make-floating-input-labels-with-html5-validation--cms-26120?
 http://code.tutsplus.com/tutorials/20-of-the-most-popular-html5-game-templates--cms-26070
+http://webdesign.tutsplus.com/tutorials/auto-formatting-input-value--cms-26745
+
 
 ################################################# Medium ##################################################### 
 https://medium.com/@punksomething/how-i-learned-to-write-a-chrome-extension-in-5-hours-by-using-the-bruce-lee-technique-c72911ac7d86
@@ -50,7 +55,8 @@ https://www.smashingmagazine.com/2016/03/location-data-web-development-and-the-l
 https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/
 https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/
 https://www.smashingmagazine.com/2016/04/html5-media-source-extensions-bringing-production-video-web/
-
+https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/
+https://www.smashingmagazine.com/2016/07/babylon-js-building-sponza-a-cross-platform-webgl-game/
 
 ################################################# Google ##################################################### 
 https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints
@@ -59,6 +65,9 @@ https://developers.google.com/web/updates/2015/12/security-panel
 https://developers.google.com/web/updates/2015/09/tab-discarding-in-chrome-46
 https://developers.google.com/web/updates/2016/04/credential-management-api
 https://developers.google.com/web/updates/2016/04/geolocation-on-secure-contexts-only
+https://developers.google.com/web/updates/2016/06/devtools-digest
+https://developers.google.com/web/updates/2016/06/performance-observer
+
 
 ################################################# Mozilla ##################################################### 
 https://hacks.mozilla.org/2016/01/building-games-for-firefox-os-tv/
@@ -67,6 +76,7 @@ https://hacks.mozilla.org/2016/03/a-webassembly-milestone/
 https://hacks.mozilla.org/2016/03/debugging-service-workers-and-push-with-firefox-devtools/
 https://hacks.mozilla.org/2016/03/referrer-and-cache-control-apis-for-fetch/
 https://hacks.mozilla.org/2016/03/building-cardboard-dungeon-with-a-frame/
+https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/
 
 
 ################################################# HTML5 Doctor ##################################################### 
@@ -75,6 +85,13 @@ http://html5doctor.com/finding-your-position-with-geolocation/
 http://html5doctor.com/html-developers-please-consider/
 http://html5doctor.com/html5-check-it-before-you-wreck-it-with-miketm-smith/
 http://html5doctor.com/the-woes-of-date-input/
+http://html5doctor.com/computer-says-no-to-html5-document-outline/
+
+
+################################################# Paciello Group #####################################################
+https://www.paciellogroup.com/blog/2015/09/easy-content-organisation-with-html5/
+https://www.paciellogroup.com/blog/2016/02/short-note-on-use-of-alt-and-the-title-attribute/
+https://www.paciellogroup.com/blog/2016/06/using-the-html-lang-attribute/
 
 
 ################################################# Github Hosted Tuts ##################################################### 
@@ -102,8 +119,6 @@ http://blogs.adobe.com/dreamweaver/2015/09/making-your-website-design-accessible
 http://webdesignwheel.com/tutorials-for-developing-html5-web-browser-games.html
 http://www.djcrontab.com/2015/09/building-html5-control-surface-for.html
 https://leanpub.com/html5shootemupinanafternoon/read
-https://www.paciellogroup.com/blog/2015/09/easy-content-organisation-with-html5/
-https://www.paciellogroup.com/blog/2016/02/short-note-on-use-of-alt-and-the-title-attribute/
 http://codeplanet.io/what-i-learned-while-publishing-an-html5-mobile-app-part-15-development-and-debugging/
 http://schalkneethling.github.io/blog/2015/09/10/exploring-the-crossorigin-media-attribute-in-html5/
 https://developer.mozilla.org/en-US/docs/Games/Techniques/Controls_Gamepad_API
@@ -120,4 +135,8 @@ https://glebbahmutov.com/blog/instant-web-application/
 http://www.viciousrobotrodent.com/2016/01/using-webgl2-for-pixel-perfect-sprites.html
 http://td2tl.com/progress/4-ways-to-make-money-with-html5-games/
 https://css-tricks.com/taking-amp-for-a-spin/
+https://css-tricks.com/essential-meta-tags-social-media/
 https://www.viget.com/articles/instagram-style-filters-in-html5-canvas
+http://www.davevoyles.com/using-gamepad-api-html5-projects/
+https://webkit.org/blog/6425/memory-debugging-with-web-inspector/
+https://webkit.org/blog/6643/improved-font-loading/
