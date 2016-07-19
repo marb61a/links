@@ -4,6 +4,7 @@
 http://www.sitepoint.com/getting-started-with-angular-2-using-typescript/
 http://www.sitepoint.com/creating-components-angular-2-typescript-es5/
 http://www.sitepoint.com/angular-2-mockbackend/
+https://www.sitepoint.com/chart-component-angular2-fusioncharts/
 
 
 ################################################# Syntax Success ##################################################### 
@@ -23,6 +24,9 @@ https://medium.com/@marcosloic/managing-state-in-angular-2-using-rxjs-b849d6bbd5
 https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.js1g2yjib
 https://medium.com/@daviddentoom/how-to-build-an-angular-2-application-with-routing-and-services-67ead73db96e
 https://medium.com/@castillo.io/native-web-push-notifications-with-angular-2-c774a72c009e#.vy580ik4j
+https://medium.com/@blacksonic86/upgrading-to-the-new-angular-2-router-255605d9da26#.nr28p2929
+https://medium.com/front-end-hacking/create-a-globally-available-custom-pipe-in-angular2-849d9eb1f2e9#.3piv6y4q6
+https://medium.com/@tkssharma/angular-2-http-observables-data-loading-rx-js-9046f6c75824#.q4u8nj4po
 
 
 ################################################# Thoughtram ##################################################### 
@@ -33,6 +37,8 @@ http://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explaine
 http://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html
 http://blog.thoughtram.io/angular/2016/03/21/template-driven-forms-in-angular-2.html
 http://blog.thoughtram.io/angular/2016/06/08/component-relative-paths-in-angular-2.html
+http://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html
+
 
 ################################################# Todd Motto ##################################################### 
 http://toddmotto.com/walkthrough-to-migrate-an-angular-1-component-to-angular-2
@@ -75,6 +81,7 @@ http://blog.mgechev.com/2015/09/30/lazy-loading-components-routes-services-route
 http://codewithdan.com/2016/03/19/angular-2-typescript-and-html-snippets-for-vs-code/
 https://yakovfain.com/2016/03/21/implementing-the-mediator-design-pattern-in-angular-2/
 http://developer.telerik.com/content-types/tutorials/super-fast-setup-angular-2-components-component-router/
+http://developer.telerik.com/featured/rapid-cross-platform-development-angular-2-cli/
 https://www.thepolyglotdeveloper.com/2016/05/build-simple-mobile-app-nativescript-angular-2/
 https://www.infoq.com/articles/Angular2-TypeScript-High-Level-Overview
 https://thinkster.io/angular-2-migration-tutoria
@@ -84,3 +91,5 @@ https://scotch.io/tutorials/use-the-angular-cli-for-faster-angular-2-projects
 https://www.toptal.com/angular-js/angular-2-upgrading-from-1-5
 http://developer.telerik.com/featured/quick-angular-2-hosting-angular-cli-github-pages
 http://onehungrymind.com/electron-angular-2-things/
+https://blog.budacode.com/2016/06/27/angular-2-best-practises/
+
