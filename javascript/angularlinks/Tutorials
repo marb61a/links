@@ -26,6 +26,8 @@ https://medium.com/@AliyahChoudhry/is-angular-js-is-the-hottest-javascript-frame
 https://medium.com/algotech-solutions/create-interactive-charts-with-ui-grid-and-angular-chart-8e0c436cc0ec#.t4fqpnelw
 https://medium.com/opinionated-angularjs/angular-model-objects-with-javascript-classes-2e6a067c73bc#.pgauogpv7
 https://medium.com/@danieljoonlee/using-broadcast-to-change-your-partials-in-angularjs-920c2b9f5e96#.36kkiot8u
+https://medium.com/@alecklandgraf/an-introduction-to-angular-1-5-components-97ab4c79966d#.d0o9fqnkc
+https://medium.com/testing-angular/testing-an-angular-resource-factory-59c5491ec3a6#.abg3s7dlp
 
 
 ################################################# Scotch.io ##################################################### 
@@ -34,6 +36,8 @@ https://scotch.io/courses/build-an-etsy-clone-with-angularjs-and-stamplay
 https://scotch.io/tutorials/build-a-todo-app-using-sailsjs-and-angularjs
 https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron?
 https://scotch.io/tutorials/seamless-ways-to-upgrade-angular-1-x-to-angular-2
+https://scotch.io/tutorials/properly-set-environment-variables-for-angular-apps-with-gulp-ng-config
+https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
 
 
 ################################################# Konguso ##################################################### 
@@ -56,6 +60,7 @@ https://dzone.com/articles/dependency-injection-in-angular-1-vs-angular-2
 https://dzone.com/articles/migrating-a-spring-web-mvc-application-from-jsp-to
 https://dzone.com/articles/embracing-the-future-with-angularjs-20-web-compone-1
 https://dzone.com/articles/10-reasons-web-developers
+https://dzone.com/articles/how-to-develop-salesforce-visualforce-apps-using-a-1
 
 
 ################################################# Ben Nadel ##################################################### 
@@ -159,6 +164,7 @@ http://www.bloggerever.com/2015/09/create-multiple-tabs-using-angular-js.html
 http://code.tutsplus.com/tutorials/create-a-mobile-application-using-wordpress-ionic-and-angularjs--cms-24170
 http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html
 http://victorsavkin.com/post/99998937651/building-angular-apps-using-flux-architecture
+http://codehandbook.org/creating-a-web-app-using-angularjs-python-mongodb/
 http://orizens.com/wp/topics/from-angular-es5-directive-to-angular-es2015-component/
 http://g00glen00b.be/e2e-testing-angularjs-applications-with-protractor/
 http://theleancoder.net/index.php/2015/10/18/angularjs-introduction/
@@ -170,6 +176,7 @@ http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/
 https://kalimadev.wordpress.com/2016/02/05/hands-on-angularjs-browse-nyt-best-sellers/
 http://www.c-sharpcorner.com/UploadFile/8af675/create-signature-pad-using-angularjs/
 http://www.c-sharpcorner.com/article/learn-angularjs-from-beginning-part-1/
+http://www.c-sharpcorner.com/article/learning-angularjs-simplified-part-two/
 http://www.dotnetcurry.com/angularjs/1252/angularjs-service-factory
 http://jslancer.com/2016/02/19/demystify-angularjs-15-one-way-data-binding/
 http://devproconnections.com/javascript/web-pages-more-dynamic-angularjs
@@ -206,3 +213,4 @@ http://www.siddharthpandey.net/write-angularjs-components-with-nested-routing-us
 http://victorsavkin.com/post/145672529346/angular-router
 http://webdev.snapagency.com/how-to-use-angular-js-and-json-api-to-build-wordpress-theme/
 http://www.codeproject.com/Articles/1103321/Custom-Validation-with-AngularJS
+http://victorsavkin.com/post/146722301646/angular-router-empty-paths-componentless-routes
