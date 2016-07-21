@@ -78,6 +78,8 @@ http://paislee.io/the-ultimate-nodejs-development-setup-with-docker/
 https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/
 http://blog.yld.io/2016/02/08/squeeze-the-juice-out-of-node/
 http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/
+http://blog.yld.io/2016/07/12/a-distributed-work-queue/
+http://blog.yld.io/2016/06/02/using-a-persistent-local-queue-in-node-js/
 http://blog.codeship.com/a-serverless-rest-api-in-minutes/
 https://snyk.io/blog/node-js-timing-attack-ccc-ctf/
 http://blog.greta.io/deploying-nodejs-with-spinnaker/
@@ -95,6 +97,9 @@ http://rethinkdb.com/blog/v849-es6-features/
 http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html
 http://jonbho.net/2016/03/11/writing-interactive-command-line-apps-in-javascript-with-node-js-or-how-to-write-the-most-classic-type-of-software-on-the-most-modern-framework-without-frying-your-brain-in-the-process/
 http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804
+http://webapplog.com/you-dont-know-node/#main
+http://webapplog.com/http2-node/
+http://webapplog.com/json-is-not-cool-anymore/
 http://blog.sandeepchivukula.com/posts/2016/03/06/photo-search/
 http://krasimirtsonev.com/blog/article/debugging-with-node
 https://www.outlearn.com/learn/jonathanfmills/picking-a-nodejs-framework
@@ -103,7 +108,6 @@ https://blog.jscrambler.com/building-expense-application-electron-react/
 http://www.softwareontheside.info/2016/03/bash-to-audit-of-your-npm-dependencies.html
 https://ponyfoo.com/articles/npm-meltdown-security-concerns
 http://withouttheloop.com/articles/2016-03-24-node-web-ts/
-http://webapplog.com/you-dont-know-node/#main
 https://blog.boldlisting.com/declarative-dependencies-for-unit-testing-node-js-services-45542ceb5703#.utooikv5m
 http://docs.botframework.com/builder/node/overview/
 https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/
@@ -134,3 +138,10 @@ http://getmesh.io/Blog/Integration+Testing+of+a+Dockerized+Angular+App
 https://snyk.io/blog/whats-an-npm-dependency/
 http://blog.yld.io/2016/05/10/introducing-queues/
 http://www.joshmorony.com/building-a-review-app-with-ionic-2-mongodb-node/
+http://ditrospecta.com/node/2016/07/11/simple-rsvp-node.html
+https://www.algotech.solutions/blog/nodejs/build-a-restful-api-using-loopback/
+http://stefanscherer.github.io/how-to-build-nodejs-nanoserver-image/
+http://akoskm.com/2016/07/01/node-js-unit-testing-stripe-api-tutorial.html
+https://www.twilio.com/blog/2016/06/how-to-validate-phone-numbers-in-nodejavascript-with-the-twilio-lookup-api.html
+http://allenkim67.github.io/bittorrent/2016/05/04/how-to-make-your-own-bittorrent-client.html
+http://www.brendangregg.com/blog/2016-07-13/llnode-nodejs-memory-leak-analysis.html
