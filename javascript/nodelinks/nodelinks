@@ -43,37 +43,53 @@ https://github.com/s-a/iron-node
 https://github.com/gillstrom/battery-level
 https://github.com/h2non/toxy
 https://github.com/servant-app/JAWS
+https://github.com/coreybutler/nvm-windows - A node.js version management utility for Windows
 https://github.com/kessler/node-dynamic-middleware
 https://github.com/alidavut/locus
+https://github.com/parro-it/libui-node - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
 https://github.com/nodejs/node#cnv
 https://github.com/bucaran/parsec
+https://github.com/DimitriMikadze/express-react-redux-starter - Starter for Express, React, Redux, SCSS applications
 https://github.com/IgorAntun/node-chat
 http://reach.github.io/
 https://github.com/mastilver/express-annotation
+https://github.com/edenspiekermann/sprite.sh - A Bash script to build a SVG sprite from a folder of SVG files (typically icons).
 https://github.com/gflandre/mongo-aggregation-debugger
 https://ni-c.github.io/heimcontrol.js/
+https://github.com/s-a/iso-8583 - A native Node module to process ISO 8583 Financial transaction card originated messages
 https://github.com/soyuka/explorer
 https://github.com/mateogianolio/node-pip
+https://github.com/sindresorhus/np - A better `npm publish`
 https://github.com/bucaran/generator-rise
-https://github.com/girliemac/RPi-KittyCam?
+https://github.com/girliemac/RPi-KittyCam
+https://github.com/lambci/lambci - A continuous integration system built on AWS Lambda
 https://github.com/jtribe/ghostrunner
+https://github.com/henryboldi/felony - Next Level PGP
 https://github.com/DataEasy/slack-cutter
 https://github.com/CharlieHess/slack-poker-bot
+https://github.com/MiniProfiler/node - A simple but effective mini-profiler for Node.js websites
 https://github.com/karissa/nutella-scrape
 https://github.com/Mostafa-Samir/zip-local
+https://github.com/vvo/gifify - Convert any video file to an optimized animated GIF.
 https://github.com/cshum/levi
 https://www.npmjs.com/package/node-ipgeoblock
+https://github.com/Moeditor/Moeditor - Your all-purpose markdown editor
 https://www.npmjs.com/package/npm2dot
 https://www.npmjs.com/package/express-s3-router
+https://github.com/digitaldesignlabs/talisman - A logicless streaming templating system and language for Node.js
 https://github.com/codingpains/crispy-stream
 https://github.com/tgriesser/bookshelf
+https://github.com/EclairJS/eclairjs-node - Node.js API for Apache Spark with Remote Client
 https://github.com/keithwhor/nodal
 https://github.com/typicode/stop-server
+https://github.com/microapps/Shopify-api-node - Node Shopify connector
 https://github.com/lalitkapoor/node-pg-util
 https://github.com/melvinsembrano/easy-date
+https://github.com/Abdizriel/nodejs-microservice-starter - NodeJS RESTful API Microservice Starter
 https://github.com/idris-maps/gis-with-javascript-tutorial
 https://gist.github.com/dustyfresh/eb967a19d53df4a3434f
 https://github.com/stevenmiller888/intruder
+https://github.com/CloudRail/cloudrail-si-node-sdk - Unified API Library for: Cloud Storage
 https://github.com/tomchristie/express-browsable-api
 https://github.com/ryanbahniuk/sassaby
 https://github.com/sindresorhus/ava
@@ -119,8 +135,10 @@ https://github.com/jpadilla/ember-fastboot-docker
 https://github.com/tajawal/node-currency-swap
 https://github.com/claudiajs/claudia
 https://github.com/egoist/testen
+https://gist.github.com/bdchauvette/a7207d478ddb0c1daae39aebe1bd50bf - Minimal babel boilerplate
 https://github.com/node-schedule/node-schedule
 https://github.com/ShyykoSerhiy/skyweb
+https://github.com/thorning/node-mailchimp - node mailchimp wrapper using v3 of the mailchimp api
 https://github.com/Netifriik/node-steam-market-manager
 https://github.com/zzarcon/psaux
 https://github.com/sungwoncho/editer - A high level multiline string manipulation library
