@@ -33,6 +33,8 @@ https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku
 https://scotch.io/tutorials/a-realtime-room-chat-app-using-node-webkit-socket-io-and-mean
 https://scotch.io/tutorials/containerized-testing-for-node-applications-with-dockunit
 https://scotch.io/tutorials/better-node-with-es6-pt-i
+https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai
+https://scotch.io/tutorials/server-side-web-components-how-and-why
 
 
 ######################################## Medium ##############################################
@@ -62,6 +64,9 @@ https://medium.com/@tarkus/how-to-build-and-publish-es6-modules-today-with-babel
 https://medium.com/@tarkus/node-js-and-sqlite-for-rapid-prototyping-bc9cf1f26f10#.5f4ihda31
 https://medium.com/@jamischarles/adding-autocomplete-to-npm-install-5efd3c424067#.8wctzu22w
 https://medium.com/@leo/getting-started-with-javascript-robotics-5c54e716562c#.awuf1a9ty
+https://medium.com/@nodesource/es-modules-and-node-js-hard-choices-2b6995e4d491#.cv8621n3t
+https://medium.com/yet-another-node-js-blog/architecture-of-node-js-internal-codebase-57cd8376b71f#.k4c0rrx0u
+https://medium.com/@emckean/create-a-simple-free-text-driven-twitterbot-with-aws-lambda-node-js-b80e26209f5#.m0nn2pv2k
 
 
 ######################################## Risingstack ##############################################
@@ -83,6 +88,8 @@ https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/
 https://blog.risingstack.com/node-js-windows-10-tutorial/
 https://blog.risingstack.com/node-js-examples-how-enterprises-use-node-in-2016/
 https://blog.risingstack.com/node-hero-node-js-debugging-tutorial/
+https://blog.risingstack.com/node-hero-node-js-security-tutorial/
+https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/
 
 
 ######################################## Tutsplus ##############################################
@@ -102,6 +109,8 @@ http://developer.telerik.com/featured/merging-dynamic-and-static-sites/
 http://developer.telerik.com/featured/spying-on-james-bond-with-node-js/
 http://www.telerik.com/kendo-ui/exporting-web-content
 http://developer.telerik.com/featured/left-pad-indicative-fragile-javascript-ecosystem/
+http://developer.telerik.com/featured/bots/
+http://developer.telerik.com/featured/alexa-can-use/
 
 
 ######################################## Stormpath ##############################################
@@ -123,6 +132,7 @@ https://davidwalsh.name/node-modules-intern
 https://davidwalsh.name/convert-image-ascii-art
 https://davidwalsh.name/nodejs-services
 https://davidwalsh.name/git-hook-npm-install-package-json-modified
+https://davidwalsh.name/get-webpage-screenshot
 
 
 ######################################## Smashing Magazine ##############################################
