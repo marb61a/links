@@ -15,6 +15,8 @@ http://www.ibm.com/developerworks/cloud/library/cl-checkin-app/
 https://medium.com/@maxrogers/catfacts-ruby-sinatra-mongodb-9eedc2940462
 http://geeksta.net/geeklog/diving-into-ruby-sinatra-mongodb-openshift/
 http://addyosmani.com/blog/building-backbone-js-apps-with-ruby-sinatra-mongodb-and-haml/
+https://blog.codeminer42.com/writing-a-middleware-for-your-sinatra-app-24982d12f14d#.93p3efdym
+http://zzak.io/log/2016-07-20-clean-up-your-routes-with-sinatra-namespace.html
 
 ## Courses
 
@@ -26,6 +28,7 @@ https://github.com/sinatra/sinatra
 https://gist.github.com/ashrithr/6460552
 https://github.com/sinatra/sinatra-book/
 http://shiroyasha.github.io/sinatra-app-with-rspec.html
+https://github.com/minodes/sinatra-logger - Sinatra Logging
 
 ## Links
 http://guides.railsgirls.com/sinatra-app/
