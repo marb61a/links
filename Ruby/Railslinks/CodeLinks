@@ -34,12 +34,16 @@ https://github.com/strzibny/invoice_printer - Super simple PDF invoicing in Ruby
 https://github.com/airbnb/hypernova - A service for server-side rendering your JavaScript views
 https://github.com/pawurb/termit
 https://github.com/electric-feel/i18n-backend-side_by_side
+https://github.com/janko-m/down - Your companion for file downloads in Ruby
 https://github.com/schneidmaster/eqn
 https://github.com/yammer/model_attribute
+https://github.com/Brantron/john_hancock - A Rails gem for custom signature form fields
 https://github.com/DarthSim/carrierwave-bombshelter
 https://github.com/gottfrois/grape-attack
+https://github.com/bear-metal/tunemygc - TuneMyGC - optimal MRI Ruby 2.1+ Garbage Collection
 http://fullscreen.github.io/squid/
 https://github.com/mattheworiordan/capybara-screenshot
+https://github.com/twitter/secureheaders - Security related headers all in one gem
 https://github.com/AvnerCohen/restful-client
 https://github.com/ioquatix/fingerprint - Fingerprint is a simple tool that can be used to verify the contents of a directory
 https://github.com/owen2345/camaleon-cms
@@ -64,9 +68,12 @@ https://github.com/jedld/resugan - simple, powerful and unobstrusive event drive
 https://github.com/cnorthwood/backtalk
 https://github.com/FGRibreau/mailchecker
 https://github.com/leemachin/ask_awesomely/
+https://github.com/amatsuda/jb - A simple and fast JSON API template engine for Ruby on Rails
 https://github.com/kenyonj/dashed
 https://github.com/stellar/ruby-xdr
 https://github.com/ankane/groupdate
+https://github.com/cryptosphere/sysrandom - Secure random number generation for Ruby using system RNG facilities
+https://github.com/zverok/time_math2 - Small library for operations with time steps
 https://github.com/ur0/statusify
 https://github.com/eduardordm/enginevib
 https://github.com/igorkasyanchuk/rails_db
@@ -86,6 +93,8 @@ https://github.com/seamusabshere/lock_and_cache
 https://github.com/matsumoto-r/rcon
 https://github.com/solidusio/solidus
 https://github.com/karthikv/model_schema
+https://github.com/vinhnglx/active_bootstrap_skin - Bootstrap skin for Active Admin
+https://github.com/janko-m/shrine - Toolkit for handling file uploads in Ruby
 https://github.com/zhulik/pinball
 https://github.com/charliesome/better_errors
 https://github.com/spilin/puma_doctor
@@ -107,15 +116,21 @@ https://github.com/thoughtbot/scenic
 https://github.com/0x0dea/viva
 https://github.com/madrobby/zaru
 https://github.com/zverok/worldize
+https://github.com/helpyio/helpy - Helpy is a modern, "mobile-first" helpdesk application built in Ruby
 https://github.com/mwpastore/dalli-rate_limiter
 https://github.com/zendesk/ruby-kafka
+https://github.com/amatsuda/stateful_enum - A very simple state machine plugin built on top of ActiveRecord::Enum
+https://github.com/ruby-concurrency/concurrent-ruby - Modern concurrency tools 
 https://github.com/ID25/rails_emoji_picker
 https://github.com/dirkholzapfel/abuelo
 https://github.com/mohitjain/layzr-rails
 https://github.com/mz026/log_spy
+https://github.com/dogweather/validated_object - Self-validating Ruby objects
+https://github.com/mame/optcarrot - A NES emulator written in Ruby
 https://github.com/testdouble/good-migrations
 https://github.com/MichaelSp/opal-actioncable
 https://github.com/JVillella/tiny-path
+https://github.com/lbarasti/ytry - A Scala inspired implementation of Try for Ruby
 https://github.com/henrylawson/dynamodb-migration
 https://github.com/ivarvong/googledoc_markdown
 https://github.com/saghm/very-ants
@@ -128,8 +143,6 @@ https://github.com/tobiasfeistmantl/LeSSL - A certificate manager for lets-encry
 https://github.com/efigence/has_reindexable_associations - Automatic Elasticsearch Reindexing of Active Record Associations
 https://github.com/altmetric/urn - Ruby library to validate and normalize URNs according to RFC 2141.
 https://github.com/jdantonio/functional-ruby - A gem for adding functional programming tools to Ruby
-https://github.com/amatsuda/stateful_enum - A very simple state machine plugin built on top of ActiveRecord::Enum
-https://github.com/ruby-concurrency/concurrent-ruby - Modern concurrency tools 
 https://github.com/AtomicPair/wolfentext3d - 3-D dungeon crawling in your terminal
 https://github.com/fedux-org/proxy_rb - Helps to test your proxy infrastructure
 https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby - Solving the second hard problem in Computer Science
@@ -140,16 +153,12 @@ https://github.com/deepcerulean/passive_record - no-persistence pure ruby relati
 https://github.com/envato/zxcvbn-ruby - Ruby port of Dropbox's zxcvbn javascript lib
 https://github.com/arturoherrero/powercore - PowerCore extends the Ruby Core with useful extensions.
 https://github.com/spree/spree/tree/3-1-stable - Spree is a complete open source e-commerce solution for Ruby on Rails
-https://github.com/dogweather/validated_object - Self-validating Ruby objects
-https://github.com/mame/optcarrot - A NES emulator written in Ruby
 https://github.com/NullVoxPopuli/action_cable_client - A ruby client for interacting with Rails' ActionCable
 https://github.com/ndea/notifyor - Get realtime notifications on your desktop if something happens in your Rails app.
 https://github.com/ivantsepp/annotate_gem - Add comments to your Gemfile with each dependency's description
 https://github.com/jeremyevans/rodauth - Authentication and Account Management Framework for Rack Applications
 https://github.com/hyperoslo/facebook-messenger/ - Definitely the best Ruby client for Bots on Messenger
-https://github.com/peter/rails-cms-bootstrap - Bootstrap/demo app for a simple CMS based on Rails 5, Postgres, and Bootstrap 4
-https://github.com/vinhnglx/active_bootstrap_skin - Bootstrap skin for Active Admin
-https://github.com/janko-m/shrine - Toolkit for handling file uploads in Ruby
+https://github.com/peter/rails-cms-bootstrap - Bootstrap/demo app for a simple CMS based on Rails 5, Postgres, and Bootstrap 
 https://github.com/JuanitoFatas/active_error - Create an exception with backtrace has never been easier
 https://github.com/blendle/object-cache - Simple Ruby object caching solution using Redis as a backend
 https://github.com/rails-api/active_model_serializers - ActiveModel::Serializer implementation and Rails hooks
@@ -157,8 +166,6 @@ https://github.com/AndrewRadev/vimrunner - Control a vim instance through ruby c
 https://github.com/zverok/geo_coord - Simple yet useful Geo Coordinates class for Ruby
 https://github.com/Authorea/latexml-ruby - A Ruby wrapper for LaTeXML
 https://github.com/BankExchange/bank_exchange_ruby_api - Official Ruby client for BankExchange API
-https://github.com/cryptosphere/sysrandom - Secure random number generation for Ruby using system RNG facilities
-https://github.com/zverok/time_math2 - Small library for operations with time steps
 https://github.com/thredded/thredded - The best Rails forums engine ever
 https://github.com/piotrmurach/tty-command - Execute shell commands with pretty output logging and capture stdout, stderr and exit status.
 https://github.com/rbotafogo/scicom - Scientific Computing for JRuby
