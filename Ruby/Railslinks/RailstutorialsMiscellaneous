@@ -43,7 +43,7 @@ http://eng.rightscale.com/2015/09/16/how-to-debug-ruby-memory-issues.html
 http://techblog.shutl.com/2015/09/ruby-virtual-machine-internals-and-investigating-variable-scope/
 https://cloud.google.com/ruby/getting-started/hello-world
 https://www.credible.com/code/setting-up-a-data-warehouse-with-aws-redshift-and-ruby/
-http://pchm.co/tutorial-how-to-build-a-cms-in-ruby-on-rails/?utm_source=rubyweekly&utm_medium=email
+http://pchm.co/tutorial-how-to-build-a-cms-in-ruby-on-rails/
 http://www.blrice.net/blog/2015/09/18/a-middleware-stack-without-rack/
 http://lucaguidi.com/2015/11/17/effective-tdd-with-ruby-tmux-setup.html
 https://www.zweitag.de/en/blog/technology/lets-build-a-chat-with-actioncable
@@ -84,8 +84,6 @@ https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html
 http://www.mikeperham.com/2016/02/09/kill-your-dependencies/
 http://blog.rebased.pl/2016/02/03/so-you-want-to-use-pathnames.html
 https://blog.lelonek.me/defensive-programming-in-ruby-477f3505742a#.p1blj4urn
-http://tutorials.pluralsight.com/review/elastic-search-with-ruby-on-rails
-http://tutorials.pluralsight.com/ruby-ruby-on-rails/ruby-on-rails-nested-attributes
 http://blog.scoutapp.com/articles/2016/02/16/which-ruby-background-job-framework-is-right-for-you
 http://edgeguides.rubyonrails.org/api_app.html
 http://thepracticaldev.com/communicating-intent-the-perpetually-misunderstood-ruby-bang
@@ -156,7 +154,6 @@ http://www.mikeperham.com/2016/05/17/commercial-gems/
 http://icelab.com.au/articles/a-conversational-introduction-to-rom-rb/
 http://www.adomokos.com/2016/06/using-ruby-with-activerecord-in-aws.html
 https://blog.benroux.me/production-https-rails-app-using-nginx-and-lets-encrypt/
-http://www.rubypigeon.com/posts/how-to-implement-simple-authentication-without-devise/
 http://twin.github.io/improving-open-uri/
 http://nandovieira.com/using-es2015-with-asset-pipeline-on-ruby-on-rails
 https://auth0.com/blog/2016/06/02/ruby-authentication-secure-rack-apps-with-jwt/
@@ -184,6 +181,19 @@ http://jbodah.github.io/blog/2016/06/09/ducktyping-toproc/
 https://www.nexmo.com/blog/2016/06/21/building-voice-alerts-broadcast-system-using-ruby-nexmo-text-speech-api/
 http://jameskerr.info/ruby/rails/activerecord/2016/06/20/the-power-of-active-record-update.html
 http://marianposaceanu.com/articles/making-rails-asset-pipeline-faster
-http://www.rubypigeon.com/posts/a-review-of-immutability-in-ruby/
 https://www.driftingruby.com/episodes/progressive-render
-
+https://blog.phusion.nl/2016/07/07/actioncable-under-stress-p1/
+http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-07-18-a-review-of-code-reloaders-for-ruby
+http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-07-18-autoreloader-a-transparent-automatic-code-reloader-for-ruby
+http://readysteadycode.com/howto-parse-html-with-ruby-and-nokogiri
+https://blog.benroux.me/building-a-rails-notification-queue-1-the-database/
+http://sorentwo.com/2016/07/11/essentials-of-cache-expiration-in-rails.html
+https://tonyarcieri.com/a-gentle-introduction-to-nio4r?
+http://blog.carbonfive.com/2016/07/06/rails-meet-phoenix-add-phoenix-to-your-rails-ecosystem-with-session-sharing/
+https://blog.codeminer42.com/improving-rails-scalability-with-better-architecture-c102a2a0cdec#.425r3ihei
+http://code.tutsplus.com/tutorials/rails-image-upload-using-dragonfly--cms-26179
+https://twin.github.io/partial-downloads-with-enumerators-and-fibers/
+http://nickjanetakis.com/blog/dockerize-a-rails-5-postgres-redis-sidekiq-action-cable-app-with-docker-compose
+https://prograils.com/posts/active-record-brief-introduction-for-beginners
+https://www.viget.com/articles/implementing-full-text-search-in-rails-with-postgres
+http://willschenk.com/deploying-actioncable-on-heroku/
