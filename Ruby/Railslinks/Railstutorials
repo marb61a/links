@@ -43,6 +43,12 @@ https://www.sitepoint.com/brush-up-your-knowledge-of-rails-associations/
 https://www.sitepoint.com/exploring-cryptography-fundamentals-in-ruby/
 https://www.sitepoint.com/make-easy-graphs-and-charts-on-rails-with-chartkick/
 https://www.sitepoint.com/create-a-chat-app-with-rails-5-actioncable-and-devise/
+https://www.sitepoint.com/deliver-the-mail-with-amazon-ses-and-rails/
+https://www.sitepoint.com/control-the-physical-world-with-ruby-and-artoo/
+https://www.sitepoint.com/automate-docker-with-the-remote-api-and-ruby/
+https://www.sitepoint.com/liberate-your-search-in-rails-with-tags/
+https://www.sitepoint.com/quickly-process-api-requests-with-shoryuken-and-sqs/
+https://www.sitepoint.com/quick-tip-dry-up-your-model-validations-tests/
 
 
 ###################################### Honeybadger ####################################################
@@ -55,6 +61,7 @@ http://blog.honeybadger.io/spying-on-running-ruby-processes/
 http://blog.honeybadger.io/lexical-scoping-and-ruby-class-variables/
 http://blog.honeybadger.io/what-does-argv-mean-in-ruby/
 http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/
+http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/
 
 
 ###################################### Medium ####################################################
@@ -73,6 +80,7 @@ https://medium.com/build-acl/using-aws-s-ruby-sdk-4434860e1a3#.fn9cioonz
 https://medium.com/@richardsondx/everything-you-should-know-about-the-obscure-world-of-jruby-jruby-with-ruby-on-rails-c3c90d8fdeec#.bfpixa1us
 https://medium.com/jobteaser-dev-team/rails-bitwise-enum-with-super-powers-5030bda5dbab#.muceir9c5
 https://medium.com/@tair/how-to-upgrade-to-rails-5-657b3bfd83#.alfqxwsnu
+https://medium.com/@jaflebol/capybara-taming-the-hydrochoerus-8fcd28d70787#.c6rjasg3n
 
 
 ###################################### Justin Weiss ####################################################
@@ -143,6 +151,7 @@ https://blog.codeship.com/how-to-get-started-with-a-content-security-policy/
 https://blog.codeship.com/the-straight-dope-on-deprecations/
 https://blog.codeship.com/metaprogramming-in-ruby/ 
 https://blog.codeship.com/solving-backwards-compatibility-ruby-proxy-object/
+https://blog.codeship.com/writing-microservice-in-ruby/
 
 
 ###################################### Rossta ####################################################
@@ -193,6 +202,12 @@ http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/
 http://gavinmiller.io/2015/fixing-file-access-vulnerabilities-in-ruby-and-rails/
 
 
+###################################### Pluralsight ####################################################
+http://tutorials.pluralsight.com/review/elastic-search-with-ruby-on-rails
+http://tutorials.pluralsight.com/ruby-ruby-on-rails/ruby-on-rails-nested-attributes
+http://tutorials.pluralsight.com/ruby-ruby-on-rails/instant-delivery-store-using-ruby-on-rails-stripe-and-uberrush-api
+
+
 ###################################### Chaps.io ####################################################
 http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html
 http://blog.chaps.io/2015/11/13/role-based-authorization-in-rails.html
@@ -207,6 +222,7 @@ http://www.blackbytes.info/2016/03/enumerable-methods/
 http://www.blackbytes.info/2016/04/twitter-api-from-ruby-tutorial/
 http://www.blackbytes.info/2016/06/linux-tools-with-ruby/
 http://www.blackbytes.info/2016/06/ruby-ranges-how-do-they-work/
+http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/
 
 
 ###################################### Wyeworks ####################################################
@@ -242,7 +258,8 @@ http://blog.arkency.com/2016/03/creating-new-content-types-in-rails-4-dot-2/
 http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/
 http://blog.arkency.com/2016/04/how-i-hunted-the-most-odd-ruby-bug/
 http://blog.arkency.com/2016/06/mutation-testing-of-rails-views/
-
+http://blog.arkency.com/2016/07/testing-soap-api-adapters/
+http://blog.arkency.com/2016/06/cover-all-test-cases-with-permutation/
 
 
 ###################################### Tutsplus ####################################################
@@ -250,6 +267,12 @@ http://code.tutsplus.com/articles/improving-the-performance-of-your-rails-app-wi
 http://code.tutsplus.com/articles/antipatterns-basics-rails-views--cms-25670
 http://code.tutsplus.com/tutorials/rails-image-upload-using-carrierwave-and-devise--cms-25681
 http://code.tutsplus.com/articles/antipatterns-basics-rails-controllers--cms-25900?
+
+
+###################################### Ruby Pidgeon ####################################################
+http://www.rubypigeon.com/posts/how-to-implement-simple-authentication-without-devise/
+http://www.rubypigeon.com/posts/a-review-of-immutability-in-ruby/
+http://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/
 
 
 ###################################### MixandGo ####################################################
@@ -270,3 +293,4 @@ http://aaronlasseigne.com/2016/04/27/improving-large-rails-apps-with-service-obj
 http://aaronlasseigne.com/2016/05/11/dont-forget-about-infinite-enumerators/
 http://aaronlasseigne.com/2016/05/24/know-ruby-with_index/
 http://aaronlasseigne.com/2016/06/10/proper-regexp-anchoring/
+http://aaronlasseigne.com/2016/07/08/5-tips-for-writing-a-legible-regexp/
