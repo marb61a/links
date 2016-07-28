@@ -13,6 +13,8 @@ https://medium.com/@ZeroDB_/scalable-full-text-search-over-encrypted-data-cb2b5d
 https://medium.com/coding-with-clarity/speeding-up-python-and-numpy-c-ing-the-way-3b9658ed78f4#.vw3irl8vt
 https://medium.com/@kaismh/extracting-data-from-websites-using-scrapy-e1e1e357651a#.nyam7lzej
 https://medium.com/swlh/is-it-brunch-time-ffe3adf485d8#.gbz1gd3rk
+https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.rojjmo2vs
+https://medium.com/@hwayne/stupid-python-tricks-abusing-explicit-self-53d46b72e9e0#.fq3ttkl1u
 
 
 ####################################### Python Library ###########################################################
@@ -39,6 +41,13 @@ https://blog.scrapinghub.com/2016/05/18/scrapy-tips-from-the-pros-may-2016-editi
 ####################################### Armin Ronacher ###########################################################
 http://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/
 http://lucumr.pocoo.org/2011/7/9/python-and-pola/
+
+
+####################################### Yhat ###########################################################
+http://blog.yhat.com/posts/data-normalization-in-python.html
+http://blog.yhat.com/posts/autonomous-droning-with-python.html
+http://blog.yhat.com/posts/interactive-geospatial-analysis.html
+https://www.yhat.com/webinar
 
 
 ####################################### Github Tuts ###########################################################
@@ -92,9 +101,6 @@ http://vknight.org/unpeudemath/code/2016/03/07/Property-based-testing-and-findin
 http://tomassetti.me/python-reflection-how-to-list-modules-and-inspect-functions/
 http://www.jamalmoir.com/2016/03/learn-to-mock-in-python.html
 http://benalexkeen.com/linear-programming-with-python-and-pulp/
-http://blog.yhat.com/posts/data-normalization-in-python.html
-http://blog.yhat.com/posts/autonomous-droning-with-python.html
-http://blog.yhat.com/posts/interactive-geospatial-analysis.html
 http://pbpython.com/xlwings-pandas-excel.html
 https://blog.cambridgecoding.com/2016/03/24/misleading-modelling-overfitting-cross-validation-and-the-bias-variance-trade-off/
 http://andysalerno.com/2016/03/Monte-Carlo-Reversi
@@ -135,3 +141,19 @@ https://www.dataquest.io/blog/data-science-portfolio-machine-learning/
 https://kozikow.com/2016/07/01/top-pandas-functions-used-in-github-repos/
 http://www.datadependence.com/2016/05/scientific-python-pandas/
 https://fullstackml.com/2016/07/02/wavelet-image-hash-in-python/
+https://blog.sqreen.io/freeze-python-str-encode-threads/
+https://www.continuum.io/blog/developer-blog/analyzing-visualizing-big-data-interactively-laptop-datashading
+https://fullstackml.com/2016/07/02/wavelet-image-hash-in-python/
+http://www.pymunk.org/en/latest/
+https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
+http://www.machinalis.com/blog/a-day-with-mypy-part-2/
+http://www.machinalis.com/blog/writing-type-stubs-for-numpy/
+http://www.machinalis.com/blog/a-day-with-mypy-part-3/
+https://www.dataquest.io/blog/apartment-finding-slackbot/
+https://blog.monkeylearn.com/machine-learning-1m-hotel-reviews-finds-interesting-insights/
+http://lukeplant.me.uk/blog/posts/a-simple-passwordless-email-only-login-system/
+https://eklitzke.org/extracting-the-python-stack-using-ptrace
+https://morepypy.blogspot.ie/2016/07/reverse-debugging-for-python.html
+http://maxberggren.se/2016/07/14/atomic-parts-of-town-names/
+https://blog.scrapinghub.com/2016/07/20/scrapy-tips-from-the-pros-july-2016/
+
