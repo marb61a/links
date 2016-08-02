@@ -13,11 +13,13 @@ http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guid
 http://www.sitepoint.com/quick-tip-video-player-component-react/
 http://www.sitepoint.com/bind-javascripts-this-keyword-react/
 http://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/
+https://www.sitepoint.com/music-streaming-app-electron-react-es6/
 
 
 ###################################### Scotch.io ################################################################## 
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 https://scotch.io/tutorials/build-a-react-flux-app-with-user-authentication
+https://scotch.io/bar-talk/getting-started-with-redux-an-intro
 
 
 ###################################### Risingstack ################################################################
@@ -77,6 +79,12 @@ https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c#.9bkhoh7oc
 https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.ay66tu8im
 https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b#.tjhkcjhvn
 https://medium.com/@roman01la/introducing-react-horizon-4c26f9ef628c#.yhds10icb
+https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.mlpcbx5c8
+https://medium.com/@lavrton/progressive-loading-for-modern-web-applications-via-code-splitting-fb43999735c6#.yg2ri1g3j
+https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.6jigaqgd4
+https://medium.com/@royisch/6-lessons-learned-from-going-to-production-with-react-redux-19257f6724f6#.mwnirsbr7
+https://medium.com/@sheepsteak/adding-hot-module-reloading-to-create-react-app-e053fadf569d#.ma0fuol6a
+https://medium.com/@tarkus/react-app-sdk-5ae59106215b#.db12a9mql
 
 
 ###################################### Raja Rao ##################################################################
@@ -118,3 +126,8 @@ https://reactjsnews.com/redux-middleware
 https://reactjsnews.com/how-to-make-your-react-apps-10x-faster
 
 
+###################################### Krasimir Tsonev ##################################################################
+http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack
+http://krasimirtsonev.com/blog/article/distributing-react-components-babel-browserify-webpack-uglifyjs
+http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React
+http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
