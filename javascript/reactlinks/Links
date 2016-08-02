@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=iVKPbH3qyW0&list=PLanDnKP78H3yAjtSHvXQ8nrj9KgdSR
 https://www.youtube.com/watch?v=-xiki68cpTc&list=PLXoXQD8Ev85ZZEg6Es3TU6AjmnFY1n4Bu&index=2
 https://vimeo.com/album/3930691 - Reverse Engineering React
 https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU - React Amsterdam 2016 conference
+https://www.youtube.com/watch?v=wuoqImYcZ2A - From Backbone to React. How to write great code - Richard Powell
 
 
 ##Code -
@@ -29,20 +30,24 @@ https://github.com/ssorallen/react-play - Render React components in the Play Fr
 https://github.com/gpbl/isomorphic500 - A 500px app built with React and Fluxible with babeljs
 https://github.com/kriasoft/react-starter-kit
 https://github.com/svenanders/learn-react
+https://github.com/smartprogress/react-relative-portal - React component for place dropdowns outside overflow: hidden; elements 
 https://github.com/arminbhy/reactator
+https://github.com/krasimir/fluxiny - ~1K implementation of flux architecture
 https://github.com/Swizec/react-real-world
 https://github.com/telescopejs/telescope/- An open-source social news app built with Meteor
 https://github.com/wangzuo/react-input-color
+https://github.com/facebookincubator/create-react-app - Create React apps with no build configuration.
 https://github.com/gaearon/dnd-core
 https://github.com/Klathmon/react-class-binder - auto-bind react class methods
 https://github.com/gaearon/react-dnd
 https://www.npmjs.com/package/react-blessed/
+https://github.com/tmpvar/jsdom - A JavaScript implementation of the WHATWG DOM and HTML standards
 https://github.com/omnidan/redux-undo
 https://github.com/gajus/react-css-modules
 https://github.com/koistya/demos/tree/master/declarative-react-routes - demonstrates how to implement declarative routes in React applications where the list of routes can be represented in YAML or JSON format
 https://github.com/Adphorus/react-date-range
 https://github.com/relax/relax
-https://facebook.github.io/relay/
+https://github.com/krasimir/react-in-patterns - List of design patterns/techniques used while developing with React
 https://github.com/charlieschwabacher/gestalt - Use the GraphQL schema language and a small set of directives to define an API
 https://github.com/Khan/style-guides/blob/master/style/react.md
 http://milworm.github.io/react-progress-2/
@@ -57,8 +62,8 @@ https://github.com/alexkuz/react-input-enhancements - Set of enhancements for in
 https://github.com/satya164/quik
 https://github.com/queicherius/react-globe - Painless localising of React applications with translations, plurals, numbers, dates and times.
 https://github.com/richardkall/react-starter
-http://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html
 https://github.com/ngduc/react-setup
+https://github.com/gatsbyjs/gatsby - Transform plain text into dynamic blogs and websites using React.js
 https://github.com/gaearon/react-makes-you-sad
 https://github.com/narqo/react-islands - react-islands Components Library
 https://griddlegriddle.github.io/Griddle/next/
