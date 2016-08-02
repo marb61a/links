@@ -18,6 +18,8 @@ https://medium.com/@dabit3/first-look-react-native-navigator-experimental-9a7cf3
 https://medium.com/@talkol/recycling-rows-for-high-performance-react-native-list-views-628fd0363861#.9f1xt3yr6
 https://medium.com/@davidguandev/building-a-tic-tac-toe-in-react-native-2a3c44e697f2#.dzd6n1bls
 https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-in-react-native-1fb6afcdf57d#.8dktayduf
+https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343#.qh1vnxfht
+https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6#.uf7f1n3tj
 
 
 ###################################### Miscellaneous ##################################################################
@@ -42,7 +44,10 @@ http://blog.cloudoki.com/going-native/
 https://auth0.com/blog/2016/06/15/adding-authentication-to-react-native-using-jwt/
 https://discord.engineering/using-react-native-one-year-later-91fd5e949933#.na9z8o2rg
 https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3#.h24dddh0i
-
+http://blog.mojotech.com/fabric-integration-for-react-native-on-android/
+https://blog.nativebase.io/react-native-flat-app-theme-be18c869c47e#.o419riz1y
+http://thefullstack.xyz/react-native/
+http://jefflau.net/what-ive-learnt-in-week-3-of-react-native/
 
 
 ##### Code #####
@@ -60,11 +65,15 @@ https://github.com/futurice/pepperoni-app-kit - Pepperoni - React Native App Sta
 https://github.com/maxenceC/open-source-react-native-apps - Collaborative List of Open-Source React Native apps
 https://github.com/sahlhoff/react-native-pulse - React Native Pulse Animation
 https://github.com/halilb/react-native-textinput-effects - A library that unifies both android and iOS chromecast sdk
+https://github.com/JackPu/react-native-tips/blob/master/README.en.md
 
 
 ##### Videos ######
 https://www.youtube.com/watch?v=-XvOhjc7d1Q& - React Native TextInput Effects Component
 https://www.youtube.com/watch?v=sStf_ZbTXss - SnapChat in React Native
+https://www.youtube.com/watch?v=FIq45_Jveg8 - Hooking up Redux to React Native
+https://www.youtube.com/watch?v=3msLwu25SQY&list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5 - Getting Started with React Native and Redux
+
 
 ### Links ###
 http://reactionic.github.io/
