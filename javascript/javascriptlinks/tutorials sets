@@ -50,6 +50,7 @@ https://medium.freecodecamp.com/how-to-reverse-a-string-in-javascript-in-3-diffe
 https://medium.freecodecamp.com/three-ways-to-find-the-longest-word-in-a-string-in-javascript-a2fb04c9757c#.f4pcumepi
 https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113#.5y9yppyq6
 https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.1pyvvbtlc
+https://medium.freecodecamp.com/javascript-closures-explained-by-mailing-a-package-4f23e9885039#.j99vhsa3v
 
 
 ####################################### Telerik ###########################################################
@@ -67,6 +68,7 @@ http://developer.telerik.com/featured/whats-new-in-jquery-3/
 http://developer.telerik.com/featured/native-mobile-maps-from-telerik-and-mapbox/
 http://developer.telerik.com/featured/tools-learn-javascript/
 http://developer.telerik.com/content-types/tutorials/easier-web-application-debugging-command-line-api/
+http://developer.telerik.com/featured/popular-javascript-tools-depend/
 
 
 ####################################### 2Ality ###########################################################
@@ -93,6 +95,7 @@ http://www.2ality.com/2016/04/unhandled-rejections.html
 http://www.2ality.com/2016/04/promise-trees.html
 http://www.2ality.com/2016/05/six-nifty-es6-tricks.html
 http://www.2ality.com/2016/05/template-literal-whitespace.html
+
 
 ####################################### Mozilla ###########################################################
 https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
@@ -140,5 +143,11 @@ https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-whe
 https://blog.mariusschulz.com/2016/01/13/disassembling-javascripts-iife-syntax
 https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
 https://blog.mariusschulz.com/2016/02/03/ecmascript-2016-array-prototype-includes
+
+
+####################################### Ben Nadel ###########################################################
+http://www.bennadel.com/blog/2930-using-cmd-enter-to-submit-a-form-in-angularjs.htm
+http://www.bennadel.com/blog/3124-gathering-data-in-parallel-inside-an-asynchronous-generator-based-workflow-in-javascript.htm
+http://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm
 
 
