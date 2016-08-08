@@ -5,6 +5,7 @@ https://github.com/brion/ogv.js - JavaScript media player using Ogg/Vorbis/Theor
 https://github.com/wooorm/mdast - Markdown Abstract Syntax Tree format
 https://github.com/davidmerfield/typeset
 http://www.patrick-wied.at/static/heatmapjs/
+https://github.com/mozilla/fathom - A framework for extracting meaning from web pages
 http://netflix.github.io/falcor/
 https://github.com/JSON8
 http://sachinchoolur.github.io/lightGallery/
@@ -31,39 +32,51 @@ https://github.com/PaulBGD/HashMap.js
 https://openseadragon.github.io/
 http://bramp.github.io/js-sequence-diagrams/
 http://bevacqua.github.io/promisees/
+https://github.com/Laverna/laverna - Laverna is a JavaScript note taking application with Markdown editor and encryption support
 https://github.com/aserg-ufmg/JSCity
 https://github.com/issuetrackapp/queryl
 https://github.com/slevithan/xregexp
-http://videojs.com/
+https://github.com/ianstormtaylor/slate - A completely customizable framework for building rich text editors
 http://zenorocha.github.io/clipboard.js/
 http://gmarland.github.io/mercer/
 http://codepen.io/mike-zarandona/full/Dasnw
-http://js-grid.com/
+https://github.com/tabalinas/jsgrid - Lightweight Grid jQuery Plugin
 http://dinbror.dk/blazy/
 http://eggboxio.github.io/quick-select/
 http://zenorocha.github.io/clipboard.js/
+https://github.com/dolce/iziModal - Elegant, responsive, flexible and lightweight modal plugin with jQuery
 https://github.com/MaiaVictor/LJSON
 https://github.com/jwagner/smartcrop.js
 https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know
 https://github.com/dthree/vorpal/
+https://github.com/nosir/cleave.js/ - Format input text content when you are typing
 https://github.com/dleitee/valid.js?
 https://github.com/danvk/source-map-explorer
+https://github.com/MaxArt2501/re-build - Building regular expressions with natural language 
 https://github.com/Microsoft/JSanity
 https://github.com/helion3/inspire-tree
+https://github.com/sachinchoolur/lightgallery.js - Full featured JavaScript image & video gallery
 http://fengyuanchen.github.io/viewer/
 https://github.com/ncsoft/Unreal.js
+https://github.com/soyuka/dpicker - A framework-agnostic minimal date picker
 https://github.com/callmecavs/jump.js
 https://github.com/zzarcon/microm
+https://azu.github.io/ecmascript-version-detector/ - ECMAScript Version Detector
 https://github.com/nathancahill/Split.js
+https://github.com/mozilla/metrics-graphics - A library optimized for concise and principled data graphics and layouts
 https://github.com/ashh640/Highway
 https://github.com/djyde/PureSlider
+http://nezhar.github.io/jQuery-Rate/ - A simple jQuery plugin for creating graphical ratings
 https://github.com/codemix/babel-plugin-contracts
 https://github.com/maperial/maperial.js
+https://github.com/BeepBoopHQ/slapp - A node.js module for Slack App integrations
 https://github.com/n-fuse/pajax
 https://github.com/lugolabs/monthpicker
 http://mohayonao.github.io/timbre.js/
+https://github.com/kasper/phoenix - A lightweight macOS/OS X window and app manager scriptable with JavaScript
 https://github.com/jaredly/treed
 https://sensortower.github.io/daterangepicker/
+https://github.com/jadeallencook/gDoc.js - Use Google Spreadsheets as your CMS
 https://github.com/ecomfe/echarts
 https://github.com/jaxgeller/tweezer.js
 https://github.com/anvaka/VivaGraphJS
@@ -77,6 +90,7 @@ https://github.com/olistic/warriorjs - Game written in JavaScript for learning J
 https://github.com/caiogondim/fast-memoize.js -  Fastest possible memoization library
 http://tvrtkom.github.io/jQTipnav/
 http://twitter.github.io/labella.js/
+http://ireade.github.io/inlinetweetjs/ - Create tweetable links out of any text
 http://fengyuanchen.github.io/cropperjs/
 http://fengyuanchen.github.io/viewerjs/
 https://github.com/Tapha/Custom-Highlight/
@@ -107,7 +121,6 @@ https://github.com/charto/cwait - Limit number of promises running in parallel
 https://github.com/brandonbloom/jseg - A super simple, in-memory, JS graph database.
 https://github.com/sonnyp/polygoat - Make JavaScript functions that support both promise and callback styles
 https://github.com/kenwheeler/cash/ - An absurdly small jQuery alternative for modern browsers
-http://ireade.github.io/inlinetweetjs/ - Create tweetable links out of any text
 https://github.com/elado/reuse-promise - Reuse the same promise that's returned from a function until it's resolved
 https://github.com/polarnotion/turntable/ - A Responsive JQuery Slider
 https://github.com/krasimir/cssx - CSS in JavaScript
@@ -128,7 +141,6 @@ https://github.com/Nickersoft/push.js - A compact, cross-browser solution for us
 https://github.com/tscanlin/tocbot/ - Build a table of contents from headings in an HTML document.
 https://github.com/WebReflection/jsgtk-twitter - JSGtk Desktop Twitter Client based on Mobile Twitter
 https://github.com/brownhci/WebGazer - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
-https://github.com/jadeallencook/gDoc.js - Use Google Spreadsheets as your CMS
 https://github.com/jfairbank/revalidate - Elegant and composable validations
 https://github.com/elado/lodash-bound - Enables chained lodash functions with ES bind (::) syntax
 https://github.com/parkjs814/AlgorithmVisualizer - Algorithm Visualizer
