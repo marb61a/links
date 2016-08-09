@@ -44,6 +44,14 @@ https://medium.com/@andretietz/auto-initialize-your-android-library-2349daf06920
 https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.d2nxjc2tb
 https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.ii9tako6e
 https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8#.drji3aknx
+https://m.signalvnoise.com/how-i-built-my-first-android-open-source-library-and-how-you-can-too-8a731abbdd2a#.tbrnysi3k
+https://medium.com/robinhood-engineering/hello-ticker-20eaf6e51689#.7ve60gp70
+https://medium.com/@yair.kukielka/idlingresource-dagger-and-junit-rules-198e3ae791ff#.1rvrpspjs
+https://medium.com/@vanniktech/rxjava-practial-takeuntil-example-bc9766918cad#.axfe76mxp
+https://medium.com/stories-from-eyeem/creating-highly-modular-android-apps-933271fbdb7d#.tpwictrr1
+https://medium.com/azimolabs/dagger-2-on-production-reducing-methods-count-5a13ff671e30#.y59qi35la
+https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.eu1dp0qux
+https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.h7mnor7v6
 
 
 ######################################## Android Developers Blog ##############################################
@@ -80,6 +88,7 @@ https://medium.com/google-developers/android-data-binding-adding-some-variabilit
 http://googlegeodevelopers.blogspot.ie/2016/06/marker-zindex-and-more-come-to-google.html
 https://medium.com/google-developers/a-better-underline-for-android-90ba3a2e4fb#.qe8320fok
 https://medium.com/google-developers/android-data-binding-that-include-thing-1c8791dd6038#.ybi2z46vf
+https://medium.com/google-developers/using-the-awareness-api-for-android-a185b05e7254#.ntm6q5yom
 
 
 ######################################## Tutsplus ##############################################
@@ -87,6 +96,7 @@ http://code.tutsplus.com/tutorials/google-fit-for-android-history-api--cms-25856
 http://code.tutsplus.com/articles/how-to-use-bottom-sheets-with-the-design-support-library--cms-26031
 http://code.tutsplus.com/tutorials/google-fit-for-android-sessions-api--cms-25857
 http://code.tutsplus.com/tutorials/android-from-scratch-understanding-views-and-view-groups--cms-26043
+http://code.tutsplus.com/tutorials/android-from-scratch-background-operations--cms-26810
 
 
 ######################################## UXPlanet ##############################################
@@ -124,6 +134,10 @@ https://blog.stylingandroid.com/constraintlayout-part-2/
 https://blog.stylingandroid.com/constraintlayout-part-3/
 https://blog.stylingandroid.com/constraintlayout-part-4/
 https://blog.stylingandroid.com/constraintlayout-part-6/
+https://blog.stylingandroid.com/constraintlayout-part-7/
+https://blog.stylingandroid.com/constraintlayout-part-8/
+https://blog.stylingandroid.com/statelistanimator/
+https://blog.stylingandroid.com/animatedvectordrawable-bundles/
 
 
 ######################################## Nimbledroid ##############################################
@@ -146,18 +160,27 @@ http://ryanharter.com/blog/2016/05/16/autovalue-extensions/
 http://hannesdorfmann.com/android/let-mosby-flow
 http://hannesdorfmann.com/android/presenters-dont-need-lifecycle
 http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house
+http://hannesdorfmann.com/android/evolution-of-the-repository-pattern
 
 
 ######################################## Artemzin ##############################################
 http://artemzin.com/blog/why-i-dont-want-to-use-kotlin-for-android-development-yet/
 http://artemzin.com/blog/certificate-pinning-notes-for-android-java/
 https://artemzin.com/blog/rxui-talking-to-android-view-layer-in-a-reactive-way/
+https://artemzin.com/blog/rxjava-thread-safety-of-operators-and-subjects/
 
 
 ######################################## Realm.IO ##############################################
 https://realm.io/news/donn-felker-solid-part-3/
 https://realm.io/news/donn-felker-solid-part-4/
 https://realm.io/news/kau-jake-wharton-testing-robots/
+
+
+######################################## Rebecca Franks ##############################################
+http://riggaroo.co.za/constraintlayout-101-new-layout-builder-android-studio/
+https://riggaroo.co.za/introduction-automated-android-testing/
+https://riggaroo.co.za/automated-android-testing-part-2-setup/
+https://riggaroo.co.za/introduction-android-testing-part3/
 
 
 ######################################## Miscellaneous ##############################################
@@ -176,7 +199,8 @@ http://blog.jetbrains.com/kotlin/2016/03/kotlins-android-roadmap/
 http://trickyandroid.com/the-dark-world-of-jack-and-jill/
 http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/
 https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
-https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/?
+https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/
+https://www.bignerdranch.com/blog/diving-into-doze-mode-for-developers/
 https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/
 https://nullpointer.wtf/android/using-retrofit-realm-parceler/
 http://www.dmytrodanylyk.com/android-data-sync-part-2/
@@ -190,11 +214,9 @@ http://leaks.wanari.com/2016/05/05/rendering-markers-for-android/
 http://blog.alexsimo.com/delightful-persistence-android/
 https://robots.thoughtbot.com/accessibility-testing-on-android
 https://www.novoda.com/blog/better-class-naming/
+https://www.novoda.com/blog/new-jenkins-pipelines/
 https://tir38.com/archives/1423
 https://lambdasoup.com/post/automate_screenshots_1/
-http://riggaroo.co.za/constraintlayout-101-new-layout-builder-android-studio/
-https://riggaroo.co.za/introduction-automated-android-testing/
-https://riggaroo.co.za/automated-android-testing-part-2-setup/
 https://developer.android.com/wear/preview/features/notifications.html
 http://saulmm.github.io/the-powerful-android-studio
 http://blog.danlew.net/2016/06/13/multicasting-in-rxjava/
@@ -210,3 +232,14 @@ http://jeroenmols.com/blog/2016/05/06/methodcount/
 http://www.grokkingandroid.com/thoughts-on-constraintlayout-and-design-editor/
 https://publicobject.com/2016/07/03/the-last-httpurlconnection/
 https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.org9w6xrh
+https://engineering.linkedin.com/blog/2016/08/introducing-and-open-sourcing-test-butler--reliable-android-test
+http://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.html
+http://szagurskii.com/blog/how-to-load-heavy-libraries-on-splash-screen/
+http://blog.blundellapps.co.uk/tut-programmatically-create-a-rippledrawable-of-any-color/
+http://wiresareobsolete.com/2016/07/constraintlayout-part-1/
+http://wiresareobsolete.com/2016/07/constraintlayout-part-2/
+https://upday.github.io/blog/mvvm_rx_common_mistakes/
+https://upday.github.io/blog/reactive_mindset_burgers/
+http://blog.karumi.com/how-not-to-become-a-public-enemy-part-1/
+
+
