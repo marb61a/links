@@ -77,19 +77,28 @@ https://github.com/zverok/time_math2 - Small library for operations with time st
 https://github.com/ur0/statusify
 https://github.com/eduardordm/enginevib
 https://github.com/igorkasyanchuk/rails_db
+https://github.com/ssuljic/timed_semaphore - Ruby implementation of TimedSemaphore
 https://github.com/basecamp/trix
 https://github.com/ndea/rimportor
+https://github.com/tsurupin/portfolio - A blog and Portfolio CMS built with Rails, React, Redux, Material-UI, CSS Modules
 https://github.com/ASoftCo/leaky-gems
+https://github.com/ActsAsParanoid/acts_as_paranoid - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
 https://github.com/IFTTT/polo
+https://github.com/cliffe/SecGen - Create randomly insecure VMs
 https://github.com/mushishi78/womb
+https://github.com/substrakt/letsencrypt-heroku - Make any Heroku application secure in just a couple of minutes
 https://github.com/jstrait/wavefile/
 https://github.com/shakacode/react_on_rails/
+https://github.com/jazzonmymind/trip.rb - real time concurrent tracer for Ruby
 https://github.com/krisleech/not_found
 https://github.com/rob-murray/five-star
+https://github.com/hokstadconsulting/ffi-mmap - Ruby FFI-based Mmap interface.Ruby FFI-based Mmap interface.
 https://github.com/varvet/godmin
 https://github.com/kwatch/rack-test_app
+https://github.com/rosenfeld/rack_web_console - A web console for Rack apps.
 https://github.com/NullVoxPopuli/skinny_controllers
 https://github.com/seamusabshere/lock_and_cache
+https://github.com/hokstadconsulting/purecdb - A Pure Ruby CDB reader/writer w/64 bit extensions
 https://github.com/matsumoto-r/rcon
 https://github.com/solidusio/solidus
 https://github.com/karthikv/model_schema
@@ -97,14 +106,19 @@ https://github.com/vinhnglx/active_bootstrap_skin - Bootstrap skin for Active Ad
 https://github.com/janko-m/shrine - Toolkit for handling file uploads in Ruby
 https://github.com/zhulik/pinball
 https://github.com/charliesome/better_errors
+https://github.com/plum-umd/rdl - RDL is a lightweight system for adding contracts to Ruby
 https://github.com/spilin/puma_doctor
 https://github.com/sony/v8eval/tree/master
+https://github.com/efigence/cache_key_for - Comprehensive cache key generator for scopes
 https://github.com/ankane/strong_migrations
 https://github.com/chriskottom/minitest-hyper
+https://github.com/rafaelsales/ulid - Universally Unique Lexicographically Sortable Identifier implementation for Ruby
 https://github.com/monkeylearn/monkeylearn-ruby
 https://github.com/nasa/earthdata-search
+https://github.com/puma/puma-dev - A tool to manage rack apps in development with puma
 https://github.com/SimplyBuilt/activejob-retriable
 https://github.com/codelittinc/slacked
+https://github.com/tomchinery/action-cable-node - Action Cable extracted from Rails 5 and packaged as a Node module
 https://github.com/shakacode/react_on_rails
 https://github.com/powerpak/tqdm-ruby
 https://github.com/Masa331/it_sorts
@@ -133,9 +147,9 @@ https://github.com/JVillella/tiny-path
 https://github.com/lbarasti/ytry - A Scala inspired implementation of Try for Ruby
 https://github.com/henrylawson/dynamodb-migration
 https://github.com/ivarvong/googledoc_markdown
+https://github.com/molybdenum-99/reality - Comprehensive data proxy to knowledge about real world
 https://github.com/saghm/very-ants
 https://github.com/zeisler/active_enumerable
-https://github.com/molybdenum-99/reality - Comprehensive data proxy to knowledge about real world
 https://github.com/janlelis/unicode-display_width - Monospace Unicode character width in Ruby
 https://github.com/westonganger/spreadsheet_architect - Lets you turn any activerecord relation or ruby object collection into a XLSX, ODS, or CSV spreadsheet
 https://github.com/iridakos/duckrails - A development tool to quickly & dynamically mock API endpoints
