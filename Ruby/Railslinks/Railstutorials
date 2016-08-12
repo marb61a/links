@@ -81,6 +81,9 @@ https://medium.com/@richardsondx/everything-you-should-know-about-the-obscure-wo
 https://medium.com/jobteaser-dev-team/rails-bitwise-enum-with-super-powers-5030bda5dbab#.muceir9c5
 https://medium.com/@tair/how-to-upgrade-to-rails-5-657b3bfd83#.alfqxwsnu
 https://medium.com/@jaflebol/capybara-taming-the-hydrochoerus-8fcd28d70787#.c6rjasg3n
+https://medium.com/@Sudhagar/rbenv-how-it-works-e5a0e4fa6e76#.wb30zxhgl
+https://medium.com/@Bakku1505/introduction-to-dependency-injection-in-ruby-dc238655a278#.s8sgasc0c
+https://medium.com/table-xi/focus-your-rspec-workflow-4cd5798d2a3e#.821o81mzm
 
 
 ###################################### Justin Weiss ####################################################
@@ -99,6 +102,7 @@ https://semaphoreci.com/community/tutorials/getting-started-with-minitest
 https://semaphoreci.com/community/tutorials/stubbing-external-services-in-rails
 https://semaphoreci.com/community/tutorials/testing-mixins-in-isolation-with-minitest-and-rspec
 https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec
+https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-minitest
 
 
 ###################################### Jake Yesbeck ####################################################
@@ -152,6 +156,9 @@ https://blog.codeship.com/the-straight-dope-on-deprecations/
 https://blog.codeship.com/metaprogramming-in-ruby/ 
 https://blog.codeship.com/solving-backwards-compatibility-ruby-proxy-object/
 https://blog.codeship.com/writing-microservice-in-ruby/
+https://blog.codeship.com/ruby-refinements/
+https://blog.codeship.com/understanding-fundamental-ruby-abstraction-concurrency/
+https://blog.codeship.com/level-up-your-security-in-rails/
 
 
 ###################################### Rossta ####################################################
@@ -223,6 +230,7 @@ http://www.blackbytes.info/2016/04/twitter-api-from-ruby-tutorial/
 http://www.blackbytes.info/2016/06/linux-tools-with-ruby/
 http://www.blackbytes.info/2016/06/ruby-ranges-how-do-they-work/
 http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/
+http://www.blackbytes.info/2016/07/numbers-in-ruby/
 
 
 ###################################### Wyeworks ####################################################
@@ -260,6 +268,7 @@ http://blog.arkency.com/2016/04/how-i-hunted-the-most-odd-ruby-bug/
 http://blog.arkency.com/2016/06/mutation-testing-of-rails-views/
 http://blog.arkency.com/2016/07/testing-soap-api-adapters/
 http://blog.arkency.com/2016/06/cover-all-test-cases-with-permutation/
+http://blog.arkency.com/2016/07/phases-of-refactoring-complex-rails-apps/
 
 
 ###################################### Tutsplus ####################################################
