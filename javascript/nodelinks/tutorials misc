@@ -76,10 +76,6 @@ https://booker.codes/how-to-build-and-publish-es6-npm-modules-today-with-babel/
 https://booker.codes/input-validation-in-express-with-express-validator/
 http://paislee.io/the-ultimate-nodejs-development-setup-with-docker/
 https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/
-http://blog.yld.io/2016/02/08/squeeze-the-juice-out-of-node/
-http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/
-http://blog.yld.io/2016/07/12/a-distributed-work-queue/
-http://blog.yld.io/2016/06/02/using-a-persistent-local-queue-in-node-js/
 http://blog.codeship.com/a-serverless-rest-api-in-minutes/
 https://snyk.io/blog/node-js-timing-attack-ccc-ctf/
 http://blog.greta.io/deploying-nodejs-with-spinnaker/
@@ -105,6 +101,7 @@ http://krasimirtsonev.com/blog/article/debugging-with-node
 https://www.outlearn.com/learn/jonathanfmills/picking-a-nodejs-framework
 https://blog.jscrambler.com/setting-up-5-useful-middlewares-for-an-express-api/
 https://blog.jscrambler.com/building-expense-application-electron-react/
+https://blog.jscrambler.com/building-real-time-applications-using-node-js-rethinkdb/?
 http://www.softwareontheside.info/2016/03/bash-to-audit-of-your-npm-dependencies.html
 https://ponyfoo.com/articles/npm-meltdown-security-concerns
 http://withouttheloop.com/articles/2016-03-24-node-web-ts/
@@ -136,7 +133,6 @@ http://elijahmanor.com/npm-precommit-scripts/
 http://www.jamasoftware.com/blog/upgrade-node-module-right-way/
 http://getmesh.io/Blog/Integration+Testing+of+a+Dockerized+Angular+App
 https://snyk.io/blog/whats-an-npm-dependency/
-http://blog.yld.io/2016/05/10/introducing-queues/
 http://www.joshmorony.com/building-a-review-app-with-ionic-2-mongodb-node/
 http://ditrospecta.com/node/2016/07/11/simple-rsvp-node.html
 https://www.algotech.solutions/blog/nodejs/build-a-restful-api-using-loopback/
@@ -145,3 +141,12 @@ http://akoskm.com/2016/07/01/node-js-unit-testing-stripe-api-tutorial.html
 https://www.twilio.com/blog/2016/06/how-to-validate-phone-numbers-in-nodejavascript-with-the-twilio-lookup-api.html
 http://allenkim67.github.io/bittorrent/2016/05/04/how-to-make-your-own-bittorrent-client.html
 http://www.brendangregg.com/blog/2016-07-13/llnode-nodejs-memory-leak-analysis.html
+https://www.contentful.com/blog/2016/07/07/gitify-dependencies/
+http://blog.slatepeak.com/refactoring-a-basic-authenticated-api-with-node-express-and-mongo/
+http://blog.bandwidth.com/creating-a-webrtc-app-with-typescript-and-bandwidth
+http://www.joshmorony.com/building-a-hotel-booking-app-with-ionic-2-mongodb-node/
+https://azurelogic.com/posts/web-scraping-with-nightmare-js/
+https://blog.codeship.com/running-node-js-linux-systemd/
+http://nerds.intuo.io/2016/07/06/setup-cucumberjs-webdriverio-and-chai-js.html
+https://dzone.com/articles/testing-http-apis-with-supertest
+http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/
