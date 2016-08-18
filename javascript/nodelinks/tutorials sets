@@ -24,6 +24,7 @@ http://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
 http://www.sitepoint.com/web-crawling-node-phantomjs-horseman/
 http://www.sitepoint.com/deploy-rest-api-in-30-mins-mlab-heroku/
 http://www.sitepoint.com/custom-slackbot-with-node/
+https://www.sitepoint.com/music-streaming-app-electron-react-es6/
 
 
 ######################################## Scotch.io ##############################################
@@ -67,6 +68,8 @@ https://medium.com/@leo/getting-started-with-javascript-robotics-5c54e716562c#.a
 https://medium.com/@nodesource/es-modules-and-node-js-hard-choices-2b6995e4d491#.cv8621n3t
 https://medium.com/yet-another-node-js-blog/architecture-of-node-js-internal-codebase-57cd8376b71f#.k4c0rrx0u
 https://medium.com/@emckean/create-a-simple-free-text-driven-twitterbot-with-aws-lambda-node-js-b80e26209f5#.m0nn2pv2k
+https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e#.y1l630ije
+https://medium.com/@andrezzoid/how-to-make-express-work-more-like-hapi-f41d110c519c#.mupzrsyau
 
 
 ######################################## Risingstack ##############################################
@@ -90,6 +93,8 @@ https://blog.risingstack.com/node-js-examples-how-enterprises-use-node-in-2016/
 https://blog.risingstack.com/node-hero-node-js-debugging-tutorial/
 https://blog.risingstack.com/node-hero-node-js-security-tutorial/
 https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/
+https://blog.risingstack.com/node-hero-monitoring-node-js-applications/
+https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/
 
 
 ######################################## Tutsplus ##############################################
@@ -102,6 +107,8 @@ http://code.tutsplus.com/tutorials/multi-instance-nodejs-app-in-paas-using-redis
 http://code.tutsplus.com/articles/understanding-the-magic-of-bloom-filters-with-nodejs-redis--cms-25397
 http://code.tutsplus.com/tutorials/adding-social-sharing-in-a-nodejs-single-page-application--cms-25530
 http://code.tutsplus.com/tutorials/visualizing-real-time-arduino-sensor-data-with-johnny-five-and-pubnub-eonjs--cms-26193
+https://codetuts.tech/build-a-url-shortener-node-hapi-js/
+http://code.tutsplus.com/tutorials/building-a-rest-api-with-aws-simpledb-and-nodejs--cms-26086
 
 
 ######################################## Telerik ##############################################
@@ -133,6 +140,7 @@ https://davidwalsh.name/convert-image-ascii-art
 https://davidwalsh.name/nodejs-services
 https://davidwalsh.name/git-hook-npm-install-package-json-modified
 https://davidwalsh.name/get-webpage-screenshot
+https://davidwalsh.name/slimerjs-screenshots
 
 
 ######################################## Smashing Magazine ##############################################
@@ -140,6 +148,7 @@ https://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-no
 https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/
 https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/
 https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/
+https://www.smashingmagazine.com/2016/08/optimizing-critical-path-performance-with-express-server-and-handlebars/
 
 
 ######################################## Nic Raboy ##############################################
@@ -171,6 +180,7 @@ https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
 https://semaphoreci.com/blog/2015/12/15/nodejs-version-usage-in-commercial-projects-2015-edition.html?
 https://semaphoreci.com/community/tutorials/how-to-deploy-a-node-js-application-to-elastic-beanstalk-with-semaphore
 https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb
+https://semaphoreci.com/community/tutorials/mocking-external-http-requests-in-node-tests-with-nock
 
 
 ######################################## Michael Herman ##############################################
@@ -188,3 +198,10 @@ http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy
 http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability
 http://blog.npmjs.org/post/145260155635/introducing-hooks-get-notifications-of-npm
 
+
+######################################## YLD ##############################################
+http://blog.yld.io/2016/02/08/squeeze-the-juice-out-of-node/
+http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/
+http://blog.yld.io/2016/07/12/a-distributed-work-queue/
+http://blog.yld.io/2016/06/02/using-a-persistent-local-queue-in-node-js/
+http://blog.yld.io/2016/05/10/introducing-queues/
