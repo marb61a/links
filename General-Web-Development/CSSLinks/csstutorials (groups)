@@ -41,6 +41,10 @@ https://www.sitepoint.com/make-responsive-svg-graphs-infographics/
 https://www.sitepoint.com/enabling-upcoming-css-features-with-postcss/
 https://www.sitepoint.com/quick-tip-how-z-index-and-auto-margins-work-in-flexbox/
 https://www.sitepoint.com/introducing-the-css-text-align-last-property/
+https://www.sitepoint.com/css-filter-effects-blur-grayscale-brightness-and-more-in-css/
+https://www.sitepoint.com/throttle-scroll-events/
+https://www.sitepoint.com/getting-to-know-cutestrap-a-lightweight-css-framework/
+https://www.sitepoint.com/visual-regression-testing-with-phantomcss/?
 
 
 ############################################## Smashing ########################################################## 
@@ -72,6 +76,7 @@ https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cub
 https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/
 https://www.smashingmagazine.com/2016/07/how-i-ended-up-with-element-queries-and-how-you-can-use-them-today/
 https://www.smashingmagazine.com/2016/07/ten-requirements-for-making-home-page-carousels-work-for-end-users/
+https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/
 
 
 ############################################## CSS Tricks ##########################################################
@@ -111,6 +116,12 @@ https://css-tricks.com/couple-takes-sticky-footer/
 https://css-tricks.com/flexbox-truncated-text/
 https://css-tricks.com/dont-overthink-flexbox-grids/
 https://css-tricks.com/content-jumping-avoid/
+https://css-tricks.com/zooming-background-images/
+https://css-tricks.com/state-css-reflections/
+https://css-tricks.com/tale-width-max-width/
+https://css-tricks.com/high-performance-svgs/
+https://css-tricks.com/precedence-css-order-css-matters/
+https://css-tricks.com/full-width-containers-limited-width-parents/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -119,6 +130,7 @@ https://hacks.mozilla.org/2015/09/scroll-snapping-explained/
 https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/
 https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/TVs_connected_devices/Web_animations_on_large_screen
 https://hacks.mozilla.org/2016/05/css-coding-techniques/
+https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/
 
 
 ############################################## Google ########################################################## 
@@ -126,6 +138,8 @@ https://developers.google.com/web/updates/2016/01/mediarecorder
 https://developers.google.com/web/updates/2015/10/splashscreen?hl=en
 https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care
 https://developers.google.com/web/updates/2016/02/font-display
+https://developers.google.com/web/updates/2016/07/infinite-scroller
+https://developers.google.com/web/fundamentals/primers/shadowdom/
 
 
 ############################################## Medium ##########################################################
@@ -142,6 +156,10 @@ https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.isoq8iiq2
 https://medium.com/wdstack/bootstrap-4-whats-new-visual-guide-c84dd81d8387#.f45och1r8
 https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66#.uowp7gvw7
 https://medium.freecodecamp.com/leveling-up-css-44b5045a2667#.i276joe6l
+https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.6ujeslfzw
+https://medium.com/dev-channel/css-containment-in-chrome-52-f04a30bdc92a#.v3u8azu4f
+https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.kyiyf7tz7
+https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.b2x7dcg0g
 
 
 ############################################## Tutsplus ##########################################################
@@ -149,6 +167,7 @@ http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know-
 http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605
 http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567
 http://webdesign.tutsplus.com/tutorials/better-css-drop-caps-with-initial-letter--cms-26350
+http://code.tutsplus.com/tutorials/editing-images-in-css-filters--cms-25948
 
 
 ############################################## Telerik ########################################################## 
