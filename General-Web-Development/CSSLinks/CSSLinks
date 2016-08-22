@@ -7,41 +7,60 @@ https://www.udemy.com/mobi5-html5-and-css3-for-mobile-web-applications/
 http://wesbos.com/css-highlight-animation/
 https://www.youtube.com/watch?v=qDlswTzbnmk - Flexbox: WTF - Forward 4 Web Summit
 https://www.youtube.com/watch?v=9AG35HCBpo4 - CSS in 2016 and Beyond
-
+https://www.youtube.com/watch?v=lQxt6TdzsAo - Spinners, Loaders, and Junk — CSS Animations
+https://vimeo.com/177216958 - CSS for Software Engineers 
 
 
 ##Code -
+https://github.com/Wildhoney/Interpose - Apply stylesheet variables to your React components for use in your stylesheets
+http://sparkbox.github.io/bouncy-ball/ - Comparing web animation techniques by showing how to bounce a ball with each one.
 https://github.com/macropodhq/postcss-local-constants
+https://github.com/Ramotion/aquarelle - Aquarelle is a watercolor js effect
 https://github.com/mozilla/css-grid-inspector - A Firefox extension for seeing the grid lines created by CSS Grid
 https://github.com/morishitter/cssfmt
+https://github.com/usablica/kissui.scrollanim - CSS3 scroll animation library
+https://gist.github.com/realseanp/cefe1727533619f340bb2aee5e1339af - HTML5 Drag and Drop React Component
 https://github.com/postcss/postcss
+https://github.com/mdo/wtf-forms/ - Friendlier HTML form controls with a little CSS magic
 https://github.com/andreypopp/react-css-components - Define React presentational components with CSS
 http://codepen.io/rgg/full/QbRyOq/
+https://github.com/cssstats/cssstats - Webapp to visualize various stats about your css
+https://github.com/leemunroe/responsive-html-email-template - When all you need is a really simple HTML email template
 http://www.sequencejs.com/
 https://github.com/deuill/fawkss - Fawkss is a CSS preprocessor for people who dislike CSS preprocessors
 https://codepen.io/jonneal/pen/PzGYEE - Decorative Text Underline
 https://github.com/cmpolis/smart-table-scroll
+https://github.com/mozilla/fathom - A framework for extracting meaning from web pages
 https://github.com/stylelint/stylelint/
 http://codepen.io/kizu/pen/PzGadO - Coloring emoji using CSS
 http://simurai.com/lab/2011/08/21/brushed-metal/
 http://codepen.io/rachel_web/pen/rOLRvM/
 https://github.com/filipelinhares/ress - A modern CSS reset
 https://github.com/Specro/Philter
+https://github.com/planttheidea/jile - Modular CSS in pure JavaScript
+https://github.com/ruanyf/css-modules-demos - a collection of simple demos of CSS Modules
 https://github.com/jacksleight/ayre
 https://github.com/voronianski/griddy.css - Responsive 12 column based grid in 311 Bytes gzipped
 https://github.com/edwardtufte/tufte-css
+https://github.com/BlazeCSS/blaze - Open Source CSS Framework
 https://github.com/primer/primer
+https://codepen.io/MadeByMike/pen/ZOrEmr - CSS only scroll indicator
+http://codepen.io/AllThingsSmitty/pen/cHjIC/ - CSS-Only Olympic Rings
 https://github.com/johnpolacek/expressive-css/
+https://github.com/NeXTs/Jets.js - Native CSS search engine
 https://github.com/vasanthk/css-refresher-notes
+https://github.com/StefanKovac/flex-layout-attribute - HTML layout helper based on CSS flexbox specification
+https://github.com/LunarLogic/starability - Accessible rating forms with cute animations on top
 https://github.com/andriussev/timelined
+https://github.com/bfred-it/iphone-inline-video - Play videos inline on Safari iPhone
 https://github.com/bendc/animateplus - CSS and SVG animation library
 http://maxwellito.github.io/vivus/
+https://github.com/cutestrap/cutestrap - A tiny alternative to Bootstrap.
 https://github.com/blog/2112-delivering-octicons-with-svg
 http://milligram.github.io/
 https://github.com/1000ch/grd - A CSS grid framework using Flexbox
 https://github.com/morishitter/stylefmt - stylefmt is a tool that automatically formats stylesheets.
 https://github.com/bfred-it/object-fit-images - Adds support to object-fit to images on IE9, IE10, IE11, Edge and other old browsers.
-https://github.com/bfred-it/iphone-inline-video - Play videos inline on Safari iPhone
 https://github.com/cjcenizal/flexbox-patterns - Patterns for using flexbox CSS to build awesome UI components
 https://github.com/ademilter/bricklayer - Lightweight and independent Pinterest-like cascading grid layout library
 https://github.com/kristoferjoseph/flexboxgrid - Grid based on CSS3 flexbox
@@ -49,15 +68,12 @@ https://github.com/polarnotion/starwarsintro/ - A CSS Library for the Star Wars 
 https://github.com/jasonmoo/smlr - Re-encode jpeg images with no perceivable quality loss.
 https://github.com/adamsilver/maintainablecss.com/ - MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS
 https://github.com/matejlatin/Gutenberg - A meaningful web typography starter kit.
-https://github.com/planttheidea/jile - Modular CSS in pure JavaScript
-https://github.com/ruanyf/css-modules-demos - a collection of simple demos of CSS Modules
-https://github.com/StefanKovac/flex-layout-attribute - HTML layout helper based on CSS flexbox specification
-https://github.com/cutestrap/cutestrap - A tiny alternative to Bootstrap.
-
 
 
 ##Links -
+http://accessibility.voxmedia.com/ - Accessibility guidelines
 http://kazzkiq.github.io/balloon.css/
+https://typeanything.io/ - a simple tool to create great font combinations
 http://www.deque.com/blog/introducing-axe-2-0/
 http://dbushell.com/2016/03/04/css-only-responsive-tables/
 http://demosthenes.info/blog
