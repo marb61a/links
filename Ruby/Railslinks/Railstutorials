@@ -1,56 +1,7 @@
                                       # Ruby Rails Links
 
                                       ## Tutorials
-                                
-###################################### SitePoint ####################################################
-http://www.sitepoint.com/rails-authentication-with-authlogic/
-http://www.sitepoint.com/understanding-scope-in-ruby/
-http://www.sitepoint.com/how-to-solve-coding-anti-patterns-for-ruby-rookies/
-http://www.sitepoint.com/simple-rails-authentication-with-clearance/
-http://www.sitepoint.com/speed-up-with-materialized-views-on-postgresql-and-rails/
-http://www.sitepoint.com/effectively-handle-ios-payments-in-rails/
-http://www.sitepoint.com/build-apis-with-napa/
-http://www.sitepoint.com/straightforward-rails-authorization-with-pundit/
-http://www.sitepoint.com/deploy-your-rails-to-openshift/
-http://www.sitepoint.com/save-multiple-checkbox-values-database-rails/
-http://www.sitepoint.com/learn-concurrency-by-implementing-futures-in-ruby/
-http://www.sitepoint.com/building-an-rss-reader-in-rails-is-easy/
-http://www.sitepoint.com/fun-and-practical-alfred-workflows-in-ruby/
-http://www.sitepoint.com/learn-the-first-best-practices-for-rails-and-rspec/
-http://www.sitepoint.com/action-cable-and-websockets-an-in-depth-tutorial/
-http://www.sitepoint.com/integrate-jasmine-into-rails-for-solid-javascript-testing/
-http://www.sitepoint.com/hackable-pdf-typesetting-in-ruby-with-prawn/
-http://www.sitepoint.com/quick-tip-add-recaptcha-to-your-rails-application/
-http://www.sitepoint.com/the-how-and-why-of-property-based-testing-in-ruby/
-http://www.sitepoint.com/put-your-finger-on-triggers-in-rails-with-hairtrigger/
-http://www.sitepoint.com/improve-the-smell-of-your-code-with-microrefactorings/
-http://www.sitepoint.com/onwards-to-rails-5-additions-changes-and-deprecations/
-http://www.sitepoint.com/using-and-testing-the-adapter-design-pattern/
-http://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/
-http://www.sitepoint.com/ruby-interview-questions-problem-walkthroughs/
-http://www.sitepoint.com/generate-excel-spreadsheets-rails-axlsx-gem/
-http://www.sitepoint.com/rails-file-uploading-you-can-believe-in-with-shrine/
-http://www.sitepoint.com/introduction-to-cells-a-better-view-layer-for-rails/
-http://www.sitepoint.com/speed-things-up-by-learning-about-caching-in-rails/
-https://www.sitepoint.com/use-react-today-in-ruby-by-heading-to-cuba/
-https://www.sitepoint.com/easily-provide-excel-reports-with-rails-and-jxls/
-https://www.sitepoint.com/introduction-to-using-jwt-in-rails/
-https://www.sitepoint.com/get-the-low-down-on-ruby-modules/
-https://www.sitepoint.com/an-in-depth-look-at-basic-rails-routing/
-https://www.sitepoint.com/generate-barcodes-with-jruby-and-barcodes4j/
-https://www.sitepoint.com/learn-concurrency-by-making-a-countdown-latch-in-ruby/
-https://www.sitepoint.com/brush-up-your-knowledge-of-rails-associations/
-https://www.sitepoint.com/exploring-cryptography-fundamentals-in-ruby/
-https://www.sitepoint.com/make-easy-graphs-and-charts-on-rails-with-chartkick/
-https://www.sitepoint.com/create-a-chat-app-with-rails-5-actioncable-and-devise/
-https://www.sitepoint.com/deliver-the-mail-with-amazon-ses-and-rails/
-https://www.sitepoint.com/control-the-physical-world-with-ruby-and-artoo/
-https://www.sitepoint.com/automate-docker-with-the-remote-api-and-ruby/
-https://www.sitepoint.com/liberate-your-search-in-rails-with-tags/
-https://www.sitepoint.com/quickly-process-api-requests-with-shoryuken-and-sqs/
-https://www.sitepoint.com/quick-tip-dry-up-your-model-validations-tests/
-
-
+                                      
 ###################################### Honeybadger ####################################################
 http://blog.honeybadger.io/ruby-regex-tricks/
 http://blog.honeybadger.io/associative-arrays-in-ruby-what/
@@ -84,6 +35,7 @@ https://medium.com/@jaflebol/capybara-taming-the-hydrochoerus-8fcd28d70787#.c6rj
 https://medium.com/@Sudhagar/rbenv-how-it-works-e5a0e4fa6e76#.wb30zxhgl
 https://medium.com/@Bakku1505/introduction-to-dependency-injection-in-ruby-dc238655a278#.s8sgasc0c
 https://medium.com/table-xi/focus-your-rspec-workflow-4cd5798d2a3e#.821o81mzm
+https://medium.com/@rudyyazdi/rake-gem-explained-ebee7e6e6f72#.uv74rcwn5
 
 
 ###################################### Justin Weiss ####################################################
@@ -103,6 +55,7 @@ https://semaphoreci.com/community/tutorials/stubbing-external-services-in-rails
 https://semaphoreci.com/community/tutorials/testing-mixins-in-isolation-with-minitest-and-rspec
 https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec
 https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-minitest
+https://semaphoreci.com/community/tutorials/how-to-reduce-controller-bloat-with-interactors-in-ruby
 
 
 ###################################### Jake Yesbeck ####################################################
@@ -159,6 +112,8 @@ https://blog.codeship.com/writing-microservice-in-ruby/
 https://blog.codeship.com/ruby-refinements/
 https://blog.codeship.com/understanding-fundamental-ruby-abstraction-concurrency/
 https://blog.codeship.com/level-up-your-security-in-rails/
+https://blog.codeship.com/managing-private-dependencies-with-bundler/
+https://resources.codeship.com/ebooks/docker-machine-compose-swarm
 
 
 ###################################### Rossta ####################################################
@@ -172,6 +127,7 @@ https://rossta.net/blog/recurring-events-in-ruby.html
 https://rossta.net/blog/a-ruby-antihero-thread-pool.html
 https://rossta.net/blog/using-webpack-with-middleman.html
 https://rossta.net/blog/how-to-specify-local-ruby-gems-in-your-gemfile.html
+https://rossta.net/blog/quiet-assets-in-rails-5.html
 
 
 ###################################### JamisBuck ####################################################
@@ -249,6 +205,7 @@ http://blog.bigbinary.com/2016/02/17/active-support-improvements-in-Rails-5.html
 http://blog.bigbinary.com/2016/02/15/rails-5-makes-belong-to-association-required-by-default.html
 http://blog.bigbinary.com/2016/03/08/rails-5-switches-from-strong-etags-to-weak-tags.html
 http://blog.bigbinary.com/2016/04/13/rails-5-adds-option-to-log-warning-when-fetching-big-result-sets.html
+http://blog.bigbinary.com/2016/08/17/rails-5-allows-wildcard-for-specifying-template-dependencies.html
 
 
 ###################################### Performance Book ####################################################
@@ -275,13 +232,17 @@ http://blog.arkency.com/2016/07/phases-of-refactoring-complex-rails-apps/
 http://code.tutsplus.com/articles/improving-the-performance-of-your-rails-app-with-eager-loading--cms-25018
 http://code.tutsplus.com/articles/antipatterns-basics-rails-views--cms-25670
 http://code.tutsplus.com/tutorials/rails-image-upload-using-carrierwave-and-devise--cms-25681
-http://code.tutsplus.com/articles/antipatterns-basics-rails-controllers--cms-25900?
+http://code.tutsplus.com/articles/antipatterns-basics-rails-controllers--cms-25900
+http://code.tutsplus.com/tutorials/generating-pdfs-from-html-with-rails--cms-22918
+http://computers.tutsplus.com/tutorials/customize-the-menu-bar-with-bitbar--cms-26946
 
 
 ###################################### Ruby Pidgeon ####################################################
 http://www.rubypigeon.com/posts/how-to-implement-simple-authentication-without-devise/
 http://www.rubypigeon.com/posts/a-review-of-immutability-in-ruby/
 http://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/
+http://www.rubypigeon.com/posts/examining-internals-of-rails-request-response-cycle/
+http://www.rubypigeon.com/posts/the-pure-function-as-an-object-pfaao-pattern/
 
 
 ###################################### MixandGo ####################################################
@@ -303,3 +264,17 @@ http://aaronlasseigne.com/2016/05/11/dont-forget-about-infinite-enumerators/
 http://aaronlasseigne.com/2016/05/24/know-ruby-with_index/
 http://aaronlasseigne.com/2016/06/10/proper-regexp-anchoring/
 http://aaronlasseigne.com/2016/07/08/5-tips-for-writing-a-legible-regexp/
+
+
+###################################### Rosenfeld ####################################################
+http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-07-18-a-review-of-code-reloaders-for-ruby
+http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-07-27-introducing-racktoolkit-a-fast-server-and-dsl-designed-to-test-rack-apps
+http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-07-18-autoreloader-a-transparent-automatic-code-reloader-for-ruby
+http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-08-05-using-rspec-nested-transactions-to-speed-up-tests-touching-the-database
+
+
+###################################### Phusion ####################################################
+https://blog.phusion.nl/2016/08/04/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app/
+https://blog.phusion.nl/2016/07/07/actioncable-under-stress-p1/
+https://blog.phusion.nl/2016/07/27/using-ssl-with-passenger-in-development-on-macos/
+https://blog.phusion.nl/2016/08/31/efficiently-and-conveniently-building-ruby-and-node-js-application-docker-containers-for-production-2/
