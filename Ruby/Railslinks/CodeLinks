@@ -53,6 +53,9 @@ https://github.com/adamakhtar/slack_dj - A slack powered music player for your t
 https://github.com/peter-murach/tty-screen
 https://github.com/csm123/rsstoapi/
 https://github.com/altmetric/decontaminator
+https://github.com/ndea/notifyor - Get realtime notifications on your desktop if something happens in your Rails app.
+https://github.com/ivantsepp/annotate_gem - Add comments to your Gemfile with each dependency's description
+https://github.com/jeremyevans/rodauth - Authentication and Account Management Framework for Rack Applications
 https://github.com/doches/rwordnet
 https://github.com/MightySignal/slackiq
 https://github.com/jcantara/em-rubyserial
@@ -119,16 +122,30 @@ https://github.com/puma/puma-dev - A tool to manage rack apps in development wit
 https://github.com/SimplyBuilt/activejob-retriable
 https://github.com/codelittinc/slacked
 https://github.com/tomchinery/action-cable-node - Action Cable extracted from Rails 5 and packaged as a Node module
+https://github.com/EventtusHQ/uniqueness - Rails recently introduced has_secure_token but it's very primitive
 https://github.com/shakacode/react_on_rails
 https://github.com/powerpak/tqdm-ruby
+https://github.com/rack-app/rack-app - Bare bone minimalistic (masochistic) pico framework for building rack apps
+https://github.com/hone/mruby-cli - mruby-cli is a platform to build native command line applications
 https://github.com/Masa331/it_sorts
 https://github.com/kciter/simple-slack-bot
 https://github.com/erdostom/devise-argon2
 https://github.com/schneems/derailed_benchmarks/
 https://github.com/atipugin/telegram-bot-ruby
+https://github.com/zverok/geo_coord - Simple yet useful Geo Coordinates class for Ruby
+https://github.com/Authorea/latexml-ruby - A Ruby wrapper for LaTeXML
+https://github.com/BankExchange/bank_exchange_ruby_api - Official Ruby client for BankExchange API
 https://github.com/thoughtbot/scenic
+https://github.com/blazeeboy/rubrowser - a ruby code dependency graph interactive visualizer
+https://github.com/falm/attribute-depends-calculator - Automatically calculate a collection of depends attribute of ActiveRecord
+https://github.com/westonganger/protected_attributes_continued - Community continued version of protected_attributes
 https://github.com/0x0dea/viva
+https://github.com/thredded/thredded - The best Rails forums engine ever
+https://github.com/piotrmurach/tty-command - Execute shell commands with pretty output logging and capture stdout, stderr and exit status.
+https://github.com/rbotafogo/scicom - Scientific Computing for JRuby
 https://github.com/madrobby/zaru
+https://github.com/endofunky/oprah- Opinionated presenters for Rails 5
+https://github.com/talyssonoc/emittr - A Ruby event emitter implementation
 https://github.com/zverok/worldize
 https://github.com/helpyio/helpy - Helpy is a modern, "mobile-first" helpdesk application built in Ruby
 https://github.com/mwpastore/dalli-rate_limiter
@@ -137,24 +154,32 @@ https://github.com/amatsuda/stateful_enum - A very simple state machine plugin b
 https://github.com/ruby-concurrency/concurrent-ruby - Modern concurrency tools 
 https://github.com/ID25/rails_emoji_picker
 https://github.com/dirkholzapfel/abuelo
+https://github.com/blendle/object-cache - Simple Ruby object caching solution using Redis as a backend
+https://github.com/rails-api/active_model_serializers - ActiveModel::Serializer implementation and Rails hooks
+https://github.com/AndrewRadev/vimrunner - Control a vim instance through ruby code
 https://github.com/mohitjain/layzr-rails
+https://github.com/yukas/traver - Traver — test data generation framework
 https://github.com/mz026/log_spy
 https://github.com/dogweather/validated_object - Self-validating Ruby objects
 https://github.com/mame/optcarrot - A NES emulator written in Ruby
 https://github.com/testdouble/good-migrations
+https://github.com/hyperoslo/facebook-messenger/ - Definitely the best Ruby client for Bots on Messenger
+https://github.com/peter/rails-cms-bootstrap - Bootstrap/demo app for a simple CMS based on Rails 5, Postgres, and Bootstrap 
+https://github.com/JuanitoFatas/active_error - Create an exception with backtrace has never been easier
 https://github.com/MichaelSp/opal-actioncable
 https://github.com/JVillella/tiny-path
+https://github.com/iridakos/duckrails - A development tool to quickly & dynamically mock API endpoints
+https://github.com/tobiasfeistmantl/LeSSL - A certificate manager for lets-encrypt certificates
+https://github.com/efigence/has_reindexable_associations - Automatic Elasticsearch Reindexing of Active Record Associations
 https://github.com/lbarasti/ytry - A Scala inspired implementation of Try for Ruby
 https://github.com/henrylawson/dynamodb-migration
 https://github.com/ivarvong/googledoc_markdown
+https://github.com/allenan/human_time - Ruby time and date comparisons for humans
 https://github.com/molybdenum-99/reality - Comprehensive data proxy to knowledge about real world
 https://github.com/saghm/very-ants
 https://github.com/zeisler/active_enumerable
 https://github.com/janlelis/unicode-display_width - Monospace Unicode character width in Ruby
 https://github.com/westonganger/spreadsheet_architect - Lets you turn any activerecord relation or ruby object collection into a XLSX, ODS, or CSV spreadsheet
-https://github.com/iridakos/duckrails - A development tool to quickly & dynamically mock API endpoints
-https://github.com/tobiasfeistmantl/LeSSL - A certificate manager for lets-encrypt certificates
-https://github.com/efigence/has_reindexable_associations - Automatic Elasticsearch Reindexing of Active Record Associations
 https://github.com/altmetric/urn - Ruby library to validate and normalize URNs according to RFC 2141.
 https://github.com/jdantonio/functional-ruby - A gem for adding functional programming tools to Ruby
 https://github.com/AtomicPair/wolfentext3d - 3-D dungeon crawling in your terminal
@@ -168,19 +193,4 @@ https://github.com/envato/zxcvbn-ruby - Ruby port of Dropbox's zxcvbn javascript
 https://github.com/arturoherrero/powercore - PowerCore extends the Ruby Core with useful extensions.
 https://github.com/spree/spree/tree/3-1-stable - Spree is a complete open source e-commerce solution for Ruby on Rails
 https://github.com/NullVoxPopuli/action_cable_client - A ruby client for interacting with Rails' ActionCable
-https://github.com/ndea/notifyor - Get realtime notifications on your desktop if something happens in your Rails app.
-https://github.com/ivantsepp/annotate_gem - Add comments to your Gemfile with each dependency's description
-https://github.com/jeremyevans/rodauth - Authentication and Account Management Framework for Rack Applications
-https://github.com/hyperoslo/facebook-messenger/ - Definitely the best Ruby client for Bots on Messenger
-https://github.com/peter/rails-cms-bootstrap - Bootstrap/demo app for a simple CMS based on Rails 5, Postgres, and Bootstrap 
-https://github.com/JuanitoFatas/active_error - Create an exception with backtrace has never been easier
-https://github.com/blendle/object-cache - Simple Ruby object caching solution using Redis as a backend
-https://github.com/rails-api/active_model_serializers - ActiveModel::Serializer implementation and Rails hooks
-https://github.com/AndrewRadev/vimrunner - Control a vim instance through ruby code
-https://github.com/zverok/geo_coord - Simple yet useful Geo Coordinates class for Ruby
-https://github.com/Authorea/latexml-ruby - A Ruby wrapper for LaTeXML
-https://github.com/BankExchange/bank_exchange_ruby_api - Official Ruby client for BankExchange API
-https://github.com/thredded/thredded - The best Rails forums engine ever
-https://github.com/piotrmurach/tty-command - Execute shell commands with pretty output logging and capture stdout, stderr and exit status.
-https://github.com/rbotafogo/scicom - Scientific Computing for JRuby
 
