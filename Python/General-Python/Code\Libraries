@@ -111,3 +111,29 @@ https://github.com/awslabs/chalice - Python Serverless Microframework for AWS
 https://github.com/docsbox/docsbox - Self-hosted document converting service with RESTful API
 https://github.com/epinna/tplmap - Automatic Server-Side Template Injection Detection and Exploitation Tool
 https://github.com/urban48/debpackager - cli tool used for creating debian packages
+https://github.com/linouk23/NBA-Player-Movements - Visualization of NBA games from raw SportVU data logs
+https://github.com/ricequant/rqalpha - RQalpha: A Python Algorithmic Trading Engine with BackTest
+https://github.com/vfaronov/httpolice - Lint for HTTP
+https://github.com/dxa4481/Snapper - A security tool for grabbing screenshots of many web hosts
+https://github.com/DonnchaC/onionbalance - OnionBalance provides load-balancing and redundancy for Tor hidden services
+https://github.com/yantisj/minigraphdb - Implements a minimalist directed graph database in memory via Python3
+https://github.com/jisaacso/DeepHeart - Neural networks for monitoring cardiac data
+https://github.com/jkbrzt/geotagger - Geotag your photos from GPS-less cameras
+https://github.com/overlap-ai/words2map - online natural language processing with word vectors
+https://github.com/mchristopher/PokemonGo-DesktopMap - Electron App around PokemonGo-Map
+https://github.com/favll/pogom - The fastest Pokémon Go Map available.
+https://github.com/orhanobut/scripts - Github pull request summary report for android builds
+https://github.com/magicstack/asyncpg - A fast PostgreSQL Database Client Library for Python/asyncio
+https://github.com/jay-johnson/sci-pype - Building scientific data pipelines for Jupyter + Redis + MySQL using Docker
+https://github.com/DonJayamanne/pythonVSCode - Python support for Visual Studio Code
+https://github.com/Max00355/coffer - A lightweight platform for creating isolated and portable development environments
+https://github.com/cqcn1991/Wind-Speed-Analysis - An elegant probability model for the joint distribution of wind speed and direction
+https://github.com/oeegor/curlify - A library to convert python requests request object to curl command
+https://github.com/Pat-Carter/stream2chromecast - Chromecast media streamer for Linux
+https://github.com/zalando/connexion - Swagger/OpenAPI First framework for Python
+https://github.com/p/redis-dump-load - Dump redis databases, load data into redis - in Python
+https://github.com/djrobstep/migra - Like diff but for PostgreSQL schemas
+https://github.com/hugsy/gef - Multi-Architecture GDB Enhanced Features for Exploiters & Reverse-Engineers
+https://github.com/LionSec/xerosploit - Efficient and advanced man in the middle framework
+https://github.com/kespindler/albatross - A modern, fast, simple async python3 web framework
+https://github.com/coala-analyzer/coala - unified command-line interface for linting and fixing all your code
