@@ -24,18 +24,23 @@ http://www.blog.pythonlibrary.org/2016/03/15/python-201-namedtuple/
 http://www.blog.pythonlibrary.org/2016/04/14/python-201-whats-a-deque/
 http://www.blog.pythonlibrary.org/2016/04/20/python-201-an-intro-to-itertools/
 http://www.blog.pythonlibrary.org/2016/05/18/python-3-an-intro-to-encryption/
+http://www.blog.pythonlibrary.org/2016/08/02/python-201-a-multiprocessing-tutorial/
+http://www.blog.pythonlibrary.org/2016/07/27/python-visualization-with-bokeh/
+http://www.blog.pythonlibrary.org/2016/07/26/python-3-an-intro-to-asyncio/
 
 
 ####################################### Eli Bendersky ###########################################################
 http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/
 http://eli.thegreenplace.net/2016/comparing-types-in-python-3/
 http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch-part-2/
+http://eli.thegreenplace.net/2016/drawing-animated-gifs-with-matplotlib/
 
 
 ####################################### Scraping Hub ###########################################################
 https://blog.scrapinghub.com/2016/04/20/scrapy-tips-from-the-pros-april-2016-edition/
 https://blog.scrapinghub.com/2016/03/23/scrapy-tips-from-the-pros-march-2016-edition/
 https://blog.scrapinghub.com/2016/05/18/scrapy-tips-from-the-pros-may-2016-edition/
+https://blog.scrapinghub.com/2016/07/20/scrapy-tips-from-the-pros-july-2016/
 
 
 ####################################### Armin Ronacher ###########################################################
@@ -48,6 +53,15 @@ http://blog.yhat.com/posts/data-normalization-in-python.html
 http://blog.yhat.com/posts/autonomous-droning-with-python.html
 http://blog.yhat.com/posts/interactive-geospatial-analysis.html
 https://www.yhat.com/webinar
+
+
+####################################### Machinalis ###########################################################
+http://www.machinalis.com/blog/python-for-geospatial-data-processing/
+http://www.machinalis.com/blog/a-day-with-mypy-part-2/
+http://www.machinalis.com/blog/writing-type-stubs-for-numpy/
+http://www.machinalis.com/blog/a-day-with-mypy-part-3/
+http://www.machinalis.com/blog/controlling-uncertainty-on-web-applications-and-apis/
+http://www.machinalis.com/blog/writing-type-stubs-for-numpy/
 
 
 ####################################### Github Tuts ###########################################################
@@ -84,7 +98,6 @@ http://mattscodecave.com/posts/switching-from-2-to-3-love-asyncio-and-more.html
 http://mapleoin.github.io/perma/python-class-meta
 http://chaosbuffalogames.com/blog/react-redux-todo-list-ported-to-kivy.html
 http://www.lihaoyi.com/post/DivingIntoOtherPeoplesCode.html
-http://www.machinalis.com/blog/python-for-geospatial-data-processing/
 https://www.chrisstucchio.com/blog/2016/has_your_conversion_rate_changed.html
 http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
 http://irakorshunova.github.io/2016/03/15/heart.html
@@ -107,6 +120,7 @@ http://andysalerno.com/2016/03/Monte-Carlo-Reversi
 http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html
 https://realpython.com/blog/python/python-virtual-environments-a-primer/
 https://dbader.org/blog/catching-bogus-python-asserts
+https://dbader.org/blog/python-min-max-and-nested-lists
 http://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
 http://www.lihaoyi.com/post/PlanningBusTripswithPythonSingaporesSmartNationAPIs.html
 https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/
@@ -146,14 +160,19 @@ https://www.continuum.io/blog/developer-blog/analyzing-visualizing-big-data-inte
 https://fullstackml.com/2016/07/02/wavelet-image-hash-in-python/
 http://www.pymunk.org/en/latest/
 https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
-http://www.machinalis.com/blog/a-day-with-mypy-part-2/
-http://www.machinalis.com/blog/writing-type-stubs-for-numpy/
-http://www.machinalis.com/blog/a-day-with-mypy-part-3/
 https://www.dataquest.io/blog/apartment-finding-slackbot/
 https://blog.monkeylearn.com/machine-learning-1m-hotel-reviews-finds-interesting-insights/
 http://lukeplant.me.uk/blog/posts/a-simple-passwordless-email-only-login-system/
 https://eklitzke.org/extracting-the-python-stack-using-ptrace
 https://morepypy.blogspot.ie/2016/07/reverse-debugging-for-python.html
 http://maxberggren.se/2016/07/14/atomic-parts-of-town-names/
-https://blog.scrapinghub.com/2016/07/20/scrapy-tips-from-the-pros-july-2016/
-
+http://noamelf.com/2016/08/05/designing-pythonic-apis/
+https://code.oursky.com/batch-sqlalchemy-generating-top-playlist/
+http://tech.marksblogg.com/airflow-postgres-redis-forex.html
+http://www.snarky.ca/network-protocols-sans-i-o
+http://nedbatchelder.com//blog/201608/breaking_out_of_two_loops.html
+http://aosabook.org/en/500L/a-3d-modeller.html
+https://tech-blog.serenytics.com/deploy-your-saas-with-a-slack-bot-f6d1fc764658#.o0onrnksx
+http://www.automatingosint.com/blog/2016/07/dark-web-osint-with-python-and-onionscan-part-one/#
+https://hynek.me/articles/decorators/
+http://savvastjortjoglou.com/nfl-survival-analysis-kaplan-meier.html
