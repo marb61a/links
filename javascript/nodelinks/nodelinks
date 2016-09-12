@@ -21,6 +21,10 @@ https://www.youtube.com/watch?v=nvHxA7dYw0w - Instrumenting Node.js in Productio
 https://www.youtube.com/watch?v=UeYOcxHmol4 - CLI Love: How to Write Better CLI Tools with Node.js
 https://www.youtube.com/watch?v=ze7IV-LnzwQ - Image Processing And Manipulation In Node.js
 https://code.lengstorf.com/deploy-nodejs-ssl-digitalocean/ - How to Deploy a Node.js App to DigitalOcean with SS
+https://www.youtube.com/watch?v=CIAnu8E5ryE - stdlib.com - Node Module Support, Create a Rio 2016 Medal Count Function
+https://www.youtube.com/watch?v=vBtEb_wn2r0 - Node.js Enterprise Conversations - Episode 6 Lowe's Digital
+https://www.youtube.com/watch?v=kLKljFGz2oA - Node.js Everywhere - Node.js Live London
+https://www.youtube.com/watch?v=7WuRq-Wmw5o - GOTO 2016 • Emulating a 6502 system in Javascript • Matt Godbolt
 
 
 ##Important Links -
@@ -52,6 +56,7 @@ https://www.npmjs.com/package/scalable-blob-store
 http://www.actionherojs.com/
 http://graphql.nodaljs.com/
 http://merencia.com/node-cron/
+https://nmotw.in/node-wifi-scanner/ - Node Module Of The Week
 http://veriacms.com/
 https://stdlib.com/ - The Standard Library of the Internet
 http://www.nodebb.org/
