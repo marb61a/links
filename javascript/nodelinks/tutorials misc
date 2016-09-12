@@ -22,6 +22,7 @@ http://blogs.msdn.com/b/vscode/archive/2015/08/11/getting-started-with-docker.as
 http://blog.redradix.com/an-architecture-for-complex-node-js-apps-with-dependency-injection/
 https://www.twilio.com/blog/2015/08/playing-tunes-over-the-phone-with-the-twilio-nodejs-library-in-es6.html
 https://www.twilio.com/blog/2016/03/building-sms-weather-forecasts-with-stamplay-twilio-and-nodejs.html
+https://www.twilio.com/blog/2016/06/how-to-validate-phone-numbers-in-nodejavascript-with-the-twilio-lookup-api.html
 http://ifelse.io/2015/08/17/dockerizing-a-nodejs-app/
 http://heidloff.net/article/deploying-apis-built-via-nodejs-to-ibm-bluemix
 http://www.jut.io/blog/2015/pushing-node-js-performance-limits
@@ -43,8 +44,6 @@ http://spin.atomicobject.com/2015/09/25/debug-node-js/
 https://moroccojs.org/tutorials/npm-based-front-end-workflow/
 http://sagivo.com/post/130207525903/nodejs-addons
 http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/
-https://nodesource.com/blog/cpp-addons-for-nodejs-v4
-https://nodesource.com/blog/blacklisting-node-js-core-modules-and-bindings-to-enhance-application-security/
 http://www.capitalone.io/blog/contrasting-enterprise-nodejs-frameworks/
 https://www.codementor.io/nodejs/tutorial/how-to-implement-twitter-sign-expressjs-oauth
 http://ditrospecta.com/javascript/plugin/hubot/2015/10/03/hubot-plugin-choose-place-to-drink-coffee.html
@@ -92,10 +91,6 @@ https://blog.stamplay.com/build-a-weather-by-sms-service-with-twilio-and-nodejs/
 http://rethinkdb.com/blog/v849-es6-features/
 http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html
 http://jonbho.net/2016/03/11/writing-interactive-command-line-apps-in-javascript-with-node-js-or-how-to-write-the-most-classic-type-of-software-on-the-most-modern-framework-without-frying-your-brain-in-the-process/
-http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804
-http://webapplog.com/you-dont-know-node/#main
-http://webapplog.com/http2-node/
-http://webapplog.com/json-is-not-cool-anymore/
 http://blog.sandeepchivukula.com/posts/2016/03/06/photo-search/
 http://krasimirtsonev.com/blog/article/debugging-with-node
 https://www.outlearn.com/learn/jonathanfmills/picking-a-nodejs-framework
@@ -138,7 +133,6 @@ http://ditrospecta.com/node/2016/07/11/simple-rsvp-node.html
 https://www.algotech.solutions/blog/nodejs/build-a-restful-api-using-loopback/
 http://stefanscherer.github.io/how-to-build-nodejs-nanoserver-image/
 http://akoskm.com/2016/07/01/node-js-unit-testing-stripe-api-tutorial.html
-https://www.twilio.com/blog/2016/06/how-to-validate-phone-numbers-in-nodejavascript-with-the-twilio-lookup-api.html
 http://allenkim67.github.io/bittorrent/2016/05/04/how-to-make-your-own-bittorrent-client.html
 http://www.brendangregg.com/blog/2016-07-13/llnode-nodejs-memory-leak-analysis.html
 https://www.contentful.com/blog/2016/07/07/gitify-dependencies/
@@ -150,3 +144,18 @@ https://blog.codeship.com/running-node-js-linux-systemd/
 http://nerds.intuo.io/2016/07/06/setup-cucumberjs-webdriverio-and-chai-js.html
 https://dzone.com/articles/testing-http-apis-with-supertest
 http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/
+https://github.com/blog/2231-building-your-first-atom-plugin
+https://gist.github.com/joepie91/4c3a10629a4263a522e3bc4839a28c83 - Promises FAQ
+https://askmacgyver.com/blog/tutorial/how-to-manage-your-node-servers-using-forever
+http://blog.js-republic.com/keep-npm-dependencies-up-to-date/
+https://blog.cloudflare.com/accelerating-node-js-applications-with-http-2-server-push/
+http://jbeckwith.com/2016/08/13/bigquery-github/
+https://mixmax.com/blog/requiring-node-builtins-with-webpack
+http://thenewstack.io/build-better-customer-experience-applications-using-offline-first-principles/
+https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
+http://blog.bandwidth.com/building-a-sms-weather-and-image-bot
+https://chatbotsmagazine.com/a-nodejs-chatbot-tutorial-part-1-a2abd1b1c715#.93qrov575
+https://snyk.io/blog/nodejs-attack-tree-modelling
+https://jordankasper.com/building-an-amazon-alexa-skill-with-node-js/#?
+https://blog.phusion.nl/2016/08/31/efficiently-and-conveniently-building-ruby-and-node-js-application-docker-containers-for-production-2/
+https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/
