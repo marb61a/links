@@ -36,6 +36,8 @@ https://scotch.io/tutorials/containerized-testing-for-node-applications-with-doc
 https://scotch.io/tutorials/better-node-with-es6-pt-i
 https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai
 https://scotch.io/tutorials/server-side-web-components-how-and-why
+https://scotch.io/tutorials/building-and-securing-a-modern-backend-api
+https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
 
 
 ######################################## Medium ##############################################
@@ -95,6 +97,7 @@ https://blog.risingstack.com/node-hero-node-js-security-tutorial/
 https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/
 https://blog.risingstack.com/node-hero-monitoring-node-js-applications/
 https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/
+https://blog.risingstack.com/controlling-node-js-security-risk-npm-dependencies/
 
 
 ######################################## Tutsplus ##############################################
@@ -127,6 +130,7 @@ https://stormpath.com/blog/building-secure-apis-with-express/
 https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs/
 https://stormpath.com/blog/secure-password-hashing-in-node-with-argon2/
 https://stormpath.com/blog/migrating-parse-authentication/
+https://stormpath.com/blog/tutorial-build-rest-api-mobile-apps-using-node-js
 
 
 ######################################## David Walsh ##############################################
@@ -149,6 +153,7 @@ https://www.smashingmagazine.com/2016/01/issue-with-global-node-npm-packages/
 https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/
 https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/
 https://www.smashingmagazine.com/2016/08/optimizing-critical-path-performance-with-express-server-and-handlebars/
+https://www.smashingmagazine.com/2016/08/getting-started-koa-2-async-functions/
 
 
 ######################################## Nic Raboy ##############################################
@@ -205,3 +210,17 @@ http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/
 http://blog.yld.io/2016/07/12/a-distributed-work-queue/
 http://blog.yld.io/2016/06/02/using-a-persistent-local-queue-in-node-js/
 http://blog.yld.io/2016/05/10/introducing-queues/
+
+
+######################################## WebAppLog ##############################################
+http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804
+http://webapplog.com/you-dont-know-node/#main
+http://webapplog.com/http2-node/
+http://webapplog.com/json-is-not-cool-anymore/
+
+
+######################################## Nodesource ##############################################
+https://nodesource.com/blog/cpp-addons-for-nodejs-v4
+https://nodesource.com/blog/blacklisting-node-js-core-modules-and-bindings-to-enhance-application-security/
+https://nodesource.com/blog/is-guy-fieri-in-your-node-js-packages/
+https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/
