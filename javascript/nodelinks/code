@@ -7,8 +7,6 @@ https://github.com/sindresorhus/env-paths - Get paths for storing things like da
 https://github.com/leebyron/iterall - Minimal zero-dependency utilities for using Iterables in all JavaScript environments.
 https://github.com/gberger/mongoose-named-scopes - Define custom, chainable Mongoose queries
 https://github.com/SamyPesse/gitkit-js - Pure javascript implementation of Git (Node.js and Browser)
-https://github.com/fed135/Kalm - Node socket wrapper and optimizer
-https://github.com/af/envalid - Environment variable validation for Node.js
 https://github.com/airbnb/hypernova - A service for server-side rendering your JavaScript views
 https://github.com/sindresorhus/emoj - Find relevant emoji from text on the command-line
 https://github.com/caiogondim/fast-memoize.js  - Fastest possible memoization library
@@ -16,17 +14,31 @@ https://github.com/ratneshsinghparihar/Node-Data - Node-Data is a Node.js javasc
 https://github.com/Tennu/tennu - IRC Bot Framework for Node.js
 https://github.com/devTristan/simple-postgres - a minimal postgres interface for node
 https://github.com/s-a/iron-node
+https://github.com/fed135/Kalm - Node socket wrapper and optimizer
+https://github.com/af/envalid - Environment variable validation for Node.js
+https://github.com/mcsoto/LogicJS - Logic programming for JavaScript
 https://github.com/gillstrom/battery-level
+https://github.com/testdouble/scripty - Because no one should be shell-scripting inside a JSON file
+https://github.com/fresheneesz/deadunit - A dead-simple nestable unit testing library.
 https://github.com/uber/image-diff - Create image differential between two images
 https://github.com/h2non/toxy
+https://github.com/niftylettuce/dotenv-parse-variables - Parse dotenv files for Boolean, Array, and Number variable types
+https://github.com/zorro-del-caribe/ship-hold - data access framework for Postgresql on nodejs
 https://github.com/servant-app/JAWS
 https://github.com/coreybutler/nvm-windows - A node.js version management utility for Windows
 https://github.com/kessler/node-dynamic-middleware
+https://github.com/JamesTheHacker/Neuron - Neuron - Electron, ES6, React, PouchDB, Sass, Webpack
 https://github.com/alidavut/locus
+https://github.com/egoist/nswatch - Like gulp.watch but for npm scripts
 https://github.com/parro-it/libui-node - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
 https://github.com/nodejs/node#cnv
+https://github.com/metafloor/bwip-js - Barcode Writer in Pure JavaScript
+https://github.com/kriasoft/node-sqlite - SQLite client library for Node.js applications
+https://github.com/vitaly-t/pg-promise - Advanced access layer to PG via promises
 https://github.com/bucaran/parsec
+https://github.com/hortinstein/node-dash-button - A small module to emit events when an Amazon Dash Button is pressed
 https://github.com/DimitriMikadze/express-react-redux-starter - Starter for Express, React, Redux, SCSS applications
+https://github.com/babel/babili - An ES6+ aware minifier based on the Babel toolchain
 https://github.com/IgorAntun/node-chat
 https://github.com/lapwinglabs/bare-auth - Bare Auth is a ready-to-deploy stateless authentication server
 https://github.com/tcs-de/nodecache - a node internal caching module http://tcs-de.github.io/nodecache/
@@ -57,11 +69,20 @@ https://www.npmjs.com/package/node-ipgeoblock
 https://github.com/Moeditor/Moeditor - Your all-purpose markdown editor
 https://www.npmjs.com/package/npm2dot
 https://www.npmjs.com/package/express-s3-router
+https://github.com/zorend/cloverjs - Rest API framework built on expressjs
+https://github.com/capaj/localstorage-polyfill - in memory localStorage polyfill for node.js utilizing ES6 proxies
 https://github.com/digitaldesignlabs/talisman - A logicless streaming templating system and language for Node.js
 https://github.com/codingpains/crispy-stream
+https://github.com/moinjs/moin - a Simple Microservice Server written in Node.JS
+https://github.com/nasa/openmct - A web based mission control framework.
+https://github.com/Jobstart/microlock - A dead simple distributed locking library for Node.js and Etcd
 https://github.com/tgriesser/bookshelf
+https://github.com/nolanlawson/slow-deps - Measure which dependencies in a project are slowest to npm install
 https://github.com/EclairJS/eclairjs-node - Node.js API for Apache Spark with Remote Client
 https://github.com/keithwhor/nodal
+https://github.com/emc-advanced-dev/unik - The Unikernel Compilation and Deployment Platform
+https://github.com/mayanklahiri/node-superchild - A smarter replacement for node.js's fork() and spawn()
+https://github.com/andris9/mailtrain - Self hosted newsletter app https://mailtrain.org/
 https://github.com/typicode/stop-server
 https://github.com/microapps/Shopify-api-node - Node Shopify connector
 https://github.com/lalitkapoor/node-pg-util
@@ -78,9 +99,15 @@ https://github.com/ryanbahniuk/sassaby
 https://github.com/iostreamer-X/Awkward - A NodeJS based shell. Everything is an Object!
 https://github.com/sindresorhus/ava
 https://github.com/Javascipt/node-youtube - Youtube to snapshots and GIFs.
+https://github.com/notonthehighstreet/breadboard - Inversion of control container for Node.js applications
+https://github.com/EclairJS/eclairjs-node - Node.js API for Apache Spark with Remote Client
 https://github.com/jiahaog/Revenant
+https://github.com/analog-nico/express-print-routes - Prints the tree of Express routes and middlewares to a file
+https://github.com/sindresorhus/execa - A better `child_process`
 https://github.com/thorinjs - The Thorin.js node.js framework
 https://github.com/sungwoncho/node-producthunt
+https://github.com/capaj/koa-monitor -  Realtime Monitoring solution for koa.js
+https://github.com/terkelg/ramme - Unofficial Instagram Desktop App 
 https://github.com/ngonzalvez/rest-facade
 https://github.com/Wildhoney/Dory - Dory is a responsive, universal, GitHub collaborated blogging platform
 https://github.com/fiatjaf/pgjson
@@ -111,13 +138,31 @@ https://github.com/wistityhq/strapi/
 https://github.com/GianlucaGuarini/allora - Promisify using es6 Proxies every javascript API with less than 50 lines of code
 https://github.com/codeception/codeceptjs/
 https://github.com/alarner/perk - A well documented set of tools for building node web applications
+https://github.com/SplittyDev/evee.js - The lightweight es6 event library
 https://github.com/kessler/tempus-fugit
+https://github.com/Manak/npm-programmatic -  a library that allows you to access npm commands programmatically from javascript
+https://github.com/OmarElGabry/chat.io - A Real Time Chat Application
 https://github.com/chrisenytc/speechy
+https://github.com/Mostafa-Samir/klyng - A message-passing distributed computing framework for node.js
+https://github.com/adamhalasz/uniqid - Unique ID Generator
+https://github.com/davidferguson/pibakery - The blocks based, easy to use setup tool for Raspberry Pi
 https://github.com/microsoft/chakracore
+https://github.com/aniftyco/npm-as - Run npm as a certain user.
+https://github.com/ericholiveira/studio - A nodejs framework to create decoupled and scalable applications
+https://github.com/ohmu/node-posix - The missing POSIX system calls for node.js
+https://github.com/leo/args - Minimal toolkit for building CLIs
 https://github.com/apigee/trireme
+https://github.com/RafalWilinski/express-status-monitor -Realtime Monitoring solution for Express.js apps
 https://github.com/Jam3/devtool
+https://github.com/joakimbeng/middl - A generic middleware library, inspired by Express and suitable for anything
+https://github.com/sindresorhus/cli-spinners - Spinners for use in the terminal
 https://github.com/jiahaog/nativefier
+https://github.com/joshwcomeau/panther - Discover artists through an infinite node graph
+https://github.com/parro-it/is-fqdn - Check if a string represent a fully qualified domain name
+https://github.com/sindresorhus/anatine - Pristine Twitter app
 https://github.com/boyers/socket.js
+https://github.com/appetizermonster/hain - An 'alt+space' launcher for Windows, built with Electron
+https://github.com/Chris911/mocha-http-detect - Detect HTTP requests in your mocha test suites
 https://github.com/skerit/janeway
 https://github.com/hzlmn/xeon - module loader for bash scripts with `require` style
 https://github.com/GoogleChrome/node-big-rig
@@ -148,7 +193,11 @@ https://github.com/jpadilla/ember-fastboot-docker
 https://github.com/rustbridge/neon - A safe Rust abstraction layer for native Node.js modules.
 https://github.com/tajawal/node-currency-swap
 https://github.com/kosmodrey/telebot - The easy way to write Telegram bots in Node.js
+https://github.com/thomas4019/expressa - Data-driven API framework/cms for Node.js
+https://github.com/sindresorhus/fast-cli - Test your download speed using fast.com
 https://github.com/claudiajs/claudia
+https://github.com/zone-eu/zone-mta - Modern outbound MTA cross platform server application
+https://github.com/jacted/speed-monitor - Website performance reports for Slack, Rocket.chat & Mattermost
 https://github.com/egoist/testen
 https://gist.github.com/bdchauvette/a7207d478ddb0c1daae39aebe1bd50bf - Minimal babel boilerplate
 https://github.com/node-schedule/node-schedule
@@ -166,8 +215,6 @@ https://github.com/sindresorhus/ora - Elegant Terminal Spinner
 https://github.com/DylanPiercey/vdo - Minimal JSX compatible html focused templating engine
 https://github.com/lvarayut/relay-fullstack  -  Relay Starter Kit - Integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS
 https://github.com/VictorBjelkholm/trymodule - Tool for trying out node modules
-https://github.com/appetizermonster/hain - An 'alt+space' launcher for Windows, built with Electron
-https://github.com/Chris911/mocha-http-detect - Detect HTTP requests in your mocha test suites
 https://github.com/QubitProducts/urlite - A very small, fast, dependency free url parser and formatter for nodejs and the web
 https://github.com/typicode/hotel - local .dev domains for everyone and more
 https://github.com/parro-it/canibekikked - Tool to check if any of your NPM repositories name are trademarked
@@ -177,38 +224,13 @@ http://grimmdude.github.io/MidiWriterJS/ - MidiWriterJS is a JavaScript library 
 https://github.com/groupon/ndu - node disk usage
 https://github.com/DiegoRBaquero/node-fb-messenger - Facebook Messenger Platform NodeJS API Wrapper
 https://github.com/SBoudrias/Inquirer.js - A collection of common interactive command line user interfaces.
-https://github.com/joakimbeng/middl - A generic middleware library, inspired by Express and suitable for anything
-https://github.com/sindresorhus/cli-spinners - Spinners for use in the terminal
 https://github.com/mafintosh/unordered-array-remove - Efficiently remove an element from an unordered array without doing a splice
 https://github.com/alexhultman/uWebSockets - Highly scalable WebSocket server library
-https://github.com/testdouble/scripty - Because no one should be shell-scripting inside a JSON file
-https://github.com/fresheneesz/deadunit - A dead-simple nestable unit testing library.
 https://github.com/elado/class-private-method-decorator - Private methods in a JavaScript ES6 class using an ES7 decorator
 https://github.com/dleitee/strman - A Javascript string manipulation library without npm dependences
 https://github.com/robconery/massive-js - A simple relational data access tool for NodeJS
 https://github.com/johansatge/jpeg-autorotate - Rotates JPEG images based on EXIF orientation.
-https://github.com/notonthehighstreet/breadboard - Inversion of control container for Node.js applications
-https://github.com/EclairJS/eclairjs-node - Node.js API for Apache Spark with Remote Client
-https://github.com/analog-nico/express-print-routes - Prints the tree of Express routes and middlewares to a file
-https://github.com/sindresorhus/execa - A better `child_process`
 https://github.com/railsware/bozon - Bootstrap, Build, Run and Package Electron application with ease
-https://github.com/emc-advanced-dev/unik - The Unikernel Compilation and Deployment Platform
-https://github.com/mayanklahiri/node-superchild - A smarter replacement for node.js's fork() and spawn()
-https://github.com/andris9/mailtrain - Self hosted newsletter app https://mailtrain.org/
 https://github.com/rjmacarthy/express-typescript-starter - An Express.js project implemented using Typescript with strongly typed objects
-https://github.com/metafloor/bwip-js - Barcode Writer in Pure JavaScript
-https://github.com/aniftyco/npm-as - Run npm as a certain user.
-https://github.com/ericholiveira/studio - A nodejs framework to create decoupled and scalable applications
-https://github.com/ohmu/node-posix - The missing POSIX system calls for node.js
-https://github.com/leo/args - Minimal toolkit for building CLIs
-https://github.com/Mostafa-Samir/klyng - A message-passing distributed computing framework for node.js
-https://github.com/adamhalasz/uniqid - Unique ID Generator
-https://github.com/joshwcomeau/panther - Discover artists through an infinite node graph
-https://github.com/parro-it/is-fqdn - Check if a string represent a fully qualified domain name
-https://github.com/sindresorhus/anatine - Pristine Twitter app
-https://github.com/kriasoft/node-sqlite - SQLite client library for Node.js applications
-https://github.com/thomas4019/expressa - Data-driven API framework/cms for Node.js
-https://github.com/sindresorhus/fast-cli - Test your download speed using fast.com
-https://github.com/vitaly-t/pg-promise - Advanced access layer to PG via promises
 https://github.com/lerna/lerna/ - A tool for managing JavaScript projects with multiple packages
 https://github.com/sachinchoolur/lightgallery-desktop - A modern, electron and nodejs based image viewer for Mac, Windows and Linux
