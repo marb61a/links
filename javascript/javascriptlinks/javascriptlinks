@@ -32,10 +32,21 @@ https://www.youtube.com/watch?v=sjyJBL5fkp8 - var, let and const - What, why and
 https://www.youtube.com/watch?v=31URmaeNHSs - Learning how to ride: an introduction to Cycle.js - JS Monthly London
 https://www.youtube.com/watch?v=ot4YGBG5Img - Ultimate JavaScript Strings
 https://www.youtube.com/watch?v=tOkOmWgDLOM - PolyConf 16: Elm for JavaScript Developers
+https://www.youtube.com/watch?v=5NIL3Epadj0 - The State of Javascript - Jack Franklin
+https://code.lengstorf.com/learn-rollup-js/ - Learn how to use Rollup
+https://www.youtube.com/watch?v=EnaKD_EHG14 - An Introduction to Service Workers - JS Monthly London
+https://www.youtube.com/watch?v=h_VYAjKDTJk - JavaScript Electronics on the Pi Zero - Async Brighton
+https://www.youtube.com/watch?v=WRSRVdLQ_-k - Super MarioScript: Tools and Tips for NES development
+https://www.youtube.com/watch?v=WQue1AN93YU - Front End Center — Webpack from First Principles
+https://www.youtube.com/watch?v=p8tqhf5qKOI - From MVC to Flux - JS Monthly London
+https://www.youtube.com/watch?v=r76ZjdzFExg - JavaScript Performance Through the Spyglass
 
 
 ##Links -
+http://frontendhappyhour.com - A podcast featuring a panel of Software Engineers from Netflix, Evernote & LinkedIn 
 https://www.rtfmanual.io/d3garden/
+https://jcbrand.github.io/pluggable.js/ - lets you make your JS project extendable via plugins
+http://nickersoft.github.io/push.js/ - JAVASCRIPT NOTIFICATIONS FOR EVERY BROWSER
 http://anime-js.com/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 http://substance.io/ - Web content editor (Open Source)
@@ -96,7 +107,11 @@ https://www.dashingd3js.com/
 http://www.transcrypt.org/
 http://callmecavs.com/bricks.js/
 https://morr.cc/almightree/
+http://cesiumjs.org/ - An open-source JavaScript library for world-class 3D globes and maps
+http://algebra.js.org/
+http://papaparse.com - The powerful, in-browser CSV parser
 http://pressurejs.com/
+http://fusejs.io - Lightweight fuzzy-search library
 http://standardjs.com/
 https://skorokithakis.github.io/expounder/ - JS Library for hding text
 http://blog.wolksoftware.com/introducing-inversify-2
