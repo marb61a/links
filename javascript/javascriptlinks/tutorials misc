@@ -10,6 +10,7 @@ https://jakearchibald.com/2016/streaming-template-literals/
 http://vegibit.com/vue-js-tutorial/
 http://derickbailey.com/2015/08/26/building-a-component-based-web-ui-with-modern-javascript-frameworks/
 http://www.pubnub.com/blog/webrtc-video-chat-app-in-20-lines-of-javascript/
+https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/
 https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback?
 http://blog.rangle.io/angular-gulp-bestpractices/
 http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/
@@ -57,8 +58,8 @@ http://www.lessmilk.com/game-design-1/
 http://www.adityaravishankar.com/2016/01/commandos-bel-html5-recreating-the-classic-2-5d-real-time-tactics-game-in-the-browser/
 http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/
 http://andrejgajdos.com/setting-up-webpack-for-es6-react-sass-and-bootstrap/
-https://blog.risingstack.com/web-authentication-methods-explained/
 https://css-tricks.com/right-click-logo-show-logo-download-options/
+https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/
 http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960
 http://code.tutsplus.com/tutorials/introduction-to-p5js--cms-25665
 https://stormpath.com/blog/token-auth-spa/
@@ -101,3 +102,17 @@ https://vsavkin.com/functional-typescript-316f0e003dc6#.6mx2x6adf
 https://blog.sqreen.io/embedding-javascript-into-python/
 http://mike-ward.net/2016/08/01/exploring-mithril-a-javascript-framework-for-building-brilliant-applications/
 https://bethallchurch.github.io/JavaScript-and-Functional-Programming/
+http://wesbos.com/arrow-functions/
+http://blog.yanivkessler.com/2016/08/07/consuming-a-dynamodb-stream-in-the-browser/
+https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/
+https://advancedweb.hu/2016/08/09/parallel-processing-in-js/
+https://javascriptrefined.io/nan-and-typeof-36cd6e2a4e43#.jjebtq256
+https://philipwalton.com/articles/untangling-deeply-nested-promise-chains/
+https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/
+http://x-team.com/2016/08/beginners-guide-ionic-2-mobile-applications/
+http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad
+https://bocoup.com/weblog/test262-is-a-javascript-sideshow
+https://madebymike.com.au//writing/service-workers/
+https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
+http://hasharray.pw/tutorials/javascript/tracking-outbound-forms-and-links-with-google-analytics
+https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/
