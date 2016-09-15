@@ -23,17 +23,28 @@ https://www.sitepoint.com/10-jquery-time-picker-plugins/
 https://www.sitepoint.com/comprehensive-events-jquery/
 https://www.sitepoint.com/10-jquery-file-uploads/
 https://www.sitepoint.com/developing-jquery-plugins/
+https://www.sitepoint.com/10-jquery-panorama-image-display-plugins/
+https://www.sitepoint.com/10-jquery-form-validation-plugins/
+
 
                             
                             ######################## Functional ############################
 http://www.sitepoint.com/currying-in-functional-javascript/
 http://www.sitepoint.com/measuring-javascript-functions-performance/
 http://www.sitepoint.com/recursion-functional-javascript/
+https://www.sitepoint.com/function-composition-building-blocks-for-maintainable-code/
+https://www.sitepoint.com/factory-functions-javascript/
+https://www.sitepoint.com/rxjs-functions-with-examples/
+http://www.sitepoint.com/functional-reactive-programming-rxjs/
 
                             
                             ######################## Testing ############################
 http://www.sitepoint.com/unit-test-javascript-mocha-chai/
+https://www.sitepoint.com/javascript-functional-testing-nightwatch-js/
+http://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/
 
+
+                            ######################## Miscellaneous ############################
 
 
 http://www.sitepoint.com/creating-accessible-breakout-game-using-web-audio-svg/
@@ -45,7 +56,6 @@ http://www.sitepoint.com/introducing-four-webgl-easier/
 http://www.sitepoint.com/writing-better-javascript-with-flow/
 http://www.sitepoint.com/voice-controlled-audio-player-web-speech-api/
 http://www.sitepoint.com/preloading-images-in-parallel-with-promises/
-http://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/
 http://www.sitepoint.com/3-javascript-orms-you-might-not-know/
 http://www.sitepoint.com/command-line-api-fun-profit/
 http://www.sitepoint.com/face-proximity-detection-with-javascript/
@@ -70,7 +80,6 @@ http://www.sitepoint.com/quick-tip-master-closures-by-reimplementing-them-from-s
 http://www.sitepoint.com/creating-an-imgur-app-with-nativescript/
 http://www.sitepoint.com/generating-pdfs-from-web-pages-on-the-fly-with-jspdf/
 http://www.sitepoint.com/sending-emails-gmail-javascript-api/
-http://www.sitepoint.com/functional-reactive-programming-rxjs/
 http://www.sitepoint.com/building-3d-engine-javascript/
 http://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/
 http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
@@ -100,5 +109,7 @@ https://www.sitepoint.com/self-documenting-javascript/
 https://www.sitepoint.com/introduction-to-typescript/
 https://www.sitepoint.com/functional-programming-with-ramda/
 https://www.sitepoint.com/d3-js-data-visualizations/
-
-
+https://www.sitepoint.com/introduction-chart-js-2-0-six-examples/
+https://www.sitepoint.com/getting-started-with-pouchdb/
+https://www.sitepoint.com/cache-fetched-ajax-requests/
+https://www.sitepoint.com/getting-started-with-vue-js/
