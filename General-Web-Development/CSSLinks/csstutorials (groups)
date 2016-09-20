@@ -44,7 +44,12 @@ https://www.sitepoint.com/introducing-the-css-text-align-last-property/
 https://www.sitepoint.com/css-filter-effects-blur-grayscale-brightness-and-more-in-css/
 https://www.sitepoint.com/throttle-scroll-events/
 https://www.sitepoint.com/getting-to-know-cutestrap-a-lightweight-css-framework/
-https://www.sitepoint.com/visual-regression-testing-with-phantomcss/?
+https://www.sitepoint.com/visual-regression-testing-with-phantomcss/
+https://www.sitepoint.com/8-clever-tricks-with-css-functions/
+https://www.sitepoint.com/how-to-translate-from-dom-to-svg-coordinates-and-back-again/
+https://www.sitepoint.com/atoz-css-screencast-auto/
+https://www.sitepoint.com/spectre-a-lightweight-css-framework/
+https://www.sitepoint.com/cache-fetched-ajax-requests/
 
 
 ############################################## Smashing ########################################################## 
@@ -77,51 +82,10 @@ https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transi
 https://www.smashingmagazine.com/2016/07/how-i-ended-up-with-element-queries-and-how-you-can-use-them-today/
 https://www.smashingmagazine.com/2016/07/ten-requirements-for-making-home-page-carousels-work-for-end-users/
 https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/
-
-
-############################################## CSS Tricks ##########################################################
-https://css-tricks.com/making-charts-with-css/
-https://css-tricks.com/building-a-circular-navigation-with-css-clip-paths/
-https://css-tricks.com/prefetching-preloading-prebrowsing/
-https://css-tricks.com/custom-interactive-range-inputs/
-https://css-tricks.com/how-to-do-knockout-text/
-https://css-tricks.com/the-making-of-the-css-tricks-logo-easter-egg-animation/
-https://css-tricks.com/throttling-the-network/
-https://css-tricks.com/scaled-proportional-blocks-with-css-and-javascript/
-https://css-tricks.com/visual-regression-testing-with-phantomcss/
-https://css-tricks.com/recreating-the-google-logo-animation-with-svg-and-greensock/
-https://css-tricks.com/creating-an-animated-menu-indicator-with-css-selectors/
-https://css-tricks.com/the-blur-up-technique-for-loading-background-images/
-https://css-tricks.com/designing-a-product-page-layout-with-flexbox/
-https://css-tricks.com/the-backgound-clip-property-and-use-cases/
-https://css-tricks.com/a-guide-on-svg-support-in-email/
-https://css-tricks.com/the-current-state-of-telephone-links/
-https://css-tricks.com/introducing-css-scroll-snap-points/
-https://css-tricks.com/squigglevision-in-css-and-svg/
-https://css-tricks.com/rem-global-em-local/
-https://css-tricks.com/accessible-simple-responsive-tables/
-https://css-tricks.com/right-click-logo-show-logo-download-options/
-https://css-tricks.com/whats-deal-declaring-font-properties-font-face/
-https://css-tricks.com/css-modules-part-2-getting-started/
-https://css-tricks.com/snippets/css/complete-guide-grid/
-https://css-tricks.com/using-css-cursors/
-https://css-tricks.com/annotating-critical-css/
-https://css-tricks.com/comparison-animation-technologies/
-https://css-tricks.com/images-in-postcss/
-https://css-tricks.com/optimizing-large-scale-displays/
-https://css-tricks.com/tips-aligning-icons-text
-https://css-tricks.com/aos-css-driven-scroll-animation-library/
-https://css-tricks.com/ways-need-tell-browser-optimize/
-https://css-tricks.com/couple-takes-sticky-footer/
-https://css-tricks.com/flexbox-truncated-text/
-https://css-tricks.com/dont-overthink-flexbox-grids/
-https://css-tricks.com/content-jumping-avoid/
-https://css-tricks.com/zooming-background-images/
-https://css-tricks.com/state-css-reflections/
-https://css-tricks.com/tale-width-max-width/
-https://css-tricks.com/high-performance-svgs/
-https://css-tricks.com/precedence-css-order-css-matters/
-https://css-tricks.com/full-width-containers-limited-width-parents/
+https://www.smashingmagazine.com/2016/08/ways-to-reduce-content-shifting-on-page-load/
+https://www.smashingmagazine.com/2016/08/css-animations-motion-curves/
+https://www.smashingmagazine.com/2016/09/content-security-policy-your-future-best-friend/
+https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -131,6 +95,7 @@ https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/
 https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/TVs_connected_devices/Web_animations_on_large_screen
 https://hacks.mozilla.org/2016/05/css-coding-techniques/
 https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/
+https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/
 
 
 ############################################## Google ########################################################## 
@@ -160,6 +125,10 @@ https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.6ujesl
 https://medium.com/dev-channel/css-containment-in-chrome-52-f04a30bdc92a#.v3u8azu4f
 https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.kyiyf7tz7
 https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.b2x7dcg0g
+https://medium.com/@marcmintel/how-to-use-the-module-pattern-in-your-scss-sass-stylesheets-89fe38a6e1f3#.iln0iw67q
+https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439#.ul2o7zzei
+https://medium.com/learning-new-stuff/learn-css-flexbox-in-3-minutes-c616c7070672#.pkr6henzo
+https://medium.com/web-development-zone/amazingly-useful-html-css-and-javascript-tools-and-libraries-d73b10fbae29#.i8fjh8ccy
 
 
 ############################################## Tutsplus ##########################################################
@@ -173,6 +142,7 @@ http://code.tutsplus.com/tutorials/editing-images-in-css-filters--cms-25948
 ############################################## Telerik ########################################################## 
 http://developer.telerik.com/featured/lazy-loading-images-on-the-web/
 http://developer.telerik.com/featured/css-preprocessing-with-visual-studio/
+http://developer.telerik.com/featured/guide-browser-scroll-animations/
 
 
 ############################################## Sara Soueidan ##########################################################
