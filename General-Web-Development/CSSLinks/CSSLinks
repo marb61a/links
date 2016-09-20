@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=qDlswTzbnmk - Flexbox: WTF - Forward 4 Web Summi
 https://www.youtube.com/watch?v=9AG35HCBpo4 - CSS in 2016 and Beyond
 https://www.youtube.com/watch?v=lQxt6TdzsAo - Spinners, Loaders, and Junk — CSS Animations
 https://vimeo.com/177216958 - CSS for Software Engineers 
+https://www.youtube.com/watch?v=paBou8Fy25k&list=UUJ0_R6U3ZClQDGpVJNjuPAQ - Rachel Andrew CSS Video Playlist
+https://vimeo.com/177103832 - Peter van der Zee | < IFRAME > | HTML Special, CSS Day
+
 
 
 ##Code -
@@ -20,7 +23,9 @@ https://github.com/mozilla/css-grid-inspector - A Firefox extension for seeing t
 https://github.com/morishitter/cssfmt
 https://github.com/usablica/kissui.scrollanim - CSS3 scroll animation library
 https://gist.github.com/realseanp/cefe1727533619f340bb2aee5e1339af - HTML5 Drag and Drop React Component
+https://github.com/soenkekluth/sticky-state - StickyState is a high performant module making native position:sticky
 https://github.com/postcss/postcss
+https://github.com/christinecha/3d-css-cubes - A rotating grid of 3d (via CSS) cubes.
 https://github.com/mdo/wtf-forms/ - Friendlier HTML form controls with a little CSS magic
 https://github.com/andreypopp/react-css-components - Define React presentational components with CSS
 http://codepen.io/rgg/full/QbRyOq/
@@ -43,6 +48,8 @@ https://github.com/jacksleight/ayre
 https://github.com/voronianski/griddy.css - Responsive 12 column based grid in 311 Bytes gzipped
 https://github.com/edwardtufte/tufte-css
 https://github.com/BlazeCSS/blaze - Open Source CSS Framework
+https://github.com/stevenmhunt/badgerly - A CSS 3 library for rendering badges
+https://github.com/xcatliu/mobi.css - A lightweight, flexible css framework that focus on mobile
 https://github.com/primer/primer
 https://codepen.io/MadeByMike/pen/ZOrEmr - CSS only scroll indicator
 http://codepen.io/AllThingsSmitty/pen/cHjIC/ - CSS-Only Olympic Rings
@@ -54,16 +61,18 @@ https://github.com/LunarLogic/starability - Accessible rating forms with cute an
 https://github.com/andriussev/timelined
 https://github.com/bfred-it/iphone-inline-video - Play videos inline on Safari iPhone
 https://github.com/bendc/animateplus - CSS and SVG animation library
+https://github.com/sarcadass/granim.js - Create fluid and interactive gradients animations
 http://maxwellito.github.io/vivus/
 https://github.com/cutestrap/cutestrap - A tiny alternative to Bootstrap.
 https://github.com/blog/2112-delivering-octicons-with-svg
+https://github.com/wbobeirne/stranger-things - Intro of the show Stranger Things in CSS
+https://github.com/ademilter/bricklayer - Lightweight and independent Pinterest-like cascading grid layout library
+https://github.com/kristoferjoseph/flexboxgrid - Grid based on CSS3 flexbox
 http://milligram.github.io/
 https://github.com/1000ch/grd - A CSS grid framework using Flexbox
 https://github.com/morishitter/stylefmt - stylefmt is a tool that automatically formats stylesheets.
 https://github.com/bfred-it/object-fit-images - Adds support to object-fit to images on IE9, IE10, IE11, Edge and other old browsers.
 https://github.com/cjcenizal/flexbox-patterns - Patterns for using flexbox CSS to build awesome UI components
-https://github.com/ademilter/bricklayer - Lightweight and independent Pinterest-like cascading grid layout library
-https://github.com/kristoferjoseph/flexboxgrid - Grid based on CSS3 flexbox
 https://github.com/polarnotion/starwarsintro/ - A CSS Library for the Star Wars Intro Crawl 
 https://github.com/jasonmoo/smlr - Re-encode jpeg images with no perceivable quality loss.
 https://github.com/adamsilver/maintainablecss.com/ - MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS
@@ -71,6 +80,7 @@ https://github.com/matejlatin/Gutenberg - A meaningful web typography starter ki
 
 
 ##Links -
+http://webdevchecklist.com/ - Web Developer Checklist
 http://accessibility.voxmedia.com/ - Accessibility guidelines
 http://kazzkiq.github.io/balloon.css/
 https://typeanything.io/ - a simple tool to create great font combinations
