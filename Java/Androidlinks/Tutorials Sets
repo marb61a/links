@@ -58,6 +58,21 @@ https://medium.com/android-news/android-wear-development-for-beginners-82c2b06ff
 https://medium.com/@nullthemall/diffutil-is-a-must-797502bc1149#.3iirrjg8n
 https://medium.com/stories-from-eyeem/router-everything-in-its-right-place-4ca437871052#.5kgxkpgl7
 https://medium.com/@bherbst/the-many-flavors-of-commit-186608a015b1#.yaemtqbug
+https://medium.com/@passsy/thirtyinch-a-new-mvp-library-for-android-bd1a27262fd6#.rzva0bdq9
+https://medium.com/yammer-engineering/converting-callback-async-calls-to-rxjava-ebc68bde5831#.h2g2xltqp
+https://medium.com/tangoagency/material-intro-screen-for-android-apps-c4317fbac923#.j9dpyx9si
+https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.ptqyfqplq 
+https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024#.a9xlm62j2
+https://medium.com/@aitorvs/android-fingerprint-authentication-44c047179d9a#.5dkal2v7y
+https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c#.yubh9iur6
+https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-application-7e248b5f615e#.jhbwru4ym
+https://medium.com/crunching-rxandroid/crunching-rxandroid-part-10-cc0c33108ee2#.4hbmc1fc4
+https://medium.com/di-101/di-101-part-2-9f7f4e1dcc81#.vg866l5yx
+https://medium.com/@jagsaund/android-handler-internals-b5d49eba6977#.i2nd4r2b4
+https://medium.com/@danybony_/wear-complications-api-16ab65290aa1#.sthnx0lcd
+https://medium.com/@andreworobator/debugging-without-a-stacktrace-using-android-studios-performance-monitors-a0d601afd814#.l3cekr2x0
+https://medium.com/@sergii/make-your-build-gradle-great-again-c84cc172a654#.jv2gn1ha5
+https://medium.com/@jagonzalez.develop/auto-rename-android-versionname-by-creating-custom-gradle-plugin-2922bbaaaed6#.l6gkyf1e3
 
 
 ######################################## Android Developers Blog ##############################################
@@ -147,6 +162,7 @@ https://blog.stylingandroid.com/statelistanimator/
 https://blog.stylingandroid.com/animatedvectordrawable-bundles/
 https://blog.stylingandroid.com/isometric-animatedvectordrawable-part-3/
 https://blog.stylingandroid.com/isometric-animatedvectordrawable-part-1/
+https://blog.stylingandroid.com/vectordrawable-fill-windings/
 
 
 ######################################## Nimbledroid ##############################################
@@ -157,6 +173,7 @@ http://blog.nimbledroid.com/2016/04/20/pushing-limits-of-app-startup-time.html
 http://blog.nimbledroid.com/2016/04/25/problems-with-libraries-and-sdks.html
 http://blog.nimbledroid.com/2016/06/15/app-diets-not-a-fad.html
 http://blog.nimbledroid.com/2016/05/23/memory-leaks.html
+http://blog.nimbledroid.com/2016/09/06/stop-memory-leaks.html
 
 
 ######################################## Ryan Harter ##############################################
@@ -192,6 +209,7 @@ https://riggaroo.co.za/automated-android-testing-part-2-setup/
 https://riggaroo.co.za/introduction-android-testing-part3/
 https://riggaroo.co.za/introduction-android-testing-part-4/
 https://riggaroo.co.za/introduction-automated-android-testing-part-5/
+https://riggaroo.co.za/introduction-automated-android-testing-part-6/
 
 
 ######################################## Philisophical Hacker ##############################################
@@ -201,3 +219,8 @@ http://www.philosophicalhacker.com/post/an-espresso-test-recorder-deep-dive/
 http://www.philosophicalhacker.com/post/why-dont-we-have-a-unit-test-recorder/
 
 
+
+######################################## Jeroen Mols ##############################################
+http://jeroenmols.com/blog/2016/05/06/methodcount/
+http://jeroenmols.com/blog/2016/02/05/wagongit/
+http://jeroenmols.com/blog/2016/09/01/coveragecost/
