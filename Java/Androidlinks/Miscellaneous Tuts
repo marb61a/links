@@ -29,6 +29,8 @@ https://uxdesign.cc/the-absolute-minimum-android-developers-need-to-know-about-u
 http://leaks.wanari.com/2016/05/05/rendering-markers-for-android/
 http://blog.alexsimo.com/delightful-persistence-android/
 https://robots.thoughtbot.com/accessibility-testing-on-android
+https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide
+https://robots.thoughtbot.com/introducing-expandablerecyclerview
 https://www.novoda.com/blog/better-class-naming/
 https://www.novoda.com/blog/new-jenkins-pipelines/
 https://tir38.com/archives/1423
@@ -40,8 +42,6 @@ http://www.developerphil.com/no-you-can-not-override-the-home-button-but-you-don
 https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
 http://blog.alexsimo.com/clean-java-immutability/
 https://labs.ribot.co.uk/exploring-buy-with-android-pay-4c8822c86133#.5054m2uw2
-http://jeroenmols.com/blog/2016/05/06/methodcount/
-http://jeroenmols.com/blog/2016/02/05/wagongit/
 http://www.grokkingandroid.com/thoughts-on-constraintlayout-and-design-editor/
 https://publicobject.com/2016/07/03/the-last-httpurlconnection/
 https://labs.ribot.co.uk/fast-and-reliable-ui-tests-on-android-17c261b8220c#.org9w6xrh
@@ -61,4 +61,13 @@ https://segunfamisa.com/posts/firebase-remote-config
 http://doridori.github.io/Android-Security-welcome-to-shell/
 http://mayojava.github.io/android/java/using-java8-lambda-expressions-in-android
 http://mayojava.github.io/android/android-ui-instrumentation-test-with-espresso/
+http://mayojava.github.io/android/android-support-annotations/
 https://caster.io/lessons/espresso-idling-resource-introduction/
+https://android.jlelse.eu/android-accessibility-75fdc5810025#.95c8sw3px
+https://android.jlelse.eu/inject-interfaces-without-providing-in-dagger-2-618cce9b1e29#.ay1ipqoax
+http://nerds.headout.com/fix-horizontal-scrolling-in-your-android-app/
+http://bytes.schibsted.com/dealing-65k-methods-limit-android/
+http://crushingcode.co/update-dependencies-code-repeat/
+http://jakewharton.com/forcing-bytes-downward-in-okio/
+http://trickyandroid.com/android-test-tricks-sharing-code-between-unit-ui-tests/
+https://jabknowsnothing.wordpress.com/2015/11/05/activitytestrule-espressos-test-lifecycle/
