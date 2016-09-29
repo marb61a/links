@@ -3,8 +3,12 @@
                                       ## Tutorials
                                       
 ###################################### Honeybadger ####################################################
+http://blog.honeybadger.io/how-unicorn-talks-to-nginx-an-introduction-to-unix-sockets-in-ruby/
+http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/
+http://blog.honeybadger.io/ruby-splat-array-manipulation-destructuring/
 http://blog.honeybadger.io/ruby-regex-tricks/
 http://blog.honeybadger.io/associative-arrays-in-ruby-what/
+http://blog.honeybadger.io/ruby-enumerable-slicing-before-when-and-after/
 http://blog.honeybadger.io/when-to-use-freeze-and-frozen-in-ruby/
 http://blog.honeybadger.io/ruby-self-cheat-sheet/
 http://blog.honeybadger.io/how-ruby-interprets-and-runs-your-programs/
@@ -36,6 +40,7 @@ https://medium.com/@Sudhagar/rbenv-how-it-works-e5a0e4fa6e76#.wb30zxhgl
 https://medium.com/@Bakku1505/introduction-to-dependency-injection-in-ruby-dc238655a278#.s8sgasc0c
 https://medium.com/table-xi/focus-your-rspec-workflow-4cd5798d2a3e#.821o81mzm
 https://medium.com/@rudyyazdi/rake-gem-explained-ebee7e6e6f72#.uv74rcwn5
+https://medium.com/blog-goncalopereira-com/development-quality-for-ruby-and-chef-59ed7a3e94dc#.lk3n4gws6
 
 
 ###################################### Justin Weiss ####################################################
@@ -85,6 +90,7 @@ http://blog.codeship.com/testing-rails-application-docker/
 http://blog.codeship.com/how-to-use-rails-active-job/
 http://blog.codeship.com/know-your-sidekiq-testing-rights/
 http://blog.codeship.com/debugging-a-memory-leak-on-heroku/
+http://blog.codeship.com/how-to-find-ruby-code-smells-with-reek/
 http://blog.codeship.com/building-a-json-api-with-rails-5/
 http://blog.codeship.com/preproduction-checklist-for-a-rails-app/
 http://blog.codeship.com/architecting-rails-apps-as-microservices/
@@ -97,6 +103,7 @@ http://blog.codeship.com/the-enumerable-module/
 http://blog.codeship.com/surrogate-websockets/
 http://blog.codeship.com/the-json-api-spec/
 http://blog.codeship.com/a-deep-dive-into-ruby-scopes/
+http://blog.codeship.com/generational-gc-python-ruby/
 https://blog.codeship.com/producing-documentation-for-your-rails-api/
 https://blog.codeship.com/optimists-guide-pessimistic-library-versioning/
 https://blog.codeship.com/how-to-find-ruby-code-smells-with-reek/
@@ -114,6 +121,9 @@ https://blog.codeship.com/understanding-fundamental-ruby-abstraction-concurrency
 https://blog.codeship.com/level-up-your-security-in-rails/
 https://blog.codeship.com/managing-private-dependencies-with-bundler/
 https://resources.codeship.com/ebooks/docker-machine-compose-swarm
+https://blog.codeship.com/a-review-of-immutability-in-ruby/
+https://blog.codeship.com/http-calls-ruby/
+https://blog.codeship.com/good-module-bad-module/
 
 
 ###################################### Rossta ####################################################
@@ -141,6 +151,7 @@ http://weblog.jamisbuck.org/2016/3/26/introducing-query-composer.html
 http://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
 http://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html
 http://www.nateberkopec.com/2015/08/05/rack-mini-profiler-the-secret-weapon.html
+http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html
 https://www.nateberkopec.com/2016/01/07/what-http2-means-for-ruby-developers.html
 
 
@@ -157,6 +168,7 @@ https://www.twilio.com/blog/2015/10/delay-api-calls-to-twilio-with-rails-active-
 https://www.twilio.com/blog/2016/01/two-factor-authentication-in-rails-4-with-devise-authy-and-puppies.html
 https://www.twilio.com/blog/2016/02/add-chat-to-a-rails-app-with-twilio-ip-messaging.html
 https://www.twilio.com/blog/2016/04/receive-and-reply-to-sms-in-rails.htm
+https://www.twilio.com//blog/2016/09/ruby-twilio-voice-phone-hotline.html
 
 
 ###################################### Gavin Miller ####################################################
@@ -179,6 +191,7 @@ http://blog.chaps.io/2016/02/01/running-concurrent-workflows-in-ruby.html
 
 ###################################### Blackbytes ####################################################
 http://www.blackbytes.info/2015/09/ngram-analysis-ruby/
+http://www.blackbytes.info/2015/07/ruby-debugging/
 http://www.blackbytes.info/2016/01/ruby-tricks/
 http://www.blackbytes.info/2016/02/ruby-procs-and-lambdas/
 http://www.blackbytes.info/2016/03/enumerable-methods/
@@ -187,6 +200,7 @@ http://www.blackbytes.info/2016/06/linux-tools-with-ruby/
 http://www.blackbytes.info/2016/06/ruby-ranges-how-do-they-work/
 http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/
 http://www.blackbytes.info/2016/07/numbers-in-ruby/
+http://www.blackbytes.info/2016/09/object-space/
 
 
 ###################################### Wyeworks ####################################################
@@ -235,6 +249,7 @@ http://code.tutsplus.com/tutorials/rails-image-upload-using-carrierwave-and-devi
 http://code.tutsplus.com/articles/antipatterns-basics-rails-controllers--cms-25900
 http://code.tutsplus.com/tutorials/generating-pdfs-from-html-with-rails--cms-22918
 http://computers.tutsplus.com/tutorials/customize-the-menu-bar-with-bitbar--cms-26946
+https://code.tutsplus.com/articles/full-text-search-in-rails-using-elasticsearch--cms-22920
 
 
 ###################################### Ruby Pidgeon ####################################################
