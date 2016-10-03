@@ -61,6 +61,9 @@ http://coderesponsible.com/scraping-the-web-with-node-js/
 https://developer.atlassian.com/blog/2015/10/profiling-node-apps/
 https://www.pubnub.com/blog/2014-12-16-realtime-mongodb-to-fetch-and-stream-report-data/
 http://www.nicoespeon.com/en/2015/11/plop-micro-generator-boilerplate-yeoman-alternative/
+http://mherman.org/blog/2015/07/02/handling-user-authentication-with-the-mean-stack/
+http://mherman.org/blog/2016/04/28/test-driven-development-with-node/
+http://mherman.org/blog/2016/09/25/node-passport-and-postgres/
 http://wesbos.com/javascript-modules/
 https://meetfinch.com/blog/cross-platform-app-nwjs-react-flux
 http://apmblog.dynatrace.com/2016/01/14/how-to-track-down-cpu-issues-in-node-js/
@@ -114,7 +117,6 @@ http://gajus.com/blog/8/using-mysql-in-node-js
 https://davidbruant.github.io/writings/2016/04/08/defeating-the-npm-worm.html
 https://toddmotto.com/angular-2-authentication
 http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/
-http://mherman.org/blog/2016/04/28/test-driven-development-with-node/
 https://reaktor.com/blog/debugging-node-js-applications-using-core-dumps/
 https://nodevision.com.au/blog/post/how-to-integrate-nodejsreact-app-with-xero
 https://jimpick.com/2016/05/05/introducing-lambda-comments/
@@ -159,3 +161,16 @@ https://snyk.io/blog/nodejs-attack-tree-modelling
 https://jordankasper.com/building-an-amazon-alexa-skill-with-node-js/#?
 https://blog.phusion.nl/2016/08/31/efficiently-and-conveniently-building-ruby-and-node-js-application-docker-containers-for-production-2/
 https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/
+https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/
+https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js/
+https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/
+https://devcenter.heroku.com/articles/mean-apps-restful-api
+http://stackshare.io/lob/verify-user-addresses-via-postcard-with-lob-plus-mandrill-plus-hapi
+http://blog.derhess.de/2016/06/12/use-your-raspberry-pi-as-your-local-nodejs-webserver/
+https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js
+http://hecodes.com/2016/09/building-serverless-mesh-processing-microservice-node-js/
+http://www.codingdefined.com/2016/09/getting-started-with-rethinkdb-in-nodejs.html
+http://thisdavej.com/getting-started-with-yaml-in-node-js-using-js-yaml/
+https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools
+http://blog.bandwidth.com/express-es5-to-koa-es7/
+
