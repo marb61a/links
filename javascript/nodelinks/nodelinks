@@ -25,6 +25,13 @@ https://www.youtube.com/watch?v=CIAnu8E5ryE - stdlib.com - Node Module Support, 
 https://www.youtube.com/watch?v=vBtEb_wn2r0 - Node.js Enterprise Conversations - Episode 6 Lowe's Digital
 https://www.youtube.com/watch?v=kLKljFGz2oA - Node.js Everywhere - Node.js Live London
 https://www.youtube.com/watch?v=7WuRq-Wmw5o - GOTO 2016 • Emulating a 6502 system in Javascript • Matt Godbolt
+https://www.youtube.com/watch?v=uuY5j4N78vw - Publish a Node.JS Express app to Azure in 7 minutes
+https://www.youtube.com/watch?v=6x-ijyG-ack - Create and deploy a RESTful API in 10 minutes
+https://www.youtube.com/watch?v=FNHBfN8c32U - Electron: Desktop Apps with Web Languages - GitHub Universe 2016
+https://www.youtube.com/watch?v=Eqg_IqVeI5s - Making Electron Development Simpler and More Productive - GitHub Universe 2016
+https://www.youtube.com/watch?v=JOR2ne84QQg - "Node.js Releases" - View Source Conference talk by Myles Borins
+https://www.youtube.com/watch?v=GbVAMgU3Jj0 - "Things You Can Do In ES6 That Can't Be Done In ES5" - View Source talk by Dan Shappir
+
 
 
 ##Important Links -
@@ -38,6 +45,7 @@ https://www.npmjs.com
 https://www.npmjs.com/package/cassandrom
 https://www.npmjs.com/package/hack-news
 https://iojs.org/en/index.html
+http://markojs.com/ - A high performance templating engine 
 https://modulus.io
 https://medium.com/@c2c/my-7-node-js-mantras-edd6c148e8dc
 http://bookshelfjs.org
