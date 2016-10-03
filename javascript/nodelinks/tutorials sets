@@ -24,6 +24,8 @@ http://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
 http://www.sitepoint.com/web-crawling-node-phantomjs-horseman/
 http://www.sitepoint.com/deploy-rest-api-in-30-mins-mlab-heroku/
 http://www.sitepoint.com/custom-slackbot-with-node/
+https://www.sitepoint.com/web-apis-on-arduino-lcd/
+https://www.sitepoint.com/remote-control-mac-node-js-arduino/
 https://www.sitepoint.com/music-streaming-app-electron-react-es6/
 
 
@@ -72,11 +74,15 @@ https://medium.com/yet-another-node-js-blog/architecture-of-node-js-internal-cod
 https://medium.com/@emckean/create-a-simple-free-text-driven-twitterbot-with-aws-lambda-node-js-b80e26209f5#.m0nn2pv2k
 https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e#.y1l630ije
 https://medium.com/@andrezzoid/how-to-make-express-work-more-like-hapi-f41d110c519c#.mupzrsyau
+https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.a87atdw6h
+https://medium.com/walmartlabs/use-easy-fix-to-run-integration-tests-like-unit-tests-834288ec446d#.5bbvy7lp8
 
 
 ######################################## Risingstack ##############################################
 https://blog.risingstack.com/dependency-injection-in-node-js/
 https://blog.risingstack.com/nodejs-production-environment-for-startups/
+https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/
+https://blog.risingstack.com/node-js-interview-questions/
 https://blog.risingstack.com/terminal-guide-for-nodejs/
 https://blog.risingstack.com/node-js-security-checklist/
 https://blog.risingstack.com/graffiti-mongoose-mongodb-for-graphql/
@@ -98,6 +104,8 @@ https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/
 https://blog.risingstack.com/node-hero-monitoring-node-js-applications/
 https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/
 https://blog.risingstack.com/controlling-node-js-security-risk-npm-dependencies/
+https://blog.risingstack.com/case-study-node-js-memory-leak-in-ghost/
+https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/
 
 
 ######################################## Tutsplus ##############################################
@@ -121,6 +129,7 @@ http://www.telerik.com/kendo-ui/exporting-web-content
 http://developer.telerik.com/featured/left-pad-indicative-fragile-javascript-ecosystem/
 http://developer.telerik.com/featured/bots/
 http://developer.telerik.com/featured/alexa-can-use/
+http://developer.telerik.com/featured/npm-for-the-visual-studio-developer/
 
 
 ######################################## Stormpath ##############################################
@@ -213,10 +222,13 @@ http://blog.yld.io/2016/05/10/introducing-queues/
 
 
 ######################################## WebAppLog ##############################################
+http://webapplog.com/jade-handlebars-express/
 http://webapplog.com/node-patterns-from-callbacks-to-observer/#post-1804
 http://webapplog.com/you-dont-know-node/#main
 http://webapplog.com/http2-node/
 http://webapplog.com/json-is-not-cool-anymore/
+http://webapplog.com/http2-server-push-express-middleware/
+http://webapplog.com/http2-server-push-node-express/
 
 
 ######################################## Nodesource ##############################################
