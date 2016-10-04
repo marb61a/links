@@ -5,6 +5,7 @@
 ###################################### Smashing Magazine ##################################################################
 https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/
 https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/
+https://www.smashingmagazine.com/2016/08/test-automation-frameworks-for-react-native-apps/
 
 
 ###################################### Medium ##################################################################
@@ -20,6 +21,7 @@ https://medium.com/@davidguandev/building-a-tic-tac-toe-in-react-native-2a3c44e6
 https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-in-react-native-1fb6afcdf57d#.8dktayduf
 https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343#.qh1vnxfht
 https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6#.uf7f1n3tj
+https://medium.freecodecamp.com/installing-the-facebook-sdk-into-a-react-native-android-and-ios-app-69439bd97a99#.fvvlu1ijy
 
 
 ###################################### Miscellaneous ##################################################################
@@ -48,14 +50,26 @@ http://blog.mojotech.com/fabric-integration-for-react-native-on-android/
 https://blog.nativebase.io/react-native-flat-app-theme-be18c869c47e#.o419riz1y
 http://thefullstack.xyz/react-native/
 http://jefflau.net/what-ive-learnt-in-week-3-of-react-native/
+https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d#.9xy1bnk2n
+http://guigrpa.github.io/2016/09/27/picture-this-snapshot-testing/
+http://www.javascripttuts.com/native-app-combining-angular-2-react-native/
+https://www.fullstackreact.com/articles/announcing-firestack-for-firebase/
+https://shift.infinite.red/shopping-external-libs-in-react-native-cfbc0c6e25cf#.qklk4jpt9
+https://www.sitepoint.com/adding-analytics-to-a-react-native-app/
+https://habd.as/beta-testing-react-native-buddybuild/
 
 
 ##### Code #####
+https://github.com/GeekyAnts/react-native-easy-grid - Easy React Native Layout & Grid for the Dumb
+https://github.com/shoutem/ui - Customizable set of components for React Native applications
 https://github.com/xiekw2010/react-native-gitfeed
+https://github.com/moaazsidat/react-native-qrcode-scanner - A QR code scanner component for React Native
+https://github.com/airbnb/react-native-maps - React Native Mapview component for iOS + Android
 https://github.com/babotech/react-ingrid
-https://github.com/cyclejs/cycle-react-native
+https://github.com/jhen0409/react-native-debugger - The standalone app for React Native Debugger
 https://github.com/ptmt/react-native-desktop - React Native for OS X
 https://github.com/akveo/react-native-reddit-reader - react native
+https://github.com/cyclejs/cycle-react-native
 https://github.com/Microsoft/vscode-react-native - vscode extension for react native
 https://github.com/knowbody/react-native-platform-stylesheet - React Native Platform Specific Stylesheet
 https://github.com/angular/react-native-renderer - Use Angular 2 and React Native to build applications for Android and iOS
@@ -66,6 +80,7 @@ https://github.com/maxenceC/open-source-react-native-apps - Collaborative List o
 https://github.com/sahlhoff/react-native-pulse - React Native Pulse Animation
 https://github.com/halilb/react-native-textinput-effects - A library that unifies both android and iOS chromecast sdk
 https://github.com/JackPu/react-native-tips/blob/master/README.en.md
+https://github.com/sbycrosz/react-native-credit-card-input - Easy, cross-platform credit-card input for your React Native Project
 
 
 ##### Videos ######
@@ -73,8 +88,13 @@ https://www.youtube.com/watch?v=-XvOhjc7d1Q& - React Native TextInput Effects Co
 https://www.youtube.com/watch?v=sStf_ZbTXss - SnapChat in React Native
 https://www.youtube.com/watch?v=FIq45_Jveg8 - Hooking up Redux to React Native
 https://www.youtube.com/watch?v=3msLwu25SQY&list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5 - Getting Started with React Native and Redux
+https://codecookbook.co/post/how-to-share-text-from-your-react-native-app/
 
 
 ### Links ###
+https://codecookbook.co - Recipies for delicious React Native apps
+https://github.com/vhpoet/react-native-styling-cheat-sheet - Most of the React Native styling material in one page
 http://reactionic.github.io/
+https://www.icicletech.com/blog/react-native-starter-kits - Mobile App Development With 8 Awesome React-Native Starter Kits
+https://shoutem.github.io/ui/ - Open-source UI toolkit for React Native
 https://www.decosoftware.com - New React Native IDE
