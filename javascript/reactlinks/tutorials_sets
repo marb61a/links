@@ -14,12 +14,16 @@ http://www.sitepoint.com/quick-tip-video-player-component-react/
 http://www.sitepoint.com/bind-javascripts-this-keyword-react/
 http://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/
 https://www.sitepoint.com/music-streaming-app-electron-react-es6/
+https://www.sitepoint.com/exploring-reacts-state-propagation/
+https://www.sitepoint.com/building-a-game-reactjs-and-webgl/
 
 
 ###################################### Scotch.io ################################################################## 
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 https://scotch.io/tutorials/build-a-react-flux-app-with-user-authentication
 https://scotch.io/bar-talk/getting-started-with-redux-an-intro
+https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
+https://scotch.io/tutorials/routing-react-apps-the-complete-guide
 
 
 ###################################### Risingstack ################################################################
@@ -41,6 +45,7 @@ https://medium.com/code-cartoons/a-cartoon-guide-to-flux-6157355ab207
 https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.cqy6vtpdb
 https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878
 https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.i31p1x9oj
+https://medium.freecodecamp.com/async-operations-using-redux-saga-2ba02ae077b3#.vh0orgim6
 https://medium.com/@davidvlsea/react-without-undue-complications-f3490403fdc0#.l3f37lmab
 https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.80z1q4mv7
 https://medium.com/@roman01la/om-next-for-react-devs-introduction-and-project-setup-52b88f87264#.s1h3djud5
@@ -85,6 +90,18 @@ https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.6j
 https://medium.com/@royisch/6-lessons-learned-from-going-to-production-with-react-redux-19257f6724f6#.mwnirsbr7
 https://medium.com/@sheepsteak/adding-hot-module-reloading-to-create-react-app-e053fadf569d#.ma0fuol6a
 https://medium.com/@tarkus/react-app-sdk-5ae59106215b#.db12a9mql
+https://medium.com/@machnicki/why-redux-is-not-so-easy-some-alternatives-24816d5ad22d#.snorr1ytq
+https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454#.zamcvbm3c
+https://medium.com/tictail/introducing-tide-our-react-state-management-library-1dcc6e80551e#.6nczcruln
+https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.44nt5nfx9 
+https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19#.3547krdan
+https://medium.com/@nate_wang/a-new-approach-for-managing-redux-actions-91c26ce8b5da#.8c0b7w60r
+https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.29khbn8z8
+https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.izlh8kj57
+https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a#.9rd99fwwk
+https://medium.com/@kitze/configure-create-react-app-without-ejecting-d8450e96196a#.5t1dxcs5l
+https://medium.com/front-end-hacking/react-for-designers-3fbc7b6560dd#.lpes637jc
+https://medium.com/@mlthuret/building-a-react-components-living-documentation-using-react-storybook-5f11f0e7d23e#.grrdwmciz
 
 
 ###################################### Raja Rao ##################################################################
@@ -112,6 +129,9 @@ http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
 http://jamesknelson.com/universal-react-youre-doing-it-wrong/
 http://jamesknelson.com/learned-stop-worrying-love-jsx/
 http://jamesknelson.com/should-i-use-shouldcomponentupdate/
+http://jamesknelson.com/state-react-2-inception-redux/
+http://jamesknelson.com/state-react-1-stateless-react-app/
+http://jamesknelson.com/5-types-react-application-state/
 
 
 ###################################### Swizec ################################################################
@@ -131,3 +151,9 @@ http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webp
 http://krasimirtsonev.com/blog/article/distributing-react-components-babel-browserify-webpack-uglifyjs
 http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React
 http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
+
+
+###################################### Dave Ceddia ##################################################################
+https://daveceddia.com/react-es5-createclass-vs-es6-classes/
+https://daveceddia.com/react-gotchas/
+https://daveceddia.com/ajax-requests-in-react/
