@@ -137,3 +137,39 @@ https://github.com/hugsy/gef - Multi-Architecture GDB Enhanced Features for Expl
 https://github.com/LionSec/xerosploit - Efficient and advanced man in the middle framework
 https://github.com/kespindler/albatross - A modern, fast, simple async python3 web framework
 https://github.com/coala-analyzer/coala - unified command-line interface for linting and fixing all your code
+https://github.com/jh69/commandlinefu_slackbot - a slackbot allowing you to search commandlinefu from within slack
+https://github.com/jlsutherland/doc2text - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip.
+https://github.com/thomasantony/flybywire - A React-inspired declarative library for building DOM-based user interfaces in pure Python
+https://github.com/baidu/paddle - PArallel Distributed Deep LEarning
+https://github.com/juanpabloaj/runmultithread - Run the same process with different inputs in different threads
+https://github.com/shiyanhui/Young - A full-featured forum software built on Tornado and MongoDB
+https://github.com/orobix/retina-unet - Retina blood vessel segmentation with a convolutional neural network
+https://github.com/SunDwarf/Kyoukai - A fully async web framework for Python3.5+ using asyncio
+https://github.com/Dalloriam/engel - Build rock-solid web interfaces for your projects
+https://github.com/abrenaut/posio - A multiplayer geography game using Websockets
+https://github.com/shellphish/fuzzer - A Python interface to AFL, allowing for easy injection of testcases and other functionality
+https://github.com/fake-name/ReadableWebProxy - Rewriting web proxy and archival tool.
+https://github.com/alibaba/freeline - Freeline is a fast build and deployment tool for Android
+https://github.com/Yelp/undebt - A fast, straightforward, reliable tool for performing massive, automated code refactoring
+https://github.com/jjangsangy/ExplainToMe - Automatic Web Article Summarizer
+https://github.com/madflojo/automatron - Autonomous IT Systems Monitoring and Remediation
+https://github.com/bontchev/wlscrape - A tool for scrapping the possible malware from the Wikileaks AKP leak
+https://github.com/Yelp/git-code-debt - A dashboard for monitoring code debt in a git repository
+https://github.com/linkedin/pygradle - Using Gradle to build Python projects
+https://github.com/mwrlabs/needle - The iOS Security Testing Framework
+https://github.com/MacLeek/trackmac - A simple command line tool for OS X users to track their time spent on applications
+https://github.com/glitchassassin/lackey - Lackey - Graphical desktop automation with Python
+https://github.com/ethanhs/pyhooked - Pure Python hotkey hook, with thanks to pyHook and pyhk
+https://github.com/hhromic/python-twitter-toolbox - Twitter Toolbox for Python.
+https://github.com/jarun/imgp - Superfast batch image resizer and rotator
+https://github.com/pettarin/export-kobo - A Python tool to export annotations and highlights from a Kobo SQLite file.
+https://github.com/dhs-ncats/pshtt - Scan domains and return data based on HTTPS best practices
+https://github.com/pavelgonchar/face-search - Face search engine
+https://github.com/korcankaraokcu/PINCE - A reverse engineering tool that'll (hopefully) supply the place of Cheat Engine for linux
+https://github.com/felipevolpone/ray - a framework that helps you to deliver well-designed python APIs
+https://github.com/hynek/attrs - Python Attributes Without Boilerplate
+https://github.com/jwkvam/bowtie - create a dashboard with python
+https://github.com/huseyinyilmaz/placebo - Highly reusable API mocks for python applications
+https://github.com/mschwager/cohesion - A tool for measuring Python class cohesion.
+https://github.com/jamesturk/jellyfish - a python library for doing approximate and phonetic matching of strings.
+https://github.com/Lukasa/hyper - HTTP/2 for Python
