@@ -38,6 +38,7 @@ https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-git
 https://scotch.io/tutorials/seamless-ways-to-upgrade-angular-1-x-to-angular-2
 https://scotch.io/tutorials/properly-set-environment-variables-for-angular-apps-with-gulp-ng-config
 https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
+https://scotch.io/tutorials/understanding-angular-1-5-lifecycle-hooks
 
 
 ################################################# Konguso ##################################################### 
@@ -59,6 +60,7 @@ http://www.kogonuso.com/2015/09/angular-with-rails-part-ii-building-hr.html
 https://dzone.com/articles/dependency-injection-in-angular-1-vs-angular-2
 https://dzone.com/articles/migrating-a-spring-web-mvc-application-from-jsp-to
 https://dzone.com/articles/embracing-the-future-with-angularjs-20-web-compone-1
+https://dzone.com/articles/how-to-implement-a-smart-chunking-bootstrap-carous
 https://dzone.com/articles/10-reasons-web-developers
 https://dzone.com/articles/how-to-develop-salesforce-visualforce-apps-using-a-1
 
@@ -105,6 +107,8 @@ http://www.codeproject.com/Articles/1031858/Comprehensive-CRUD-Operations-with-A
 http://www.codeproject.com/Articles/1080064/Understanding-Filters-In-AngularJS-Part
 http://www.codeproject.com/Articles/1095313/Integrating-Angular-Js-Grid-ui-grid-with-MVC-plus
 http://www.codeproject.com/Articles/1094784/angles-of-angularjs-part
+http://www.codeproject.com/Articles/1103321/Custom-Validation-with-AngularJS
+http://www.codeproject.com/Articles/1123309/Configure-Angular-material-with-Require-Js
 
 
 ################################################# Dave Ceddia ##################################################### 
@@ -137,6 +141,15 @@ https://www.webcodegeeks.com/javascript/angular-js/using-angularjs-to-extend-you
 http://blog.pluralsight.com/tutorial-angularjs
 http://tutorials.pluralsight.com/review/using-a-spreadsheet-to-power-charts-in-angularjs-apps
 http://tutorials.pluralsight.com/front-end-javascript/filter-components-in-angularjs
+
+
+################################################# CSharp Corner ##################################################### 
+http://www.c-sharpcorner.com/UploadFile/8af675/create-signature-pad-using-angularjs/
+http://www.c-sharpcorner.com/article/learn-angularjs-from-beginning-part-1/
+http://www.c-sharpcorner.com/article/learning-angularjs-simplified-part-two/
+http://www.c-sharpcorner.com/blogs/data-binding-in-angularjs
+http://www.c-sharpcorner.com/article/useful-tools-for-angular-js-developers
+http://www.c-sharpcorner.com/article/angularjs-nested-scopes-and-controllers-as-syntax/
 
 
 ################################################# Miscellaneous ##################################################### 
@@ -174,9 +187,6 @@ http://angularjs4u.com/directive/angularjs-popup-window-social-authentication-di
 http://angularjs.chat/tutorials/angularjs-basic-chat-module/
 http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/
 https://kalimadev.wordpress.com/2016/02/05/hands-on-angularjs-browse-nyt-best-sellers/
-http://www.c-sharpcorner.com/UploadFile/8af675/create-signature-pad-using-angularjs/
-http://www.c-sharpcorner.com/article/learn-angularjs-from-beginning-part-1/
-http://www.c-sharpcorner.com/article/learning-angularjs-simplified-part-two/
 http://www.dotnetcurry.com/angularjs/1252/angularjs-service-factory
 http://jslancer.com/2016/02/19/demystify-angularjs-15-one-way-data-binding/
 http://devproconnections.com/javascript/web-pages-more-dynamic-angularjs
@@ -212,5 +222,9 @@ http://www.wisdomofjim.com/woj-blog/working-effectively-with-legacy-angular-code
 http://www.siddharthpandey.net/write-angularjs-components-with-nested-routing-using-typescript/
 http://victorsavkin.com/post/145672529346/angular-router
 http://webdev.snapagency.com/how-to-use-angular-js-and-json-api-to-build-wordpress-theme/
-http://www.codeproject.com/Articles/1103321/Custom-Validation-with-AngularJS
 http://victorsavkin.com/post/146722301646/angular-router-empty-paths-componentless-routes
+http://adgllorente.com/2016/08/build-a-secure-api-with-auth0-expressjs-and-angularjs/
+https://www.snapagency.com/blog/use-angular-js-json-api-build-wordpress-theme/
+https://technology.amis.nl/2016/09/05/angular-1-5-component-router-oauth2-0/
+http://www.geekhours.com/2016/07/19/creating-custom-directives-in-angularjs-4-examples/
+http://blog.grossman.io/angular-1-using-redux-architecture/
