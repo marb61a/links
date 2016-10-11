@@ -8,6 +8,8 @@ http://www.sitepoint.com/the-es6-conundrum/
 http://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
 http://www.sitepoint.com/transpiling-es6-modules-to-amd-commonjs-using-babel-gulp/
 http://www.sitepoint.com/joys-block-scoping-es6/
+https://www.sitepoint.com/up-and-running-with-eslint-the-pluggable-javascript-linter/
+http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
  
                             
                             ######################## JQuery  ############################
@@ -25,17 +27,23 @@ https://www.sitepoint.com/10-jquery-file-uploads/
 https://www.sitepoint.com/developing-jquery-plugins/
 https://www.sitepoint.com/10-jquery-panorama-image-display-plugins/
 https://www.sitepoint.com/10-jquery-form-validation-plugins/
+https://www.sitepoint.com/10-jquery-text-highlighter-plugins/
 
 
                             
                             ######################## Functional ############################
-http://www.sitepoint.com/currying-in-functional-javascript/
-http://www.sitepoint.com/measuring-javascript-functions-performance/
-http://www.sitepoint.com/recursion-functional-javascript/
+https://www.sitepoint.com/introduction-functional-javascript/
+https://www.sitepoint.com/currying-in-functional-javascript/
+https://www.sitepoint.com/measuring-javascript-functions-performance/
+https://www.sitepoint.com/recursion-functional-javascript/
 https://www.sitepoint.com/function-composition-building-blocks-for-maintainable-code/
 https://www.sitepoint.com/factory-functions-javascript/
 https://www.sitepoint.com/rxjs-functions-with-examples/
-http://www.sitepoint.com/functional-reactive-programming-rxjs/
+https://www.sitepoint.com/functional-reactive-programming-rxjs/
+https://www.sitepoint.com/function-expressions-vs-declarations/
+https://www.sitepoint.com/getting-started-with-underscore-js/
+https://www.sitepoint.com/lodash-features-replace-es6/
+https://www.sitepoint.com/functional-programming-with-ramda/
 
                             
                             ######################## Testing ############################
@@ -44,8 +52,13 @@ https://www.sitepoint.com/javascript-functional-testing-nightwatch-js/
 http://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/
 
 
-                            ######################## Miscellaneous ############################
+                            ######################## Javacript ############################
+http://www.sitepoint.com/writing-better-javascript-with-flow/
+http://www.sitepoint.com/sending-emails-gmail-javascript-api/
 
+
+
+                            ######################## Miscellaneous ############################
 
 http://www.sitepoint.com/creating-accessible-breakout-game-using-web-audio-svg/
 http://www.sitepoint.com/guide-to-npm-as-a-build-tool/
@@ -53,7 +66,6 @@ http://www.sitepoint.com/full-screen-bootstrap-carousel-random-initial-image/
 http://www.sitepoint.com/multilingual-support-for-angularjs/
 http://www.sitepoint.com/experimenting-object-observe-javascript-found-useful/
 http://www.sitepoint.com/introducing-four-webgl-easier/
-http://www.sitepoint.com/writing-better-javascript-with-flow/
 http://www.sitepoint.com/voice-controlled-audio-player-web-speech-api/
 http://www.sitepoint.com/preloading-images-in-parallel-with-promises/
 http://www.sitepoint.com/3-javascript-orms-you-might-not-know/
@@ -70,16 +82,13 @@ http://www.sitepoint.com/google-maps-made-easy-with-gmaps-js/
 http://www.sitepoint.com/using-socket-io-and-cordova-to-create-a-real-time-chat-app/
 http://www.sitepoint.com/parallel-javascript-with-paralleljs/
 http://www.sitepoint.com/creating-webgl-game-unity-5-javascript/
-http://www.sitepoint.com/getting-started-with-underscore-js/
 http://www.sitepoint.com/creating-a-multiselect-component-as-a-web-component/
 http://www.sitepoint.com/using-inline-partials-and-decorators-with-handlebars-4-0/
 http://www.sitepoint.com/introduction-to-jcanvas-jquery-meets-html5-canvas/
-http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
 http://www.sitepoint.com/lazy-loading-images-igaro-app-javascript-framework/
 http://www.sitepoint.com/quick-tip-master-closures-by-reimplementing-them-from-scratch/
 http://www.sitepoint.com/creating-an-imgur-app-with-nativescript/
 http://www.sitepoint.com/generating-pdfs-from-web-pages-on-the-fly-with-jspdf/
-http://www.sitepoint.com/sending-emails-gmail-javascript-api/
 http://www.sitepoint.com/building-3d-engine-javascript/
 http://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/
 http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
@@ -87,16 +96,13 @@ http://www.sitepoint.com/creating-donation-widget-with-flight-components/
 http://www.sitepoint.com/using-soundcloud-api-javascript-sdk/
 http://www.sitepoint.com/javascript-modules-bundling-transpiling/
 http://www.sitepoint.com/proper-error-handling-javascript/
-http://www.sitepoint.com/function-expressions-vs-declarations/
 http://www.sitepoint.com/javascript-testing-unit-functional-integration/
 https://www.sitepoint.com/modular-javascript-systemjs-jspm/
 https://www.sitepoint.com/accessible-web-components/
 https://www.sitepoint.com/custom-pdf-rendering/
 https://www.sitepoint.com/smooth-scrolling-vanilla-javascript/
-https://www.sitepoint.com/10-jquery-text-highlighter-plugins/
 https://www.sitepoint.com/try-webassembly-today/
 https://www.sitepoint.com/write-maintainable-javascript/
-https://www.sitepoint.com/lodash-features-replace-es6/
 https://www.sitepoint.com/make-a-simple-javascript-slideshow-without-jquery/
 https://www.sitepoint.com/expressions-javascript/
 https://www.sitepoint.com/design-and-build-your-own-javascript-library/
@@ -107,9 +113,14 @@ https://www.sitepoint.com/horizon-a-scalable-backend-perfect-for-javascript-mobi
 https://www.sitepoint.com/jsonp-examples/
 https://www.sitepoint.com/self-documenting-javascript/
 https://www.sitepoint.com/introduction-to-typescript/
-https://www.sitepoint.com/functional-programming-with-ramda/
 https://www.sitepoint.com/d3-js-data-visualizations/
 https://www.sitepoint.com/introduction-chart-js-2-0-six-examples/
 https://www.sitepoint.com/getting-started-with-pouchdb/
 https://www.sitepoint.com/cache-fetched-ajax-requests/
 https://www.sitepoint.com/getting-started-with-vue-js/
+https://www.sitepoint.com/javascript-refactoring-techniques-specific-to-generic-code/
+https://www.sitepoint.com/pragmatic-monkey-patching/
+https://www.sitepoint.com/saved-from-callback-hell/
+https://www.sitepoint.com/building-a-game-reactjs-and-webgl/
+https://www.sitepoint.com/add-remove-css-class-vanilla-js/
+
