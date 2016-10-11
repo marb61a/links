@@ -28,8 +28,6 @@ http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
 http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/
 http://appcues.com/blog/64-tooltip-plugins-made-with-jquery-css-javascript-or-more/
 https://raygun.io/blog/2015/06/useful-javascript-debugging-tips-you-didnt-know/
-http://davidwalsh.name/creating-animated-product-slider-sequencejs
-https://davidwalsh.name/javascript-documentation
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html
 http://jonathancreamer.com/document-es6-with-esdoc/
 http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx
@@ -44,6 +42,7 @@ https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript
 http://blog.getsentry.com/2015/10/29/debuggable-javascript-with-source-maps.html
 https://aerotwist.com/blog/the-cost-of-frameworks/
 http://engineroom.teamwork.com/10-things-to-know-about-gulp/
+http://blog.webkid.io/replacing-jquery-with-d3/
 http://www.raymondcamden.com/2015/12/08/parsing-rss-feeds-in-javascript-options
 http://www.rricard.me/es6/aws/lambda/nodejs/2015/11/29/es6-on-aws-lambda.html
 http://technologyadvice.github.io/es7-decorators-babel6/
@@ -68,6 +67,7 @@ http://rosenfeld.herokuapp.com/en/articles/2016-02-29-getting-an-spa-to-load-the
 https://www.toptal.com/javascript/writing-testable-code-in-javascript
 http://nickmeldrum.com/blog/decorators-in-javascript-using-monkey-patching-closures-prototypes-proxies-and-middleware
 https://www.twilio.com/blog/2016/03/getting-started-with-the-twilio-video-javascript-sdk.html
+https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html
 https://engineering.mongodb.com/post/code-generating-away-the-boilerplate-in-our-migration-back-to-spidermonkey/
 http://knpw.rs/blog/using-lodash
 http://bytearcher.com/articles/understanding-prototype-property-in-javascript/
@@ -103,11 +103,13 @@ https://blog.sqreen.io/embedding-javascript-into-python/
 http://mike-ward.net/2016/08/01/exploring-mithril-a-javascript-framework-for-building-brilliant-applications/
 https://bethallchurch.github.io/JavaScript-and-Functional-Programming/
 http://wesbos.com/arrow-functions/
+http://wesbos.com/javascript-default-function-arguments/
 http://blog.yanivkessler.com/2016/08/07/consuming-a-dynamodb-stream-in-the-browser/
 https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/
 https://advancedweb.hu/2016/08/09/parallel-processing-in-js/
 https://javascriptrefined.io/nan-and-typeof-36cd6e2a4e43#.jjebtq256
 https://philipwalton.com/articles/untangling-deeply-nested-promise-chains/
+https://philipwalton.com/articles/loading-polyfills-only-when-needed/
 https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/
 http://x-team.com/2016/08/beginners-guide-ionic-2-mobile-applications/
 http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad
@@ -116,3 +118,17 @@ https://madebymike.com.au//writing/service-workers/
 https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
 http://hasharray.pw/tutorials/javascript/tracking-outbound-forms-and-links-with-google-analytics
 https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/
+https://blog.aria.ai/post/why-use-flow/
+http://avitureblog.com/2016/09/01/webpack-hot-reloading.html
+http://ryanmorr.com/true-hash-maps-in-javascript/
+http://raganwald.com/2015/05/30/de-stijl.html
+https://gorillalogic.com/blog/using-lambdas-with-bluebird-map/
+https://bitsofco.de/variable-and-function-hoisting-in-es2015/
+https://bitsofco.de/javascript-promises-102/
+https://medium.com/purse-essays/introducing-bcoin-fdfcb22dfa34#.4nb85hbfx
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.6rq4b15wj
+http://blog.avenuecode.com/lazy-loading-es2015-modules-in-the-browser/
+http://blog.bandwidth.com/slackwatch-monitor-your-aws-service-from-slack-using-cloudwatch-and-sns/
+https://blog.avocode.com/blog/4-must-know-tips-for-building-cross-platform-electron-apps
+https://benjaminlistwon.com/blog/data-flow-in-vue-and-vuex/
+
