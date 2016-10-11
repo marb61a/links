@@ -18,6 +18,8 @@ http://ponyfoo.com/articles/es6-strings-and-unicode-in-depth
 http://ponyfoo.com/articles/progressive-app-serviceworker
 http://ponyfoo.com/articles/understanding-javascript-async-await
 https://ponyfoo.com/articles/javascript-decorators-proposal
+https://ponyfoo.com/articles/template-literals-strictly-better-strings
+https://ponyfoo.com/articles/javascript-asynchronous-iteration-proposal
 
 
 ####################################### Medium ###########################################################
@@ -44,6 +46,9 @@ https://medium.com/@homam/timing-asynchronous-functions-in-javascript-es6-2635ed
 https://medium.com/outsystems-experts/beyond-console-debugging-tricks-f7d0d7f5df4#.vvcj4tta4
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.w9sxy5gxf
 https://medium.com/fattura-con-billy/animated-stacked-bar-charts-with-d3-js-2ef928163e59#.hgd8c24ri
+https://medium.com/walmartlabs/use-easy-fix-to-run-integration-tests-like-unit-tests-834288ec446d#.68s8uh36p
+https://medium.com/re-dom/master-the-dom-bc1a2a06089b#.nzzas3lpk
+https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.gqyw37vpl
 
 
 ###################################### Freecodecamp ###########################################################
@@ -72,6 +77,7 @@ http://developer.telerik.com/featured/native-mobile-maps-from-telerik-and-mapbox
 http://developer.telerik.com/featured/tools-learn-javascript/
 http://developer.telerik.com/content-types/tutorials/easier-web-application-debugging-command-line-api/
 http://developer.telerik.com/featured/popular-javascript-tools-depend/
+http://developer.telerik.com/featured/fetch-modern-async-server-calls/
 
 
 ####################################### 2Ality ###########################################################
@@ -98,6 +104,8 @@ http://www.2ality.com/2016/04/unhandled-rejections.html
 http://www.2ality.com/2016/04/promise-trees.html
 http://www.2ality.com/2016/05/six-nifty-es6-tricks.html
 http://www.2ality.com/2016/05/template-literal-whitespace.html
+http://www.2ality.com/2016/09/global.html
+http://www.2ality.com/2016/09/three-useful-babel-presets.html
 
 
 ####################################### Mozilla ###########################################################
@@ -108,9 +116,12 @@ https://developer.mozilla.org/en-US/docs/Games/Workflows/2D_Breakout_game_pure_J
 https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas/engine
 https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+https://hacks.mozilla.org/2016/09/introducing-debugger-html/
 
 
 ####################################### James K Nelson ###########################################################
+http://jamesknelson.com/are-es6-promises-swallowing-your-errors/
+https://davidwalsh.name/essential-javascript-functions
 http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/
 http://jamesknelson.com/why-you-shouldnt-style-with-javascript/
 
@@ -140,6 +151,7 @@ https://auth0.com/blog/2016/03/23/intro-to-immutable-js/
 https://auth0.com/blog/2016/04/05/quicktip-use-jhipster/
 https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them
 https://auth0.com/blog/aurelia-1.0-how-to-build-a-simple-secured-application/
+https://auth0.com/blog/understanding-reactive-programming-and-rxjs/
 
 
 ####################################### Marius Schultz ###########################################################
@@ -160,3 +172,9 @@ http://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-as
 https://blog.risingstack.com/web-authentication-methods-explained/
 https://blog.risingstack.com/writing-a-javascript-framework-sandboxed-code-evaluation/
 https://blog.risingstack.com/writing-a-javascript-framework-execution-timing-beyond-settimeout/
+
+
+####################################### David Walsh ###########################################################
+http://davidwalsh.name/creating-animated-product-slider-sequencejs
+https://davidwalsh.name/javascript-documentation
+https://davidwalsh.name/modernization-reactivity
