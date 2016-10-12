@@ -1,34 +1,5 @@
                                     Game Development Tutorials
 
-
-####################################### Emanuele Ferronato ###########################################################
-http://www.emanueleferonato.com/2015/12/24/new-minibook-released-create-html5-vertical-endless-runner-cross-platform-games/
-http://www.emanueleferonato.com/2015/08/27/learn-how-phaser-manages-draggable-objects-by-making-the-html5-engine-behind-rush-hour-game/
-http://www.emanueleferonato.com/2015/09/15/pure-javascript-poker-hand-analyzer-to-be-used-also-in-puzzle-games/
-http://www.emanueleferonato.com/2015/12/10/calculating-dynamic-light-and-shadows-in-tile-based-roguelike-games-part-1-bresenhams-line-algorithm/
-http://www.emanueleferonato.com/2016/01/15/phaser-tutorial-create-a-html5-prototype-of-the-ios-game-dashy-panda/
-http://www.emanueleferonato.com/2016/01/18/how-to-create-a-html-draggable-and-scrollable-map-with-inertia-using-phaser-framework/
-http://www.emanueleferonato.com/2016/01/25/create-a-html5-level-select-screen-controlled-by-swipe-without-actually-checking-for-swipes/
-http://www.emanueleferonato.com/2016/01/20/phaser-tutorial-creation-of-a-html5-character-selection-screen-like-the-one-in-crossy-road-ios-smash-hit/
-http://www.emanueleferonato.com/2016/02/01/understanding-steering-behavior-html5-example-using-phaser/
-http://www.emanueleferonato.com/2015/08/11/html5-down-the-mountain-game-prototype-made-with-phaser-actually-going-down-the-mountain/
-http://www.emanueleferonato.com/2016/01/04/clocks-the-game-html5-prototype-step-2-how-to-select-starting-clock/
-http://www.emanueleferonato.com/2016/01/12/how-to-simulate-flocking-behavior-with-boids-using-html5-and-phaser/
-http://www.emanueleferonato.com/2016/02/23/html5-prototype-of-ios-game-perfect-square-made-with-phaser-using-only-tweens-in-100-lines-of-code/
-http://www.emanueleferonato.com/2016/03/02/hello-world-airconsole-tutorial-your-first-airconsole-project/
-http://www.emanueleferonato.com/2016/03/18/html5-prototype-of-pop-the-lock-ios-blockbuster-using-phaser/
-http://www.emanueleferonato.com/2016/03/22/html5-prototype-of-pop-the-lock-ios-blockbuster-using-phaser-step-2/
-http://www.emanueleferonato.com/2016/03/16/understanding-signal-dispatch-with-phaser/
-http://www.emanueleferonato.com/2016/03/14/manage-leaderboards-in-your-html5-game-with-app42-cloud-api/
-http://www.emanueleferonato.com/2016/03/24/run-a-html5-games-portal-the-quick-and-easy-way-with-best-arcade-script/
-http://www.emanueleferonato.com/2016/06/20/make-your-html5-games-run-on-android-devices-with-cordova-and-android-studio/
-http://www.emanueleferonato.com/2016/06/28/html5-drag-and-match-engine-made-with-phaser-updated-to-phaser-2-5-0/
-http://www.emanueleferonato.com/2016/06/15/control-your-html5-game-character-like-in-vvvvvv-mobile-game-with-construct2-adding-more-directions/
-http://www.emanueleferonato.com/2016/05/25/easily-add-googles-doubleclick-ads-in-your-html5-games-with-a-little-phaser-plugin/
-http://www.emanueleferonato.com/2016/06/03/make-your-javascript-application-or-html5-game-protect-itself-with-jscrambler-4/
-http://www.emanueleferonato.com/2016/06/09/html5-dungeon-raid-tile-engine-made-with-phaser-part-3/
-http://www.emanueleferonato.com/2016/06/17/match-3-bejeweled-html5-prototype-made-with-phaser-suggesting-moves/
-
 ####################################### Game Dev Academy ###########################################################
 https://gamedevacademy.org/platformer-tutorial-with-phaser-and-tiled/
 https://gamedevacademy.org/how-to-make-a-turn-based-rpg-game-in-phaser-part-2/
@@ -36,6 +7,8 @@ https://gamedevacademy.org/phaser-rpg-tutorial/
 https://gamedevacademy.org/phaser-rpg-tutorial-3/
 https://gamedevacademy.org/how-to-use-state-machines-to-control-behavior-and-animations-in-phaser/
 https://gamedevacademy.org/how-to-procedurally-generate-a-dungeon-in-phaser-part-1/
+https://gamedevacademy.org/how-to-use-phaser-signals-to-save-game-statistics/
+https://gamedevacademy.org/js13kgames-tutorial-video-series/
 
 
 ######################################## Smashing ##################################################### 
@@ -43,13 +16,26 @@ https://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/
 https://www.smashingmagazine.com/2015/11/gamepad-api-in-web-games/
 https://www.smashingmagazine.com/2016/02/simple-augmented-reality-with-opencv-a-three-js/
 https://www.smashingmagazine.com/2016/03/procedural-content-generation-introduction/
-https://www.smashingmagazine.com/2016/06/make-music-in-the-browser-with-a-web-audio-theremin/#
+https://www.smashingmagazine.com/2016/06/make-music-in-the-browser-with-a-web-audio-theremin/
+https://www.smashingmagazine.com/2016/08/how-to-create-a-responsive-8-bit-drum-machine-using-web-audio-svg-and-multitouch/
 
 
 ######################################## Tutsplus ##################################################### 
 http://gamedevelopment.tutsplus.com/articles/game-development-for-kids--cms-25298
 http://gamedevelopment.tutsplus.com/tutorials/how-to-implement-and-use-a-message-queue-in-your-game--cms-25407
 http://code.tutsplus.com/articles/which-platform-to-choose-for-your-next-mobile-game--cms-25843
+https://gamedevelopment.tutsplus.com/articles/how-to-design-levels-with-the-super-mario-world-method--cms-25177
+https://gamedevelopment.tutsplus.com/articles/how-to-design-levels-with-the-super-mario-world-method--cms-25177
+https://gamedevelopment.tutsplus.com/articles/making-levels-with-the-super-mario-world-method-skill-themes-part-2--cms-26110
+https://gamedevelopment.tutsplus.com/articles/the-super-mario-world-method-understanding-skill-themes--cms-25722
+https://gamedevelopment.tutsplus.com/articles/the-super-mario-world-method-using-evolutions-and-expansions--cms-25295
+https://gamedevelopment.tutsplus.com/articles/using-texture-atlas-in-order-to-optimize-your-game--cms-26783
+
+
+######################################## Firenibbler ##################################################### 
+http://www.firenibbler.com/2016/05/best-performance-tips-and-tricks-for-your-html5-canvas-games
+http://www.firenibbler.com/2016/04/hyper-js-update-new-html5-game-library/
+http://www.firenibbler.com/2016/04/how-to-js-collision-detection-cheat-sheets-learn-aabb-box-circle-and-point-detection
 
 
 ######################################## Mozilla ##################################################### 
@@ -57,6 +43,13 @@ https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building
 https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory
 https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/GLSL_Shaders
 https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/
+https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Babylon.js
+
+
+######################################## Gamasutra ##################################################### 
+http://www.gamasutra.com/blogs/TequilaWorks/20160620/275347/How_to_take_advantage_of_textures_in_the_vertex_shader.php
+http://www.gamasutra.com/view/news/273325/Game_Design_Deep_Dive_Dying_Lights_Natural_Movement_system.php
+http://www.gamasutra.com/view/news/270949/7_examples_of_great_game_physics_that_every_developer_should_study.php
 
 
 ####################################### Miscellaneous ###########################################################
@@ -68,11 +61,20 @@ http://www.html5gamedevs.com/topic/19361-cheatsheets-for-phaser-v244/
 http://www.html5gamedevelopment.com/html5-game-tutorials/2016-02-building-a-google-chromecast-game
 http://www.askforgametask.com/2015/12/07/reddit-image-scraper/
 https://developer.amazon.com/appsandservices/community/post/Tx1RUB5UH2BXGM3/Webinar-From-Idea-to-Appstore-Building-Successful-Cross-Platform-Games
-http://code.tutsplus.com/articles/which-platform-to-choose-for-your-next-mobile-game--cms-25843
-http://www.gamasutra.com/blogs/TequilaWorks/20160620/275347/How_to_take_advantage_of_textures_in_the_vertex_shader.php
-http://www.gamasutra.com/view/news/273325/Game_Design_Deep_Dive_Dying_Lights_Natural_Movement_system.php
 https://www.anexia-it.com/blog/en/introduction-to-the-phaser-framework/
 http://dev.agnis.in/cooking-a-new-html5-game-in-phaser/
 https://dotdev.co/how-to-write-a-readme-that-rocks-bc29f279611a#.pj3zlhgti
 http://hacknplan.com/understanding-vertical-slicing/
+http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
+http://burnmind.com/tutorials/drag-sprite-horizontally-vertically-phaser
+http://sbcgamesdev.blogspot.ie/2016/04/phaser-tutorial-using-spriter-player.html
+http://www.merixstudio.com/blog/html5-game-development-touch-screen-displays/
+http://www.lessmilk.com/tutorial/breakout-phaser
+https://medium.com/@timrwood/moment-endof-term-522d8965689#.t5jya1in4
+https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.5ele0bd4d
+http://zofiakorcz.pl/mastermind-react-es6-webpack
+http://thenewcode.com/1132/Glitch-Art-with-HTML5-Canvas
+http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/
+http://blog.geofenceapi.org/post/149196681132/building-pokemongo-in-pure-html-javascript-css
+https://heroiclabs.com/blog/2016/08/30/building-social-javascript-games/
 
