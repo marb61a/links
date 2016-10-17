@@ -4,6 +4,8 @@
                                       
 ###################################### Honeybadger ####################################################
 http://blog.honeybadger.io/how-unicorn-talks-to-nginx-an-introduction-to-unix-sockets-in-ruby/
+http://blog.honeybadger.io/using-lambdas-in-ruby/
+http://blog.honeybadger.io/capturing-stdout-stderr-from-shell-commands-via-ruby/
 http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/
 http://blog.honeybadger.io/ruby-splat-array-manipulation-destructuring/
 http://blog.honeybadger.io/ruby-regex-tricks/
@@ -23,6 +25,7 @@ http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/
 https://medium.com/iron-io-blog/how-to-create-a-tiny-docker-image-for-your-ruby-app-f8d7d622d80b
 https://medium.com/@christophelimpalair/why-the-founder-of-rails-automatically-rejects-80-of-software-engineer-applicants-4e2a4d255f58
 https://medium.com/kamil-lelonek-personal-blog/why-a-function-signature-may-sometimes-lie-to-you-43b05931bf41
+https://medium.com/streetbees-engineering/pragmatic-clean-code-architecture-d0d34f38849a#.sli8igs4q
 https://medium.com/@WoloxEngineering/image-processing-in-rails-using-aws-lambda-43b5b268019f
 https://medium.com/raise-coffee/you-ll-love-module-function-ca5f05284310#.fnhibx8mw
 https://medium.com/@heidar/switching-from-rbenv-to-postmodern-s-ruby-install-and-chruby-f0daa24b36e6#.qibldfs14
@@ -41,10 +44,14 @@ https://medium.com/@Bakku1505/introduction-to-dependency-injection-in-ruby-dc238
 https://medium.com/table-xi/focus-your-rspec-workflow-4cd5798d2a3e#.821o81mzm
 https://medium.com/@rudyyazdi/rake-gem-explained-ebee7e6e6f72#.uv74rcwn5
 https://medium.com/blog-goncalopereira-com/development-quality-for-ruby-and-chef-59ed7a3e94dc#.lk3n4gws6
+https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e#.8txtg6v7h
+https://medium.com/in-the-weeds/stabilizing-your-test-suite-settings-3139f706ba65#.poh7gpp92
+https://medium.com/@eric.programmer/the-sql-alternative-to-counter-caches-59e2098b7d7#.o3osc7nd4
 
 
 ###################################### Justin Weiss ####################################################
 http://www.justinweiss.com/blog/2015/09/01/should-you-use-scopes-or-class-methods/
+http://www.justinweiss.com/articles/with-so-much-rails-to-learn//
 http://www.justinweiss.com/blog/2015/09/08/keeping-your-logs-from-becoming-an-unreadable-mess/
 http://www.justinweiss.com/blog/2015/09/15/3-steps-to-fix-encoding-problems-in-ruby/
 http://www.justinweiss.com/articles/how-to-get-from-theyre-to-theyre//
@@ -61,6 +68,7 @@ https://semaphoreci.com/community/tutorials/testing-mixins-in-isolation-with-min
 https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec
 https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-minitest
 https://semaphoreci.com/community/tutorials/how-to-reduce-controller-bloat-with-interactors-in-ruby
+https://semaphoreci.com/community/tutorials/using-rspec-metadata
 
 
 ###################################### Jake Yesbeck ####################################################
@@ -89,6 +97,7 @@ http://blog.codeship.com/how-to-apply-rubocop-to-your-large-rails-codebase/
 http://blog.codeship.com/testing-rails-application-docker/
 http://blog.codeship.com/how-to-use-rails-active-job/
 http://blog.codeship.com/know-your-sidekiq-testing-rights/
+http://blog.codeship.com/visualizing-garbage-collection-ruby-python/
 http://blog.codeship.com/debugging-a-memory-leak-on-heroku/
 http://blog.codeship.com/how-to-find-ruby-code-smells-with-reek/
 http://blog.codeship.com/building-a-json-api-with-rails-5/
@@ -104,6 +113,7 @@ http://blog.codeship.com/surrogate-websockets/
 http://blog.codeship.com/the-json-api-spec/
 http://blog.codeship.com/a-deep-dive-into-ruby-scopes/
 http://blog.codeship.com/generational-gc-python-ruby/
+http://blog.codeship.com/mark-methods-private-when-you-dont-test-them/
 https://blog.codeship.com/producing-documentation-for-your-rails-api/
 https://blog.codeship.com/optimists-guide-pessimistic-library-versioning/
 https://blog.codeship.com/how-to-find-ruby-code-smells-with-reek/
@@ -124,6 +134,8 @@ https://resources.codeship.com/ebooks/docker-machine-compose-swarm
 https://blog.codeship.com/a-review-of-immutability-in-ruby/
 https://blog.codeship.com/http-calls-ruby/
 https://blog.codeship.com/good-module-bad-module/
+https://blog.codeship.com/getting-started-with-minitest
+https://blog.codeship.com/improving-rails-performance-better-background-jobs/
 
 
 ###################################### Rossta ####################################################
@@ -163,6 +175,7 @@ http://eftimov.net/primitive-obsession-ruby
 
 
 ###################################### Twillio ####################################################
+https://www.twilio.com/blog/2015/04/validate-phone-numbers-in-ruby-using-the-lookup-api.html
 https://www.twilio.com/blog/2015/10/4-ways-to-parse-a-json-api-with-ruby.html
 https://www.twilio.com/blog/2015/10/delay-api-calls-to-twilio-with-rails-active-job-and-sidekiq.html
 https://www.twilio.com/blog/2016/01/two-factor-authentication-in-rails-4-with-devise-authy-and-puppies.html
@@ -175,7 +188,7 @@ https://www.twilio.com//blog/2016/09/ruby-twilio-voice-phone-hotline.html
 http://gavinmiller.io/2016/creating-a-secure-sanitization-function/
 http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/
 http://gavinmiller.io/2015/fixing-file-access-vulnerabilities-in-ruby-and-rails/
-
+http://gavinmiller.io/2016/the-safesty-way-to-constantize/
 
 ###################################### Pluralsight ####################################################
 http://tutorials.pluralsight.com/review/elastic-search-with-ruby-on-rails
@@ -240,6 +253,7 @@ http://blog.arkency.com/2016/06/mutation-testing-of-rails-views/
 http://blog.arkency.com/2016/07/testing-soap-api-adapters/
 http://blog.arkency.com/2016/06/cover-all-test-cases-with-permutation/
 http://blog.arkency.com/2016/07/phases-of-refactoring-complex-rails-apps/
+http://blog.arkency.com/2016/09/minimal-decoupled-subsystems-of-your-rails-app/
 
 
 ###################################### Tutsplus ####################################################
@@ -250,6 +264,7 @@ http://code.tutsplus.com/articles/antipatterns-basics-rails-controllers--cms-259
 http://code.tutsplus.com/tutorials/generating-pdfs-from-html-with-rails--cms-22918
 http://computers.tutsplus.com/tutorials/customize-the-menu-bar-with-bitbar--cms-26946
 https://code.tutsplus.com/articles/full-text-search-in-rails-using-elasticsearch--cms-22920
+http://code.tutsplus.com/tutorials/rails-image-upload-using-dragonfly--cms-26179
 
 
 ###################################### Ruby Pidgeon ####################################################
@@ -293,3 +308,10 @@ https://blog.phusion.nl/2016/08/04/using-rails-5-actioncable-and-rethinkdb-to-bu
 https://blog.phusion.nl/2016/07/07/actioncable-under-stress-p1/
 https://blog.phusion.nl/2016/07/27/using-ssl-with-passenger-in-development-on-macos/
 https://blog.phusion.nl/2016/08/31/efficiently-and-conveniently-building-ruby-and-node-js-application-docker-containers-for-production-2/
+
+
+###################################### Ready Steady Code ####################################################
+http://readysteadycode.com/howto-parse-html-with-ruby-and-nokogiri
+http://readysteadycode.com/howto-access-amazon-dynamodb-with-ruby
+http://readysteadycode.com/howto-access-the-gmail-api-with-ruby
+http://readysteadycode.com/howto-manage-campaign-monitor-lists-with-ruby
