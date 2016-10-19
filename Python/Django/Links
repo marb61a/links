@@ -6,6 +6,8 @@
   
 ###VIDEOS
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t - DjangoCon 2015 (US)
+https://skillsmatter.com/skillscasts/9137-full-clean-factories - Full clean factories
+https://www.youtube.com/watch?v=3UC1MNFOjEI - Comparing Wagtail, Django CMS and Mezzanine
   
   
 ###CODE
@@ -25,6 +27,32 @@ https://github.com/bitpixdigital/django-next-train - A lightweight public transi
 https://github.com/jay-johnson/docker-django-nginx-slack-sphinx - Django + nginx using Docker Compose with Slack + uWSGI + Sphinx + Bootstrap + Bootswatch + AJAX
 https://github.com/bfirsh/django-docker-cloud-template - A template for creating Django applications that run on Docker Cloud
 https://github.com/maykinmedia/django-timeline-logger - A reusable Django app to log actions and display them in a timeline
+https://github.com/pyconsk/django-konfera - Django app for organising conferences
+https://github.com/vandersonmota/model_mommy - Object factory for django
+https://github.com/klen/mixer - a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects.
+https://github.com/machinalis/mypy-django - PEP-484 type hints bindings for the Django web framework
+https://github.com/hypertrack/django-pg-utils - Custom query expressions for Django, built on top of PostgreSQL functions
+https://github.com/fridiculous/django-estimators - a django app to load and persist scikit learn machine learning models
+https://github.com/fcurella/django-fakery - An easy-to-use implementation of Creation Methods for Django
+https://github.com/coddingtonbear/django-measurement - Easily store, retrieve, and convert measurements of weight, volume, distance, area and more.
+https://github.com/jamescooke/factory_djoy - Factories for Django, creating valid instances every time
+https://github.com/anymail/django-anymail - Django email backends and webhooks for Mailgun, Postmark, SendGrid, SparkPost and more
+https://github.com/zenwalker/django-micro - Django as microframework
+https://github.com/UrangUrang/SimpleReactDjango - Simple React on Django
+https://github.com/alorence/django-modern-rpc - Simple XML-RPC and JSON-RPC server for Django 1.10, 1.9 & 1.8
+https://github.com/pydanny/cookiecutter-django - a framework for jumpstarting production-ready Django projects quickly.
+https://github.com/robinhood/deux - Multifactor Authentication for Django Rest Framework
+https://github.com/django-money/django-money - Money fields for django forms and models.
+https://github.com/pennersr/django-trackstats - Keep track of your statistics
+https://github.com/dmonn/django-directmessages - a low-level and easy-to-use Django App to manage simple directmessages.
+https://github.com/bfirsh/django-docker-cloud-template - A template for creating Django applications that run on Docker Cloud
+https://github.com/djangobot/djangobot - Bridge between Slack and Django, via Channels
+https://github.com/django-functest/django-functest/ - Helpers for creating high-level functional tests in Django
+https://github.com/geex-arts/django-jet - Modern responsive template for the Django admin interface with improved functionality
+https://github.com/barseghyanartur/django-fobi - Form generator/builder application for Django
+https://github.com/taigaio/taiga-back - Project management web application with scrum in mind
+https://github.com/jsocol/django-ratelimit - Cache-based rate-limiting for Django
+https://github.com/django-salesforce/django-salesforce - Salesforce integration for Django's ORM using the SF REST API
 
   
 ###LINKS
