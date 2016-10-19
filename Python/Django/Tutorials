@@ -4,6 +4,36 @@
 http://www.sitepoint.com/deploying-a-django-app-with-mod_wsgi-on-ubuntu-14-04/
 
 
+######################################## Medium ##############################################
+https://medium.com/@raiderrobert/make-your-django-models-dryer-4b8d0f3453dd#.e3n530c6t
+https://medium.com/@oliverroick/testing-django-lessons-learned-709d7e3f6fc1#.pz1yt93fc
+https://medium.com/@adamdonaghy/unit-testing-django-middleware-2e8cb26e06ca#.uexjbcd35
+https://medium.com/@adandan01/django-inline-formsets-example-mybook-420cc4b6225d#.2ayiuqcrj
+https://medium.com/@TheCraigHewitt/rails-vs-django-vs-laravel-an-analysis-of-web-frameworks-from-a-non-technical-founder-312506969afd#.wjbxunpdh
+https://medium.com/@adriennedomingus/signals-in-django-24b6a945cd97#.dxynca820
+https://medium.com/@raiderrobert/5-django-packages-that-get-too-little-love-d55232c28640#.ybbz3h7hu
+https://medium.com/@davidmller_78276/how-to-connect-your-django-docker-app-to-aws-1b97e62f88ae#.t4zeh5gwu
+https://medium.com/@thorgate/one-page-websites-with-django-cms-52046e89d22f#.ovdai5mjx
+https://medium.com/wdstack/django-crispy-forms-what-are-they-about-5bfa1ffa5187#.ca1kp6kjr
+https://medium.com/@hansjhoffman/0-custom-django-1-9-email-authentication-backend-a312ad71b304#.bfg5xb2ac
+https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614#.aekljxvpk
+
+
+######################################## James Cooke ##############################################
+http://jamescooke.info/django-factory-audit.html
+http://jamescooke.info/cleaner-unit-testing-with-the-arrange-act-assert-pattern.html
+http://jamescooke.info/python-unittest-asserttrue-is-truthy-assertfalse-is-falsy.html
+http://jamescooke.info/comparing-django-q-objects.html
+
+
+######################################## Simple Is Betten Than Complex ##############################################
+https://simpleisbetterthancomplex.com/tips/2016/10/05/django-tip-16-simple-database-access-optimizations.html
+https://simpleisbetterthancomplex.com/tutorial/2016/10/04/how-to-use-django-flatpages-app.html
+https://simpleisbetterthancomplex.com/tutorial/2016/07/18/how-to-create-a-custom-django-middleware.html
+https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
+https://simpleisbetterthancomplex.com/tips/2016/09/27/django-tip-15-cbv-mixins.html
+
+
 ######################################## Algotech ##############################################
 https://www.algotech.solutions/blog/python/django-migrations-and-how-to-manage-conflicts/
 https://www.algotech.solutions/blog/python/using-django-signals-for-database-logging/
@@ -18,21 +48,48 @@ https://qbox.io/blog/elasticsearch-python-django-frontend-queries
 http://getblimp.github.io/django-rest-framework-jwt/
 https://micropyramid.com/blog/integration-of-linkedin-api-in-python-django/
 http://www.machinalis.com/blog/introduction-to-django-channels/
+http://www.machinalis.com/blog/ocr-with-django/
 http://mmorejon.github.io/en/blog/deployment-diagram-docker-django/
+https://scotch.io/tutorials/build-your-first-python-and-django-application
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
 http://kracekumar.com/post/141377389440/permissions-in-django-admin
 http://matthewdaly.co.uk/blog/2016/03/26/building-a-location-aware-web-app-with-geodjango/
 https://harishnarayanan.org/writing/kubernetes-django/
 https://www.willmcgugan.com/blog/tech/post/django-comparison/
 https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics
+https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-apache-and-mod_wsgi-on-ubuntu-16-04
 http://tech.octopus.energy/2016/05/05/django-elb-health-checks.html
 https://www.smallsurething.com/making-ember-and-django-play-nicely-together-a-todo-mvc-walkthrough/
 http://dezoito.github.io/2016/05/11/django-gitlab-continuous-integration-phantomjs.html
 https://blog.esharesinc.com/supercharging-django-productivity-at-eshares-8dbf9042825e#.5y700px18
 https://cbrownley.wordpress.com/2016/06/26/parsing-pdfs-in-python-with-tika/
 https://www.reddit.com/r/django/comments/4rklx1/django_fabric_deployment_made_better/
-https://medium.com/@raiderrobert/make-your-django-models-dryer-4b8d0f3453dd#.e3n530c6t
 http://techstream.org/Web-Development/Serving-Files-in-Django
 http://www.aeracode.org/2016/6/16/philosophy-channels/
 http://reinout.vanrees.org/weblog/2016/06/30/djangorecipe-test-coverage.html
 https://blog.modeanalytics.com/measure-customer-service-with-python/
+http://hirelofty.com/blog/6-tips-you-should-use-when-kicking-django-project/
+https://www.stavros.io/posts/how-deploy-django-docker/
+https://blog.bitlabstudio.com/from-single-server-to-cloud-c6d4d0e957a#.gel4pks26
+https://softwaremaking.quora.com/Get-Django-Ready
+http://nerd.kelseyinnis.com/blog/2016/05/30/python-django-security-on-a-shoestring-resources/
+http://www.vinta.com.br/blog/2016/database-concurrency-in-django-the-right-way/
+https://oddbit.se/deploying-django-to-google-app-engine-with-gitlab-ci-541c0dc67a12#.337q0jhyw
+http://masnun.rocks/2016/09/25/introduction-to-django-channels/
+https://samoylov.tech/2016/09/29/deploying-django-with-fabric/
+https://samoylov.tech/2016/08/31/deploying-django-with-gunicorn-and-supervisor/
+https://blog.esharesinc.com/supercharging-django-productivity-at-eshares-8dbf9042825e#.puwlh87lu
+http://www.restapibuilder.com/blog/deploying-your-django-api-in-one-docker-container-in-aws/
+http://blog.endpoint.com/2016/09/executing-custom-sql-in-django-migration.html
+https://realpython.com/blog/python/caching-in-django-with-redis/
+https://codeexperiments.quora.com/Facebook-chat-bot-aka-joke-bot-with-django-tutorial
+https://markusholtermann.eu/2016/09/2-factor-authentication-in-django/
+https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application
+https://cloud.google.com/python/django/container-engine
+http://bookofstranger.com/elastic-search-wih-django-haystack-for-search-functionality/
+https://www.epilis.gr/en/blog/2016/08/18/ibm-watson-apis-django/
+https://tldlife.com/using-s3-for-django-media-files-a8bd4b582b98#.gbgijkru0
+http://www.dreisbach.us/blog/building-dashboards-with-django-and-d3/
+https://worthwhile.com/blog/2016/07/11/django-page-load-speed/
+https://chatbotsmagazine.com/slack-bot-with-a-django-backend-101-tutorial-c1aa8ea3f15e#.s4ata96kg
+http://www.vinta.com.br/blog/2016/controlling-access-a-django-permission-apps-comparison/
