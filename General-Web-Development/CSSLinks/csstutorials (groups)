@@ -50,6 +50,9 @@ https://www.sitepoint.com/how-to-translate-from-dom-to-svg-coordinates-and-back-
 https://www.sitepoint.com/atoz-css-screencast-auto/
 https://www.sitepoint.com/spectre-a-lightweight-css-framework/
 https://www.sitepoint.com/cache-fetched-ajax-requests/
+https://www.sitepoint.com/introducing-bootcards-bootstrap-cards-made-easy
+https://www.sitepoint.com/atoz-css-screencast-quotes/
+https://www.sitepoint.com/add-remove-css-class-vanilla-js/
 
 
 ############################################## Smashing ########################################################## 
@@ -86,6 +89,8 @@ https://www.smashingmagazine.com/2016/08/ways-to-reduce-content-shifting-on-page
 https://www.smashingmagazine.com/2016/08/css-animations-motion-curves/
 https://www.smashingmagazine.com/2016/09/content-security-policy-your-future-best-friend/
 https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/
+https://www.smashingmagazine.com/2016/10/how-to-build-honest-uis-and-help-users-make-better-decisions/
+https://www.smashingmagazine.com/2016/09/building-social-a-case-study-on-progressive-enhancement/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -129,6 +134,8 @@ https://medium.com/@marcmintel/how-to-use-the-module-pattern-in-your-scss-sass-s
 https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439#.ul2o7zzei
 https://medium.com/learning-new-stuff/learn-css-flexbox-in-3-minutes-c616c7070672#.pkr6henzo
 https://medium.com/web-development-zone/amazingly-useful-html-css-and-javascript-tools-and-libraries-d73b10fbae29#.i8fjh8ccy
+https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b#.aukcqdam7
+https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.kh4u3jggn
 
 
 ############################################## Tutsplus ##########################################################
@@ -137,6 +144,16 @@ http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin
 http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567
 http://webdesign.tutsplus.com/tutorials/better-css-drop-caps-with-initial-letter--cms-26350
 http://code.tutsplus.com/tutorials/editing-images-in-css-filters--cms-25948
+http://webdesign.tutsplus.com/tutorials/how-to-build-a-news-website-layout-with-flexbox--cms-26611
+
+
+############################################## CSS Wizadry ##########################################################
+http://csswizardry.com/2016/05/the-importance-of-important/
+http://csswizardry.com/2016/06/improving-your-css-with-parker/
+http://csswizardry.com/2016/08/refactoring-css-the-three-i-s/
+http://csswizardry.com/2016/10/pure-css-content-filter/
+http://csswizardry.com/2016/10/continue-normalising-your-css/
+http://csswizardry.com/2016/10/pragmatic-practical-progressive-theming-with-custom-properties/
 
 
 ############################################## Telerik ########################################################## 
@@ -149,12 +166,24 @@ http://developer.telerik.com/featured/guide-browser-scroll-animations/
 http://sarasoueidan.com/blog/svg-vs-gif/
 http://sarasoueidan.com/blog/svg-style-inheritance-and-FOUSVG/
 https://sarasoueidan.com/blog/icon-fonts-to-svg/
+https://sarasoueidan.com/blog/mimic-relative-positioning-in-svg/
+
 
 
 ############################################## The New Code ########################################################## 
-http://thenewcode.com/272/Interactive-Geographical-Map-with-SVG-and-JavaScript
-http://thenewcode.com/1064/Classical-Greek-Geometric-Borders-In-SVG
-http://thenewcode.com/279/Rotate-Elements-on-Scroll-with-JavaScript
+https://thenewcode.com/272/Interactive-Geographical-Map-with-SVG-and-JavaScript
+https://thenewcode.com/1064/Classical-Greek-Geometric-Borders-In-SVG
+https://thenewcode.com/279/Rotate-Elements-on-Scroll-with-JavaScript
+https://thenewcode.com/1151/Understanding-the-SVG-viewBox
+https://thenewcode.com/1137/MinMaxing-Understanding-vMin-and-vMax-in-CSS
+http://thenewcode.com/1143/Even-Stevens-Using-Round-and-Space-in-Repeated-Background-Images
+
+
+############################################## A List Apart ########################################################## 
+http://alistapart.com/article/meaningful-css-style-like-you-mean-it
+http://alistapart.com/article/redesign-with-css-shapes
+http://alistapart.com/article/using-css-mod-queries-with-range-selectors
+http://alistapart.com/article/webfonts-on-the-prairie
 
 
 ############################################## CSS Animation ########################################################## 
