@@ -16,11 +16,9 @@ https://medium.com/@kurtisnusbaum/rxandroid-basics-part-2-6e877af352#.1us78526e
 https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.ydzx9coco
 https://medium.com/@seebrock3r/analyse-a-stack-trace-android-studio-protips-2-7d452056223a#.gm5dxj5ez
 https://medium.com/@p.tournaris/rxjava-rxreplayingshare-emit-only-once-b19acd61b469#.ieamwu29k
-https://medium.com/@hitherejoe/android-n-introducing-picture-in-picture-for-android-tv-35f2392fb609#.4ehiuwftm
 https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.451mvxwyg
 https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675#.pq5hba5dc
 https://medium.com/@sergii/using-kotlin-for-tests-in-android-6d4a0c818776#.4z3swtrv9
-https://medium.com/@hitherejoe/android-n-introducing-upgraded-notifications-d4dd98a7ca92#.96qdgxu89
 https://medium.com/@krzychukosobudzki/repository-design-pattern-bc490b256006#.rkuxd740q
 https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-part-1-e0f51fc1a8b3#.vrkd94fcs
 https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1#.utufa0dr2
@@ -61,9 +59,11 @@ https://medium.com/@bherbst/the-many-flavors-of-commit-186608a015b1#.yaemtqbug
 https://medium.com/@passsy/thirtyinch-a-new-mvp-library-for-android-bd1a27262fd6#.rzva0bdq9
 https://medium.com/yammer-engineering/converting-callback-async-calls-to-rxjava-ebc68bde5831#.h2g2xltqp
 https://medium.com/tangoagency/material-intro-screen-for-android-apps-c4317fbac923#.j9dpyx9si
+https://medium.com/tangoagency/rxjava-meets-android-data-binding-4ca5e1144107#.4w1e4easn
 https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.ptqyfqplq 
 https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024#.a9xlm62j2
 https://medium.com/@aitorvs/android-fingerprint-authentication-44c047179d9a#.5dkal2v7y
+https://medium.com/@aitorvs/android-shared-element-transitions-for-all-b90e9361507d#.z0uns5hap
 https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c#.yubh9iur6
 https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-application-7e248b5f615e#.jhbwru4ym
 https://medium.com/crunching-rxandroid/crunching-rxandroid-part-10-cc0c33108ee2#.4hbmc1fc4
@@ -73,6 +73,10 @@ https://medium.com/@danybony_/wear-complications-api-16ab65290aa1#.sthnx0lcd
 https://medium.com/@andreworobator/debugging-without-a-stacktrace-using-android-studios-performance-monitors-a0d601afd814#.l3cekr2x0
 https://medium.com/@sergii/make-your-build-gradle-great-again-c84cc172a654#.jv2gn1ha5
 https://medium.com/@jagonzalez.develop/auto-rename-android-versionname-by-creating-custom-gradle-plugin-2922bbaaaed6#.l6gkyf1e3
+https://medium.com/@manuelvicnt/android-wear-accessing-the-data-layer-api-d64fd55982e3#.dntvuq4hq
+https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.1bjzr9ll1
+https://medium.com/rocknnull/no-more-value-classes-boilerplate-the-power-of-autovalue-bbaf36cf8bbe#.oskcsfo2k
+https://medium.com/startup-grind/bye-bye-burger-5bd963806015#.b07am7glx
 
 
 ######################################## Android Developers Blog ##############################################
@@ -87,6 +91,17 @@ http://android-developers.blogspot.ie/2016/06/create-intelligent-context-aware-a
 https://medium.com/sebs-top-tips/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286#.ne6lemmnc
 https://medium.com/sebs-top-tips/quickly-change-tokens-case-android-studio-protip-7-8c6a841f4ea7#.mk6bvrun9
 https://medium.com/sebs-top-tips/analyse-data-flows-without-the-debugger-android-studio-protips-3-ef2885aaffd9#.ig06dopi6
+
+
+######################################## FreeCodeCamp ##############################################
+https://medium.freecodecamp.com/android-app-optimization-using-arraymap-and-sparsearray-f2b4e2e3dc47#.w0xnfvu0u
+https://medium.freecodecamp.com/android-development-best-practices-83c94b027fd3#.fqy2njfo3
+
+
+######################################## Firebase Blog ##############################################
+https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-1.html
+https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-2.html
+https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-3_29.html
 
 
 ######################################## Android Hive ##############################################
@@ -111,6 +126,7 @@ https://medium.com/google-developers/a-better-underline-for-android-90ba3a2e4fb#
 https://medium.com/google-developers/android-data-binding-that-include-thing-1c8791dd6038#.ybi2z46vf
 https://medium.com/google-developers/using-the-awareness-api-for-android-a185b05e7254#.ntm6q5yom
 https://medium.com/di-101/di-101-part-1-81896c2858a0#.emi75yih5
+https://developers.google.com/vision/face-detection-concepts
 
 
 ######################################## Tutsplus ##############################################
@@ -119,6 +135,7 @@ http://code.tutsplus.com/articles/how-to-use-bottom-sheets-with-the-design-suppo
 http://code.tutsplus.com/tutorials/google-fit-for-android-sessions-api--cms-25857
 http://code.tutsplus.com/tutorials/android-from-scratch-understanding-views-and-view-groups--cms-26043
 http://code.tutsplus.com/tutorials/android-from-scratch-background-operations--cms-26810
+https://code.tutsplus.com/tutorials/google-play-services-google-cast-v3-and-media--cms-26893
 
 
 ######################################## UXPlanet ##############################################
@@ -139,6 +156,13 @@ http://akarnokd.blogspot.ie/2016/03/rxjava-design-retrospect.html
 http://akarnokd.blogspot.ie/2016/03/writing-custom-reactive-base-type.html
 http://akarnokd.blogspot.ie/2016/04/operator-fusion-part-2-final.html
 http://akarnokd.blogspot.ie/2016/04/google-agera-vs-reactivex.html
+
+
+######################################## Robert Scott Carson ##############################################
+http://www.rscottcarson.com/2016/09/22/the-ultimate-guide-to-orm-in-android-using-activeandroid-part-1/
+http://www.rscottcarson.com/2016/09/22/the-ultimate-guide-to-orm-in-android-using-activeandroid-part-2/
+http://www.rscottcarson.com/2016/09/23/the-ultimate-guide-to-orm-in-android-using-activeandroid-part-3/
+http://www.rscottcarson.com/2016/09/29/the-ultimate-guide-to-orm-in-android-using-activeandroid-part-4/
 
 
 ######################################## Styling Android ##############################################
@@ -163,6 +187,11 @@ https://blog.stylingandroid.com/animatedvectordrawable-bundles/
 https://blog.stylingandroid.com/isometric-animatedvectordrawable-part-3/
 https://blog.stylingandroid.com/isometric-animatedvectordrawable-part-1/
 https://blog.stylingandroid.com/vectordrawable-fill-windings/
+https://blog.stylingandroid.com/nougat-direct-reply/
+https://blog.stylingandroid.com/nougat-messaging-style-notifications/
+https://blog.stylingandroid.com/nougat-bundled-notifications/
+https://blog.stylingandroid.com/nougat-direct-boot/
+https://blog.stylingandroid.com/nougat-gcm-network-manager/
 
 
 ######################################## Nimbledroid ##############################################
@@ -182,11 +211,19 @@ http://ryanharter.com/blog/2016/04/08/autovalue-deep-dive/
 http://ryanharter.com/blog/2016/05/16/autovalue-extensions/
 
 
+######################################## Joe Birch ##############################################
+https://medium.com/@hitherejoe/android-n-introducing-picture-in-picture-for-android-tv-35f2392fb609#.4ehiuwftm
+https://medium.com/@hitherejoe/android-n-introducing-upgraded-notifications-d4dd98a7ca92#.96qdgxu89
+https://medium.com/@hitherejoe/exploring-firebase-on-android-ios-remote-config-3e1407b088f6#.kotylc1fu
+https://overflow.buffer.com/2016/09/26/android-rethinking-package-structure/
+
+
 ######################################## Hannes Dorfmann ##############################################
 http://hannesdorfmann.com/android/let-mosby-flow
 http://hannesdorfmann.com/android/presenters-dont-need-lifecycle
 http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house
 http://hannesdorfmann.com/android/evolution-of-the-repository-pattern
+http://hannesdorfmann.com/android/library-abstract-class
 
 
 ######################################## Artemzin ##############################################
@@ -210,6 +247,7 @@ https://riggaroo.co.za/introduction-android-testing-part3/
 https://riggaroo.co.za/introduction-android-testing-part-4/
 https://riggaroo.co.za/introduction-automated-android-testing-part-5/
 https://riggaroo.co.za/introduction-automated-android-testing-part-6/
+
 
 
 ######################################## Philisophical Hacker ##############################################
