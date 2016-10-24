@@ -6,14 +6,18 @@ https://github.com/mauriciotogneri/green-coffee - Android library that allows yo
 https://github.com/grandcentrix/ThirtyInch - a MVP library for Android
 https://github.com/nisrulz/android-tips-tricks - [Cheatsheet] Tips and tricks for Android Development
 https://github.com/renaudcerrato/DoorSignView - Customizable, sensor-enabled, door sign custom views for Android.
-https://github.com/AkashBang/NavigationView
+https://github.com/TangoAgency/android-data-binding-rxjava - Demo that shows how to use RxJava with Android Data Binding ObservableFields
+https://github.com/kayvannj/PermissionUtil - A simple wrapper around Android 6.0 runtime permission api
+https://github.com/AkashBang/NavigationView - Example app to show the implementation of NavigationView
 https://github.com/yigit/android-priority-jobqueue - A Job Queue specifically written for Android to easily schedule jobs
 https://github.com/vimeo/stag-java - Speedy Type Adapter Generation
 https://github.com/googlesamples/apk-patch-size-estimator - apk-patch-size-estimator
 https://github.com/CloudRail/cloudrail-si-android-sdk - Provides a repository for the CloudRail SI Android SDK
 https://github.com/google/flexbox-layout - Flexbox for Android
 https://github.com/neevek/Paginize - Paginize is a light-weight application framework for Android.
-https://github.com/JakeWharton/butterknife
+https://github.com/airbnb/epoxy - Epoxy is an Android library for building complex screens in a RecyclerView
+https://github.com/Genius/groupie - Groupie helps you display and manage complex RecyclerView layouts.
+https://github.com/JakeWharton/butterknife - Bind Android views and callbacks to fields and methods
 https://github.com/pakoito/RxSealedUnions - Tagged Unions for the RxJava aesthete
 https://github.com/eyeem/router - Dynamic in app URL router for Android
 https://github.com/square/auto-value-redacted - An extension for Google's AutoValue that omits redacted fields from toString().
@@ -21,16 +25,21 @@ https://github.com/Dimezis/BlurView - Dynamic iOS-like blur of underlying Views 
 https://github.com/FrantisekGazo/Blade - Android library for boilerplate destruction
 https://github.com/kailash09dabhi/OmRecorder - A Simple Pcm / Wav audio recorder with nice api
 https://github.com/imperial-crystalline-recursion/abtestgen - An Android library for generating simple A/B tests
+https://github.com/florent37/DiagonalLayout - With Diagonal Layout explore new styles and approaches on material design
+https://github.com/vikramkakkar/ImageTransition - A small android library to transition between a circular ImageView
+https://github.com/romandanylyk/PageIndicatorView - An page indicator for Android ViewPager
+https://github.com/VictorAlbertos/DeviceAnimationTestRule - A JUnit rule to disable and enable device animations
 https://github.com/klnusbaum/rxandroidexamples/
+https://github.com/nickbutcher/AnimatorDurationTile - A quick settings tile to quickly set the animator duration scale.
 https://github.com/passsy/CompositeAndroid - Composition over inheritance for Android components like Activity or Fragment
 https://github.com/stephanenicolas/toothpick - A scope tree based Dependency Injection (DI) library for Java
+https://github.com/aurae/android-junit5 - Unit Testing with JUnit 5 for Android.
 https://github.com/yongjhih/mocker - Fluent mockito
 https://github.com/andrzejchm/DroidMVP - Small Android library to help you incorporate MVP, Passive View and Presentation Model patterns in your app
 https://github.com/google/tiger - java dependency injection framework
 https://github.com/TangoAgency/material-intro-screen - Inspired by Heinrich Reimer Material Intro
 https://github.com/NikitaKozlov/Pury - Android library for measuring time between multiple independent events.
 https://github.com/loopeer/itemtouchhelper-extension - Extension for itemtouchhelper with swipe settling
-https://github.com/f2prateek/dart/
 https://github.com/nisrulz/recyclerviewhelper - Provides the most common functions around recycler view
 https://github.com/unipiazza/unipiazza-android-twostepslogin - An Android library that helps you to make a cool two steps login
 https://github.com/mattlogan/auto-value-firebase - AutoValue extension for creating Firebase Database objects
@@ -39,7 +48,8 @@ https://github.com/francescocervone/RxDrive - RxJava wrapper for Google Drive An
 https://github.com/PDDStudio/EncryptedPreferences - AES-256 encrypted SharedPreferences for Android.
 https://github.com/stfalcon-studio/FrescoImageViewer - Customizable Android full screen image viewer for Fresco library
 https://github.com/Workable/java-error-handler - Error handling library for Android and Java
-https://github.com/requery/requery
+https://github.com/requery/requery - modern SQL based query & persistence for Java
+https://github.com/p-v/DateTimeSeer - A painless way to pick future time.
 https://github.com/beworker/featured - Simple yet powerful composition library for Android
 https://github.com/borjabravo10/FocusResize - A custom animation with scroll listener to recycler views
 https://github.com/googlesamples/android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
