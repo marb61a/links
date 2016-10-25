@@ -19,6 +19,8 @@ https://medium.com/@tryexceptpass/hacking-together-a-simple-graphical-python-deb
 https://medium.com/@HubbaDev/building-a-recommendation-engine-with-aws-data-pipeline-elastic-mapreduce-and-spark-ad886b0a1434#.g0hpbay6u
 https://medium.com/@kentquirk/12-versions-of-the-same-algorithm-in-javascript-python-and-go-2a1e2d4add84#.gkpk1t1ei
 https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.gcletj8ac
+https://medium.com/xeneta/fuzzy-search-with-mongodb-and-python-57103928ee5d#.af3lhhisf
+https://medium.com/@__amol__/es2015-and-react-in-pure-python-environment-b326dc15012c#.m34a9zopy
 
 
 ####################################### Python Library ###########################################################
@@ -31,6 +33,8 @@ http://www.blog.pythonlibrary.org/2016/05/18/python-3-an-intro-to-encryption/
 http://www.blog.pythonlibrary.org/2016/08/02/python-201-a-multiprocessing-tutorial/
 http://www.blog.pythonlibrary.org/2016/07/27/python-visualization-with-bokeh/
 http://www.blog.pythonlibrary.org/2016/07/26/python-3-an-intro-to-asyncio/
+http://www.blog.pythonlibrary.org/2016/10/07/an-intro-to-the-python-imaging-library-pillow/
+http://www.blog.pythonlibrary.org/2016/10/11/how-to-create-a-diff-of-an-image-in-python/
 
 
 ####################################### Eli Bendersky ###########################################################
@@ -46,10 +50,19 @@ https://blog.scrapinghub.com/2016/03/23/scrapy-tips-from-the-pros-march-2016-edi
 https://blog.scrapinghub.com/2016/05/18/scrapy-tips-from-the-pros-may-2016-edition/
 https://blog.scrapinghub.com/2016/07/20/scrapy-tips-from-the-pros-july-2016/
 
+####################################### Daniel Bader ###########################################################
+https://dbader.org/blog/catching-bogus-python-asserts
+https://dbader.org/blog/python-min-max-and-nested-lists
+https://dbader.org/blog/live-python-code-review
+https://dbader.org/blog/python-code-review-unplugged-episode-2
 
-####################################### Armin Ronacher ###########################################################
-http://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/
-http://lucumr.pocoo.org/2011/7/9/python-and-pola/
+
+####################################### Dataquest ###########################################################
+https://www.dataquest.io/blog/apartment-finding-slackbot/
+https://www.dataquest.io/blog/data-science-portfolio-machine-learning/
+https://www.dataquest.io/blog/python-pandas-databases/
+https://www.dataquest.io/blog/numpy-tutorial-python/
+https://www.dataquest.io/blog/using-json-data-in-pandas/
 
 
 ####################################### Yhat ###########################################################
@@ -57,6 +70,11 @@ http://blog.yhat.com/posts/data-normalization-in-python.html
 http://blog.yhat.com/posts/autonomous-droning-with-python.html
 http://blog.yhat.com/posts/interactive-geospatial-analysis.html
 https://www.yhat.com/webinar
+http://blog.yhat.com/posts/python-udfs.html
+http://blog.yhat.com/posts/pandasql-intro.html
+http://blog.yhat.com/posts/machine-learning-as-a-service.html
+http://blog.yhat.com/posts/keras-for-image-recognition.html
+http://blog.yhat.com/posts/deploying-r-models.html
 
 
 ####################################### Machinalis ###########################################################
@@ -69,137 +87,22 @@ http://www.machinalis.com/blog/writing-type-stubs-for-numpy/
 http://www.machinalis.com/blog/searching-for-aliens/
 
 
-####################################### Github Tuts ###########################################################
-https://github.com/shekhargulati/52-technologies-in-2016/blob/master/16-newspaper/README.md
-http://jyotiska.github.io/blog/posts/python_libraries.html
-https://github.com/NoviceLive/bintut
-https://github.com/ntasfi/PyGame-Learning-Environment
-http://hkupty.github.io/2016/Understanding-the-math-behind-fp-monads/
-http://kootenpv.github.io/2016-04-24-yagmail
-http://nbviewer.jupyter.org/github/AYLIEN/headline_analysis/blob/06f1223012d285412a650c201a19a1c95859dca1/main-chunks.ipynb
-http://tomaugspurger.github.io/modern-1.html
-http://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
-http://activisiongamescience.github.io/2016/04/19/IPython-Parallel-Introduction/
-https://d10genes.github.io/blog/2016/05/03/word2vec/
-
-  
-####################################### Miscellaneous ###########################################################                                            
-http://www.benjaminmbrown.com/2016/02/tutorial-how-to-build-real-time-data-visualization-with-d3-crossfilter-and-websockets-in-python-by-example/                                            
-http://www.snarky.ca/how-to-pitch-python-3-to-management
-http://blog.districtdatalabs.com/a-practical-guide-to-anonymizing-datasets-with-python-faker
-http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html
-http://tutorials.pluralsight.com/python/defensive-programming-in-python
-http://jeffknupp.com/blog/2016/03/07/python-with-context-managers/
-http://szborows.blogspot.ie/2016/03/mini-restjson-benchmark-python-351-vs.html
-http://www.tomforb.es/segfaulting-python-with-afl-fuzz
-http://python-resources.pythonblogs.com/304_python_resources/archive/1521_an_introduction_to_mocking_in_python.html
-https://www.dataquest.io/blog/using-json-data-in-pandas/
-https://www.twilio.com/blog/2016/02/ios-and-web-browser-video-calls-with-python-and-swift-2.html
-https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html
-http://www.fullstackpython.com/task-queues.html
-https://www.fullstackpython.com/blog/dial-outbound-phone-calls-python-bottle.html
-http://code.activestate.com/recipes/580616-python-method-chaining-examples/
-http://pythontips.com/2016/02/27/learning-python-for-data-science/
-https://pythontips.com/2013/08/04/args-and-kwargs-in-python-explained/
-http://mattscodecave.com/posts/switching-from-2-to-3-love-asyncio-and-more.html
-http://mapleoin.github.io/perma/python-class-meta
-http://chaosbuffalogames.com/blog/react-redux-todo-list-ported-to-kivy.html
-http://www.lihaoyi.com/post/DivingIntoOtherPeoplesCode.html
-https://www.chrisstucchio.com/blog/2016/has_your_conversion_rate_changed.html
-http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
-http://irakorshunova.github.io/2016/03/15/heart.html
-https://cbrownley.wordpress.com/2016/03/20/pandashells-data-science-with-python-on-the-command-line/
-https://www.born2data.com/2016/fast-API-with-Bottle.html
-http://geezhawk.github.io/2016/03/24/user-authentication-with-react-and-django-rest-framework.html
-https://www.mapr.com/blog/churn-prediction-pyspark-using-mllib-and-ml-packages
-http://fullstackdatascientist.io/2016-03-15-genomic-data-visualization-using-python/
-http://kldavenport.com/examining-your-presence-on-twitter-with-python/
-https://blogs.msdn.microsoft.com/pythonengineering/2016/03/14/idiomatic-python-comprehensions/
-http://www.talaikis.com/bayes-theorem-in-simple-words-and-bayesian-expected-returns-estimation-using-python/
-http://hkupty.github.io/2016/Functional-Programming-Concepts-Idioms-and-Philosophy/
-http://vknight.org/unpeudemath/code/2016/03/07/Property-based-testing-and-finding-a-bug.html
-http://tomassetti.me/python-reflection-how-to-list-modules-and-inspect-functions/
-http://www.jamalmoir.com/2016/03/learn-to-mock-in-python.html
-http://benalexkeen.com/linear-programming-with-python-and-pulp/
-https://blog.cambridgecoding.com/2016/03/24/misleading-modelling-overfitting-cross-validation-and-the-bias-variance-trade-off/
-http://andysalerno.com/2016/03/Monte-Carlo-Reversi
-http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html
-https://realpython.com/blog/python/python-virtual-environments-a-primer/
-https://dbader.org/blog/catching-bogus-python-asserts
-https://dbader.org/blog/python-min-max-and-nested-lists
-http://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
-http://www.lihaoyi.com/post/PlanningBusTripswithPythonSingaporesSmartNationAPIs.html
-https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/
+####################################### Semaphore CI ###########################################################
 https://semaphoreci.com/community/tutorials/getting-started-with-behavior-testing-in-python-with-behave
-http://xion.io/post/code/python-get-lambda-code.html
-http://podoliaka.org/2016/04/10/debugging-cpython-gdb/
-http://www.jamalmoir.com/2016/04/how-to-build-gui-in-python-3.html
-http://masnun.com/2016/04/19/composition-over-inheritance.html
-http://tech.marksblogg.com/bulk-ip-address-whois-python-hadoop.html
+https://semaphoreci.com/community/tutorials/testing-python-requests-with-betamax
+https://semaphoreci.com/community/tutorials/mocks-and-monkeypatching-in-python
+
+
+####################################### Ruslan Spivak ###########################################################
 https://ruslanspivak.com/lsbasi-part1/
-http://elliot.land/unit-tests-that-write-themselves-hypothesis-python
-https://www.reddit.com/r/Python/comments/4hazs4/how_i_built_an_entire_game_and_toolchain_100_in/
-https://www.peterbe.com/plog/ga-pageviews-on-non-web
-http://benjaminbolte.com/blog/2016/keras-language-modeling.html
-https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/
-https://blog.modeanalytics.com/python-data-cleaning-libraries/
-https://paulstamatiou.com/getting-started-raspberry-pi/
-https://howchoo.com/g/otcwnwe2ndb/introduction-to-python-generators
-http://www.benfrederickson.com/matrix-factorization/
-https://www.oreilly.com/ideas/5-reasons-you-need-to-learn-to-write-python-decorators
-http://geoffboeing.com/2016/05/analyzing-lastfm-history/
-https://www.dataquest.io/blog/matplotlib-tutorial/
-https://gregtinkers.wordpress.com/2016/03/25/car-speed-detector/
-https://www.smallsurething.com/list-dict-and-set-comprehensions-by-example/
-http://blog.keras.io/building-autoencoders-in-keras.html
-https://hackercollider.com/articles/2016/07/05/create-your-own-shell-in-python-part-1/
-http://blog.socialcops.com/engineering/machine-learning-python
-https://blogs.msdn.microsoft.com/pythonengineering/2016/06/29/idiomatic-python-eafp-versus-lbyl/
-http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html
-http://www.cuelogic.com/blog/advanced-image-processing-with-python/
-http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/
-https://realpython.com/blog/python/testing-third-party-apis-with-mock-servers/
-https://blog.garage-coding.com/2016/07/06/geolocation-using-multiple-services.html
-https://www.dataquest.io/blog/data-science-portfolio-machine-learning/
-https://kozikow.com/2016/07/01/top-pandas-functions-used-in-github-repos/
-http://www.datadependence.com/2016/05/scientific-python-pandas/
-https://fullstackml.com/2016/07/02/wavelet-image-hash-in-python/
-https://blog.sqreen.io/freeze-python-str-encode-threads/
-https://fullstackml.com/2016/07/02/wavelet-image-hash-in-python/
-https://www.continuum.io/blog/developer-blog/analyzing-visualizing-big-data-interactively-laptop-datashading
-https://www.continuum.io/blog/developer-blog/introducing-geoviews
-http://www.pymunk.org/en/latest/
-https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
-https://www.dataquest.io/blog/apartment-finding-slackbot/
-https://blog.monkeylearn.com/machine-learning-1m-hotel-reviews-finds-interesting-insights/
-http://lukeplant.me.uk/blog/posts/a-simple-passwordless-email-only-login-system/
-https://eklitzke.org/extracting-the-python-stack-using-ptrace
-https://morepypy.blogspot.ie/2016/07/reverse-debugging-for-python.html
-http://maxberggren.se/2016/07/14/atomic-parts-of-town-names/
-http://noamelf.com/2016/08/05/designing-pythonic-apis/
-https://code.oursky.com/batch-sqlalchemy-generating-top-playlist/
-http://tech.marksblogg.com/airflow-postgres-redis-forex.html
-http://www.snarky.ca/network-protocols-sans-i-o
-http://nedbatchelder.com//blog/201608/breaking_out_of_two_loops.html
-http://nedbatchelder.com/blog/201608/lists_vs_tuples.html
-http://aosabook.org/en/500L/a-3d-modeller.html
-https://tech-blog.serenytics.com/deploy-your-saas-with-a-slack-bot-f6d1fc764658#.o0onrnksx
-http://www.automatingosint.com/blog/2016/07/dark-web-osint-with-python-and-onionscan-part-one/#
-https://hynek.me/articles/decorators/
-http://savvastjortjoglou.com/nfl-survival-analysis-kaplan-meier.html
-http://adilmoujahid.com/posts/2016/08/interactive-data-visualization-geospatial-d3-dc-leaflet-python/
-http://blog.lerner.co.il/implementing-zip-list-comprehensions/
-http://pbpython.com/xlwings-pandas-excel.html
-http://pbpython.com/altair-intro.html
-https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/
-https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/
-http://www.automatingosint.com/blog/2016/08/dark-web-osint-with-python-part-three-visualization/
-http://hirelofty.com/blog/how-build-slack-bot-mimics-your-colleague/
-http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html
-http://pythonsweetness.tumblr.com/post/150466265417/deploying-modern-python-apps-to-ancient
-https://www.codementor.io/python/tutorial/image-manipulation-in-python
-http://matthewrocklin.com/blog//work/2016/09/13/dask-and-celery
-http://blog.livecoding.tv/ray-python-framework/
-https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/
-http://hack.limbicmedia.ca/property-based-testing-with-hypothesis/
-https://www.dataquest.io/blog/streaming-data-python/
+https://ruslanspivak.com/lsbasi-part2/
+https://ruslanspivak.com/lsbasi-part3/
+https://ruslanspivak.com/lsbasi-part4/
+https://ruslanspivak.com/lsbasi-part5/
+https://ruslanspivak.com/lsbasi-part6/
+https://ruslanspivak.com/lsbasi-part7/
+https://ruslanspivak.com/lsbasi-part8/
+https://ruslanspivak.com/lsbasi-part9/
+https://ruslanspivak.com/lsbasi-part10/
+https://ruslanspivak.com/lsbasi-part11/
+  
