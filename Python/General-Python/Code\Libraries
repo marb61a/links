@@ -173,3 +173,34 @@ https://github.com/huseyinyilmaz/placebo - Highly reusable API mocks for python 
 https://github.com/mschwager/cohesion - A tool for measuring Python class cohesion.
 https://github.com/jamesturk/jellyfish - a python library for doing approximate and phonetic matching of strings.
 https://github.com/Lukasa/hyper - HTTP/2 for Python
+https://github.com/justmarkham/python-reference - Python Quick Reference
+https://github.com/timofurrer/click-man - Automate generation of man pages for python click applications
+https://github.com/jliljebl/flowblade - Video Editor for Linux
+https://github.com/cloudburst/libheap - gdb python library for examining the glibc heap
+https://github.com/ryanfox/retread - Detect reused frames in video
+https://github.com/whitesmith/hawkpost - Generate links that users can use to submit messages encrypted with your public key
+https://github.com/khamidou/lptrace - strace for Python programs
+https://github.com/lk-geimfari/church - Church is a library to generate fake data
+https://github.com/tonybaloney/mocker - A crappy imitation of Docker, written in 100% Python
+https://github.com/dragonchain/dragonchain - Dragonchain blockchain platform - simplified integration of advanced blockchain features
+https://github.com/stamparm/fetch-some-proxies - Simple Python tool for fetching "some" (usable) proxies
+https://github.com/tobgu/qcache - In memory cache server with query capabilities
+https://github.com/k4m4/onioff - An onion url inspector for inspecting deep web links
+https://github.com/RazerM/sqlalchemy_aio - Asyncio strategy for SQLAlchemy
+https://github.com/alandmoore/wcgbrowser - WCGBrowser is a browser designed specifically for kiosk use
+https://github.com/shlee322/python-line-api - SDK of the LINE Messaging API for Python.
+https://github.com/guyskk/validr - A simple,fast,extensible python library for data validation
+https://github.com/llllllllll/become - Make one object become another
+https://github.com/ericoporto/fgmk - Retro RPG Game Maker
+https://github.com/romanvm/python-web-pdb - Web-based remote UI for Python's PDB debugger
+https://github.com/Ch00k/ffmpy - Pythonic interface for FFmpeg/FFprobe command line
+https://github.com/decalage2/ViperMonkey - A VBA parser and emulation engine to analyze malicious macros.
+https://github.com/exana/python-ast-explorer/ - The code behind python-ast-explorer.com
+https://github.com/axbaretto/fbtftp - fbtftp is Facebook's implementation of a dynamic TFTP server framework
+https://github.com/crutchcorn/unfurl - Python utility to move items in a directory tree to the topmost level possible
+https://github.com/pveugen/human-to-geojson - Convert raw Human exports to geoJSON
+https://github.com/quora/asynq - Python library for asynchronous programming
+https://github.com/streamlink/streamlink - CLI for extracting streams from various websites to a video player of your choosing
+https://github.com/frappe/erpnext - Open Source ERP built for the Web. Uses Python, MariaDB
+https://github.com/anfederico/Clairvoyant - Software designed to identify and monitor social/historical cues for short term stock movement
+https://github.com/posener/mock-import - A helper mocking function to mask ImportErrors
