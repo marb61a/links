@@ -1,5 +1,6 @@
 ######################################## Miscellaneous Tutorials ##############################################
 http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/
+http://loige.co/introducing-flickr-set-get-a-command-line-app-to-download-photos/
 http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/
 http://jowanza.com/post/125602755114/dealing-with-soap-apis-in-nodejs
 http://www.fsjohnny.com/fun-with-node-passport-and-json-web-tokens-part-1/
@@ -60,6 +61,7 @@ http://jamesknelson.com/writing-npm-packages-with-es6-using-the-babel-6-cli/
 http://coderesponsible.com/scraping-the-web-with-node-js/
 https://developer.atlassian.com/blog/2015/10/profiling-node-apps/
 https://www.pubnub.com/blog/2014-12-16-realtime-mongodb-to-fetch-and-stream-report-data/
+https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/
 http://www.nicoespeon.com/en/2015/11/plop-micro-generator-boilerplate-yeoman-alternative/
 http://mherman.org/blog/2015/07/02/handling-user-authentication-with-the-mean-stack/
 http://mherman.org/blog/2016/04/28/test-driven-development-with-node/
@@ -131,6 +133,7 @@ http://www.jamasoftware.com/blog/upgrade-node-module-right-way/
 http://getmesh.io/Blog/Integration+Testing+of+a+Dockerized+Angular+App
 https://snyk.io/blog/whats-an-npm-dependency/
 http://www.joshmorony.com/building-a-review-app-with-ionic-2-mongodb-node/
+http://www.joshmorony.com/building-a-hotel-booking-app-with-ionic-2-mongodb-node/
 http://ditrospecta.com/node/2016/07/11/simple-rsvp-node.html
 https://www.algotech.solutions/blog/nodejs/build-a-restful-api-using-loopback/
 http://stefanscherer.github.io/how-to-build-nodejs-nanoserver-image/
@@ -139,8 +142,6 @@ http://allenkim67.github.io/bittorrent/2016/05/04/how-to-make-your-own-bittorren
 http://www.brendangregg.com/blog/2016-07-13/llnode-nodejs-memory-leak-analysis.html
 https://www.contentful.com/blog/2016/07/07/gitify-dependencies/
 http://blog.slatepeak.com/refactoring-a-basic-authenticated-api-with-node-express-and-mongo/
-http://blog.bandwidth.com/creating-a-webrtc-app-with-typescript-and-bandwidth
-http://www.joshmorony.com/building-a-hotel-booking-app-with-ionic-2-mongodb-node/
 https://azurelogic.com/posts/web-scraping-with-nightmare-js/
 https://blog.codeship.com/running-node-js-linux-systemd/
 http://nerds.intuo.io/2016/07/06/setup-cucumberjs-webdriverio-and-chai-js.html
@@ -155,22 +156,31 @@ http://jbeckwith.com/2016/08/13/bigquery-github/
 https://mixmax.com/blog/requiring-node-builtins-with-webpack
 http://thenewstack.io/build-better-customer-experience-applications-using-offline-first-principles/
 https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
-http://blog.bandwidth.com/building-a-sms-weather-and-image-bot
 https://chatbotsmagazine.com/a-nodejs-chatbot-tutorial-part-1-a2abd1b1c715#.93qrov575
 https://snyk.io/blog/nodejs-attack-tree-modelling
 https://jordankasper.com/building-an-amazon-alexa-skill-with-node-js/#?
 https://blog.phusion.nl/2016/08/31/efficiently-and-conveniently-building-ruby-and-node-js-application-docker-containers-for-production-2/
-https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/
-https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/
-https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js/
-https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/
 https://devcenter.heroku.com/articles/mean-apps-restful-api
 http://stackshare.io/lob/verify-user-addresses-via-postcard-with-lob-plus-mandrill-plus-hapi
 http://blog.derhess.de/2016/06/12/use-your-raspberry-pi-as-your-local-nodejs-webserver/
-https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js
 http://hecodes.com/2016/09/building-serverless-mesh-processing-microservice-node-js/
+http://hecodes.com/2016/10/better-testing-microservices-using-consumer-driven-contracts-node-js/
 http://www.codingdefined.com/2016/09/getting-started-with-rethinkdb-in-nodejs.html
 http://thisdavej.com/getting-started-with-yaml-in-node-js-using-js-yaml/
 https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools
-http://blog.bandwidth.com/express-es5-to-koa-es7/
+http://fiznool.com/blog/2016/10/01/running-a-node-dot-js-app-in-a-low-memory-environment/
+http://webagility.com/posts/purplejs-the-alternative-to-node.js-for-java-projects
+https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e#.17lb39phn
+https://hackernoon.com/using-yarn-with-docker-c116ad289d56#.e7i0ji7zm
+https://hackernoon.com/publishing-react-components-to-npm-experiments-with-firenpm-c3a1aac3f408#.evllv66q9
+https://aws.amazon.com/blogs/compute/going-serverless-migrating-an-express-application-to-amazon-api-gateway-and-aws-lambda/
+http://eridem.net/creating-a-cli-tool-in-node-js/
+https://www.joyent.com/blog/post-mortem-debugging-and-promises
+http://lorenstewart.me/2016/10/03/sequelize-crud-101/
+http://blog.ragingflame.co.za/2016/10/3/handing-nodejs-migrations-with-knex-and-widgetknexschema
+http://www.applandeo.com/en/avoid-callbacks-nodejs-bluebird-promises/
+https://swizec.com/blog/make-slack-twilio-talk/swizec/7128
+https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.fbby6j22w
+https://formidable.com/blog/2016/10/19/introducing-publish-diff/
+http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html
 
