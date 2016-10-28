@@ -27,6 +27,7 @@ http://www.sitepoint.com/custom-slackbot-with-node/
 https://www.sitepoint.com/web-apis-on-arduino-lcd/
 https://www.sitepoint.com/remote-control-mac-node-js-arduino/
 https://www.sitepoint.com/music-streaming-app-electron-react-es6/
+https://www.sitepoint.com/search-engine-node-elasticsearch/
 
 
 ######################################## Scotch.io ##############################################
@@ -40,6 +41,7 @@ https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai
 https://scotch.io/tutorials/server-side-web-components-how-and-why
 https://scotch.io/tutorials/building-and-securing-a-modern-backend-api
 https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
+https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js
 
 
 ######################################## Medium ##############################################
@@ -76,6 +78,8 @@ https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae
 https://medium.com/@andrezzoid/how-to-make-express-work-more-like-hapi-f41d110c519c#.mupzrsyau
 https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.a87atdw6h
 https://medium.com/walmartlabs/use-easy-fix-to-run-integration-tests-like-unit-tests-834288ec446d#.5bbvy7lp8
+https://medium.com/the-backlog-by-nimbo-x/creating-a-serverless-web-app-with-node-js-ember-js-and-paas-services-hyperdev-surge-sh-8e3ebe263a76#.qh7hp1bt7
+https://medium.com/good-eggs-product/visual-debugging-with-es6-and-node-js-44631b3b040f#.ctii5axj9
 
 
 ######################################## Risingstack ##############################################
@@ -106,6 +110,10 @@ https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/
 https://blog.risingstack.com/controlling-node-js-security-risk-npm-dependencies/
 https://blog.risingstack.com/case-study-node-js-memory-leak-in-ghost/
 https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/
+https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/
+https://blog.risingstack.com/nodejs-at-scale-npm-publish-tutorial/
+https://community.risingstack.com/zeromq-node-js-cracking-jwt-tokens-1/
+https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/
 
 
 ######################################## Tutsplus ##############################################
@@ -130,6 +138,7 @@ http://developer.telerik.com/featured/left-pad-indicative-fragile-javascript-eco
 http://developer.telerik.com/featured/bots/
 http://developer.telerik.com/featured/alexa-can-use/
 http://developer.telerik.com/featured/npm-for-the-visual-studio-developer/
+http://developer.telerik.com/featured/building-node-based-apis-loopback-framework
 
 
 ######################################## Stormpath ##############################################
@@ -154,6 +163,7 @@ https://davidwalsh.name/nodejs-services
 https://davidwalsh.name/git-hook-npm-install-package-json-modified
 https://davidwalsh.name/get-webpage-screenshot
 https://davidwalsh.name/slimerjs-screenshots
+https://davidwalsh.name/stdlib
 
 
 ######################################## Smashing Magazine ##############################################
@@ -163,6 +173,8 @@ https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-expres
 https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/
 https://www.smashingmagazine.com/2016/08/optimizing-critical-path-performance-with-express-server-and-handlebars/
 https://www.smashingmagazine.com/2016/08/getting-started-koa-2-async-functions/
+https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/
+https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/
 
 
 ######################################## Nic Raboy ##############################################
@@ -191,10 +203,11 @@ https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
 
 
 ######################################## Semaphoreci ##############################################
-https://semaphoreci.com/blog/2015/12/15/nodejs-version-usage-in-commercial-projects-2015-edition.html?
+https://semaphoreci.com/blog/2015/12/15/nodejs-version-usage-in-commercial-projects-2015-edition.html
 https://semaphoreci.com/community/tutorials/how-to-deploy-a-node-js-application-to-elastic-beanstalk-with-semaphore
 https://semaphoreci.com/community/tutorials/a-tdd-approach-to-building-a-todo-api-using-node-js-and-mongodb
 https://semaphoreci.com/community/tutorials/mocking-external-http-requests-in-node-tests-with-nock
+https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-loopback
 
 
 ######################################## Michael Herman ##############################################
@@ -219,6 +232,7 @@ http://blog.yld.io/2015/08/10/debugging-memory-leaks-in-node-js-a-walkthrough/
 http://blog.yld.io/2016/07/12/a-distributed-work-queue/
 http://blog.yld.io/2016/06/02/using-a-persistent-local-queue-in-node-js/
 http://blog.yld.io/2016/05/10/introducing-queues/
+http://blog.yld.io/2016/10/24/node-js-databases-an-embedded-database-using-leveldb/
 
 
 ######################################## WebAppLog ##############################################
@@ -236,3 +250,13 @@ https://nodesource.com/blog/cpp-addons-for-nodejs-v4
 https://nodesource.com/blog/blacklisting-node-js-core-modules-and-bindings-to-enhance-application-security/
 https://nodesource.com/blog/is-guy-fieri-in-your-node-js-packages/
 https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/
+https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/
+https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js/
+https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/
+
+
+######################################## Bandwidth ##############################################
+http://blog.bandwidth.com/creating-a-webrtc-app-with-typescript-and-bandwidth
+http://blog.bandwidth.com/building-a-sms-weather-and-image-bot
+http://blog.bandwidth.com/express-es5-to-koa-es7/
+http://blog.bandwidth.com/intro-to-simple-docker-with-node-koa/
