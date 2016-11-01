@@ -34,6 +34,11 @@ https://www.youtube.com/watch?v=kp-NOggyz54 - Ryan Florence - ‹Rethinker stop=
 https://www.youtube.com/watch?v=dV8K6fsjDCQ - Netflix JavaScript Talks - React & Flow
 https://www.youtube.com/watch?v=tfuZ7uZmVyg - ReactJS / Redux Tutorial - #7 Connect ReactJS and Redux
 https://www.youtube.com/playlist?list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY - Building app with React and Redux
+https://www.youtube.com/watch?v=aV1271hd9ew - What's Next for React — ReactNext 2016
+https://www.youtube.com/watch?v=_70Yp8KPXH8 - Component Based Style Reuse
+https://vimeo.com/album/4199344/video/187454108 - Building Modular Redux Application
+https://vimeo.com/album/4199344/video/187454105 - How to push a ReactJS application in production and sleep better
+https://vimeo.com/album/4199344/video/187454109 - Experiences Using React In A Large Organization
 
 
 ##Code -
@@ -46,81 +51,95 @@ https://github.com/Swizec/react-real-world - Proof of concept code that turns a 
 https://github.com/ssorallen/react-play - Render React components in the Play Framework with JDK8's JavaScript engine
 https://github.com/gpbl/isomorphic500 - A 500px app built with React and Fluxible with babeljs
 https://github.com/telescopejs/telescope/- An open-source social news app built with Meteor
-https://github.com/wangzuo/react-input-color
+https://github.com/wangzuo/react-input-color - React input color component with hsv color picker
 https://github.com/dtschust/redux-bug-reporter - A bug reporter and bug playback tool for redux
 https://github.com/facebookincubator/create-react-app - Create React apps with no build configuration.
 https://github.com/zperrault/vimrc.js - A vimrc that Just Works™ for modern JavaScript development
-https://github.com/gaearon/dnd-core
+https://github.com/verekia/js-stack-from-scratch - Step-by-step tutorial to build a modern JavaScript stack from scratch
+https://github.com/gaearon/dnd-core - Drag and drop sans the GUI
 https://github.com/ayrton/react-key-handler - React component to handle keyboard events
 https://github.com/eanplatter/enclave - A simpler way to compile React applications
 https://github.com/erikras/ducks-modular-redux - A proposal for bundling reducers, action types and actions when using Redux
 https://github.com/Klathmon/react-class-binder - auto-bind react class methods
-https://github.com/gaearon/react-dnd
+https://github.com/gaearon/react-dnd - Drag and Drop for React
 https://github.com/FormidableLabs/react-animations - A collection of animations for inline style libraries
 https://github.com/tmpvar/jsdom - A JavaScript implementation of the WHATWG DOM and HTML standards
 https://github.com/FormidableLabs/react-game-kit - Component library for making games with React & React Native
 https://github.com/kriasoft/react-starter-kit React Starter Kit — isomorphic web app boilerplate
 https://github.com/Adphorus/react-summary - Makes inline summaries for collections
-https://github.com/omnidan/redux-undo
+https://github.com/Bertrand31/Monitaure - A server uptime monitoring progressive web application
+https://github.com/rafaelquintanilha/react-linechart - Simple yet highly customizable line charts
+https://github.com/omnidan/redux-undo - higher order reducer to add undo/redo functionality to redux state containers
 https://github.com/smartprogress/react-relative-portal - React component for place dropdowns outside overflow: hidden; elements 
 https://github.com/tictail/tide - A Flux-like State Management Library for React
 https://github.com/arminbhy/reactator - React & Flux Project Template
-https://github.com/gajus/react-css-modules
+https://github.com/gabrielbull/react-router-server - Server Side Rendering library for React Router v4.
+https://github.com/gajus/react-css-modules - mapping of class names to CSS modules inside of React components
 https://github.com/garbles/why-did-you-update - Puts your console on blast when React is making unnecessary updates.
 https://github.com/alanbsmith/react-electron-starter - an example React + Electron application
 https://github.com/davezuko/react-reformed - Make React forms simple again
 https://github.com/flipace/lovli.js - A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server.
 https://github.com/Katochimoto/xblocks - HTML custom elements on the basis React and X-Tag
 https://github.com/koistya/demos/tree/master/declarative-react-routes - demonstrates how to implement declarative routes in React applications where the list of routes can be represented in YAML or JSON format
-https://github.com/Adphorus/react-date-range
+https://github.com/Adphorus/react-date-range - A React component for choosing dates and date ranges
+https://github.com/Semantic-Org/Semantic-UI-React - The official Semantic-UI-React integration
 https://github.com/stefanmirck/create-reducers - A tiny utility to create reducer maps for Redux
 https://github.com/FormidableLabs/webpack-dashboard - A CLI dashboard for webpack dev server
 https://github.com/fresk-nc/VOX - Audio Player powered by Electron
-https://github.com/relax/relax
+https://github.com/threepointone/glamor - inline css for react et al
+https://github.com/relax/relax - New generation CMS on top of React, Redux and GraphQL
 https://github.com/krasimir/react-in-patterns - List of design patterns/techniques used while developing with React
 https://github.com/charlieschwabacher/gestalt - Use the GraphQL schema language and a small set of directives to define an API
-https://github.com/Khan/style-guides/blob/master/style/react.md
-https://github.com/accommodavid/spooky-react
+https://github.com/zeit/next.js - A minimalistic framework for server-rendered React applications
+https://github.com/ivantsov/redux-webext - Redux for WebExtensions
+https://github.com/accommodavid/spooky-react -  Unopinionated skeleton for front-end application building 
 https://github.com/ffxsam/formous - Simple and elegant form-handling for React
 https://github.com/nachoaIvarez/flexbox-react/ - Unopinionated, standard compilant flexbox components
 https://github.com/PlatziDev/react-url - A React.js High-Order Component and decorator for parsing and resolving URLs inside your application.
 https://github.com/djalbat/Reaction - An alternative implementation of React.
 https://github.com/hoppula/react-apig-lambda - Render React.js on-demand with CDN caching
+https://github.com/clarus/redux-ship - Scalable, testable and typable side effects for Redux
+https://github.com/desklamp-js/desklamp - clean routing and state container for react
 https://github.com/BelkaLab/react-yearly-calendar
 https://github.com/FormidableLabs/react-music - Make beats with React!
 https://github.com/reactotron/reactotron - A CLI and OS X app for inspecting your React JS and React Native apps.
 https://github.com/tylermcginnis/re-base - A Relay inspired library for building React.js + Firebase applications
-https://github.com/burakcan/react-snowstorm
+https://github.com/synthesis-js/react-synthesis - A modern CMF running React, Node and Mongo
+https://github.com/casesandberg/react-reactions/ - Use Reactions from Slack, Facebook, Pokemon, Github and Youtube 
+https://github.com/burakcan/react-snowstorm - A Snow Effect component for React
 https://github.com/rofrischmann/react-fela - React bindings for Fela
 https://github.com/theadam/react-inform - Simple controlled forms with validations in react
 https://github.com/casesandberg/react-color/ - Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 https://github.com/UniversalAvenue/react-compose - Compose React components with a functional api
-https://github.com/airbnb/reagent
+https://github.com/airbnb/reagent - JavaScript Testing utilities for React
 https://github.com/InfomediaLtd/angular2-redux-example - Example project for using pure Redux with Angular 2 and TypeScript
 https://github.com/Wildhoney/Keo - Plain functions for a more functional Deku approach to creating stateless React components
 https://github.com/reactjs/react-basic - A description of the conceptual model of React without implementation burden.
 https://github.com/Raathigesh/Dazzle - Dashboards made easy in React JS
 https://github.com/staxmanade/CssToReact - Quick online tool to transform CSS into React style JSON
 https://github.com/relax/relax - New generation CMS on top of React, Redux and GraphQL
-https://github.com/bartonhammond/snowflake
 https://github.com/airbnb/hypernova - A service for server-side rendering your JavaScript views
 https://github.com/tj/react-enroute - React router with a small footprint for modern browsers
 https://github.com/RamonGebben/react-perf-tool - Debug performance of your React application
 https://github.com/alexkuz/react-input-enhancements - Set of enhancements for input control
-https://github.com/satya164/quik
+https://github.com/trappar/props-provider - React Component for passing props to dynamic children
+https://github.com/satya164/quik - A quick way to prototype and build apps with React and Babel with zero-setup.
 https://github.com/airbnb/react-dates - An accessible, easily internationalizable, mobile-friendly datepicker library
 https://github.com/jumpsuit/jumpsuit - Jump in. Zip up. Build great apps.
 https://github.com/queicherius/react-globe - Painless localising of React applications with translations, plurals, numbers, dates and times.
-https://github.com/richardkall/react-starter
+https://github.com/d6u/react-container-query - Modular responsive component
+https://github.com/peter-mouland/react-lego - incrementally add more cool stuff to your react app
+https://github.com/richardkall/react-starter - Starter kit for creating universal React applications
 https://github.com/svenanders/learn-react - Examples and modules that shows you how to use React
 https://github.com/javivelasco/react-css-themr - Easy theming and composition for CSS Modules.
 https://github.com/iamdustan/tiny-react-renderer - Learn you a React Renderer for Great Good
 https://github.com/zalmoxisus/redux-devtools-extension - Redux DevTools extension
-https://github.com/ngduc/react-setup
+https://github.com/electrode-io/electrode-boilerplate-universal-react-node - Electrode boilerplate application which has Universal React + Node
+https://github.com/gabrielbull/react-router-server - Server Side Rendering library for React Router v4.
+https://github.com/ngduc/react-setup - A Universal React Setup with i18n
 https://github.com/gatsbyjs/gatsby - Transform plain text into dynamic blogs and websites using React.js
 https://github.com/insin/react-heatpack - A 'heatpack' command for quick React development with webpack hot reloading
 https://github.com/brillout/awesome-react-components - Catalog of React components / libraries
-https://github.com/gaearon/react-makes-you-sad
 https://github.com/narqo/react-islands - react-islands Components Library
 https://github.com/blacksonic/babel-webpack-tree-shaking - Tree-shaking example with Babel and Webpack
 https://github.com/krasimir/react-cssx - CSS in React
@@ -134,6 +153,10 @@ https://github.com/gaearon/react-transform-boilerplate - A new Webpack boilerpla
 https://github.com/julienvincent/modelizr - Generate GraphQL queries from models that can be mocked and normalized
 https://github.com/HubSpot/react-experiments - React components for implementing UI experiments
 https://github.com/reactjs/react-basic - A description of the conceptual model of React without implementation burden.
+
+
+## Codepen
+http://codepen.io/anthonydugois/pen/yabwBw - React Melody Composer
 
 
 ##Links -
