@@ -78,9 +78,9 @@ https://blog.boldlisting.com/so-youve-screwed-up-your-redux-store-or-why-redux-m
 http://engineering.blogfoster.com/higher-order-components-theory-and-practice/
 https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/
 https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/
+https://www.fullstackreact.com/react-daily-ui/003-landing-page/
 https://engineering.footballradar.com/from-a-react-point-of-vue-comparing-reactjs-to-vuejs-for-dynamic-tabular-data/
 http://kirszenberg.com/facebook-sixth-sense
-http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/
 http://silvenon.com/testing-react-and-redux/
 http://www.aaron-powell.com//posts/2016-06-09-learning-redux-with-reducks-creating-a-store.html
 http://www.thereformedprogrammer.net/using-a-redux-store-in-your-react-js-application/
@@ -100,6 +100,7 @@ https://www.netlify.com/blog/2016/07/26/our-conversion-from-angular-to-react
 http://goshakkk.name/react-custom-renderers/
 https://assertible.com/blog/creating-email-templates-with-react-components
 http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/
+http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/
 http://www.robinwieruch.de/mobx-react/
 http://www.robinwieruch.de/redux-mobx-confusion/
 https://www.ckl.io/blog/3-simple-steps-to-improve-react-redux-code/
@@ -118,3 +119,13 @@ http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-component
 https://diessi.ca/blog/svg-images-as-react-components-with-webpack
 http://julian.io/new-horizons-with-horizon-rethinkdb-and-react/
 http://davidmeents.com/creating-a-collapsible-navigation-menu-in-react-js/
+http://www.elcaminolegal.com/single-post/2016/10/04/Facebook-Reactjs-License
+http://ignaciochavez.com/helpful-principles-starting-react/
+https://css-tricks.com/learning-react-redux/
+https://spin.atomicobject.com/2016/10/05/form-validation-react/
+http://www.thinkloop.com/article/state-driven-routing-react-redux-selectors/
+https://blog.avocode.com/blog/finally-a-simple-and-universal-router-for-reactjs
+https://webapplog.com/autocomplete-react/
+https://edemkumodzi.com/reactfornewbies-building-a-todo-app-with-create-react-app-part-1-5aae4bd637ee#.htccv3k0t
+
+
