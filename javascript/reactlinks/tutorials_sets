@@ -44,8 +44,6 @@ https://medium.com/@SamCorcos/meteor-react-ionic-mobile-app-part-1-the-basic-tem
 https://medium.com/code-cartoons/a-cartoon-guide-to-flux-6157355ab207
 https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.cqy6vtpdb
 https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878
-https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.i31p1x9oj
-https://medium.freecodecamp.com/async-operations-using-redux-saga-2ba02ae077b3#.vh0orgim6
 https://medium.com/@davidvlsea/react-without-undue-complications-f3490403fdc0#.l3f37lmab
 https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.80z1q4mv7
 https://medium.com/@roman01la/om-next-for-react-devs-introduction-and-project-setup-52b88f87264#.s1h3djud5
@@ -81,7 +79,6 @@ https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.w
 https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.mw9wtdoxu
 https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.ngfeew54o
 https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c#.9bkhoh7oc
-https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.ay66tu8im
 https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b#.tjhkcjhvn
 https://medium.com/@roman01la/introducing-react-horizon-4c26f9ef628c#.yhds10icb
 https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.mlpcbx5c8
@@ -95,13 +92,19 @@ https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454#.zamc
 https://medium.com/tictail/introducing-tide-our-react-state-management-library-1dcc6e80551e#.6nczcruln
 https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.44nt5nfx9 
 https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19#.3547krdan
+https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30#.ud84p1la9
 https://medium.com/@nate_wang/a-new-approach-for-managing-redux-actions-91c26ce8b5da#.8c0b7w60r
 https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.29khbn8z8
 https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.izlh8kj57
+https://medium.com/walmartlabs/using-electrode-to-improve-react-server-side-render-performance-by-up-to-70-e43f9494eb8b#.4wd93hna8
 https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a#.9rd99fwwk
 https://medium.com/@kitze/configure-create-react-app-without-ejecting-d8450e96196a#.5t1dxcs5l
 https://medium.com/front-end-hacking/react-for-designers-3fbc7b6560dd#.lpes637jc
 https://medium.com/@mlthuret/building-a-react-components-living-documentation-using-react-storybook-5f11f0e7d23e#.grrdwmciz
+https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2#.yrv78usbz
+https://medium.com/@joshuawcomeau/introducing-redux-vcr-cad57b37540a#.bpb3nbvih
+https://medium.com/@boriscoder/page-object-for-testing-react-js-components-49cddb59adb7#.jh21tbj7l
+https://medium.com/@matt_bush/how-airtable-uses-react-5e37066a87d4#.ekk5bcq0g
 
 
 ###################################### Raja Rao ##################################################################
@@ -120,6 +123,21 @@ https://voice.kadira.io/let-s-compose-some-react-containers-3b91b6d9b7c8#.4j0ejb
 https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql-e0802695648c#.g20mw1nvn
 https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.k6ur7ru9q
 https://voice.kadira.io/say-hello-to-react-cdk-97cff692e798#.rn4zwgx56
+
+
+###################################### Hacker Noon ##################################################################
+https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a#.jdanabok7
+https://hackernoon.com/publishing-react-components-to-npm-experiments-with-firenpm-c3a1aac3f408#.h7t2s0arx
+https://hackernoon.com/introducing-react-axiom-84bf37a50adb#.vp90g55kp
+https://hackernoon.com/building-d3-components-with-react-7510e4743288#.j00oxmn2k
+
+
+###################################### Freecodecamp ##################################################################
+https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.i31p1x9oj
+https://medium.freecodecamp.com/async-operations-using-redux-saga-2ba02ae077b3#.vh0orgim6
+https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.ay66tu8im
+https://medium.freecodecamp.com/seo-vs-react-is-it-neccessary-to-render-react-pages-in-the-backend-74ce5015c0c9#.6ifzyil8p
+https://medium.com/@paulwithap/the-most-important-eslint-rule-for-redux-applications-c10f6aeff61d#.2sjen1dy9
 
 
 ###################################### James K Nelson ##################################################################
@@ -157,3 +175,4 @@ http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
 https://daveceddia.com/react-es5-createclass-vs-es6-classes/
 https://daveceddia.com/react-gotchas/
 https://daveceddia.com/ajax-requests-in-react/
+https://daveceddia.com/visual-guide-to-state-in-react/
