@@ -6,6 +6,7 @@
 https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/
 https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/
 https://www.smashingmagazine.com/2016/08/test-automation-frameworks-for-react-native-apps/
+https://www.smashingmagazine.com/2016/10/creating-universal-windows-apps-with-react-native/
 
 
 ###################################### Medium ##################################################################
@@ -22,10 +23,18 @@ https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-i
 https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343#.qh1vnxfht
 https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6#.uf7f1n3tj
 https://medium.freecodecamp.com/installing-the-facebook-sdk-into-a-react-native-android-and-ios-app-69439bd97a99#.fvvlu1ijy
+https://medium.com/react-native-development/deploying-a-react-native-app-for-ios-pt-1-a79dfd15acb8#.hsvass2tl
+https://medium.com/adjust-creative/prototyping-with-react-native-an-idea-to-production-in-one-week-3a6b4f474897#.z0zxm3k1i
+https://medium.com/walmartlabs/publish-react-native-bundles-over-the-air-with-the-first-electrode-rn-release-3780edb387ba#.1689etmmh
+
+
+###################################### Tutsplus ##################################################################
+http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993
+https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328
+https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418
 
 
 ###################################### Miscellaneous ##################################################################
-http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993
 http://browniefed.com/blog/2015/11/07/react-native-how-to-create-twitter-exploding-hearts/
 http://www.proreactnative.com/Getting-Started-with-React-Native-on-Ubuntu-Linux/
 http://www.mattzabriskie.com/blog/adventures-with-react-native
@@ -57,6 +66,8 @@ https://www.fullstackreact.com/articles/announcing-firestack-for-firebase/
 https://shift.infinite.red/shopping-external-libs-in-react-native-cfbc0c6e25cf#.qklk4jpt9
 https://www.sitepoint.com/adding-analytics-to-a-react-native-app/
 https://habd.as/beta-testing-react-native-buddybuild/
+https://www.raywenderlich.com/136047/react-native-existing-app
+http://goshakkk.name/react-native-camera-roll-image-picker/
 
 
 ##### Code #####
@@ -89,6 +100,7 @@ https://www.youtube.com/watch?v=sStf_ZbTXss - SnapChat in React Native
 https://www.youtube.com/watch?v=FIq45_Jveg8 - Hooking up Redux to React Native
 https://www.youtube.com/watch?v=3msLwu25SQY&list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5 - Getting Started with React Native and Redux
 https://codecookbook.co/post/how-to-share-text-from-your-react-native-app/
+https://devchat.tv/react-native-radio/41-react-native-for-windows-with-eric-rozell-of-microsoft - React Native Radio
 
 
 ### Links ###
