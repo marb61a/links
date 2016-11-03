@@ -15,6 +15,7 @@ https://www.youtube.com/watch?v=ibeF6rbzD70 - Laying out the future with Grid an
 https://www.youtube.com/watch?v=5FdHqVDlXu0 - You might not need a CSS framework
 https://www.youtube.com/watch?v=axVw1Zduqn0 - CSS4 Grid: True Layout Finally Arrives
 https://www.youtube.com/watch?v=5Z7lSSMwRgo - Real Art Direction on the Web
+https://www.youtube.com/watch?v=FN3g39bnSRA - Inclusive Markup
 http://gridbyexample.com/video/ - Learn Grid Layout Video Series
 
 
@@ -38,6 +39,7 @@ https://github.com/andreypopp/react-css-components - Define React presentational
 https://github.com/cssstats/cssstats - Webapp to visualize various stats about your css
 https://github.com/leemunroe/responsive-html-email-template - When all you need is a really simple HTML email template
 https://github.com/deuill/fawkss - Fawkss is a CSS preprocessor for people who dislike CSS preprocessors
+https://github.com/paulsonnentag/swip - a library to create multi device experiments
 https://github.com/cmpolis/smart-table-scroll
 https://github.com/mozilla/fathom - A framework for extracting meaning from web pages
 https://github.com/scriptify/Chnl - Chnl - one channel, all effects.
@@ -48,6 +50,8 @@ https://github.com/filipelinhares/ress - A modern CSS reset
 https://github.com/andreleon/critical-style-snapshot - Capture CSS above the fold with one click.
 https://github.com/tawian/text-spinners - Pure text, CSS only, font independent, inline loading indicators
 https://github.com/Ghosh/cssFilters - Custom and Instagram like photo filter playground for CSS built with React
+https://github.com/una/YouMightNotNeedJS/ - You Might Not Need JavaScript
+https://github.com/tmoreton/useful.ly useful.ly Flexbox-Based CSS Framework
 https://github.com/Specro/Philter
 https://github.com/planttheidea/jile - Modular CSS in pure JavaScript
 https://github.com/ruanyf/css-modules-demos - a collection of simple demos of CSS Modules
@@ -64,9 +68,11 @@ https://github.com/stevenmhunt/badgerly - A CSS 3 library for rendering badges
 https://github.com/xcatliu/mobi.css - A lightweight, flexible css framework that focus on mobile
 https://github.com/primer/primer - The base coat of GitHub. Our internal CSS toolkit and guidelines
 https://github.com/johnpolacek/expressive-css/
+https://github.com/DevExpress/testcafe - Automated browser testing for the modern web development stack
 https://github.com/NeXTs/Jets.js - Native CSS search engine
 https://github.com/StefanKovac/flex-layout-attribute - HTML layout helper based on CSS flexbox specification
 https://github.com/LunarLogic/starability - Accessible rating forms with cute animations on top
+https://github.com/scriptify/Chnl - Chnl - one channel, all effects
 https://github.com/andriussev/timelined
 https://github.com/bfred-it/iphone-inline-video - Play videos inline on Safari iPhone
 https://github.com/bendc/animateplus - CSS and SVG animation library
@@ -111,6 +117,7 @@ http://demosthenes.info/blog
 http://www.heropatterns.com/ - A collection of repeatable SVG background patterns for you to use on your digital projects.
 http://www.colinkeany.com/blend/ - Create and customize beautiful CSS3 gradients.
 http://juicedcss.com/
+https://www.jpeg.io/ - Convert any major image format into a highly optimized JPEG
 http://corpuscss.com/
 http://vrcollab.com/2015/08/10/what-is-metaroom-markup.html
 http://www.thecssninja.com
