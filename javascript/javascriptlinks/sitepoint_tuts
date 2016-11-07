@@ -5,6 +5,7 @@
                             ######################## ES 6  ############################
 http://www.sitepoint.com/es6-now-template-strings/
 http://www.sitepoint.com/the-es6-conundrum/
+https://www.sitepoint.com/creating-next-generation-javascript-application-aurelia/
 http://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
 http://www.sitepoint.com/transpiling-es6-modules-to-amd-commonjs-using-babel-gulp/
 http://www.sitepoint.com/joys-block-scoping-es6/
@@ -28,7 +29,9 @@ https://www.sitepoint.com/developing-jquery-plugins/
 https://www.sitepoint.com/10-jquery-panorama-image-display-plugins/
 https://www.sitepoint.com/10-jquery-form-validation-plugins/
 https://www.sitepoint.com/10-jquery-text-highlighter-plugins/
-
+https://www.sitepoint.com/introduction-to-jcanvas-jquery-meets-html5-canvas/
+https://www.sitepoint.com/jquery-document-ready-plain-javascript/
+https://www.sitepoint.com/13-jquery-selectboxdrop-down-plugins/
 
                             
                             ######################## Functional ############################
@@ -47,15 +50,24 @@ https://www.sitepoint.com/functional-programming-with-ramda/
 
                             
                             ######################## Testing ############################
-http://www.sitepoint.com/unit-test-javascript-mocha-chai/
+https://www.sitepoint.com/unit-test-javascript-mocha-chai/
 https://www.sitepoint.com/javascript-functional-testing-nightwatch-js/
-http://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/
+https://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/
 
 
                             ######################## Javacript ############################
-http://www.sitepoint.com/writing-better-javascript-with-flow/
-http://www.sitepoint.com/sending-emails-gmail-javascript-api/
-
+https://www.sitepoint.com/writing-better-javascript-with-flow/
+https://www.sitepoint.com/sending-emails-gmail-javascript-api/
+https://www.sitepoint.com/dynamic-tables-json/
+https://www.sitepoint.com/javascript-refactoring-techniques-specific-to-generic-code/
+https://www.sitepoint.com/pragmatic-monkey-patching/
+https://www.sitepoint.com/saved-from-callback-hell/
+https://www.sitepoint.com/importance-client-side-javascript-security/
+https://www.sitepoint.com/javascript-goes-asynchronous-awesome/
+https://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
+httsp://www.sitepoint.com/using-javascript-frameworks-inside-c-with-chakrabridge/
+https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
+https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/
 
 
                             ######################## Miscellaneous ############################
@@ -71,11 +83,6 @@ http://www.sitepoint.com/preloading-images-in-parallel-with-promises/
 http://www.sitepoint.com/3-javascript-orms-you-might-not-know/
 http://www.sitepoint.com/command-line-api-fun-profit/
 http://www.sitepoint.com/face-proximity-detection-with-javascript/
-http://www.sitepoint.com/importance-client-side-javascript-security/
-http://www.sitepoint.com/javascript-goes-asynchronous-awesome/
-http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
-http://www.sitepoint.com/using-javascript-frameworks-inside-c-with-chakrabridge/
-http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
 http://www.sitepoint.com/whats-new-in-vue-js-1-0/
 http://www.sitepoint.com/quick-tip-stop-writing-loops-start-thinking-with-maps/
 http://www.sitepoint.com/google-maps-made-easy-with-gmaps-js/
@@ -84,7 +91,6 @@ http://www.sitepoint.com/parallel-javascript-with-paralleljs/
 http://www.sitepoint.com/creating-webgl-game-unity-5-javascript/
 http://www.sitepoint.com/creating-a-multiselect-component-as-a-web-component/
 http://www.sitepoint.com/using-inline-partials-and-decorators-with-handlebars-4-0/
-http://www.sitepoint.com/introduction-to-jcanvas-jquery-meets-html5-canvas/
 http://www.sitepoint.com/lazy-loading-images-igaro-app-javascript-framework/
 http://www.sitepoint.com/quick-tip-master-closures-by-reimplementing-them-from-scratch/
 http://www.sitepoint.com/creating-an-imgur-app-with-nativescript/
@@ -118,9 +124,8 @@ https://www.sitepoint.com/introduction-chart-js-2-0-six-examples/
 https://www.sitepoint.com/getting-started-with-pouchdb/
 https://www.sitepoint.com/cache-fetched-ajax-requests/
 https://www.sitepoint.com/getting-started-with-vue-js/
-https://www.sitepoint.com/javascript-refactoring-techniques-specific-to-generic-code/
-https://www.sitepoint.com/pragmatic-monkey-patching/
-https://www.sitepoint.com/saved-from-callback-hell/
 https://www.sitepoint.com/building-a-game-reactjs-and-webgl/
 https://www.sitepoint.com/add-remove-css-class-vanilla-js/
+https://www.sitepoint.com/aurelia-custom-pdf-viewer-component/
+https://www.sitepoint.com/javascript-3d-minecraft-editor/
 
