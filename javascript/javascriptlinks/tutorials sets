@@ -49,6 +49,8 @@ https://medium.com/fattura-con-billy/animated-stacked-bar-charts-with-d3-js-2ef9
 https://medium.com/walmartlabs/use-easy-fix-to-run-integration-tests-like-unit-tests-834288ec446d#.68s8uh36p
 https://medium.com/re-dom/master-the-dom-bc1a2a06089b#.nzzas3lpk
 https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.gqyw37vpl
+https://medium.com/purse-essays/introducing-bcoin-fdfcb22dfa34#.4nb85hbfx
+https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.3lbp6950n
 
 
 ###################################### Freecodecamp ###########################################################
@@ -106,6 +108,7 @@ http://www.2ality.com/2016/05/six-nifty-es6-tricks.html
 http://www.2ality.com/2016/05/template-literal-whitespace.html
 http://www.2ality.com/2016/09/global.html
 http://www.2ality.com/2016/09/three-useful-babel-presets.html
+http://www.2ality.com/2016/10/asynchronous-iteration.html
 
 
 ####################################### Mozilla ###########################################################
@@ -121,7 +124,6 @@ https://hacks.mozilla.org/2016/09/introducing-debugger-html/
 
 ####################################### James K Nelson ###########################################################
 http://jamesknelson.com/are-es6-promises-swallowing-your-errors/
-https://davidwalsh.name/essential-javascript-functions
 http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/
 http://jamesknelson.com/why-you-shouldnt-style-with-javascript/
 
@@ -172,9 +174,13 @@ http://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-as
 https://blog.risingstack.com/web-authentication-methods-explained/
 https://blog.risingstack.com/writing-a-javascript-framework-sandboxed-code-evaluation/
 https://blog.risingstack.com/writing-a-javascript-framework-execution-timing-beyond-settimeout/
+https://blog.risingstack.com/async-await-node-js-7-nightly/
 
 
 ####################################### David Walsh ###########################################################
 http://davidwalsh.name/creating-animated-product-slider-sequencejs
 https://davidwalsh.name/javascript-documentation
 https://davidwalsh.name/modernization-reactivity
+https://davidwalsh.name/essential-javascript-functions
+https://davidwalsh.name/speech-recognition
+
