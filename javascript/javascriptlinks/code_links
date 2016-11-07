@@ -9,12 +9,13 @@ https://github.com/hustcc/timeago.js - library used to format date with `*** tim
 https://github.com/krisk/fuse - Lightweight fuzzy-search, in JavaScript
 https://github.com/mourner/rbush - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 https://github.com/leebyron/iterall - Minimal zero-dependency utilities for using Iterables in all JavaScript environments.
-https://github.com/danielstjules/mocha.parallel
+https://github.com/danielstjules/mocha.parallel - Run async mocha specs in parallel
 https://github.com/vitaly-t/pg-promise - Advanced access layer to PG via promises
 https://github.com/Nickersoft/push.js - A compact, cross-browser solution for using the JavaScript Notifications API
 https://github.com/tscanlin/tocbot/ - Build a table of contents from headings in an HTML document.
 https://github.com/michaelvillar/dynamics.js - Javascript library to create physics-based animations
-https://github.com/zb3/MockTheClock
+https://github.com/naver/egjs/ - Set of UI interactions, effects and utility components library using jQuery
+https://github.com/zb3/MockTheClock - A tiny JS library to... spoof timers and other date/time functions
 https://github.com/starikovs/stupidbox - Really simple image lightbox jQuery plugin
 https://github.com/yoshuawuyts/choo - sturdy frontend framework
 https://github.com/yoannmoinet/nipplejs - A virtual joystick for touch capable interfaces
@@ -27,55 +28,67 @@ https://github.com/Laverna/laverna - Laverna is a JavaScript note taking applica
 https://github.com/mozilla/fathom - A framework for extracting meaning from web pages
 https://github.com/ebidel/appmetrics.js - A small (1.1kb) library for measuring things in your web app
 https://github.com/luruke/barba.js- Create badass, fluid and smooth transition between your website's pages
-https://github.com/aserg-ufmg/JSCity
+https://github.com/aserg-ufmg/JSCity - Visualizing JavaScript source code as navigable 3D cities
 https://github.com/ahomu/Talkie - Simple slide presentation library. Responsive scaling & markdown ready
 https://github.com/sarcadass/granim.js - Create fluid and interactive gradients animations with this small
 https://github.com/isRuslan/vim-es6 - List of JavaScript ES6 snippets and syntax highlighting for vim
 https://github.com/cyclejs/cycle-core/ - A fully reactive JavaScript framework for Human-Computer Interaction
 https://github.com/brion/ogv.js - JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten
 https://github.com/wooorm/mdast - Markdown Abstract Syntax Tree format
-https://github.com/issuetrackapp/queryl
+https://github.com/bevacqua/dragula - Drag and drop so simple it hurts
+https://github.com/issuetrackapp/queryl - Query language to perform complex object searches
+https://github.com/callmecavs/layzr.js - A small, fast, and modern library for lazy loading images
 https://github.com/camwiegert/baffle - A tiny javascript library for obfuscating and revealing text in DOM elements
 https://github.com/dn2a/dn2a-javascript - DN2A JavaScript - Digital Neural Networks Architecture with JavaScript
 https://github.com/js-joda/js-joda - Immutable date and time library for javascript
 https://github.com/timseverien/taggd - A tool to show and add tags to images
 https://github.com/osrec/currencyFormatter.js - A super simple currency formatting library
-https://github.com/slevithan/xregexp
+https://github.com/naptha/tesseract.js - Pure Javascript OCR for 62 Languages 
+https://github.com/lourenc/tinytyper - Record your microphone (or any other input) and add effects to it! In your browser.
+https://github.com/slevithan/xregexp - Extended JavaScript regular expressions
 https://github.com/ianstormtaylor/slate - A completely customizable framework for building rich text editors
 https://github.com/tabalinas/jsgrid - Lightweight Grid jQuery Plugin
 https://github.com/dolce/iziModal - Elegant, responsive, flexible and lightweight modal plugin with jQuery
 https://github.com/krasimir/navigo - A simple vanilla JavaScript router with a fallback for older browsers
 https://github.com/marko-js/marko/ - Marko template engine
-https://github.com/MaiaVictor/LJSON
+https://github.com/steelbrain/Worker-Exchange - Human-Friendly Web Worker wrapper
+https://github.com/sachinchoolur/lightslider/ - a lightweight responsive Content slider
+https://github.com/MaiaVictor/LJSON - JSON extended with pure functions
 https://github.com/hammerjs/hammer.js/ - A javascript library for multi-touch gestures
 https://github.com/facebook/jest - Painless JavaScript Testing
 https://github.com/BSteephenson/Deep-Type Validate JS objects and arrays using graphql-esque syntax
 https://github.com/sdgluck/pify-proto - Promisify methods on the prototype of an object
-https://github.com/jwagner/smartcrop.js
+https://github.com/krisk/Fuse - Lightweight fuzzy-search, in JavaScript
+https://github.com/jwagner/smartcrop.js - Content aware image cropping
 https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know
 https://github.com/franciscop/cookies.js -  Interactive and easy cookies from your browser in javascript
 https://github.com/fent/randexp.js - Create random strings that match a given regular expression
 https://github.com/elado/lodash-bound - Enables chained lodash functions with ES bind (::) syntax
 https://github.com/parkjs814/AlgorithmVisualizer - Algorithm Visualizer
-https://github.com/dthree/vorpal/
+https://github.com/Bilibili/flv.js - HTML5 FLV Player
+https://github.com/dthree/vorpal/ - Node's framework for interactive CLIs
 https://github.com/google/closure-compiler-js - Package for the JS version of closure-compiler for use via npm
 https://github.com/benhowdle89/grade - This JavaScript library produces complementary gradients
 https://github.com/ncsoft/Unreal.js - Unreal.js: Javascript runtime built for UnrealEngine 4
 https://github.com/nosir/cleave.js/ - Format input text content when you are typing
-https://github.com/dleitee/valid.js
+https://github.com/dleitee/valid.js - A library for data validation
 https://github.com/Keyframes/Keyframes.Pathfinder - A plugin for jQuery.Keyframes that generates complex movement paths
 https://github.com/js-cookie/js-cookie - A simple, lightweight JavaScript API for handling browser cookies
 https://github.com/christinecha/choreographer-js - A simple library to take care of complicated animations.
+https://github.com/moinism/faltu - Search sort, filter, limit an array of objects in Mongo-style.
+https://github.com/usdivad/mesing - JavaScript singing synthesis library
 https://github.com/danvk/source-map-explorer
 https://github.com/MaxArt2501/re-build - Building regular expressions with natural language 
 https://github.com/astoilkov/console.message - Console messages for cool kids
 https://github.com/j2css/j2c - CSS in JS library, tiny yet featureful
 https://github.com/russiann/promise-sequential - Simple like Promise.all(), but sequentially!
+https://github.com/verekia/js-stack-from-scratch - Step-by-step tutorial to build a modern JavaScript stack from scratch
 https://github.com/Microsoft/JSanity
 https://github.com/matankb/fetch-reject - Simple wrapper for fetch which rejects on HTTP error
 https://azu.github.io/ecmascript-version-detector/ - ECMAScript Version Detector
 https://github.com/highrisehq/snapback_cache - A client side page cache for jquery
 https://github.com/anychart/graphicsjs - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
+https://github.com/skatejs/skatejs - a web component library
 https://github.com/helion3/inspire-tree
 https://github.com/sachinchoolur/lightgallery.js - Full featured JavaScript image & video gallery
 https://github.com/AnalyticalGraphicsInc/cesium/ - An open-source JavaScript library for world-class 3D globes and maps
@@ -89,33 +102,38 @@ https://github.com/asvd/microlight - highlights code in any programming language
 https://github.com/WebReflection/jsgtk-twitter - JSGtk Desktop Twitter Client based on Mobile Twitter
 https://github.com/brownhci/WebGazer - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 https://github.com/jfairbank/revalidate - Elegant and composable validations
-https://github.com/ashh640/Highway
+https://github.com/ashh640/Highway - A fast, lightweight and simple Javascript routing library
 https://github.com/vutran/dext - A smart launcher for Mac. Powered by JavaScript.
 https://github.com/thejameskyle/itsy-bitsy-data-structures - All the things you didn't know you wanted to know about data structures
 https://github.com/liabru/matter-js - a 2D rigid body physics engine for the web
 https://github.com/meandmax/lory - Touch enabled minimalistic slider written in vanilla JavaScript
-https://github.com/djyde/PureSlider
+https://github.com/LunarLogic/js-ipsum - Random text generator
+https://github.com/djyde/PureSlider - A lightweight, no-dependency image slider library
 https://github.com/Nickersoft/push.js - A compact, cross-browser solution for the JavaScript Notifications API
 http://nezhar.github.io/jQuery-Rate/ - A simple jQuery plugin for creating graphical ratings
-https://github.com/codemix/babel-plugin-contracts
+https://github.com/codemix/babel-plugin-contracts - Design by Contract for JavaScript via a Babel plugin
 https://github.com/sgaurav/understanding-es6 - Simple examples to help you understand ES6
 https://github.com/sonnyp/polygoat - Make JavaScript functions that support both promise and callback styles
 https://github.com/kenwheeler/cash/ - An absurdly small jQuery alternative for modern browsers
 https://github.com/metagrover/ES6-for-humans - A kickstarter guide to writing ES6.
-https://github.com/maperial/maperial.js
+https://github.com/paulsonnentag/swip - a library to create multi device experiments
+https://github.com/maperial/maperial.js - JavaScript API to create dynamical WebGL maps
 https://github.com/babel/babili -  An ES6+ aware minifier based on the Babel toolchain
 https://github.com/BeepBoopHQ/slapp - A node.js module for Slack App integrations
 https://github.com/bijection/g9 - Automatically interactive graphics for the web
-https://github.com/n-fuse/pajax
+https://github.com/n-fuse/pajax - Promise based AJAX library
 https://github.com/danigb/tonal - Music tonal elements —pitches, chords, scales, keys— in Javascript 
 https://dreamdom.github.io/speechrec.html - Javascript speech recogniser
 https://github.com/photopea/Typr.js - Typr.js - process fonts in Javascript
 https://github.com/sindresorhus/matcher - Simple wildcard matching 
-https://github.com/lugolabs/monthpicker
+https://github.com/typeis/typeisjs - the smart and simple javaScript type checker
+https://github.com/lugolabs/monthpicker - Month picker jQuery plugin
 https://github.com/krig/eventcontrol - EventControl, jQuery timeline control
 https://github.com/ozkxr/match - A JavaScript library to test JSON with some nice features.
 https://github.com/charto/cwait - Limit number of promises running in parallel
-http://mohayonao.github.io/timbre.js/
+https://github.com/brijeshb42/medium-draft -  A medium like Rich Text Editor built on draft-js
+https://github.com/maxwellito/vivus - JavaScript library to make drawing animation on SVG
+https://github.com/mohayonao/timbre.js/ - JavaScript library for objective sound programming
 https://github.com/kasper/phoenix - A lightweight macOS/OS X window and app manager scriptable with JavaScript
 https://github.com/camwiegert/in-view - Get notified when a DOM element enters or exits the viewport
 https://github.com/0xfe/vexwarp - Audio Time Stretching and Pitch Shifting
@@ -123,30 +141,36 @@ https://github.com/roeierez/infinite-list - Infinite list in javascript that scr
 https://github.com/bevacqua/beautify-text - Automated typographic quotation and punctuation marks
 https://github.com/kentcdodds/match-sorter - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 https://github.com/AriaFallah/WebpackTutorial/tree/master/part1
-https://github.com/jaredly/treed
+https://github.com/dollarshaveclub/shave/ -  a zero dependency javascript plugin that truncates text
+https://github.com/jaredly/treed - Powerful Tree Editor
 https://github.com/jadeallencook/gDoc.js - Use Google Spreadsheets as your CMS
 https://github.com/shift-js/shift-js - Swift to JavaScript transpiler
 https://github.com/nolanlawson/optimize-js - Optimize a JavaScript file for faster initial load by wrapping eagerly-invoked functions
 https://github.com/Leaflet/Leaflet -  JavaScript library for mobile-friendly interactive maps
-https://github.com/ecomfe/echarts
+https://github.com/jadeallencook/gDoc.js - Use Google Spreadsheets as your CMS
+https://github.com/ecomfe/echarts - A powerful, interactive charting and visualization library for browser
 https://github.com/atayahmet/jquery.easypin - Pinning clickable messages/notes to images
 https://github.com/elado/reuse-promise - Reuse the same promise that's returned from a function until it's resolved
 https://github.com/polarnotion/turntable/ - A Responsive JQuery Slider
 https://github.com/krasimir/cssx - CSS in JavaScript
-https://github.com/jaxgeller/tweezer.js
+https://github.com/hyperform/hyperform/ - Capture form validation back from the browser
+https://github.com/jaxgeller/tweezer.js - A small, dependency-free, ES6 library for smooth animations
+https://github.com/cerebral/cerebral - A state controller with its own debugger
 https://github.com/sourcelair/xterm.js - Full xterm terminal, in your browser
 https://github.com/soyuka/dpicker - A framework-agnostic minimal date picker
 https://github.com/mburakerman/toolgif - A very simple Jquery gif tooltip plugin
 https://github.com/MaiaVictor/WebMonkeys - Massively parallel GPU programming on JavaScript, simple and clean.
-https://github.com/anvaka/VivaGraphJS
+https://github.com/noffle/art-of-readme -  Learn the art of writing quality READMEs
+https://github.com/jsonata-js/jsonata - JSONata query and transformation language
+https://github.com/anvaka/VivaGraphJS - Graph drawing library for JavaScript
 https://github.com/ArunMichaelDsouza/picla - jQuery plugin that converts Alt-texts into simple image labels
 https://chmln.github.io/flatpickr/ - A lightweight & powerful datetimepicker
 https://github.com/rse/extraction - Tree Extraction for JavaScript Object Graphs
-https://github.com/roperzh/jroff
+https://github.com/roperzh/jroff - Man pages parser written in JavaScript
 https://github.com/rwu823/stop.js - The Promise base `setTimeout`, reduce your callback
 https://github.com/MarkoCen/trial-js - Mouse position monitoring and user input prediction
 https://github.com/algolia/places -  Turn any <input> into an address autocomplete
-https://github.com/c58/marsdb
+https://github.com/c58/marsdb - a Promise based lightweight database with MongoDB query syntax
 https://github.com/olistic/warriorjs - Game written in JavaScript for learning JavaScript and artificial intelligence.
 https://github.com/caiogondim/fast-memoize.js -  Fastest possible memoization library
 https://github.com/Aerolab/readremaining.js - Tell your readers how long they'll need to get through all of your gibberish
@@ -162,13 +186,13 @@ https://github.com/FormidableLabs/webpack-dashboard - A CLI dashboard for webpac
 https://github.com/metafloor/bwip-js - Barcode Writer in Pure JavaScript
 https://github.com/SodhanaLibrary/jqImgBlurEffects - jQuery Plugin For SVG Blur Effects On Image
 https://github.com/mohebifar/lebab - Turn your ES5 code into readable ES6 
-https://github.com/Tapha/Custom-Highlight/
+https://github.com/Tapha/Custom-Highlight/ - A simple, open source text highlighter 
 https://github.com/lasso-js/lasso - Advanced JavaScript module bundler, asset pipeline and optimizer
 https://github.com/adriantoine/kewler - Simple functional and immutable color manipulation library
 https://github.com/dumbmatter/fakeIndexedDB - A pure JS in-memory implementation of the IndexedDB API
 https://github.com/raphamorim/origami.js - Powerful and Lightweight Library to create using HTML5 Canvas
 https://github.com/mako-taco/DecorateThis - JS Decorators library
-https://github.com/bevacqua/trunc-html
+https://github.com/bevacqua/trunc-html -  truncate html by text length
 https://github.com/polygonplanet/chillout - Reduce CPU usage in JavaScript
 https://github.com/mcsoto/LogicJS - Logic programming for JavaScript 
 https://github.com/mholt/PapaParse - Fast and powerful CSV (delimited text) parser that gracefully handles large file
