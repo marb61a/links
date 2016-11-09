@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=C4wL-7-KC2Q - To 3d And Beyond: WebGL & WebVR Fo
 https://www.youtube.com/watch?v=fPxGXf-rXHo - Why make non-commercial games? When to do it commercially?
 https://www.youtube.com/watch?v=_FvWtFyeNss - Getting Started In #WebVR with Vizor
 https://www.youtube.com/watch?v=iQPvLuXpaMk - Phaser tutorial at the Crater.io JavaScript Mobile Conference 2016
+https://www.youtube.com/watch?v=MZxzuHY97ug - HTML5 Game Development with Phaser
+https://www.youtube.com/watch?v=vqlWtfriYao - Prototyping With Phaser Game Jam to Release
+https://www.youtube.com/watch?v=H2aW5V46khA - Writing a Tetris game in JavaScript
+https://www.youtube.com/watch?v=5qct-pVJ2O0 - Game Interfaces: How It's Made in Raining Chain
 
   
 ### Courses ###
@@ -21,19 +25,23 @@ https://github.com/playcanvas/engine - 3D WebGL game engine with online toolset.
 https://github.com/awentzonline/image-analogies - Generate image analogies using neural matching and blending
 https://github.com/MaiaVictor/WebMonkeys - Massively parallel GPU programming on JavaScript, simple and clean
 https://github.com/bmarwane/spriteSplitter - A multi platform tool to cut a spriteSheet into individual frames.
-https://github.com/melonjs/melonJS
+https://github.com/xenohunter/timestore - Multiple timers manager, especially good for games.
+https://github.com/paulsonnentag/swip - a library to create multi device experiments
+https://github.com/usdivad/mesing - JavaScript singing synthesis library
+https://github.com/melonjs/melonJS - a fresh & lightweight javascript game engine
 https://github.com/kittykatattack/ga - The world's tiniest, cutest and funnest game engine
 https://github.com/superpowers/superpowers-game - Make 2D and 3D games in live collaboration with Superpowers
 https://github.com/kittykatattack/tileUtilities - Utilities for make tile based-games for the Pixi renderer
 https://github.com/yoel123/yoel-html5-game-engine-tutorials
 https://github.com/Kikobeats/js-mythbusters - STHAP js, where is my perfomance
+https://github.com/BabylonJS/Babylon.js - Babylon.js: a complete JavaScript framework for building 3D games
+https://github.com/xem/CSS3Dprototypes - CSS3D game protos
 https://github.com/mhluska/snakeception
 https://github.com/pixijs/pixi-gl-core - A set of tidy little pixi objects that make working with WebGL simpler
 https://github.com/spmurrayzzz/js13k-rollup - js13kgames competition template powered by gulp and rollup.js
 https://github.com/drhayes/pyxel-edit-cli - A barebones PyxelEdit exporter
 https://github.com/endel/tic-tac-toe - HTML5 Tic-Tac-Toe Multiplayer Game powered by Colyseus
 https://github.com/deepstreamIO/deepstream.io - deepstream.io server
-https://github.com/edankwan/hyper-mix
 https://github.com/webcaetano/gulp-texturepacker - Gulp plugin for TexturePacker
 https://github.com/MaxArt2501/re-build - Building regular expressions with natural language
 https://github.com/VitaZheltyakov/phaser-arcade-circles-plugin - This plugin adds circle-collision to Phaser framework
@@ -52,6 +60,8 @@ https://github.com/codrops/DistortedButtonEffects/ - A set of inspirational, hig
 https://github.com/lvcabral/PhaserSpriteSheetUnpacker - Tool to unpack frames from a Phaser Sprite Sheet
 https://github.com/Makio64/img2dds - Application to convert easily image to dxt texture
 https://github.com/markusfisch/web-game-from-scratch-talk - Making games from scratch using vanilla JavaScript
+https://github.com/surikov/webaudiofont - Web Audio Font - Soundfont for Web Audio API
+https://github.com/Firenibbler/HYPERJS - a JavaScript Game engine designed for 2D game development
 
 
 ### Codepens ###
@@ -71,6 +81,9 @@ http://codepen.io/iamscottcox/pen/xOovbK - SVG Overwatch Loading Icon
 http://codepen.io/ninivert/pen/ZpEQBR - Typographic Soup
 http://codepen.io/krystalcampioni/pen/XKxgoq - Pure CSS Flying Rocket
 http://codepen.io/tricsi/pen/WxWjAx - WebAudio Music ES6
+http://codepen.io/bali_balo/pen/pEYrvw - Coordination
+http://codepen.io/keithclark/pen/ORjAqZ - Zero Element: Cube
+http://codepen.io/JeffSturgis/pen/GjPpoR - Random SVG Morphing
 
   
 ### Links ###
@@ -80,6 +93,7 @@ https://mseyne.gitbooks.io/super-pacman/content/en/index.html - Superpowers Game
 http://superpowers-html5.com/index.en.html - 2D+3D game making for indies. Free and open source
 http://blog.melonjs.org
 https://mythbusters.js.org/ - An optimization handbook from a high level point of view
+https://www.truevalhalla.com/blog/tools - List of tools used to run game dev business
 https://screeps.com/
 https://aframe.io/
 http://www.qiciengine.com/
