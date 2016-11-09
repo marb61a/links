@@ -30,6 +30,9 @@ https://gamedevelopment.tutsplus.com/articles/making-levels-with-the-super-mario
 https://gamedevelopment.tutsplus.com/articles/the-super-mario-world-method-understanding-skill-themes--cms-25722
 https://gamedevelopment.tutsplus.com/articles/the-super-mario-world-method-using-evolutions-and-expansions--cms-25295
 https://gamedevelopment.tutsplus.com/articles/using-texture-atlas-in-order-to-optimize-your-game--cms-26783
+https://code.tutsplus.com/tutorials/particles-js-control-particle-count-and-shape--cms-26290
+https://gamedevelopment.tutsplus.com/tutorials/building-a-beat-em-up-in-game-maker-part-1-player-movement-attacks-and-basic-enemies--cms-26147
+https://gamedevelopment.tutsplus.com/tutorials/building-a-beat-em-up-in-game-makercombo-attacks-more-ai-and-health-pickups--cms-26471
 
 
 ######################################## Firenibbler ##################################################### 
@@ -44,12 +47,15 @@ https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_th
 https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/GLSL_Shaders
 https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/
 https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Babylon.js
+https://developer.mozilla.org/en-US/docs/Games/Techniques/Control_mechanisms/Desktop_with_mouse_and_keyboard
+https://developer.mozilla.org/en-US/docs/Games/Techniques/Control_mechanisms/Mobile_touch
 
 
 ######################################## Gamasutra ##################################################### 
 http://www.gamasutra.com/blogs/TequilaWorks/20160620/275347/How_to_take_advantage_of_textures_in_the_vertex_shader.php
 http://www.gamasutra.com/view/news/273325/Game_Design_Deep_Dive_Dying_Lights_Natural_Movement_system.php
 http://www.gamasutra.com/view/news/270949/7_examples_of_great_game_physics_that_every_developer_should_study.php
+http://www.gamasutra.com/blogs/JeffVogel/20160923/281981/A_Very_Long_Post_About_How_to_Become_a_Creator.php?
 
 
 ####################################### Miscellaneous ###########################################################
@@ -66,6 +72,7 @@ http://dev.agnis.in/cooking-a-new-html5-game-in-phaser/
 https://dotdev.co/how-to-write-a-readme-that-rocks-bc29f279611a#.pj3zlhgti
 http://hacknplan.com/understanding-vertical-slicing/
 http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/
+http://tympanus.net/codrops/2016/09/29/transition-effect-with-css-masks/
 http://burnmind.com/tutorials/drag-sprite-horizontally-vertically-phaser
 http://sbcgamesdev.blogspot.ie/2016/04/phaser-tutorial-using-spriter-player.html
 http://www.merixstudio.com/blog/html5-game-development-touch-screen-displays/
@@ -77,4 +84,8 @@ http://thenewcode.com/1132/Glitch-Art-with-HTML5-Canvas
 http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/
 http://blog.geofenceapi.org/post/149196681132/building-pokemongo-in-pure-html-javascript-css
 https://heroiclabs.com/blog/2016/08/30/building-social-javascript-games/
+http://www.mobilezdeveloper.com/construct-2-tutorials-stick-hero/
+http://graphics.cs.williams.edu/courses/cs371/f16/gallery/4-midterm/terrain/report.md.html
+https://developer.tizen.org/community/tip-tech/matter.js-2d-physics-library-tizen
+https://blog.ludei.com/how-to-create-a-game-bot-and-publish-your-html5-games-on-telegram/
 
