@@ -47,6 +47,8 @@ https://medium.com/blog-goncalopereira-com/development-quality-for-ruby-and-chef
 https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e#.8txtg6v7h
 https://medium.com/in-the-weeds/stabilizing-your-test-suite-settings-3139f706ba65#.poh7gpp92
 https://medium.com/@eric.programmer/the-sql-alternative-to-counter-caches-59e2098b7d7#.o3osc7nd4
+https://medium.com/@kristenfletcherwilde/getting-started-with-kernel-format-7c7645266fed#.4gli8qfl8
+https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b#.wbpvkhhjo
 
 
 ###################################### Justin Weiss ####################################################
@@ -113,7 +115,7 @@ http://blog.codeship.com/surrogate-websockets/
 http://blog.codeship.com/the-json-api-spec/
 http://blog.codeship.com/a-deep-dive-into-ruby-scopes/
 http://blog.codeship.com/generational-gc-python-ruby/
-http://blog.codeship.com/mark-methods-private-when-you-dont-test-them/
+https://blog.codeship.com/mark-methods-private-when-you-dont-test-them/
 https://blog.codeship.com/producing-documentation-for-your-rails-api/
 https://blog.codeship.com/optimists-guide-pessimistic-library-versioning/
 https://blog.codeship.com/how-to-find-ruby-code-smells-with-reek/
@@ -136,6 +138,10 @@ https://blog.codeship.com/http-calls-ruby/
 https://blog.codeship.com/good-module-bad-module/
 https://blog.codeship.com/getting-started-with-minitest
 https://blog.codeship.com/improving-rails-performance-better-background-jobs/
+https://blog.codeship.com/testing-http-requests/
+https://blog.codeship.com/when-to-be-concerned-about-concerns/
+https://blog.codeship.com/building-a-well-polished-ruby-gem/
+https://blog.codeship.com/microservice-communication-queues/
 
 
 ###################################### Rossta ####################################################
@@ -214,6 +220,7 @@ http://www.blackbytes.info/2016/06/ruby-ranges-how-do-they-work/
 http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/
 http://www.blackbytes.info/2016/07/numbers-in-ruby/
 http://www.blackbytes.info/2016/09/object-space/
+http://www.blackbytes.info/2016/11/code-analysis-minitest/
 
 
 ###################################### Wyeworks ####################################################
@@ -254,6 +261,8 @@ http://blog.arkency.com/2016/07/testing-soap-api-adapters/
 http://blog.arkency.com/2016/06/cover-all-test-cases-with-permutation/
 http://blog.arkency.com/2016/07/phases-of-refactoring-complex-rails-apps/
 http://blog.arkency.com/2016/09/minimal-decoupled-subsystems-of-your-rails-app/
+http://blog.arkency.com/2016/10/running-bash-command-from-ruby-with-your-bash-profile/
+http://blog.arkency.com/2016/10/the-esthetics-of-a-ruby-service-object/
 
 
 ###################################### Tutsplus ####################################################
@@ -265,6 +274,7 @@ http://code.tutsplus.com/tutorials/generating-pdfs-from-html-with-rails--cms-229
 http://computers.tutsplus.com/tutorials/customize-the-menu-bar-with-bitbar--cms-26946
 https://code.tutsplus.com/articles/full-text-search-in-rails-using-elasticsearch--cms-22920
 http://code.tutsplus.com/tutorials/rails-image-upload-using-dragonfly--cms-26179
+https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475
 
 
 ###################################### Ruby Pidgeon ####################################################
@@ -273,6 +283,7 @@ http://www.rubypigeon.com/posts/a-review-of-immutability-in-ruby/
 http://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/
 http://www.rubypigeon.com/posts/examining-internals-of-rails-request-response-cycle/
 http://www.rubypigeon.com/posts/the-pure-function-as-an-object-pfaao-pattern/
+http://www.rubypigeon.com/posts/fizzbuzz-in-too-much-detail/
 
 
 ###################################### MixandGo ####################################################
@@ -286,6 +297,7 @@ http://brandonhilkert.com/blog/sidekiq-as-a-microservice-message-queue/
 http://brandonhilkert.com/blog/solving-backwards-compatibility-in-ruby-with-a-proxy-object/
 http://brandonhilkert.com/blog/ruby-gem-post-install-message/
 http://brandonhilkert.com/blog/rails-progress-indicator-for-turbolinks-using-nprogress/
+http://brandonhilkert.com/blog/monitoring-sidekiq-using-aws-lambda-and-slack/?
 
 
 ###################################### Aaron Lasseigne ####################################################
@@ -294,6 +306,7 @@ http://aaronlasseigne.com/2016/05/11/dont-forget-about-infinite-enumerators/
 http://aaronlasseigne.com/2016/05/24/know-ruby-with_index/
 http://aaronlasseigne.com/2016/06/10/proper-regexp-anchoring/
 http://aaronlasseigne.com/2016/07/08/5-tips-for-writing-a-legible-regexp/
+https://aaronlasseigne.com/2016/10/26/know-ruby-private_constant/
 
 
 ###################################### Rosenfeld ####################################################
@@ -315,3 +328,17 @@ http://readysteadycode.com/howto-parse-html-with-ruby-and-nokogiri
 http://readysteadycode.com/howto-access-amazon-dynamodb-with-ruby
 http://readysteadycode.com/howto-access-the-gmail-api-with-ruby
 http://readysteadycode.com/howto-manage-campaign-monitor-lists-with-ruby
+
+
+###################################### Akita On Rails ####################################################
+http://www.akitaonrails.com/2016/03/22/is-your-rails-app-ready-for-production
+http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room
+http://www.akitaonrails.com/2016/10/03/sharing-models-between-rails-apps-part-1
+http://www.akitaonrails.com/2016/10/31/ruby-on-rails-implementation-of-a-proper-ranking-popularity-system
+
+
+###################################### ombulabs ####################################################
+http://www.ombulabs.com/blog/ruby/performance/using-bumbler-to-reduce-runtime-dependencies.html
+http://www.ombulabs.com/blog/ruby/imap/a-comprehensive-guide-to-interacting-with-imap-using-ruby.html
+http://www.ombulabs.com/blog/rspec/ruby/spy-vs-double-vs-instance-double.html
+http://www.ombulabs.com/blog/performance/rails/writing-fast-rails.html
