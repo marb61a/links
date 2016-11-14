@@ -12,32 +12,38 @@ https://github.com/mudge/comp - A Ruby library to add function composition to Pr
 https://github.com/mattvperry/mumble-ruby - A headless mumble client API written in Ruby
 https://github.com/Bunlong/rails-livestamp - rails-livestamp is a simple jQuery plugin
 https://github.com/yahoo/rtrace - Rtrace is an x86/x86_64 native code debugger
-https://github.com/peter-murach/pastel
+https://github.com/peter-murach/pastel - Terminal output styling with intuitive and clean API
 https://github.com/handwritingio/ruby-client - Ruby language client for Handwriting.io API
 https://github.com/adamakhtar/slack_dj - A slack powered music player for your team
 https://github.com/testdouble/suture - A Ruby gem that helps you refactor your legacy code
 https://github.com/jellymann/mittsu - 3D Graphics Library for Ruby
-https://github.com/peter-murach/tty-screen
+https://github.com/iberianpig/fusuma - Multitouch gestures with libinput dirver on X11, Linux
+https://github.com/webgradus/kms - Simple and powerful Ruby on Rails CMS for developers
+https://github.com/peter-murach/tty-screen - Terminal screen detection - cross platform, major ruby interpreters
 https://github.com/vcr/vcr -Record your test suite's HTTP interactions and replay them during future test runs
 https://github.com/acorncache/acorn-cache - A Configurable HTTP Proxy Caching Gem
 https://github.com/SudhagarS/dpr - The simplest Ruby HTTP client.
-https://github.com/csm123/rsstoapi/
+https://github.com/heckpsi-lab/em-midori - Lightweight, Flexible and Fast Ruby Web Framework
+https://github.com/bkarst/thymble - Thimble is an Ruby on Rails 5 community-based news platform platform.
+https://github.com/adamcooke/procodile -  Run Ruby/Rails processes in the background on Linux servers with ease
+https://github.com/csm123/rsstoapi/ - An API for retrieving and serving RSS feeds, with caching
 https://github.com/gottfrois/image_info - ImageInfo finds the size and type of a single or multiple images from the web
 https://github.com/ccallebs/pokey - A Ruby gem that simulates webhooks and other HTTP requests
 https://github.com/salsify/offline-sort - A Ruby gem to sort large amounts of data using a predictable amount of memory
 https://github.com/DataDuckETL/DataDuck - the extract-transform-load framework for data warehousing
 https://github.com/gdpelican/inline_translation - An easy way to provide inline translations in your Rails app
-https://github.com/altmetric/decontaminator
+https://github.com/altmetric/decontaminator - Ruby HTML sanitizer based on a lightweight Oga parser
 https://github.com/ndea/notifyor - Get realtime notifications on your desktop if something happens in your Rails app.
 https://github.com/ivantsepp/annotate_gem - Add comments to your Gemfile with each dependency's description
 https://github.com/jeremyevans/rodauth - Authentication and Account Management Framework for Rack Applications
-https://github.com/doches/rwordnet
+https://github.com/smcabrera/dot_example - Keep your project's environment variables in sync across your team
+https://github.com/doches/rwordnet - A pure Ruby interface to the WordNet database
 https://github.com/BBC-News/cloudwatch-sender - Send metrics to InfluxDB from Cloudwatch
 https://github.com/sunaku/tamzen-font - Monospaced programming font based on Tamsyn
 https://github.com/weppos/whois - An intelligent — pure Ruby — WHOIS client and parser
 https://github.com/tomstuart/dual_number - A Ruby implementation of dual numbers.
 https://github.com/tarolandia/cassandro - Ruby ORM for Apache Cassandra
-https://github.com/MightySignal/slackiq
+https://github.com/MightySignal/slackiq - Slackiq = Slack + Sidekiq
 https://github.com/ostinelli/apnotic - Apnotic is an Apple Push Notification gem able to provide instant feedback.
 https://github.com/ioquatix/http-accept - Parse Accept and Accept-Language HTTP headers in Ruby.
 https://github.com/httprb/http - HTTP (The Gem! a.k.a. http.rb) - a fast Ruby HTTP client with a chainable API, streaming support, and timeouts
@@ -48,7 +54,7 @@ https://github.com/cerebris/jsonapi-resources - A resource-focused Rails library
 https://github.com/palkan/logidze - Log Files
 https://github.com/chatbotcity/ruby-facebook-messenger-starter - Example Facebook Messenger App in Ruby
 https://github.com/janlelis/whirly - Colorful Terminal Spinner for Ruby
-https://github.com/backupify/data_filter
+https://github.com/backupify/data_filter - an extensible DSL for filtering data sets
 https://github.com/statusify/statusify - Statusify, the status reporting app that everyone needs
 https://github.com/piotrmurach/pastel - Terminal output styling with intuitive and clean API.
 https://github.com/timigod/client_manager - a mountable gem that helps identify and authenticate your API clients' requests.
@@ -127,7 +133,6 @@ https://github.com/krisleech/not_found - Allows you to rescue ActiveRecord::Reco
 https://github.com/ankane/pgslice - Postgres partitioning as easy as pie
 https://github.com/rob-murray/five-star - a library to build a rating system in Ruby
 https://github.com/hokstadconsulting/ffi-mmap - Ruby FFI-based Mmap interface.Ruby FFI-based Mmap interface.
-https://github.com/shakacode/react_on_rails/
 https://github.com/jazzonmymind/trip.rb - real time concurrent tracer for Ruby
 https://github.com/codevise/pageflow - Multimedia story telling for the web
 https://github.com/varvet/godmin - Admin framework for Rails 4+
@@ -146,7 +151,7 @@ https://github.com/erichaydel/errdo -A simple plugin to handle, log, and customi
 https://github.com/karthikv/model_schema
 https://github.com/vinhnglx/active_bootstrap_skin - Bootstrap skin for Active Admin
 https://github.com/janko-m/shrine - Toolkit for handling file uploads in Ruby
-https://github.com/zhulik/pinball
+https://github.com/zhulik/pinball - Simple IOC Container and DI tool for ruby
 https://github.com/davidesantangelo/emailhunter - A tiny Ruby wrapper around Email Hunter API
 https://github.com/iridakos/duckrails - A development tool to quickly & dynamically mock API endpoints
 https://github.com/tobiasfeistmantl/LeSSL - A certificate manager for lets-encrypt certificates
@@ -155,63 +160,76 @@ https://github.com/plum-umd/rdl - RDL is a lightweight system for adding contrac
 https://github.com/jvns/ruby-stacktrace - Have you ever wanted to know what your Ruby program is doing
 https://github.com/codervault/codervault - An Open Source, Self-Hosted, Snippet Manager
 https://github.com/spilin/puma_doctor - Service for monitoring and restarting puma workers
-https://github.com/sony/v8eval/tree/master
+https://github.com/jhawthorn/execjs-fastnode - A faster Node.JS integration for Ruby/Rails ExecJS
+https://github.com/sony/v8eval/tree/master - Multi-language bindings to JavaScript engine V8
 https://github.com/efigence/cache_key_for - Comprehensive cache key generator for scopes
 https://github.com/amatsuda/kaminari - customizable and sophisticated paginator for Ruby webapps https
 https://github.com/testdouble/good-migrations - Prevent Rails from auto-loading app/ code when running database migrations
 https://github.com/hyperoslo/facebook-messenger/ - Definitely the best Ruby client for Bots on Messenger
 https://github.com/stympy/faker - A library for generating fake data
-https://github.com/ankane/strong_migrations
+https://github.com/ankane/strong_migrations - Catch unsafe migrations at dev time
 https://github.com/botmetrics/botmetrics - Open Source, Secure Conversation Analytics for Chat and Voice bots
 https://github.com/locoframework/loco-rails - Rails is awesome, but modern web needs Loco-motive
 https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby - Solving the second hard problem in Computer Science
 https://github.com/marcelotto/sycamore - An unordered tree data structure for Ruby 
 https://github.com/usmanbashir/haikunator - Heroku-like random name generator
-https://github.com/chriskottom/minitest-hyper
+https://github.com/chriskottom/minitest-hyper - Pretty HTML reports for Minitest
 https://github.com/rafaelsales/ulid - Universally Unique Lexicographically Sortable Identifier implementation for Ruby
-https://github.com/monkeylearn/monkeylearn-ruby
+https://github.com/kwatch/keight - Jet-speed webapp framework
+https://github.com/monkeylearn/monkeylearn-ruby - Official Ruby client for the MonkeyLearn API
 https://github.com/davidesantangelo/webinspector - Ruby gem to inspect completely a web page
 https://github.com/seamusabshere/lock_and_cache - doesn't it make sense to lock while caching
 https://github.com/hokstadconsulting/purecdb - A Pure Ruby CDB reader/writer w/64 bit extensions
 https://github.com/JVillella/tiny-path - An instructive one-file Ruby path tracer
-https://github.com/nasa/earthdata-search
+https://github.com/nasa/earthdata-search -n a web application developed by NASA EOSDIS to enable data discovery
 https://github.com/puma/puma-dev - A tool to manage rack apps in development with puma
 https://github.com/AndrewRadev/vimrunner - Control a vim instance through ruby code
 https://github.com/mohitjain/layzr-rails - Layzr JS Wrapper for Rails image_tag helpers for lazy loading of images
 https://github.com/yukas/traver - Traver — test data generation framework
-https://github.com/SimplyBuilt/activejob-retriable
+https://github.com/gettalong/hexapdf - Versatile PDF creation and manipulation for Ruby
+https://github.com/helpyio/helpy - a modern, "mobile-first" helpdesk application built in Ruby
+https://github.com/SimplyBuilt/activejob-retriable -  Automatically retry failed ActiveJobs
 https://github.com/blendle/object-cache - Simple Ruby object caching solution using Redis as a backend
 https://github.com/rails-api/active_model_serializers - ActiveModel::Serializer implementation and Rails hooks
 https://github.com/codelittinc/slacked - A simple and easy way to send notifications to Slack from your Ruby or Rails application.
 https://github.com/tomchinery/action-cable-node - Action Cable extracted from Rails 5 and packaged as a Node module
 https://github.com/EventtusHQ/uniqueness - Rails recently introduced has_secure_token but it's very primitive
-https://github.com/shakacode/react_on_rails
+https://github.com/molybdenum-99/tz_offset - Simple abstraction of a timezone offset
+https://github.com/shakacode/react_on_rails - Integration of React + Webpack + Rails to build Universal (Isomorphic) Apps
 https://github.com/janlelis/unicode-display_width - Monospace Unicode character width in Ruby
 https://github.com/erdostom/devise-argon2 - A devise-encryptable password encryptor that uses Argon2
 https://github.com/henrylawson/dynamodb-migration - A simple DynamoDB migration tool.
-https://github.com/powerpak/tqdm-ruby
+https://github.com/ship-containers/ship - ports tree style docker based package manager in few lines of ruby
+https://github.com/powerpak/tqdm-ruby - Add a progress bar to your loops in a second
 https://github.com/rack-app/rack-app - Bare bone minimalistic (masochistic) pico framework for building rack apps
 https://github.com/hone/mruby-cli - mruby-cli is a platform to build native command line applications
-https://github.com/Masa331/it_sorts
+https://github.com/kwatch/rack-jet_router - Super-fast router class for Rack application, derived from Keight.rb.
+https://github.com/michenriksen/birdwatcher - Data analysis and OSINT framework for Twitter
+https://github.com/Masa331/it_sorts - Tiny helper lib for understandable array sorting
 https://github.com/saghm/very-ants - Probabilistic integer arithmetic for Ruby
 https://github.com/zeisler/active_enumerable ActiveRecord like query methods for Ruby enumerable collections
 https://github.com/ivarvong/googledoc_markdown - A Ruby gem for converting Google Doc HTML to Markdown
 https://github.com/arturoherrero/powercore - PowerCore extends the Ruby Core with useful extensions.
 https://github.com/spree/spree/tree/3-1-stable - Spree is a complete open source e-commerce solution for Ruby on Rails
 https://github.com/schneems/derailed_benchmarks/ - Go faster, off the Rails - Benchmarks for your whole Rails app
-https://github.com/atipugin/telegram-bot-ruby
+https://github.com/atipugin/telegram-bot-ruby - Ruby wrapper for Telegram's Bot API 
 https://github.com/zverok/geo_coord - Simple yet useful Geo Coordinates class for Ruby
 https://github.com/Authorea/latexml-ruby - A Ruby wrapper for LaTeXML
 https://github.com/BankExchange/bank_exchange_ruby_api - Official Ruby client for BankExchange API
-https://github.com/thoughtbot/scenic
+https://github.com/bblimke/webmock - Library for stubbing and setting expectations on HTTP requests in Ruby.
+https://github.com/thoughtbot/scenic - Versioned database views for Rails
 https://github.com/blazeeboy/rubrowser - a ruby code dependency graph interactive visualizer
 https://github.com/falm/attribute-depends-calculator - Automatically calculate a collection of depends attribute of ActiveRecord
 https://github.com/westonganger/protected_attributes_continued - Community continued version of protected_attributes
-https://github.com/0x0dea/viva
+https://github.com/nbulaj/capistrano-chewy - Chewy tasks and indexes management with Capistrano
+https://github.com/flyerhzm/bullet - help to kill N+1 queries and unused eager loading
+https://github.com/katafrakt/noaidi - Erlang-inspired modules with pattern matching
+https://github.com/0x0dea/viva -  Viva exposes the virtual variable API to Ruby land.
 https://github.com/thredded/thredded - The best Rails forums engine ever
 https://github.com/piotrmurach/tty-command - Execute shell commands with pretty output logging and capture stdout, stderr and exit status.
 https://github.com/rbotafogo/scicom - Scientific Computing for JRuby
-https://github.com/madrobby/zaru
+https://github.com/trailblazer/trailblazer - A high-level architecture for the web
+https://github.com/madrobby/zaru - Filename sanitization for Ruby
 https://github.com/endofunky/oprah- Opinionated presenters for Rails 5
 https://github.com/talyssonoc/emittr - A Ruby event emitter implementation
 https://github.com/janko-m/as-duration - Extraction of ActiveSupport::Duration from Rails
