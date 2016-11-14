@@ -17,8 +17,8 @@ https://www.youtube.com/playlist?list=PLE7tQUdRKcyY8lLkCbIiseqXy_liFzX2F - JRuby
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyaUIjpEKMLTKc32kr4vseg9 - Ruby on Ales 2015
 https://www.youtube.com/playlist?list=PL5klM3mD6alLUhNTPTbj5a3GBjU7oZN0t#neo4jrb
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyY_prUE739kR31k9bzY07zW - Lone Star Ruby 2015
+https://www.youtube.com/channel/UChGs1td4ViQFqT0jlvkyUJg - EuRuKo 2016
 http://www.tomdalling.com/blog/ruby/fruity-bat-flappy-bird-clone-in-ruby/ - Making Fruity Bat (a Flappy Bird clone) in Ruby
-https://gorails.com
 https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg
 https://www.youtube.com/user/JakeDayWilliams/playlists
 http://confreaks.tv/events/rubyconf2015
@@ -27,21 +27,29 @@ https://www.youtube.com/watch?v=ojd1G4gOMdk
 https://www.youtube.com/watch?v=b77V0rkr5rk - How are Method Calls Formed? by Aaron Patterson
 http://blog.testdouble.com/posts/2016-05-09-make-ruby-great-again.html
 https://www.youtube.com/watch?v=VPr5pmlAq20 - RailsConf 2016 Writing a Test Framework from Scratch
-https://www.driftingruby.com/episodes/wysiwyg-editor-with-trix
 https://www.youtube.com/watch?v=KR2FZiqu57I - Docker: Running a Rails App Container with Elasticsearch Service
 https://www.youtube.com/watch?v=urrPzY7aP-E - Just-in-Time Static Type Checking for Dynamic Languages - Brianna M. Ren
 https://www.youtube.com/watch?v=WAznFdX1O4g - Secrets of Testing Rails 5 Apps - RedDotRubyConf 2016
 https://www.youtube.com/watch?v=SWEts0rlezA - RailsConf 2016 - Turbolinks 5: I Can’t Believe It’s Not Native! by Sam Stephenson
 https://www.twitch.tv/gary_bernhardt/v/90796516?t=11m57s - Writing a text editor from scratch #programming
-https://www.driftingruby.com/episodes/rails-api-basics - Rails API Basics
 http://datamelon.io/blog/2015/building-a-chat-app-in-volt.html - Build a Realtime Chat App with Ruby and Volt
 https://www.youtube.com/watch?v=B3gYklsN9uc - RailsConf 2015 - Keynote: Aaron Patterson
+https://www.youtube.com/watch?v=8aHmArEq4y0 - EuRuKo 2016 - Day 1 Keynote by Yukihiro "Matz" Matsumoto
+https://www.youtube.com/watch?v=0koLFAB4lAk - Keep Ruby Weird 2016 - A Hands-on Experience with Complex SQL 
+https://www.youtube.com/watch?v=rbM_1wRVfeI - How Sprockets Works by Rafael França
+
+
+
+## Drifting Ruby
+https://www.driftingruby.com/episodes/wysiwyg-editor-with-trix
+https://www.driftingruby.com/episodes/rails-api-basics - Rails API Basics
+https://www.driftingruby.com/episodes/rails-api-active-model-serializer
 
 
 ## Links
 http://www.rubypigeon.com/posts/minitest-cheat-sheet/ - Minitest Cheat Sheet
 http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html
-http://trailblazer.to/
+http://trailblazer.to/ - A High-level Architecture For The Web
 http://twin.github.io/ode-to-sequel/
 http://githubengineering.com/scientist/
 https://github.com/ankane/the-ultimate-guide-to-timeouts-in-ruby
@@ -72,5 +80,4 @@ http://necula01.github.io/bond/tutorial.html
 https://minhajuddin.com/2016/03/03/put-this-in-your-code-to-debug-anything/
 http://slides.com/apneadiving/code-ruby-like-you-build-lego#/
 http://jvns.ca/blog/2016/03/04/whats-up-with-ruby-http-libraries/
-https://www.driftingruby.com/episodes
 
