@@ -8,6 +8,7 @@ http://www.sitepoint.com/easy-form-validation-angularjs-ngmessages/
 http://www.sitepoint.com/closer-look-angulars-ngmessages-module/
 http://www.sitepoint.com/easy-angularjs-authentication-with-auth0/
 http://www.sitepoint.com/introduction-angularjs-style-guides/
+https://www.sitepoint.com/building-angular-1-5-components/
 
 
 ################################################# Thinkful #####################################################
@@ -87,6 +88,7 @@ https://toddmotto.com/on-init-require-object-syntax-angular-component/
 https://toddmotto.com/angular-modules-setters-getters/
 https://toddmotto.com/exploring-the-angular-1-5-component-method/
 https://toddmotto.com/angular-1-5-lifecycle-hooks
+https://toddmotto.com/modern-angular-interview-questions
 
 
 ################################################# Codelord ##################################################### 
@@ -109,6 +111,7 @@ http://www.codeproject.com/Articles/1095313/Integrating-Angular-Js-Grid-ui-grid-
 http://www.codeproject.com/Articles/1094784/angles-of-angularjs-part
 http://www.codeproject.com/Articles/1103321/Custom-Validation-with-AngularJS
 http://www.codeproject.com/Articles/1123309/Configure-Angular-material-with-Require-Js
+http://www.codeproject.com/Articles/1144200/ASP-NET-MVC-Hotel-Booking-System-Using-AngularJS
 
 
 ################################################# Dave Ceddia ##################################################### 
@@ -150,6 +153,7 @@ http://www.c-sharpcorner.com/article/learning-angularjs-simplified-part-two/
 http://www.c-sharpcorner.com/blogs/data-binding-in-angularjs
 http://www.c-sharpcorner.com/article/useful-tools-for-angular-js-developers
 http://www.c-sharpcorner.com/article/angularjs-nested-scopes-and-controllers-as-syntax/
+http://www.c-sharpcorner.com/article/currency-filter-in-angular-js/
 
 
 ################################################# Miscellaneous ##################################################### 
@@ -157,6 +161,8 @@ http://www.cloudcity.io/blog/2016/03/03/angular-loading-annoyances/
 https://eng.saucelabs.com/blog/building-a-ui-style-guide-with-angularjs-directives
 http://bencentra.com/code/2015/11/16/unit-testing-angularjs.html
 https://stormpath.com/blog/fullstack-express-angular-stormpath/
+https://stormpath.com/blog/jwt-authentication-angularjs/
+https://stormpath.com/blog/angularjs-spring-boot-tutorial
 http://anandmanisankar.com/posts/angularjs-best-parts/
 http://thejackalofjavascript.com/node-webkit-webrtc-and-angularjs-a-video-chat-client/
 http://www.w3schools.com/angular/
@@ -164,8 +170,8 @@ http://blog.rangle.io/unittests/
 http://blog.dreamfactory.com/tutorial-angular-and-rest-made-simple
 http://blog.workshape.io/making-a-spherical-globe-using-d3js/
 http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/
-http://builtwithangular2.com/post/127785702682/hackernews-clone-built-with-angularjs-20-github
 http://angularjs.blogspot.ie/2015/08/angular-1-and-angular-2-coexistence.html
+http://angularjs.blogspot.ie/2016/04/5-rookie-mistakes-to-avoid-with-angular.html
 http://linkis.com/blog.stamplay.com/j4ZGS
 https://spring.io/guides/tutorials/spring-security-and-angular-js/
 http://onehungrymind.com/build-mailchimp-signup-form-angularjs/
@@ -177,12 +183,13 @@ http://www.bloggerever.com/2015/09/create-multiple-tabs-using-angular-js.html
 http://code.tutsplus.com/tutorials/create-a-mobile-application-using-wordpress-ionic-and-angularjs--cms-24170
 http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html
 http://victorsavkin.com/post/99998937651/building-angular-apps-using-flux-architecture
+http://victorsavkin.com/post/145672529346/angular-router
+http://victorsavkin.com/post/146722301646/angular-router-empty-paths-componentless-routes
 http://codehandbook.org/creating-a-web-app-using-angularjs-python-mongodb/
 http://orizens.com/wp/topics/from-angular-es5-directive-to-angular-es2015-component/
 http://g00glen00b.be/e2e-testing-angularjs-applications-with-protractor/
 http://theleancoder.net/index.php/2015/10/18/angularjs-introduction/
 http://www.creativebloq.com/web-design/build-data-dashboard-angularjs-121518544
-http://angularjs.blogspot.ie/2016/04/5-rookie-mistakes-to-avoid-with-angular.html
 http://angularjs4u.com/directive/angularjs-popup-window-social-authentication-directive/
 http://angularjs.chat/tutorials/angularjs-basic-chat-module/
 http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/
@@ -193,7 +200,6 @@ http://devproconnections.com/javascript/web-pages-more-dynamic-angularjs
 https://scotch.io/tutorials/build-an-angularjs-app-with-stamplay-the-ifttt-for-developers
 http://www.jvandemo.com/how-to-configure-your-angularjs-application-using-environment-variables/
 http://www.dotnetcurry.com/angularjs/1255/unit-testing-angularjs-using-jasmine-karma
-https://stormpath.com/blog/jwt-authentication-angularjs/
 https://lingohub.com/blog/2016/03/angularjs-directives-image-cropping/
 https://davidwalsh.name/angular-charts
 http://madebymunsters.com/blog/posts/creating-a-mock-backend-in-angular/
@@ -217,14 +223,16 @@ http://www.lunametrics.com/blog/2016/05/04/integrating-angularjs-google-tag-mana
 http://www.centric.eu/NL/Default/Craft/Blogs/2016/04/15/Running-AngularJS-20-unit-tests-in-Visual-Studio
 http://www.allaboutweb.biz/angular-js-framework-for-creating-ambitious-web-applications/
 http://www.codelord.net/2016/04/21/angular-performance-updating-bind-once-elements/
-http://www.c-sharpcorner.com/article/currency-filter-in-angular-js/
 http://www.wisdomofjim.com/woj-blog/working-effectively-with-legacy-angular-code
 http://www.siddharthpandey.net/write-angularjs-components-with-nested-routing-using-typescript/
-http://victorsavkin.com/post/145672529346/angular-router
 http://webdev.snapagency.com/how-to-use-angular-js-and-json-api-to-build-wordpress-theme/
-http://victorsavkin.com/post/146722301646/angular-router-empty-paths-componentless-routes
 http://adgllorente.com/2016/08/build-a-secure-api-with-auth0-expressjs-and-angularjs/
 https://www.snapagency.com/blog/use-angular-js-json-api-build-wordpress-theme/
 https://technology.amis.nl/2016/09/05/angular-1-5-component-router-oauth2-0/
 http://www.geekhours.com/2016/07/19/creating-custom-directives-in-angularjs-4-examples/
 http://blog.grossman.io/angular-1-using-redux-architecture/
+http://www.gistia.com/usage-angular-directives/
+https://www.simple-talk.com/dotnet/net-development/4-keys-clean-angular-implementation/
+http://internetdevels.com/blog/drupal-angular-js-web-app-development
+http://zephyri.co/2016/when-magic-is-too-slow-isolate-scope-broadcast-and-angularjs/
+http://leopathu.com/content/build-ultra-modern-web-apps-angular-material
