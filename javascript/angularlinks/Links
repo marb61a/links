@@ -14,6 +14,20 @@ https://www.udemy.com/learn-angularjs-development/
 https://www.udemy.com/build-an-mvp-with-angular-firebase-by-cloning-taskrabbit/
 https://www.codecademy.com/courses/learn-angularjs
 https://www.udemy.com/java-spring-mvc-framework-with-angularjs-by-google-and-html5/
+https://www.udemy.com/ultimate-angular-2/
+https://www.udemy.com/the-complete-guide-to-angular-2/
+https://www.udemy.com/angular-2-tutorial-for-beginners/
+https://www.udemy.com/learn-angular-2-from-beginner-to-advanced/
+https://www.udemy.com/django-angularjs/
+
+
+
+##Videos -
+https://www.youtube.com/watch?v=zoCLEwFUpqg - Build Angular 2 apps with TypeScript and Visual Studio Code
+https://www.youtube.com/watch?v=mH4TpdwZP4A - Learn Angular 2 (TypeScript) by building a simple YouTube player
+https://www.youtube.com/watch?v=tYkb2Qu4UmM - Angular 2 Full MEAN Stack Application
+https://www.youtube.com/watch?v=KaZ0pOiq2ZU - Angular Tutorials: Angular 2 Tutorial for Beginners
+https://www.youtube.com/watch?v=9XCaVrdigGw - Angular Tutorials: Angular 2 with TypeScript Training
 
 
 ##Code -
@@ -22,6 +36,10 @@ https://github.com/bevacqua/angular-dragula
 https://github.com/Azure-Samples/active-directory-angularjs-singlepageapp
 https://github.com/johnpapa/angular-styleguide
 https://github.com/toddmotto/angularjs-styleguide
+https://github.com/scalyr/angular - Code to optimize AngularJS for complex pages
+https://github.com/mailtoharshit/Angular - demo application that uses Angular.Js with VisualForce
+
+    ### ANGULAR 2 ###
 https://github.com/blacksonic/angular2-esnext-starter - Angular 2 development in Javascript with ES6/ES7 syntax powered by Babel.
 https://github.com/AngularClass/angular2-webpack-starter - An Angular 2 Starter kit
 https://github.com/angular/angularfire2 - The official Angular 2 library for Firebase
@@ -36,6 +54,10 @@ https://github.com/auth0-blog/angular2-authentication-sample - This is a sample 
 https://github.com/ng-bootstrap/ng-bootstrap - Angular 2 powered Bootstrap
 https://github.com/angular/material2 - Material Design components for Angular 2
 https://github.com/mgechev/angular-seed - High-quality, modular starter, seed project for Angular 2
+https://github.com/mgcrea/angular-strap - AngularJS 1.2+ native directives for Bootstrap 3.
+https://github.com/rangle/angular2-redux-example - Angular 2 Redux Starter Repo
+https://github.com/SebastianM/angular2-google-maps - Angular 2 components for Google Maps
+https://github.com/ocombe/ng2-translate - An implementation of angular translate for Angular 2
 
 
 ##Links -
