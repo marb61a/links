@@ -65,18 +65,28 @@ https://medium.com/@aitorvs/annotation-processing-in-android-studio-7042ccb83024
 https://medium.com/@aitorvs/android-fingerprint-authentication-44c047179d9a#.5dkal2v7y
 https://medium.com/@aitorvs/android-shared-element-transitions-for-all-b90e9361507d#.z0uns5hap
 https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c#.yubh9iur6
+https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c#.jvpjwilc1
 https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-application-7e248b5f615e#.jhbwru4ym
+https://medium.com/@nikita.kozlov/get-access-to-raw-profiling-results-with-plugins-for-pury-f9a7cc5e8345#.yadcrs78v
 https://medium.com/crunching-rxandroid/crunching-rxandroid-part-10-cc0c33108ee2#.4hbmc1fc4
 https://medium.com/di-101/di-101-part-2-9f7f4e1dcc81#.vg866l5yx
+https://medium.com/di-101/di-101-part-3-f0136e67db8#.a9u8krtmh
 https://medium.com/@jagsaund/android-handler-internals-b5d49eba6977#.i2nd4r2b4
 https://medium.com/@danybony_/wear-complications-api-16ab65290aa1#.sthnx0lcd
 https://medium.com/@andreworobator/debugging-without-a-stacktrace-using-android-studios-performance-monitors-a0d601afd814#.l3cekr2x0
 https://medium.com/@sergii/make-your-build-gradle-great-again-c84cc172a654#.jv2gn1ha5
+https://medium.com/@sergii/the-key-concepts-of-app-tracking-for-developers-a11bebf1e65e#.kvq17lrup
 https://medium.com/@jagonzalez.develop/auto-rename-android-versionname-by-creating-custom-gradle-plugin-2922bbaaaed6#.l6gkyf1e3
 https://medium.com/@manuelvicnt/android-wear-accessing-the-data-layer-api-d64fd55982e3#.dntvuq4hq
+https://medium.com/@manuelvicnt/rxjava2-android-mvvm-lifecycle-app-structure-with-retrofit-2-cf903849f49e#.o7hvwxtte
 https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.1bjzr9ll1
 https://medium.com/rocknnull/no-more-value-classes-boilerplate-the-power-of-autovalue-bbaf36cf8bbe#.oskcsfo2k
 https://medium.com/startup-grind/bye-bye-burger-5bd963806015#.b07am7glx
+https://medium.com/inloop/android-process-kill-and-the-big-implications-for-your-app-1ecbed4921cb#.bln502zej
+https://medium.com/uptech-team/audio-not-playing-in-android-cde9a0fdfafd#.u28hha318
+https://medium.com/@vergauwen.simon/400-faster-layouts-with-anko-da17f32c45dd#.2ntjosglv
+https://medium.com/upday-devs/mvvm-rxjava-learnings-1819423f9592#.pnumsq4m3
+https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.8uvrfmsph
 
 
 ######################################## Android Developers Blog ##############################################
@@ -85,6 +95,7 @@ http://android-developers.blogspot.ie/2016/05/enhancing-android-pay-apis.html
 http://android-developers.blogspot.ie/2016/06/notifications-in-android-n.html
 http://android-developers.blogspot.ie/2016/06/security-crypto-provider-deprecated-in.html
 http://android-developers.blogspot.ie/2016/06/create-intelligent-context-aware-apps.html
+http://android-developers.blogspot.ie/2016/11/adding-tv-channels-to-your-app-with-the-tif-companion-library.html
 
 
 ######################################## Sebs Top Tips ##############################################
@@ -115,6 +126,7 @@ https://medium.com/google-developers/mediabrowserservicecompat-and-the-modern-me
 https://medium.com/google-developer-experts/android-project-structure-alternative-way-29ce766682f0#.5b3b6yjvi
 https://medium.com/google-developers/writing-more-code-by-writing-less-code-with-android-studio-live-templates-244f648d17c7#.3c2egh6wj
 https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f#.s69wviru1
+https://medium.com/google-developers/activity-revival-and-the-case-of-the-rotating-device-167e34f9a30d#.mo48edgne
 https://plus.google.com/+JeffSharkey/posts/ZLFTiXkcLZS
 https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2#.pe3onpiea
 https://medium.com/google-developers/tasks-and-the-back-stack-dbb7c3b0f6d4#.t4ijsptpm
@@ -127,6 +139,8 @@ https://medium.com/google-developers/android-data-binding-that-include-thing-1c8
 https://medium.com/google-developers/using-the-awareness-api-for-android-a185b05e7254#.ntm6q5yom
 https://medium.com/di-101/di-101-part-1-81896c2858a0#.emi75yih5
 https://developers.google.com/vision/face-detection-concepts
+https://design.google.com/articles/design-is-never-done/
+https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83#.t84oo9m9q
 
 
 ######################################## Tutsplus ##############################################
@@ -136,6 +150,7 @@ http://code.tutsplus.com/tutorials/google-fit-for-android-sessions-api--cms-2585
 http://code.tutsplus.com/tutorials/android-from-scratch-understanding-views-and-view-groups--cms-26043
 http://code.tutsplus.com/tutorials/android-from-scratch-background-operations--cms-26810
 https://code.tutsplus.com/tutorials/google-play-services-google-cast-v3-and-media--cms-26893
+https://code.tutsplus.com/tutorials/background-audio-in-android-with-mediasessioncompat--cms-27030
 
 
 ######################################## UXPlanet ##############################################
@@ -192,6 +207,10 @@ https://blog.stylingandroid.com/nougat-messaging-style-notifications/
 https://blog.stylingandroid.com/nougat-bundled-notifications/
 https://blog.stylingandroid.com/nougat-direct-boot/
 https://blog.stylingandroid.com/nougat-gcm-network-manager/
+https://blog.stylingandroid.com/constraintlayout-chains-spread-chains/
+https://blog.stylingandroid.com/constraintlayout-chains-part-2/
+https://blog.stylingandroid.com/vectordrawable-png/
+https://blog.stylingandroid.com/bottomnavigationview/
 
 
 ######################################## Nimbledroid ##############################################
@@ -262,3 +281,4 @@ http://www.philosophicalhacker.com/post/why-dont-we-have-a-unit-test-recorder/
 http://jeroenmols.com/blog/2016/05/06/methodcount/
 http://jeroenmols.com/blog/2016/02/05/wagongit/
 http://jeroenmols.com/blog/2016/09/01/coveragecost/
+http://jeroenmols.com/blog/2016/10/31/mockitomatchers/
