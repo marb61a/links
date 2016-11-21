@@ -29,7 +29,7 @@ https://github.com/florent37/DiagonalLayout - With Diagonal Layout explore new s
 https://github.com/vikramkakkar/ImageTransition - A small android library to transition between a circular ImageView
 https://github.com/romandanylyk/PageIndicatorView - An page indicator for Android ViewPager
 https://github.com/VictorAlbertos/DeviceAnimationTestRule - A JUnit rule to disable and enable device animations
-https://github.com/klnusbaum/rxandroidexamples/
+https://github.com/klnusbaum/rxandroidexamples/ - A set of examples for using RxJava in Android
 https://github.com/nickbutcher/AnimatorDurationTile - A quick settings tile to quickly set the animator duration scale.
 https://github.com/passsy/CompositeAndroid - Composition over inheritance for Android components like Activity or Fragment
 https://github.com/stephanenicolas/toothpick - A scope tree based Dependency Injection (DI) library for Java
@@ -55,7 +55,7 @@ https://github.com/borjabravo10/FocusResize - A custom animation with scroll lis
 https://github.com/googlesamples/android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 https://gist.github.com/rock3r/369ef6fa734c865c564ef4fe5fb6ef6b - A simple bash script to enable demo mode on a Marshmallow+ device via ADB 
 https://github.com/andremion/Floating-Navigation-View - A simple Floating Action Button that shows an anchored Navigation View
-https://github.com/brianegan/bansa
+https://github.com/brianegan/bansa - A state container for Java & Kotlin
 https://github.com/segunfamisa/icicle - An annotation based tool for saving and restoring instance states
 https://github.com/soundcloud/lightcycle - LightCycle lets self-contained classes respond to Android’s lifecycle events
 https://github.com/realm/realm-java - Realm is a mobile database: a replacement for SQLite & ORMs
@@ -67,7 +67,7 @@ https://bitbucket.org/littlerobots/rxlint - a single lint check that checks if a
 https://github.com/mikepenz/AboutLibraries - AboutLibraries is a library to offer some information of libraries.
 https://github.com/ribot/android-boilerplate - Android boilerplate app that showcases architecture and libraries used at ribot 
 https://github.com/johncarl81/parceler - Android Parcelables made easy through code generation. 
-https://github.com/patloew/RxFit
+https://github.com/patloew/RxFit - Reactive Fitness API Library for Android and RxJava
 https://github.com/eleventigers/rxeither - Either type for RxJava
 https://github.com/JeroenMols/LandscapeVideoCamera - Powerful custom Android Camera with granular control
 https://github.com/lisawray/passwordview - A Material Android password view that toggles password visibility via an eye icon.
@@ -99,3 +99,17 @@ https://github.com/zsoltk/overpasser - Fluid Java interface to OpenStreetMap dat
 https://github.com/MaksTuev/ferro - Simple and powerful MVP library for Android
 https://github.com/Slyce-Inc/SlyceMessaging - A messaging library for Android
 https://github.com/ChaitanyaPramod/findbugs-android - Gradle plugin that creates FindBugs reports for android projects
+https://github.com/material-foundation/material-remixer - A set of cross-platform libraries and protocols
+https://github.com/JakeWharton/sdk-artifact-sync - A script which synchronizes all of the artifacts in your local Android SDK
+https://github.com/RedMadRobot/input-mask-android - User input masking library repo.
+https://github.com/6thsolution/EasyMVP - A full-featured framework that allows building android applications
+https://github.com/BelooS/ChipsLayoutManager - A custom layout manager for RecyclerView
+https://github.com/developer-shivam/Crescento - Add curve at bottom of image views and relative layouts.
+https://github.com/RiccardoMoro/LongPressPopup - Make a Popup appear long pressing on a view
+https://github.com/RiccardoMoro/RMSwitch - A simple and customizable two or three states Switch View
+https://github.com/danielzeller/Depth-LIB-Android- - A library that gives depth to Views
+https://github.com/firebase/FirebaseUI-Android - UI bindings for Firebase
+https://github.com/yongjhih/android-proguards - AAR proguards
+https://github.com/Arello-Mobile/Moxy - Moxy is MVP library for Android
+https://github.com/isuPatches/WiseFy - Wrapper around WifiManager and ConnectivityManager for Android
+
