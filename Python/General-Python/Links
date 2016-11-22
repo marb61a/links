@@ -2,24 +2,29 @@
                                               
 ##Videos - 
 https://www.youtube.com/watch?v=jDrcvoWp3Es - Scalable Machine Learning in R and Python with H2O
-https://www.youtube.com/playlist?list=PLGVZCDnMOq0rzDLHi5WxWmN5vueHU5Ar7 - PyData Amsterdam 2016
 http://www.dataschool.io/easier-data-analysis-with-pandas/ - Video Series
 https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
-https://www.youtube.com/playlist?list=PL4_MBPz5hOsK1fflMqTEbOC9rPAsksG4A - Swiss Python Summit 2016
 https://www.youtube.com/watch?v=_O23jIXsshs - 10 Tips for Pythonic Code
 https://www.youtube.com/watch?v=HpUokG6zZj0 - Python "with open" & genexps Tutorial 
+https://www.youtube.com/c/DanielBader0xC0FFEE - Daniel Bader
+https://www.youtube.com/watch?v=CB9p8n3gugM - Glen Jarvis: Explort Git Internals using Python
+https://www.oreilly.com/learning/thinking-in-coroutines - Thinking in coroutines
+
+
+## Playlists & Channels
+https://www.youtube.com/playlist?list=PLA175E8A1816CD64B - Derek Banas Python 2.7 Tutorial
+https://www.youtube.com/playlist?list=PLGVZCDnMOq0rzDLHi5WxWmN5vueHU5Ar7 - PyData Amsterdam 2016
+https://www.youtube.com/playlist?list=PL4_MBPz5hOsK1fflMqTEbOC9rPAsksG4A - Swiss Python Summit 2016
 https://www.youtube.com/playlist?list=PLECEw2eFfW7iTsIrldRO2b6NLEuRQYD2L - PyConSG 2016
 https://www.youtube.com/playlist?list=PLGB9meziqbzpRP7mVyihOihNzm_J2Kx9I - SciPy 2016
 https://www.youtube.com/playlist?list=PL8uoeex94UhE3FDvjacSlHFffoNEoPzzm - EuroPython 2016
 https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal - Machine Learning Recipes with Josh Gordon
-https://www.youtube.com/c/DanielBader0xC0FFEE - Daniel Bader
-https://www.youtube.com/watch?v=CB9p8n3gugM - Glen Jarvis: Explort Git Internals using Python
-https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos - PyCon UK 2016
-https://www.oreilly.com/learning/thinking-in-coroutines - Thinking in coroutines
 https://www.youtube.com/playlist?list=PL85KuAjbN_gtGn4v1ELSWJlTFZF_5Ciog - PyBay2016
 https://www.youtube.com/playlist?list=PLGjWYNrNnSufYp1ADGLKUFnXagkQhyRMU - PyConZA 2016
 https://www.youtube.com/playlist?list=PLGVZCDnMOq0pMUpVnQ8h5byVzIJNZCo2S - PyData Chicago 2016
-
+https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos - PyCon UK 2016
+https://www.youtube.com/playlist?list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB - PyData DC 2016
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_ - Python 3.4 Programming Tutorials theNewBoston
 
 ##Courses - 
 https://www.udemy.com/pythonforbeginners/
@@ -32,6 +37,37 @@ https://www.udemy.com/kypython-101/
 https://www.udemy.com/become-a-professional-python-programmer/
 https://www.udemy.com/python-programming-for-real-life-networking-use/
 
+
+##Talk Python
+https://talkpython.fm/episodes/show/65/jump-on-the-real-time-web-with-rethinkdb
+https://talkpython.fm/episodes/show/66/faster-python-programs-measure-don-t-guess
+https://talkpython.fm/episodes/show/67/property-based-testing-with-hypothesis
+https://talkpython.fm/episodes/show/68/crossing-the-streams-with-podcast.-init
+https://talkpython.fm/episodes/show/69/write-an-excellent-programming-blog
+https://talkpython.fm/episodes/show/70/pythonic-cover-songs-at-loudr
+https://talkpython.fm/episodes/show/71/soft-skills-the-software-developer-s-life-manual
+https://talkpython.fm/episodes/show/72/fashion-driven-open-source-software-at-zalando
+https://talkpython.fm/episodes/show/73/machine-learning-at-the-new-microsoft
+https://talkpython.fm/episodes/show/74/past-present-and-future-of-ironpython
+https://talkpython.fm/episodes/show/75/pythonic-games-at-checkio
+https://talkpython.fm/episodes/show/76/renewable-python
+https://talkpython.fm/episodes/show/77/20-python-libraries-you-aren-t-using-but-should
+https://talkpython.fm/episodes/show/78/how-i-built-an-entire-game-and-toolchain-100-in-python
+https://talkpython.fm/episodes/show/79/beeware-python-tools
+https://talkpython.fm/episodes/show/80/tinydb-a-tiny-document-db-written-in-python
+https://talkpython.fm/episodes/show/81/python-and-machine-learning-in-astronomy
+https://talkpython.fm/episodes/show/82/grokking-algorithms-in-python
+https://talkpython.fm/episodes/show/83/python-videos-on-demand-at-pyvideo
+https://talkpython.fm/episodes/show/84/are-we-failing-to-fund-python-s-core-infrastructure
+https://talkpython.fm/episodes/show/85/parsing-horrible-things-with-python
+
+
+##PodcastInit
+https://www.podcastinit.com/episode-80-python-for-gis-with-sean-gillies/
+https://www.podcastinit.com/episode-81-annapoornima-koppad/
+https://www.podcastinit.com/episode-82-mycroft-with-steve-penrod/
+https://www.podcastinit.com/episode-83-house-canary-with-travis-jungroth/
+https://www.podcastinit.com/episode-84-retrospective/
 
 ##Links -
 http://fortyninemaps.com/karta.html - Python toolkit for geospatial analysis
@@ -48,6 +84,7 @@ https://github.com/Junnplus/awesome-python-books - A directory of Python books
 http://pythonhosted.org/arcade/ - Making Games in Python
 http://www.pyupdater.org
 http://phalt.co/beckett/
+https://www.programiz.com/python-programming - Tutorial Site
 http://overlap.ai
 http://donjayamanne.github.io/pythonVSCode/ - Python for Visual Studio Code
 http://pyvideo.org
