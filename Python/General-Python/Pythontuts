@@ -21,6 +21,15 @@ https://medium.com/@kentquirk/12-versions-of-the-same-algorithm-in-javascript-py
 https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.gcletj8ac
 https://medium.com/xeneta/fuzzy-search-with-mongodb-and-python-57103928ee5d#.af3lhhisf
 https://medium.com/@__amol__/es2015-and-react-in-pure-python-environment-b326dc15012c#.m34a9zopy
+https://medium.com/@krishnateja_182/chat-bots-and-how-to-build-one-on-alexa-35772e429631#.1a2dks398
+https://medium.com/@sto5e/creating-chatbots-for-discord-90407e1bf382#.yyggsjbov
+https://medium.com/@nidhog/how-to-quickly-write-a-mapreduce-framework-in-python-821a79fda554#.79bmah26g
+https://medium.com/doqmnt/developing-scalable-apps-in-python-e8eb38cc0f07#.fa7zxgqxe
+https://medium.com/python-pandemonium/building-robust-rabbitmq-consumers-with-python-and-kombu-part-1-ccd660d17271#.gcgwa8leo
+https://medium.com/@trstringer/the-easy-and-nice-way-to-do-cli-apps-in-python-5d9964dc950d#.lk6pj9ryd
+https://medium.com/python-pandemonium/python-introspection-with-the-inspect-module-2c85d5aa5a48#.xitw8e9jq
+https://medium.com/@hoppy/how-to-test-or-scrape-javascript-rendered-websites-with-python-selenium-a-beginner-step-by-c137892216aa#.l3a42lt9y
+https://medium.com/instamojo-matters/become-a-pdb-power-user-e3fc4e2774b2#.joq1d7ypj
 
 
 ####################################### Python Library ###########################################################
@@ -87,10 +96,27 @@ http://www.machinalis.com/blog/writing-type-stubs-for-numpy/
 http://www.machinalis.com/blog/searching-for-aliens/
 
 
+####################################### O'Reilly ###########################################################
+https://www.oreilly.com/ideas/5-reasons-you-need-to-learn-to-write-python-decorators
+https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow
+https://www.oreilly.com/learning/complex-neural-networks-made-easy-by-chainer
+https://www.oreilly.com/ideas/how-to-get-superior-text-processing-in-python-with-pynini
+
+
 ####################################### Semaphore CI ###########################################################
 https://semaphoreci.com/community/tutorials/getting-started-with-behavior-testing-in-python-with-behave
 https://semaphoreci.com/community/tutorials/testing-python-requests-with-betamax
 https://semaphoreci.com/community/tutorials/mocks-and-monkeypatching-in-python
+
+
+####################################### VKinght ###########################################################
+http://vknight.org/unpeudemath/code/2016/03/07/Property-based-testing-and-finding-a-bug.html
+http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html
+http://vknight.org/unpeudemath/python/2016/08/13/Analysis-of-variance-with-different-sized-sample.html
+http://vknight.org/unpeudemath/python/2016/09/26/Profiling-and-reducing-memory-consumption-in-python.html
+http://vknight.org/unpeudemath/python/2016/10/01/a-make-file-for-jupyter-notebooks.html
+http://vknight.org/unpeudemath/mathematics/2016/10/29/anscombes-quartet-variability-and-ciw.html
+http://vknight.org/unpeudemath/mathematics/2016/11/06/introducing-nashpy.html
 
 
 ####################################### Ruslan Spivak ###########################################################
