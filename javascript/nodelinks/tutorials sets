@@ -28,6 +28,7 @@ https://www.sitepoint.com/web-apis-on-arduino-lcd/
 https://www.sitepoint.com/remote-control-mac-node-js-arduino/
 https://www.sitepoint.com/music-streaming-app-electron-react-es6/
 https://www.sitepoint.com/search-engine-node-elasticsearch/
+https://www.sitepoint.com/10-npm-tips-and-tricks/
 
 
 ######################################## Scotch.io ##############################################
@@ -80,6 +81,11 @@ https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6ad
 https://medium.com/walmartlabs/use-easy-fix-to-run-integration-tests-like-unit-tests-834288ec446d#.5bbvy7lp8
 https://medium.com/the-backlog-by-nimbo-x/creating-a-serverless-web-app-with-node-js-ember-js-and-paas-services-hyperdev-surge-sh-8e3ebe263a76#.qh7hp1bt7
 https://medium.com/good-eggs-product/visual-debugging-with-es6-and-node-js-44631b3b040f#.ctii5axj9
+https://medium.com/trisfera/writing-a-restful-api-with-express-massivejs-465218800c08#.dykmxn95s
+https://medium.com/trisfera/deploying-an-express-application-to-aws-lambda-the-easy-way-fa5fbef190ba#.9k5fhiy6x
+https://medium.com/google-cloud/upload-images-to-google-cloud-storage-with-react-native-and-expressjs-61b8874abc49#.86hashndi
+https://medium.com/the-founders-blog/scaling-slack-events-in-node-c5b0a54a55a6#.8y06ptoa9
+https://medium.com/node-security/what-are-the-bots-up-to-on-npm-4ab1aea034b#.czhw00jom
 
 
 ######################################## Risingstack ##############################################
@@ -114,6 +120,10 @@ https://blog.risingstack.com/graceful-shutdown-node-js-kubernetes/
 https://blog.risingstack.com/nodejs-at-scale-npm-publish-tutorial/
 https://community.risingstack.com/zeromq-node-js-cracking-jwt-tokens-1/
 https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/
+https://community.risingstack.com/using-buffers-node-js-c-plus-plus/
+https://blog.risingstack.com/history-of-node-js/
+https://community.risingstack.com/building-microservices-stonemason-generating-microservice-stubs/
+https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/
 
 
 ######################################## Tutsplus ##############################################
@@ -149,6 +159,7 @@ https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs/
 https://stormpath.com/blog/secure-password-hashing-in-node-with-argon2/
 https://stormpath.com/blog/migrating-parse-authentication/
 https://stormpath.com/blog/tutorial-build-rest-api-mobile-apps-using-node-js
+https://stormpath.com/blog/securely-storing-files-node-s3
 
 
 ######################################## David Walsh ##############################################
@@ -197,6 +208,14 @@ https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-
 https://lob.com/blog/automate-payment-reminder-system-with-lob-customerio-segment/
 
 
+######################################## Hackernoon ##############################################
+https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e#.17lb39phn
+https://hackernoon.com/using-yarn-with-docker-c116ad289d56#.e7i0ji7zm
+https://hackernoon.com/publishing-react-components-to-npm-experiments-with-firenpm-c3a1aac3f408#.evllv66q9
+https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.u2h3hjbeu
+https://hackernoon.com/running-nodejs-on-linux-on-windows-88bd12993bae#.thtxoshy9
+
+
 ######################################## Distelli ##############################################
 https://www.distelli.com/docs/tutorials/automated-mocha-tests-for-node
 https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
@@ -212,9 +231,14 @@ https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-loo
 
 ######################################## Michael Herman ##############################################
 http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/
+http://mherman.org/blog/2015/07/02/handling-user-authentication-with-the-mean-stack/
+http://mherman.org/blog/2016/04/28/test-driven-development-with-node/
+http://mherman.org/blog/2016/09/25/node-passport-and-postgres/
 http://mherman.org/blog/2016/03/13/designing-a-restful-api-with-node-and-postgres/
 http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/
 http://mherman.org/blog/2016/04/28/test-driven-development-with-node/
+http://mherman.org/blog/2016/10/28/token-based-authentication-with-node/
+http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/
 
 
 ######################################## NPMJS ##############################################
@@ -253,6 +277,8 @@ https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-
 https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/
 https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js/
 https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/
+https://nodesource.com/blog/six-of-the-most-exciting-es6-features-in-node-js-v6-lts
+https://nodesource.com/blog/seven-more-npm-tricks-to-knock-your-wombat-socks-off
 
 
 ######################################## Bandwidth ##############################################
