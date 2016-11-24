@@ -63,9 +63,6 @@ https://developer.atlassian.com/blog/2015/10/profiling-node-apps/
 https://www.pubnub.com/blog/2014-12-16-realtime-mongodb-to-fetch-and-stream-report-data/
 https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/
 http://www.nicoespeon.com/en/2015/11/plop-micro-generator-boilerplate-yeoman-alternative/
-http://mherman.org/blog/2015/07/02/handling-user-authentication-with-the-mean-stack/
-http://mherman.org/blog/2016/04/28/test-driven-development-with-node/
-http://mherman.org/blog/2016/09/25/node-passport-and-postgres/
 http://wesbos.com/javascript-modules/
 https://meetfinch.com/blog/cross-platform-app-nwjs-react-flux
 http://apmblog.dynatrace.com/2016/01/14/how-to-track-down-cpu-issues-in-node-js/
@@ -84,7 +81,6 @@ http://blog.codeship.com/a-serverless-rest-api-in-minutes/
 https://snyk.io/blog/node-js-timing-attack-ccc-ctf/
 http://blog.greta.io/deploying-nodejs-with-spinnaker/
 http://zellwk.com/blog/crud-express-and-mongodb-2/
-https://www.joyent.com/developers/node/design/errors
 https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql
 http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
 https://blog.nodeswat.com/implement-access-control-in-node-js-8567e7b484d1#.ytb431ocu
@@ -155,7 +151,9 @@ https://blog.cloudflare.com/accelerating-node-js-applications-with-http-2-server
 http://jbeckwith.com/2016/08/13/bigquery-github/
 https://mixmax.com/blog/requiring-node-builtins-with-webpack
 http://thenewstack.io/build-better-customer-experience-applications-using-offline-first-principles/
+http://thenewstack.io/top-four-items-operations-performance-team-know-implementing-node-js/
 https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
+https://blog.sqreen.io/identify-tor-connections-node-js-tor-test/
 https://chatbotsmagazine.com/a-nodejs-chatbot-tutorial-part-1-a2abd1b1c715#.93qrov575
 https://snyk.io/blog/nodejs-attack-tree-modelling
 https://jordankasper.com/building-an-amazon-alexa-skill-with-node-js/#?
@@ -167,14 +165,13 @@ http://hecodes.com/2016/09/building-serverless-mesh-processing-microservice-node
 http://hecodes.com/2016/10/better-testing-microservices-using-consumer-driven-contracts-node-js/
 http://www.codingdefined.com/2016/09/getting-started-with-rethinkdb-in-nodejs.html
 http://thisdavej.com/getting-started-with-yaml-in-node-js-using-js-yaml/
+http://thisdavej.com/creating-node-js-microservices-with-ease-using-stdlib/
 https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools
 http://fiznool.com/blog/2016/10/01/running-a-node-dot-js-app-in-a-low-memory-environment/
 http://webagility.com/posts/purplejs-the-alternative-to-node.js-for-java-projects
-https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e#.17lb39phn
-https://hackernoon.com/using-yarn-with-docker-c116ad289d56#.e7i0ji7zm
-https://hackernoon.com/publishing-react-components-to-npm-experiments-with-firenpm-c3a1aac3f408#.evllv66q9
 https://aws.amazon.com/blogs/compute/going-serverless-migrating-an-express-application-to-amazon-api-gateway-and-aws-lambda/
 http://eridem.net/creating-a-cli-tool-in-node-js/
+https://www.joyent.com/developers/node/design/errors
 https://www.joyent.com/blog/post-mortem-debugging-and-promises
 http://lorenstewart.me/2016/10/03/sequelize-crud-101/
 http://blog.ragingflame.co.za/2016/10/3/handing-nodejs-migrations-with-knex-and-widgetknexschema
@@ -183,4 +180,16 @@ https://swizec.com/blog/make-slack-twilio-talk/swizec/7128
 https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.fbby6j22w
 https://formidable.com/blog/2016/10/19/introducing-publish-diff/
 http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html
+https://developer.ibm.com/node/2016/09/27/advances-in-core-dump-debugging-for-node-js/
+https://developer.ibm.com/node/2016/08/15/exploring-node-js-core-dumps-using-the-llnode-plugin-for-lldb/
+https://sandstorm.io/news/2016-09-30-fiber-bomb-debugging-story
+https://edgecoders.com/generating-a-pdf-with-express-in-node-js-d3ff5107dff1#.m09zucbsk
+https://60devs.com/universal-with-jspm-server-side-rendering-and-automatic-code-splitting.html
+https://blog.callstack.io/super-simple-graphql-server-with-hapi-js-mongodb-and-a-new-apollo-server-41418ded2faf#.y2ckb7mqe
+https://jjude.com/pouchdb-with-nodejs/
+https://realm.io/news/first-object-database-realm-node-js-server/
+https://www.londonappdeveloper.com/how-to-build-a-websocket-multi-client-chat-using-ionic-and-node-js/
+http://stackparse.posthaven.com/exposing-node-dot-js-process-metrics-using-pm2-and-pmx
+http://www.theodo.fr/blog/2016/11/getting-started-with-the-physical-web-part-1/
+https://www.compose.com/articles/getting-started-with-elasticsearch-and-node/
 
