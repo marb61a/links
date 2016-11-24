@@ -73,7 +73,7 @@ https://github.com/wulkano/kap - An open-source screen recorder built with web t
 https://github.com/moinjs/moin - a Simple Microservice Server written in Node.JS
 https://github.com/nasa/openmct - A web based mission control framework.
 https://github.com/Jobstart/microlock - A dead simple distributed locking library for Node.js and Etcd
-https://github.com/tgriesser/bookshelf
+https://github.com/tgriesser/bookshelf - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 https://github.com/nolanlawson/slow-deps - Measure which dependencies in a project are slowest to npm install
 https://github.com/EclairJS/eclairjs-node - Node.js API for Apache Spark with Remote Client
 https://github.com/bucaran/parsec - Tiny cli parser in JavaScript
@@ -84,24 +84,30 @@ https://github.com/keithwhor/nodal - API Services Made Easy With Node.js
 https://github.com/emc-advanced-dev/unik - The Unikernel Compilation and Deployment Platform
 https://github.com/mayanklahiri/node-superchild - A smarter replacement for node.js's fork() and spawn()
 https://github.com/andris9/mailtrain - Self hosted newsletter app https://mailtrain.org/
-https://github.com/typicode/stop-server
+https://github.com/typicode/stop-server - Shut down your computer from your bed
+https://github.com/jaridmargolin/inspect-process -  Dead simple debugging for node.js using chrome-devtools
 https://github.com/microapps/Shopify-api-node - Node Shopify connector
 https://github.com/cshum/level-transactions - Transaction layer for Node.js LevelDB
 https://github.com/scholtzm/vapor - Lightweight Steam client framework for node.js
 https://github.com/citronneur/node-rdpjs - Remote Desktop Protocol for Node.js - Automated browser testing for the modern web development stack.
 https://github.com/DevExpress/testcafe - Automated browser testing for the modern web development stack.
-https://github.com/lalitkapoor/node-pg-util
+https://github.com/lalitkapoor/node-pg-util - Utility Belt for PostgreSQL
+https://github.com/wildbit/mailmason - A complete toolset to streamline building and updating a set of consistent transactional emails
 https://github.com/moinism/faltu - Search sort, filter, limit an array of objects in Mongo-style.
 https://github.com/fed135/Kalm - Node socket wrapper and optimizer
 https://github.com/lambci/lambci - A continuous integration system built on AWS Lambda
 https://github.com/jtribe/ghostrunner - A CLI for the Ghost blogging platform
 https://github.com/henryboldi/felony - Next Level PGP
-https://github.com/melvinsembrano/easy-date
+https://github.com/melvinsembrano/easy-date - EasyDate is a Javascript extension for easy dates manipulations
+https://github.com/myhau/mimetype-descriptions - Library that provides localized description of mimetypes
+https://github.com/stems/join-monster - A GraphQL-to-SQL query execution layer for batch data fetching.
+https://github.com/jsonata-js/jsonata - JSONata query and transformation language
 https://github.com/Abdizriel/nodejs-microservice-starter - NodeJS RESTful API Microservice Starter
 https://github.com/idris-maps/gis-with-javascript-tutorial - GIS with javascript (tutorial)
 https://github.com/KunalKapadia/express-mongoose-es6-rest-api -  A boilerplate application for building RESTful APIs Microservice in Node.js
 https://github.com/FormidableLabs/nodejs-dashboard - Telemetry dashboard for node.js apps from the terminal
-https://github.com/stevenmiller888/intruder
+https://github.com/ben-eb/postcss-resemble-image - Provide a gradient fallback for an image that loosely resembles the original
+https://github.com/stevenmiller888/intruder - Wi-Fi network cracking in Node.js
 https://github.com/CloudRail/cloudrail-si-node-sdk - Unified API Library for: Cloud Storage
 https://github.com/tomchristie/express-browsable-api - Browsable Web APIs for Node.js / Express
 https://github.com/Arthelon/spf-express - Express middleware that handles SPF requests
@@ -114,41 +120,46 @@ https://github.com/asyncmax/pshell - Provides a simple Promise-based interface f
 https://github.com/iostreamer-X/Awkward - A NodeJS based shell. Everything is an Object!
 https://github.com/FGRibreau/match-when - Pattern matching for modern JavaScript 
 https://github.com/cakenggt/mason - App to generate a NodeJs-Sequelize-Webpack-React microservice stub
-https://github.com/sindresorhus/ava
+https://github.com/sindresorhus/ava - Futuristic JavaScript test runner
 https://github.com/Javascipt/node-youtube - Youtube to snapshots and GIFs.
 https://github.com/notonthehighstreet/breadboard - Inversion of control container for Node.js applications
 https://github.com/EclairJS/eclairjs-node - Node.js API for Apache Spark with Remote Client
 https://github.com/nightwatchjs/nightwatch - Automated testing and continous integration framework
-https://github.com/jiahaog/Revenant
+https://github.com/jiahaog/Revenant - A high level PhantomJS headless browser in Node.js ideal for task automation
 https://github.com/analog-nico/express-print-routes - Prints the tree of Express routes and middlewares to a file
 https://github.com/sindresorhus/execa - A better `child_process`
 https://github.com/thorinjs - The Thorin.js node.js framework
 https://github.com/sungwoncho/node-producthunt - node.js wrapper for the Product Hunt API
 https://github.com/capaj/koa-monitor -  Realtime Monitoring solution for koa.js
 https://github.com/terkelg/ramme - Unofficial Instagram Desktop App 
-https://github.com/ngonzalvez/rest-facade
+https://github.com/phenax/plasmajs - An isomorphic nodeJS framework based on react
+https://github.com/ngonzalvez/rest-facade - Node.js module that abstracts the process of consuming a REST endpoint.
 https://github.com/Wildhoney/Dory - Dory is a responsive, universal, GitHub collaborated blogging platform
 https://github.com/h2non/toxy - Hackable HTTP proxy to simulate server failure scenarios
 https://github.com/leebyron/iterall - Minimal zero-dependency utilities for using Iterables in all JavaScript environments.
 https://github.com/marak/the-monolith-versus-the-microservice
 https://github.com/epoberezkin/ajv - The fastest JSON schema Validator. Supports v5 proposals
-https://github.com/fiatjaf/pgjson
+https://github.com/fiatjaf/pgjson - use Postgres as a zero-config NoSQL database
 https://github.com/parro-it/libui-node - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
 https://github.com/airbnb/hypernova - A service for server-side rendering your JavaScript views
 https://github.com/sindresorhus/emoj - Find relevant emoji from text on the command-line
 https://github.com/leeluolee/fstorm - incredibly fast & reliable filewriter
 https://github.com/IgorAntun/node-chat - Node.JS Chat Application
-https://github.com/sterlingw/SimpleSpy.js
+https://github.com/GetStream/Winds - an open source & beautiful RSS reader
+https://github.com/sterlingw/SimpleSpy.js - Standalone library for creating spies in Node.js
 https://github.com/stackgl/headless-gl - Creates WebGL contexts without making windows
 https://github.com/dtinth/babel-plugin-__coverage__ - Istanbul-compatible code coverage instrumentation plugin for Babel.
 https://github.com/mdp/bluemonday-js - The bluemonday sanitizer compiled to JavaScript 
 https://github.com/nof1000/teleapi - The useful library to simplify your work with Telegram Bot API
-https://github.com/codeception/codeceptjs
+https://github.com/FGRibreau/gron - Make JSON greppable
+https://github.com/web-pal/DBGlass - PostgreSQL client built with Electron
+https://github.com/codeception/codeceptjs - Modern Era Aceptance Testing Framework for NodeJS
 https://github.com/BeepBoopHQ/slapp - A node.js module for Slack App integrations
 https://github.com/metafloor/bwip-js - Barcode Writer in Pure JavaScript
 https://github.com/kriasoft/node-sqlite - SQLite client library for Node.js applications
 https://github.com/vitaly-t/pg-promise - Advanced access layer to PG via promises
-https://github.com/bucaran/generator-rise
+https://github.com/jorangreef/crypto-async - Native Cipher, Hash, and HMAC operations executed in Node's threadpool 
+https://github.com/bucaran/generator-rise - Babel, tape + npm scripts node.js module generator
 https://github.com/legraphista/stresser - Stress tests HTTP(s) endpoints
 https://github.com/BrunoBernardino/node-google-cloud-helper
 https://github.com/nodeadmin/nodeadmin - A fantastically elegant interface for MySQL and Node.js/Express management
@@ -158,7 +169,7 @@ https://github.com/Netifriik/node-steam-market-manager - Simple module to query 
 https://github.com/zzarcon/psaux - Process status in Node.js
 https://github.com/adleroliveira/dreamjs - A lightweight json data generator
 https://github.com/lbdremy/solr-node-client - A solr client for node.js.
-https://github.com/leemalmac/frodo
+https://github.com/leemalmac/frodo - Rails-like app generator for Node/Express
 https://github.com/icodeforlove/task.js - Simplified interface for getting CPU intensive code to run on all cores
 https://github.com/node-schedule/node-schedule A cron-like and not-cron-like job scheduler for Node
 https://github.com/DylanPiercey/vdo - Minimal JSX compatible html focused templating engine
@@ -168,7 +179,7 @@ https://github.com/niftylettuce/frisbee - Stripe-inspired API wrapper
 https://github.com/tomchinery/action-cable-node - Action Cable extracted from Rails 5 and packaged as a Node module
 https://github.com/spatools/express-async-router An Express Router wrapper which automatically manage Promise
 https://github.com/pimterry/server-components - A simple, lightweight tool for composable HTML rendering in Node.js, based on web components.
-https://github.com/sungwoncho/millisec
+https://github.com/sungwoncho/millisec - Prettify milliseconds with customizable format
 https://github.com/claudiajs/claudia-bot-builder - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes
 https://github.com/wistityhq/strapi/ - Build powerful back-end with no effort
 https://github.com/GianlucaGuarini/allora - Promisify using es6 Proxies every javascript API with less than 50 lines of code
@@ -178,7 +189,7 @@ https://github.com/SplittyDev/evee.js - The lightweight es6 event library
 https://github.com/kessler/tempus-fugit A scheduling and time utilities module that doesn't waste your time
 https://github.com/Manak/npm-programmatic -  a library that allows you to access npm commands programmatically from javascript
 https://github.com/OmarElGabry/chat.io - A Real Time Chat Application
-https://github.com/chrisenytc/speechy
+https://github.com/chrisenytc/speechy - A speech recognition API service to decode audio to text
 https://github.com/Mostafa-Samir/klyng - A message-passing distributed computing framework for node.js
 https://github.com/adamhalasz/uniqid - Unique ID Generator
 https://github.com/davidferguson/pibakery - The blocks based, easy to use setup tool for Raspberry Pi
@@ -187,12 +198,16 @@ https://github.com/aniftyco/npm-as - Run npm as a certain user.
 https://github.com/ericholiveira/studio - A nodejs framework to create decoupled and scalable applications
 https://github.com/ohmu/node-posix - The missing POSIX system calls for node.js
 https://github.com/leo/args - Minimal toolkit for building CLIs
-https://github.com/apigee/trireme
+https://github.com/mysticatea/npm-run-all - A CLI tool to run multiple npm-scripts in parallel or sequential.
+https://github.com/jorangreef/reed-solomon - Reed-Solomon erasure coding in pure Javascript
+https://github.com/izelnakri/express-routemap - Display all your express routes in the terminal
+https://github.com/apigee/trireme - Embed Node.js inside a Java Virtual Machine
 https://github.com/RafalWilinski/express-status-monitor -Realtime Monitoring solution for Express.js apps
 https://github.com/joshwcomeau/panther - Discover artists through an infinite node graph
 https://github.com/parro-it/is-fqdn - Check if a string represent a fully qualified domain name
 https://github.com/sindresorhus/anatine - Pristine Twitter app
-https://github.com/Jam3/devtool
+https://github.com/coldbrewcloud/tutorial-nodejs - Running Node.JS app on AWS using coldbrew-cli
+https://github.com/Jam3/devtool - runs Node.js programs through Chromium DevTools
 https://github.com/joakimbeng/middl - A generic middleware library, inspired by Express and suitable for anything
 https://github.com/sindresorhus/cli-spinners - Spinners for use in the terminal
 https://github.com/punkave/apostrophe - Apostrophe is a CMS framework for nodejs
@@ -203,7 +218,6 @@ https://github.com/Chris911/mocha-http-detect - Detect HTTP requests in your moc
 https://github.com/skerit/janeway - A curses-based console for node.js
 https://github.com/hzlmn/xeon - module loader for bash scripts with `require` style
 https://github.com/grantcarthew/node-rethinkdb-job-queue - A persistent job or task queue backed by RethinkDB
-https://github.com/GoogleChrome/node-big-rig
 https://github.com/tajawal/node-currency-swap - Currency Exchange Rates library for nodejs
 https://github.com/kosmodrey/telebot - The easy way to write Telegram bots in Node.js
 https://github.com/thomas4019/expressa - Data-driven API framework/cms for Node.js
@@ -211,12 +225,14 @@ https://github.com/chimneypot/chimneypot - Lightweight GitHub webhook handler
 https://github.com/poly/f - Functional Microservice Request Library
 https://github.com/facundoolano/aso - Tools for app store optimization on iTunes and Google Play
 https://github.com/ianunay/mock-node - A configurable mock server with an intuitive configuration management interface and a http api
-https://github.com/sahat/hackathon-starter
+https://github.com/luixaviles/socket-io-typescript-chat - A socket.io example using TypeScript
+https://github.com/sahat/hackathon-starter - A boilerplate for Node.js web applications
 https://github.com/thelounge/lounge - The Lounge — Self-hosted web IRC client
 https://github.com/copy/v86 - x86 virtualization in JavaScript, running in your browser and NodeJS
 https://github.com/dbuarque/basic-express-api - Just a another express api using Mongoose, ES2015, Webpack, Mocha
 https://github.com/tyrchen/node-eventasync - node.js event emitter
-https://github.com/michaelowens/wilfred
+https://github.com/holdfenytolvaj/pogi - Javascript library for PostgreSQL and node.js
+https://github.com/michaelowens/wilfred - A local boilerplate manager
 https://github.com/MaxArt2501/re-build - Building regular expressions with natural language 
 https://github.com/alm-tools/alm/ - A next generation IDE just for TypeScript  
 https://github.com/groupon/ndu - node disk usage
@@ -256,7 +272,6 @@ https://github.com/rustbridge/neon - A safe Rust abstraction layer for native No
 https://github.com/zone-eu/zone-mta - Modern outbound MTA cross platform server application
 https://github.com/jacted/speed-monitor - Website performance reports for Slack, Rocket.chat & Mattermost
 https://github.com/egoist/testen -  Run tests for multiple versions of Node.js in local env
-https://gist.github.com/bdchauvette/a7207d478ddb0c1daae39aebe1bd50bf - Minimal babel boilerplate
 https://github.com/robconery/massive-js - A simple relational data access tool for NodeJS
 https://github.com/johansatge/jpeg-autorotate - Rotates JPEG images based on EXIF orientation.
 https://github.com/zeit/next.js - A minimalistic framework for server-rendered React applications
@@ -267,7 +282,6 @@ https://github.com/typicode/hotel - local .dev domains for everyone and more
 https://github.com/parro-it/canibekikked - Tool to check if any of your NPM repositories name are trademarked
 https://github.com/ryanaghdam/propDeep - Returns the given deeply-nested property of an object using dot-notation or an array of keys
 https://github.com/keithwhor/cmnd - Command Line Interface Utility for Node.js using ES6 idioms
-http://grimmdude.github.io/MidiWriterJS/ - MidiWriterJS is a JavaScript library providing an API for generating expressive multi-track MIDI files from code
 https://github.com/rjmacarthy/express-typescript-starter - An Express.js project implemented using Typescript with strongly typed objects
 https://github.com/lerna/lerna/ - A tool for managing JavaScript projects with multiple packages
 https://github.com/sachinchoolur/lightgallery-desktop - A modern, electron and nodejs based image viewer for Mac, Windows and Linux
