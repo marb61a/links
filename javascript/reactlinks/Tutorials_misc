@@ -71,7 +71,6 @@ https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 https://www.toptal.com/react/react-redux-and-immutablejs
 https://devbutze.com/p/306
 http://www.jamasoftware.com/blog/lets-write-redux/
-https://m.alphasights.com/killing-cors-preflight-requests-on-a-react-spa-1f9b04aa5730#.9hspiz7ba
 http://hackingbeauty.com/create-a-reactjs-component-part1/
 http://dimaip.github.io/2016/03/13/neos-react-redux-rewrite/
 https://blog.boldlisting.com/so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy-400e19606c71#.nwhd4d7p0
@@ -98,6 +97,7 @@ http://blog.goguardian.com/nerds/an-odyssey-to-find-a-sustainable-icon-system-wi
 http://blog.getstream.io/cabin-react-redux-example-app-imgix/
 https://www.netlify.com/blog/2016/07/26/our-conversion-from-angular-to-react
 http://goshakkk.name/react-custom-renderers/
+http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/
 https://assertible.com/blog/creating-email-templates-with-react-components
 http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/
 http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/
@@ -113,6 +113,7 @@ https://blog.backlogapp.io/building-real-time-react-applications-with-redux-and-
 https://tech.affirm.com/redux-patterns-and-anti-patterns-7d80ef3d53bc#.fh33fvcbw
 http://dev.topheman.com/d3-react-chart-components/
 https://www.pubnub.com/blog/2016-06-14-getting-started-with-pubnub-and-react/
+https://www.pubnub.com/blog/2016-09-26-4-tutorials-create-language-in-less-than-200-lines-of-code/
 https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e#.63s3zrz84
 https://auth0.com/blog/bootstrapping-a-react-project/
 http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/
@@ -127,5 +128,17 @@ http://www.thinkloop.com/article/state-driven-routing-react-redux-selectors/
 https://blog.avocode.com/blog/finally-a-simple-and-universal-router-for-reactjs
 https://webapplog.com/autocomplete-react/
 https://edemkumodzi.com/reactfornewbies-building-a-todo-app-with-create-react-app-part-1-5aae4bd637ee#.htccv3k0t
-
+http://engineering.datadoghq.com/redux-doghouse--creating-reusable-react-redux-components-through-scoping/
+http://joinhandshake.com/engineering/2016/11/10/our-experience-migrating-to-react.html
+https://brotzky.co/blog/code-splitting-react-router-webpack-2/
+https://hashnode.com/post/tips-for-a-better-redux-architecture-lessons-for-enterprise-scale-civrlqhuy0keqc6539boivk2f
+https://ateev.in/react-js-achieving-20ms-server-response-time-with-server-side-rendering-1ea80e420d88#.bzzqr4cni
+http://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/
+https://engineering.pinterest.com/blog/migrating-pinterest-profiles-react
+https://blog.preen.ly/5-simple-tips-for-your-first-react-redux-project-10cbb2727b9a#.gzplxe3ww
+https://blog.wearewizards.io/a-mobx-introduction-and-case-study
+https://blog.callstack.io/typed-redux-2aa8bff926ff#.jb324wyp3
+https://codeplanet.io/sharing-styles-react-aphrodite/
+http://blog.brew.com.hk/react-101-composition-vs-inheritance/
+http://blog.isquaredsoftware.com/2016/10/practical-redux-part-1-redux-orm-basics/
 
