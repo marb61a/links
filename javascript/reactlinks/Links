@@ -18,10 +18,6 @@ https://www.youtube.com/watch?v=xsSnOQynTHs - Dan Abramov : Hot Reloading
 https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw - React Rally
 http://www.sitepoint.com/watch-using-webpack-to-transform-jsx/
 https://www.youtube.com/watch?v=gcnJcQ1vg_U
-https://www.youtube.com/watch?v=iVKPbH3qyW0&list=PLanDnKP78H3yAjtSHvXQ8nrj9KgdSRuEP 
-https://www.youtube.com/watch?v=-xiki68cpTc&list=PLXoXQD8Ev85ZZEg6Es3TU6AjmnFY1n4Bu&index=2
-https://vimeo.com/album/3930691 - Reverse Engineering React
-https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU - React Amsterdam 2016 conference
 https://www.youtube.com/watch?v=wuoqImYcZ2A - From Backbone to React. How to write great code - Richard Powell
 https://www.youtube.com/watch?v=q6NXa14o1f0 - Creating Forms with React and Redux
 https://www.youtube.com/watch?v=pTHCwUdGFkc - The Ultimate Introduction to ReactJS [Part 1] - Building React From Scratch
@@ -33,9 +29,26 @@ https://www.youtube.com/watch?v=Vur2dAFZ4GE - React Router v4 with Michael Jacks
 https://www.youtube.com/watch?v=kp-NOggyz54 - Ryan Florence - ‹Rethinker stop={false}/›
 https://www.youtube.com/watch?v=dV8K6fsjDCQ - Netflix JavaScript Talks - React & Flow
 https://www.youtube.com/watch?v=tfuZ7uZmVyg - ReactJS / Redux Tutorial - #7 Connect ReactJS and Redux
-https://www.youtube.com/playlist?list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY - Building app with React and Redux
 https://www.youtube.com/watch?v=aV1271hd9ew - What's Next for React — ReactNext 2016
 https://www.youtube.com/watch?v=_70Yp8KPXH8 - Component Based Style Reuse
+
+
+##Playlists & Channels
+https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU - React Amsterdam 2016 conference
+https://www.youtube.com/watch?v=iVKPbH3qyW0&list=PLanDnKP78H3yAjtSHvXQ8nrj9KgdSRuEP 
+https://www.youtube.com/watch?v=-xiki68cpTc&list=PLXoXQD8Ev85ZZEg6Es3TU6AjmnFY1n4Bu&index=2
+https://www.youtube.com/playlist?list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY - Building app with React and Redux
+
+##ReactCasts
+https://www.youtube.com/watch?v=LTunyI2Oyzw - ReactCasts #1 - Higher Order Components
+https://www.youtube.com/watch?v=WE3XAt9P8Ek - ReactCasts #2 - Function as Child Components
+https://www.youtube.com/watch?v=DJ53-G8EbxE - ReactCasts #3 - React's Children API
+https://www.youtube.com/watch?v=lxq938kqIss - ReactCasts #4 - Context (Part 1)
+https://www.youtube.com/watch?v=mwYHDXS6uSc - ReactCasts #5 - Context (Part 2)
+
+
+##Vimeo - 
+https://vimeo.com/album/3930691 - Reverse Engineering React
 https://vimeo.com/album/4199344/video/187454108 - Building Modular Redux Application
 https://vimeo.com/album/4199344/video/187454105 - How to push a ReactJS application in production and sleep better
 https://vimeo.com/album/4199344/video/187454109 - Experiences Using React In A Large Organization
@@ -153,6 +166,16 @@ https://github.com/gaearon/react-transform-boilerplate - A new Webpack boilerpla
 https://github.com/julienvincent/modelizr - Generate GraphQL queries from models that can be mocked and normalized
 https://github.com/HubSpot/react-experiments - React components for implementing UI experiments
 https://github.com/reactjs/react-basic - A description of the conceptual model of React without implementation burden.
+https://github.com/ericelliott/react-pure-component-starter - A pure component dev starter kit for React
+https://github.com/phenax/plasmajs - An isomorphic nodeJS framework based on react
+https://github.com/JSBros/hedron - A no-frills flexbox grid system for React, powered by styled-components
+https://github.com/pagarme/react-event-components - A set of React components designed to handle global events
+https://github.com/zeit/next.js - A minimalistic framework for universal server-rendered React applications
+https://github.com/RD17/react-trumbowyg - React wrapper for lightweight WYSIWYG editor Trumbowyg
+https://github.com/WhitestormJS/whitestorm.js - Framework for developing 3D web apps with physics
+https://github.com/paularmstrong/mocha-to-jest-codemod - Convert Mochan TDD with Chai assert tests to Jest
+https://github.com/mbasso/react-decoration - A collection of decorators for React Components
+https://github.com/gatsbyjs/gatsby - Transform plain text into dynamic blogs and websites using React.js
 
 
 ## Codepen
