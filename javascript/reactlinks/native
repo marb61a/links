@@ -26,6 +26,9 @@ https://medium.freecodecamp.com/installing-the-facebook-sdk-into-a-react-native-
 https://medium.com/react-native-development/deploying-a-react-native-app-for-ios-pt-1-a79dfd15acb8#.hsvass2tl
 https://medium.com/adjust-creative/prototyping-with-react-native-an-idea-to-production-in-one-week-3a6b4f474897#.z0zxm3k1i
 https://medium.com/walmartlabs/publish-react-native-bundles-over-the-air-with-the-first-electrode-rn-release-3780edb387ba#.1689etmmh
+https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.8657dkt6i
+https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.w145w0cl7
+https://medium.com/google-cloud/upload-images-to-google-cloud-storage-with-react-native-and-expressjs-61b8874abc49#.aj6k1gvgc
 
 
 ###################################### Tutsplus ##################################################################
@@ -73,9 +76,12 @@ http://goshakkk.name/react-native-camera-roll-image-picker/
 ##### Code #####
 https://github.com/GeekyAnts/react-native-easy-grid - Easy React Native Layout & Grid for the Dumb
 https://github.com/shoutem/ui - Customizable set of components for React Native applications
+https://github.com/jmurzy/react-native-foldview - FoldView implemented in JavaScript 
 https://github.com/xiekw2010/react-native-gitfeed
+https://github.com/ptmt/react-native-touchbar - TouchBar for react-native-macos
 https://github.com/moaazsidat/react-native-qrcode-scanner - A QR code scanner component for React Native
 https://github.com/airbnb/react-native-maps - React Native Mapview component for iOS + Android
+https://github.com/reactotron/reactotron - A desktop app for inspecting your React JS and React Native projects
 https://github.com/babotech/react-ingrid
 https://github.com/jhen0409/react-native-debugger - The standalone app for React Native Debugger
 https://github.com/ptmt/react-native-desktop - React Native for OS X
