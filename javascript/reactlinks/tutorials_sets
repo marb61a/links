@@ -24,6 +24,7 @@ https://scotch.io/tutorials/build-a-react-flux-app-with-user-authentication
 https://scotch.io/bar-talk/getting-started-with-redux-an-intro
 https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
 https://scotch.io/tutorials/routing-react-apps-the-complete-guide
+https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps
 
 
 ###################################### Risingstack ################################################################
@@ -90,9 +91,6 @@ https://medium.com/@tarkus/react-app-sdk-5ae59106215b#.db12a9mql
 https://medium.com/@machnicki/why-redux-is-not-so-easy-some-alternatives-24816d5ad22d#.snorr1ytq
 https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454#.zamcvbm3c
 https://medium.com/tictail/introducing-tide-our-react-state-management-library-1dcc6e80551e#.6nczcruln
-https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.44nt5nfx9 
-https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19#.3547krdan
-https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30#.ud84p1la9
 https://medium.com/@nate_wang/a-new-approach-for-managing-redux-actions-91c26ce8b5da#.8c0b7w60r
 https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.29khbn8z8
 https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.izlh8kj57
@@ -105,6 +103,14 @@ https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-lo
 https://medium.com/@joshuawcomeau/introducing-redux-vcr-cad57b37540a#.bpb3nbvih
 https://medium.com/@boriscoder/page-object-for-testing-react-js-components-49cddb59adb7#.jh21tbj7l
 https://medium.com/@matt_bush/how-airtable-uses-react-5e37066a87d4#.ekk5bcq0g
+https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.b2405hbup
+https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3#.ljeehycua
+https://medium.com/@carsoncgibbons/build-a-voting-app-using-react-mobx-bootstrap-443eaa6b6c26#.2t1f0l7o1
+https://medium.com/@capajj/using-mobx-as-redux-3825e44b4e4a#.upf9dmenr
+https://medium.com/@taion/react-routing-and-data-fetching-ec519428135c#.baygdd4ef
+https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776#.n9m06wwm7
+https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e#.l593hvjrd
+https://medium.com/@mustwin/responsive-react-9b56d63c4edc#.27azug93w
 
 
 ###################################### Raja Rao ##################################################################
@@ -130,6 +136,8 @@ https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-
 https://hackernoon.com/publishing-react-components-to-npm-experiments-with-firenpm-c3a1aac3f408#.h7t2s0arx
 https://hackernoon.com/introducing-react-axiom-84bf37a50adb#.vp90g55kp
 https://hackernoon.com/building-d3-components-with-react-7510e4743288#.j00oxmn2k
+https://hackernoon.com/math-the-react-js-way-49ece7b6471f#.jhwru76vu
+https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.o5hblnm40
 
 
 ###################################### Freecodecamp ##################################################################
@@ -138,6 +146,15 @@ https://medium.freecodecamp.com/async-operations-using-redux-saga-2ba02ae077b3#.
 https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.ay66tu8im
 https://medium.freecodecamp.com/seo-vs-react-is-it-neccessary-to-render-react-pages-in-the-backend-74ce5015c0c9#.6ifzyil8p
 https://medium.com/@paulwithap/the-most-important-eslint-rule-for-redux-applications-c10f6aeff61d#.2sjen1dy9
+https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1#.zi8xjehdv
+
+
+###################################### Javascript Inside ##################################################################
+https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.44nt5nfx9 
+https://medium.com/javascript-inside/the-elegance-of-react-ebc21a2dcd19#.3547krdan
+https://medium.com/javascript-inside/embracing-functions-in-react-d7d558d8bd30#.ud84p1la9
+https://medium.com/javascript-inside/building-a-react-redux-elm-bridge-8f5b875a9b76#.5ne06wkhy
+https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7#.xw2dl0t3a
 
 
 ###################################### James K Nelson ##################################################################
@@ -150,6 +167,7 @@ http://jamesknelson.com/should-i-use-shouldcomponentupdate/
 http://jamesknelson.com/state-react-2-inception-redux/
 http://jamesknelson.com/state-react-1-stateless-react-app/
 http://jamesknelson.com/5-types-react-application-state/
+http://jamesknelson.com/even-need-routing-library/
 
 
 ###################################### Swizec ################################################################
@@ -176,3 +194,6 @@ https://daveceddia.com/react-es5-createclass-vs-es6-classes/
 https://daveceddia.com/react-gotchas/
 https://daveceddia.com/ajax-requests-in-react/
 https://daveceddia.com/visual-guide-to-state-in-react/
+https://daveceddia.com/how-to-learn-react/
+https://daveceddia.com/what-to-test-in-react-app/
+
