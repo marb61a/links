@@ -56,8 +56,6 @@ http://www.lessmilk.com/game-design-1/
 http://www.adityaravishankar.com/2016/01/commandos-bel-html5-recreating-the-classic-2-5d-real-time-tactics-game-in-the-browser/
 http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/
 http://andrejgajdos.com/setting-up-webpack-for-es6-react-sass-and-bootstrap/
-https://css-tricks.com/right-click-logo-show-logo-download-options/
-https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/
 http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960
 http://code.tutsplus.com/tutorials/introduction-to-p5js--cms-25665
 https://stormpath.com/blog/token-auth-spa/
@@ -96,6 +94,7 @@ http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchrono
 http://elijahmanor.com/npm-precommit-scripts/
 http://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/
 http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd/
+http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad
 http://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/
 http://thejsguy.com/2016/07/30/javascript-for-loop-vs-array-foreach.html
 http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html
@@ -105,9 +104,6 @@ https://vsavkin.com/functional-typescript-316f0e003dc6#.6mx2x6adf
 https://blog.sqreen.io/embedding-javascript-into-python/
 http://mike-ward.net/2016/08/01/exploring-mithril-a-javascript-framework-for-building-brilliant-applications/
 https://bethallchurch.github.io/JavaScript-and-Functional-Programming/
-http://wesbos.com/arrow-functions/
-http://wesbos.com/javascript-default-function-arguments/
-http://wesbos.com/template-strings-html/
 http://blog.yanivkessler.com/2016/08/07/consuming-a-dynamodb-stream-in-the-browser/
 https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/
 https://advancedweb.hu/2016/08/09/parallel-processing-in-js/
@@ -116,8 +112,8 @@ https://philipwalton.com/articles/untangling-deeply-nested-promise-chains/
 https://philipwalton.com/articles/loading-polyfills-only-when-needed/
 https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/
 http://x-team.com/2016/08/beginners-guide-ionic-2-mobile-applications/
-http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad
 https://bocoup.com/weblog/test262-is-a-javascript-sideshow
+https://bocoup.com/weblog/javascript-developers-watch-your-language
 https://madebymike.com.au//writing/service-workers/
 https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
 http://hasharray.pw/tutorials/javascript/tracking-outbound-forms-and-links-with-google-analytics
@@ -150,3 +146,16 @@ https://toddmotto.com/stateful-stateless-components
 http://goshakkk.name/javascript-generators-understanding-sample-use-cases/
 http://lanceball.com/words/2016/10/14/data-hiding-in-es6/
 https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.wzqb5cjs8
+https://devcenter.heroku.com/articles/mean-apps-restful-api
+http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/
+https://dotdev.co/clean-up-your-vue-modules-with-es6-arrow-functions-2ef65e348d41#.qpzj9bgjg
+https://mariopabon.com/2016/11/01/python-for-javascript-developers.html
+http://untangled.io/the-missing-immutable-js-manual/
+https://www.timo-ernst.net/blog/2016/11/13/how-to-get-started-with-framework7-vuejs-and-webpack/
+http://www.onextrapixel.com/2016/11/16/8-javascript-libraries-for-interactive-map-visualizations/
+https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/
+https://svelte.technology/blog/frameworks-without-the-framework/
+https://appendto.com/2016/11/a-friendly-introduction-to-vue-js/
+https://dev.to/corgibytes/setting-up-a-minimal-yet-useful-javascript-dev-environment
+http://coenraets.org/blog/2016/11/new-version-of-forcejs-a-javascript-library-for-using-the-salesforce-apis-in-ecmascript-6-apps/
+
