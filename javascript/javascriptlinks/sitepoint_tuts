@@ -32,6 +32,7 @@ https://www.sitepoint.com/10-jquery-text-highlighter-plugins/
 https://www.sitepoint.com/introduction-to-jcanvas-jquery-meets-html5-canvas/
 https://www.sitepoint.com/jquery-document-ready-plain-javascript/
 https://www.sitepoint.com/13-jquery-selectboxdrop-down-plugins/
+https://www.sitepoint.com/12-amazing-jquery-tables//
 
                             
                             ######################## Functional ############################
@@ -47,12 +48,14 @@ https://www.sitepoint.com/function-expressions-vs-declarations/
 https://www.sitepoint.com/getting-started-with-underscore-js/
 https://www.sitepoint.com/lodash-features-replace-es6/
 https://www.sitepoint.com/functional-programming-with-ramda/
+https://www.sitepoint.com/functional-programming-choo/
 
                             
                             ######################## Testing ############################
 https://www.sitepoint.com/unit-test-javascript-mocha-chai/
 https://www.sitepoint.com/javascript-functional-testing-nightwatch-js/
 https://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/
+https://www.sitepoint.com/javascript-testing-unit-functional-integration/
 
 
                             ######################## Javacript ############################
@@ -67,19 +70,33 @@ https://www.sitepoint.com/javascript-goes-asynchronous-awesome/
 https://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
 httsp://www.sitepoint.com/using-javascript-frameworks-inside-c-with-chakrabridge/
 https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
+https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/
+https://www.sitepoint.com/horizon-a-scalable-backend-perfect-for-javascript-mobile-apps/
+https://www.sitepoint.com/self-documenting-javascript/
 https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/
+https://www.sitepoint.com/managing-state-aurelia-with-redux/
+https://www.sitepoint.com/future-of-aurelia-roadmap-features/
+https://www.sitepoint.com/use-bootstrap-components-without-jquery/
 
+                            
+                            ######################## Graphics ############################
+https://www.sitepoint.com/creating-accessible-breakout-game-using-web-audio-svg/
+https://www.sitepoint.com/introducing-four-webgl-easier/
+https://www.sitepoint.com/voice-controlled-audio-player-web-speech-api/
+https://www.sitepoint.com/preloading-images-in-parallel-with-promises/
+https://www.sitepoint.com/building-3d-engine-javascript/
+https://www.sitepoint.com/d3-js-data-visualizations/
+https://www.sitepoint.com/introduction-chart-js-2-0-six-examples/
+https://www.sitepoint.com/building-a-game-reactjs-and-webgl/
+https://www.sitepoint.com/javascript-3d-minecraft-editor/
 
+                            
+                            
                             ######################## Miscellaneous ############################
-
-http://www.sitepoint.com/creating-accessible-breakout-game-using-web-audio-svg/
 http://www.sitepoint.com/guide-to-npm-as-a-build-tool/
 http://www.sitepoint.com/full-screen-bootstrap-carousel-random-initial-image/
 http://www.sitepoint.com/multilingual-support-for-angularjs/
 http://www.sitepoint.com/experimenting-object-observe-javascript-found-useful/
-http://www.sitepoint.com/introducing-four-webgl-easier/
-http://www.sitepoint.com/voice-controlled-audio-player-web-speech-api/
-http://www.sitepoint.com/preloading-images-in-parallel-with-promises/
 http://www.sitepoint.com/3-javascript-orms-you-might-not-know/
 http://www.sitepoint.com/command-line-api-fun-profit/
 http://www.sitepoint.com/face-proximity-detection-with-javascript/
@@ -95,14 +112,12 @@ http://www.sitepoint.com/lazy-loading-images-igaro-app-javascript-framework/
 http://www.sitepoint.com/quick-tip-master-closures-by-reimplementing-them-from-scratch/
 http://www.sitepoint.com/creating-an-imgur-app-with-nativescript/
 http://www.sitepoint.com/generating-pdfs-from-web-pages-on-the-fly-with-jspdf/
-http://www.sitepoint.com/building-3d-engine-javascript/
 http://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/
 http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
 http://www.sitepoint.com/creating-donation-widget-with-flight-components/
 http://www.sitepoint.com/using-soundcloud-api-javascript-sdk/
 http://www.sitepoint.com/javascript-modules-bundling-transpiling/
 http://www.sitepoint.com/proper-error-handling-javascript/
-http://www.sitepoint.com/javascript-testing-unit-functional-integration/
 https://www.sitepoint.com/modular-javascript-systemjs-jspm/
 https://www.sitepoint.com/accessible-web-components/
 https://www.sitepoint.com/custom-pdf-rendering/
@@ -114,18 +129,12 @@ https://www.sitepoint.com/expressions-javascript/
 https://www.sitepoint.com/design-and-build-your-own-javascript-library/
 https://www.sitepoint.com/understanding-asts-building-babel-plugin/
 https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/
-https://www.sitepoint.com/javascript-object-creation-patterns-best-practises/
-https://www.sitepoint.com/horizon-a-scalable-backend-perfect-for-javascript-mobile-apps/
 https://www.sitepoint.com/jsonp-examples/
-https://www.sitepoint.com/self-documenting-javascript/
 https://www.sitepoint.com/introduction-to-typescript/
-https://www.sitepoint.com/d3-js-data-visualizations/
-https://www.sitepoint.com/introduction-chart-js-2-0-six-examples/
 https://www.sitepoint.com/getting-started-with-pouchdb/
 https://www.sitepoint.com/cache-fetched-ajax-requests/
 https://www.sitepoint.com/getting-started-with-vue-js/
-https://www.sitepoint.com/building-a-game-reactjs-and-webgl/
 https://www.sitepoint.com/add-remove-css-class-vanilla-js/
 https://www.sitepoint.com/aurelia-custom-pdf-viewer-component/
-https://www.sitepoint.com/javascript-3d-minecraft-editor/
+https://www.sitepoint.com/logging-errors-client-side-apps/
 
