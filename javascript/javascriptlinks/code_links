@@ -77,25 +77,42 @@ https://github.com/js-cookie/js-cookie - A simple, lightweight JavaScript API fo
 https://github.com/christinecha/choreographer-js - A simple library to take care of complicated animations.
 https://github.com/moinism/faltu - Search sort, filter, limit an array of objects in Mongo-style.
 https://github.com/usdivad/mesing - JavaScript singing synthesis library
-https://github.com/danvk/source-map-explorer
+https://github.com/danvk/source-map-explorer - Analyze and debug space usage through source maps
+https://github.com/cramforce/splittable - Module bundler with support for code splitting, ES6 & CommonJS modules.
 https://github.com/MaxArt2501/re-build - Building regular expressions with natural language 
 https://github.com/astoilkov/console.message - Console messages for cool kids
 https://github.com/j2css/j2c - CSS in JS library, tiny yet featureful
 https://github.com/russiann/promise-sequential - Simple like Promise.all(), but sequentially!
 https://github.com/verekia/js-stack-from-scratch - Step-by-step tutorial to build a modern JavaScript stack from scratch
-https://github.com/Microsoft/JSanity
+https://github.com/FGRibreau/gron - gron - Make JSON greppable
+https://github.com/jorangreef/reed-solomon - Reed-Solomon erasure coding in pure Javascript
+https://github.com/turbo/js -  perform massive parallel computations in your browser with GPGPU
+https://github.com/trueadm/inferno - An extremely fast, React-like JavaScript library for building modern user interfaces
+https://github.com/Microsoft/JSanity -  secure-by-default, performance, cross-browser client-side HTML sanitization library
 https://github.com/matankb/fetch-reject - Simple wrapper for fetch which rejects on HTTP error
 https://azu.github.io/ecmascript-version-detector/ - ECMAScript Version Detector
 https://github.com/highrisehq/snapback_cache - A client side page cache for jquery
 https://github.com/anychart/graphicsjs - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 https://github.com/skatejs/skatejs - a web component library
-https://github.com/helion3/inspire-tree
+https://github.com/developit/preact/ -  Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM
+https://github.com/WhitestormJS/whitestorm.js - Framework for developing 3D web apps with physics
+https://github.com/helion3/inspire-tree - Inspired Javascript Tree UI Element
+https://github.com/monterail/vuelidate - Simple, lightweight model-based validation for Vue.js
 https://github.com/sachinchoolur/lightgallery.js - Full featured JavaScript image & video gallery
 https://github.com/AnalyticalGraphicsInc/cesium/ - An open-source JavaScript library for world-class 3D globes and maps
 https://github.com/callmecavs/jump.js A small, modern, dependency-free smooth scrolling library
 https://github.com/zzarcon/microm - Beautiful library to convert browser microphone to mp3 in Javascript
 https://github.com/brandonbloom/jseg - A super simple, in-memory, JS graph database.
-https://github.com/nathancahill/Split.js
+https://github.com/lwansbrough/HolographicJS - Windows Runtime Component for hosting Windows Holographic apps
+https://github.com/Haroenv/floating.js - Float a number of things up on a page (hearts, flowers, emojis, words ...)
+https://github.com/gajus/babel-plugin-log-deprecated - Adds a console.warn statement to the functions annotated with @deprecated tag
+https://github.com/kotojs/kotojs - A framework for building reusable components with d3.js
+https://github.com/ten7/interceptjs - jQuery Plugin to Handle 'Call to Action' Intercepts
+https://github.com/mapbox/pixelmatch - smallest, simplest and fastest JavaScript pixel-level image comparison library
+https://github.com/nathancahill/Split.js - Lightweight, unopinionated utility for adjustable split views
+https://github.com/zzarcon/chaosocket - Mock WebSockets and create chaos 
+https://github.com/nuxt/nuxt.js - A minimalistic framework for server-rendered Vue.js applications
+https://github.com/LeadDyno/intercooler-js - Making AJAX as easy as anchor tags
 https://github.com/mozilla/metrics-graphics - A library optimized for concise and principled data graphics and layouts
 https://github.com/jcbrand/pluggable.js - Lets you make your JS project pluggable
 https://github.com/asvd/microlight - highlights code in any programming language 
@@ -143,6 +160,8 @@ https://github.com/kentcdodds/match-sorter - Simple, expected, and deterministic
 https://github.com/AriaFallah/WebpackTutorial/tree/master/part1
 https://github.com/dollarshaveclub/shave/ -  a zero dependency javascript plugin that truncates text
 https://github.com/jaredly/treed - Powerful Tree Editor
+https://github.com/riot/riot - Simple and elegant component-based UI library
+https://github.com/vitogit/gDriveSync.js - Javascript wrapper library for Google Drive API v3
 https://github.com/jadeallencook/gDoc.js - Use Google Spreadsheets as your CMS
 https://github.com/shift-js/shift-js - Swift to JavaScript transpiler
 https://github.com/nolanlawson/optimize-js - Optimize a JavaScript file for faster initial load by wrapping eagerly-invoked functions
@@ -152,6 +171,7 @@ https://github.com/ecomfe/echarts - A powerful, interactive charting and visuali
 https://github.com/atayahmet/jquery.easypin - Pinning clickable messages/notes to images
 https://github.com/elado/reuse-promise - Reuse the same promise that's returned from a function until it's resolved
 https://github.com/polarnotion/turntable/ - A Responsive JQuery Slider
+https://github.com/caroso1222/amazon-autocomplete -  Unlock the full power of the Amazon autocompletion engine
 https://github.com/krasimir/cssx - CSS in JavaScript
 https://github.com/hyperform/hyperform/ - Capture form validation back from the browser
 https://github.com/jaxgeller/tweezer.js - A small, dependency-free, ES6 library for smooth animations
