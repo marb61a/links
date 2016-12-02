@@ -38,19 +38,22 @@ https://medium.com/@clayallsopp/incrementally-migrating-javascript-to-typescript
 https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.bnpd6d3ny
 https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.s12ky2exz
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.vpo0l5z5q
+https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.6ambti44v
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.w9sxy5gxf
 https://medium.com/net-magazine/the-web-cryptography-api-15d052271494#.5llvddsli
 https://medium.com/@tarkus/how-to-build-and-publish-es6-modules-today-with-babel-and-rollup-4426d9c7ca71#.qkwb1l6gv
-https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.6ambti44v
 https://medium.com/@galstar/composable-sql-in-javascript-db51d9cae017#.kvc99ont6
 https://medium.com/@homam/timing-asynchronous-functions-in-javascript-es6-2635ed306377#.gert16do2
 https://medium.com/outsystems-experts/beyond-console-debugging-tricks-f7d0d7f5df4#.vvcj4tta4
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.w9sxy5gxf
 https://medium.com/fattura-con-billy/animated-stacked-bar-charts-with-d3-js-2ef928163e59#.hgd8c24ri
 https://medium.com/walmartlabs/use-easy-fix-to-run-integration-tests-like-unit-tests-834288ec446d#.68s8uh36p
 https://medium.com/re-dom/master-the-dom-bc1a2a06089b#.nzzas3lpk
 https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2cf9c16e#.gqyw37vpl
+https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5#.2u1dm2zfn
 https://medium.com/purse-essays/introducing-bcoin-fdfcb22dfa34#.4nb85hbfx
 https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.3lbp6950n
+https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.9t474h51k
+https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776#.n5eywixta
 
 
 ###################################### Freecodecamp ###########################################################
@@ -175,6 +178,8 @@ https://blog.risingstack.com/web-authentication-methods-explained/
 https://blog.risingstack.com/writing-a-javascript-framework-sandboxed-code-evaluation/
 https://blog.risingstack.com/writing-a-javascript-framework-execution-timing-beyond-settimeout/
 https://blog.risingstack.com/async-await-node-js-7-nightly/
+https://blog.risingstack.com/writing-a-javascript-framework-data-binding-es6-proxy/
+https://community.risingstack.com/explaining-javascript-closure-scope-chain-examples/
 
 
 ####################################### David Walsh ###########################################################
@@ -183,4 +188,18 @@ https://davidwalsh.name/javascript-documentation
 https://davidwalsh.name/modernization-reactivity
 https://davidwalsh.name/essential-javascript-functions
 https://davidwalsh.name/speech-recognition
+https://davidwalsh.name/es6-features
 
+
+####################################### CSS Tricks ###########################################################
+https://css-tricks.com/right-click-logo-show-logo-download-options/
+https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/
+https://css-tricks.com/intro-monkey-testing-gremlins-js/
+https://css-tricks.com/introduction-mo-js/
+
+
+####################################### Wes Bos ###########################################################
+http://wesbos.com/arrow-functions/
+http://wesbos.com/javascript-default-function-arguments/
+http://wesbos.com/template-strings-html/
+http://wesbos.com/destructuring-objects/
