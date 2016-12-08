@@ -53,6 +53,12 @@ https://www.sitepoint.com/cache-fetched-ajax-requests/
 https://www.sitepoint.com/introducing-bootcards-bootstrap-cards-made-easy
 https://www.sitepoint.com/atoz-css-screencast-quotes/
 https://www.sitepoint.com/add-remove-css-class-vanilla-js/
+https://www.sitepoint.com/how-and-why-you-should-inline-your-critical-css/
+https://www.sitepoint.com/how-to-create-the-invisible-pen-effect-in-svg-using-vivus-js/
+https://www.sitepoint.com/atoz-css-y-axis/
+https://www.sitepoint.com/future-css-with-postcss-cssnext/
+https://www.sitepoint.com/cross-platform-desktop-app-nw-js/
+https://www.sitepoint.com/seven-ways-you-can-place-elements-using-css-grid-layout/
 
 
 ############################################## Smashing ########################################################## 
@@ -91,6 +97,9 @@ https://www.smashingmagazine.com/2016/09/content-security-policy-your-future-bes
 https://www.smashingmagazine.com/2016/09/the-building-blocks-of-progressive-web-apps/
 https://www.smashingmagazine.com/2016/10/how-to-build-honest-uis-and-help-users-make-better-decisions/
 https://www.smashingmagazine.com/2016/09/building-social-a-case-study-on-progressive-enhancement/
+https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/
+https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/
+https://www.smashingmagazine.com/2016/11/character-sets-encoding-emoji/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -101,6 +110,7 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/TVs_connected_device
 https://hacks.mozilla.org/2016/05/css-coding-techniques/
 https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/
 https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/
+https://hacks.mozilla.org/2016/11/cooperative-scheduling-with-requestidlecallback/?
 
 
 ############################################## Google ########################################################## 
@@ -110,6 +120,8 @@ https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-c
 https://developers.google.com/web/updates/2016/02/font-display
 https://developers.google.com/web/updates/2016/07/infinite-scroller
 https://developers.google.com/web/fundamentals/primers/shadowdom/
+https://developers.google.com/web/fundamentals/native-hardware/capturing-images/
+https://developers.google.com/web/updates/2016/12/performant-parallaxing
 
 
 ############################################## Medium ##########################################################
@@ -126,6 +138,8 @@ https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.isoq8iiq2
 https://medium.com/wdstack/bootstrap-4-whats-new-visual-guide-c84dd81d8387#.f45och1r8
 https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66#.uowp7gvw7
 https://medium.freecodecamp.com/leveling-up-css-44b5045a2667#.i276joe6l
+https://medium.freecodecamp.com/how-to-disappear-completely-2f23ddb14835#.8zy9gpzel
+https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.z7t1jk7tk
 https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.6ujeslfzw
 https://medium.com/dev-channel/css-containment-in-chrome-52-f04a30bdc92a#.v3u8azu4f
 https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.kyiyf7tz7
@@ -136,8 +150,8 @@ https://medium.com/learning-new-stuff/learn-css-flexbox-in-3-minutes-c616c707067
 https://medium.com/web-development-zone/amazingly-useful-html-css-and-javascript-tools-and-libraries-d73b10fbae29#.i8fjh8ccy
 https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b#.aukcqdam7
 https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.kh4u3jggn
-https://medium.freecodecamp.com/how-to-disappear-completely-2f23ddb14835#.8zy9gpzel
 https://medium.com/statuscode/11-interesting-web-browsers-that-arent-chrome-a3f976752b21#.b5c3q0r2h
+https://medium.com/bitmatica-lab/svg-line-animation-for-the-uninitiated-5a65d91c6044#.xd14l2rdx
 
 
 ############################################## Tutsplus ##########################################################
@@ -179,6 +193,7 @@ https://thenewcode.com/279/Rotate-Elements-on-Scroll-with-JavaScript
 https://thenewcode.com/1151/Understanding-the-SVG-viewBox
 https://thenewcode.com/1137/MinMaxing-Understanding-vMin-and-vMax-in-CSS
 http://thenewcode.com/1143/Even-Stevens-Using-Round-and-Space-in-Repeated-Background-Images
+http://thenewcode.com/1161/Using-CSS-Variables-in-Site-Development
 
 
 ############################################## A List Apart ########################################################## 
