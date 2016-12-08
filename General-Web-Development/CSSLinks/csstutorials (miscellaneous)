@@ -35,6 +35,7 @@ http://book.mixu.net/css/index.html
 http://cloudinary.com/blog/automatically_art_directed_responsive_images
 https://jakearchibald.com/2016/link-in-body/
 https://jakearchibald.com/2016/svg-media-queries/
+https://jakearchibald.com/2016/fun-hacks-faster-content/
 http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/
 https://aerotwist.com/blog/the-anatomy-of-a-frame/
 https://aerotwist.com/blog/slicing-svg-9-ways/
@@ -88,6 +89,7 @@ https://davidwalsh.name/3d-panorama-image
 https://www.zachleat.com/web/comprehensive-webfonts/
 https://lcamtuf.blogspot.ie/2016/08/css-mix-blend-mode-is-bad-for-keeping.html
 http://bradfrost.com/blog/post/a-code-review-or-yet-another-reason-to-love-the-web/
+http://bradfrost.com/blog/post/css-architecture-for-design-systems/
 http://www.uxbooth.com/articles/the-new-rules-of-form-design/
 http://tympanus.net/codrops/2016/09/13/fancy-svg-letter-animation/
 http://pixelonezero.com/depth-of-field-css-animation
@@ -109,3 +111,10 @@ https://www.raymondcamden.com/2016/10/04/til-form-fields-and-invalid-values
 https://getflywheel.com/layout/css-feature-queries-how-to/
 https://responsivedesign.is/articles/creating-the-periodic-table-with-grid-css
 https://www.stefanjudis.de/aria-selected-and-when-to-use-it.html
+https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.tbhcgjovo
+https://zellwk.com/blog/responsive-grid-system/
+https://www.impressivewebs.com/fixing-styles-on-code-tags-nested-inside-links/
+https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.dfkej43a8
+http://gpfault.net/posts/mandelbrot-webgl.txt.html
+https://dev.solteq.com/2016/12/02/building-a-responsive-product-grid-with-css-flexbox/
+https://chinocode.com/Intro-To-Custom-Elements/
