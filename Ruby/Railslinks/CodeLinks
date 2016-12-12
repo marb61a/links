@@ -48,7 +48,7 @@ https://github.com/ostinelli/apnotic - Apnotic is an Apple Push Notification gem
 https://github.com/ioquatix/http-accept - Parse Accept and Accept-Language HTTP headers in Ruby.
 https://github.com/httprb/http - HTTP (The Gem! a.k.a. http.rb) - a fast Ruby HTTP client with a chainable API, streaming support, and timeouts
 https://github.com/clearwater-rb/clearwater - Component-based Ruby front-end framework
-https://github.com/jcantara/em-rubyserial
+https://github.com/jcantara/em-rubyserial - EventMachine functionality for rubyserial gem
 https://github.com/troessner/reek - Code smell detector for Ruby
 https://github.com/cerebris/jsonapi-resources - A resource-focused Rails library for developing JSON API compliant servers.
 https://github.com/palkan/logidze - Log Files
@@ -60,75 +60,75 @@ https://github.com/piotrmurach/pastel - Terminal output styling with intuitive a
 https://github.com/timigod/client_manager - a mountable gem that helps identify and authenticate your API clients' requests.
 https://github.com/Gargron/mastodon - A GNU Social-compatible microblogging server
 https://github.com/davydovanton/sidekiq-statistic - See statistic about your workers
-https://github.com/hothero/awesome-rails-gem
 https://github.com/choonkeat/active_params - Automatic strong parameters
 https://github.com/rkh/income-tax - Ruby library to calculate the income tax for any country
 https://github.com/jedld/resugan - simple, powerful and unobstrusive event driven architecture framework for ruby
-https://github.com/cnorthwood/backtalk
+https://github.com/cnorthwood/backtalk - Make sassy gems (a package manager for Sass)
 https://github.com/molybdenum-99/reality - Comprehensive data proxy to knowledge about real world
 https://github.com/dirkholzapfel/abuelo - Abuelo is a graph theory library
 https://github.com/chaps-io/gush - Fast and distributed workflow runner using only Sidekiq and Redis
 https://github.com/mz026/log_spy - Logspy is a rack middleware sending request log to Amazon SQS
 https://github.com/dogweather/validated_object - Self-validating Ruby objects
-https://github.com/FGRibreau/mailchecker
+https://github.com/FGRibreau/mailchecker -  Cross-language temporary (disposable/throwaway) email detection library
 https://github.com/bradurani/pg-eyeballs - A Ruby gem for using the postgres explain command with Active Record
 https://github.com/janko-m/down - Your companion for file downloads in Ruby
 https://github.com/schneidmaster/eqn - A gem to evaluate numerical equations.
 https://github.com/yammer/model_attribute - attributes for non-ActiveRecord models
 https://github.com/remore/virtual_module - Born to make your Ruby Code more than 3x faster
 https://github.com/Brantron/john_hancock - A Rails gem for custom signature form fields
-https://github.com/leemachin/ask_awesomely/
+https://github.com/leemachin/ask_awesomely/ - Build Typeforms awesomely. In Ruby.
 https://github.com/amatsuda/jb - A simple and fast JSON API template engine for Ruby on Rails
 https://github.com/contently/action_mailer_matchers - ActionMailerMatchers provides rspec matchers to test Rails' common ActionMailer functionality
 https://github.com/rmosolgo/graphql-ruby - Ruby implementation of Facebook's GraphQL
 https://github.com/pwnieexpress/blue_hydra - Blue Hydra
 https://github.com/mwpastore/ioughta - Helpers for defining sequences of constants in Ruby using a Go-like syntax
-https://github.com/ankane/groupdate
+https://github.com/ankane/groupdate - The simplest way to group temporal data
 https://github.com/cryptosphere/sysrandom - Secure random number generation for Ruby using system RNG facilities
 https://github.com/zverok/time_math2 - Small library for operations with time steps
-https://github.com/ur0/statusify
+https://github.com/nats-io/pure-ruby-nats - A native Ruby client library for NATS
 https://github.com/JuanitoFatas/fast-ruby - Writing Fast Ruby
 https://github.com/JuanitoFatas/active_loader - Load YAML and JSON easily and safely with Active Loader
 https://github.com/ndea/rstreamor - Stream your files using range request headers.
 https://github.com/helpyio/helpy - Helpy is a modern, "mobile-first" helpdesk application built in Ruby
 https://github.com/10Pines/aws_ses_newsletters - Wrapper over aws-ses that allows you to construct and send newsletters easily
 https://github.com/tf/pr_log - Turn pull requests into changelog entries
-https://github.com/eduardordm/enginevib
+https://github.com/eduardordm/enginevib - Aircraft Avionics Built in Ruby
 https://github.com/choonkeat/attache - Yet another approach to file upload
 https://github.com/ko1/pretty_backtrace - Pretty your exception backtrace
 https://github.com/ndea/rockflow - Create simple or complex workflows and rock your app
 https://github.com/strzibny/invoice_printer - Super simple PDF invoicing in Ruby
 https://github.com/airbnb/hypernova - A service for server-side rendering your JavaScript views
-https://github.com/igorkasyanchuk/rails_db
+https://github.com/igorkasyanchuk/rails_db - Rails Database Viewer and SQL Query Runner
 https://github.com/ssuljic/timed_semaphore - Ruby implementation of TimedSemaphore
 https://github.com/basecamp/trix - A rich text editor for everyday writing
 https://github.com/rzane/baby_squeel - An expressive query DSL for Active Record 4 and 5
 https://github.com/kenyonj/dashed - Ruby library for interacting with Amazon Dash button presses
 https://github.com/stellar/ruby-xdr - Read/write XDR encoded data structures
-https://github.com/ndea/rimportor
+https://github.com/ndea/rimportor - Modern bulk import for ruby on rails
 https://github.com/tsurupin/portfolio - A blog and Portfolio CMS built with Rails, React, Redux, Material-UI, CSS Modules
 https://github.com/ndea/regressor - Generate specs for your rails application
 https://github.com/pawurb/termit - Translations with speech synthesis in your terminal as a ruby gem
 https://github.com/electric-feel/i18n-backend-side_by_side
 https://github.com/DarthSim/carrierwave-bombshelter - Protects your carrierwave from image bombs
-https://github.com/ASoftCo/leaky-gems
+https://github.com/ASoftCo/leaky-gems - A list of Ruby gems that have known memory leaks
 https://github.com/ActsAsParanoid/acts_as_paranoid - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
 https://github.com/gottfrois/grape-attack - A middleware for Grape to add endpoint-specific throttling
 https://github.com/NullVoxPopuli/action_cable_client - A ruby client for interacting with Rails' ActionCable
 https://github.com/mooreniemi/array_collapse - Array collapse
-https://github.com/IFTTT/polo
+https://github.com/IFTTT/polo  travels through your database and creates sample snapshots
 https://github.com/bear-metal/tunemygc - TuneMyGC - optimal MRI Ruby 2.1+ Garbage Collection
 https://github.com/mattheworiordan/capybara-screenshot - Automatically save screen shots when a Capybara scenario fails
 https://github.com/twitter/secureheaders - Security related headers all in one gem
 https://github.com/cliffe/SecGen - Create randomly insecure VMs
-https://github.com/mushishi78/womb
+https://github.com/danmayer/coverband - Rack middleware to help measure production code line of code usage 
+https://github.com/mushishi78/womb - Chainable interface for defining objects in Ruby
 https://github.com/substrakt/letsencrypt-heroku - Make any Heroku application secure in just a couple of minutes
 https://github.com/RKushnir/capistrano-foreman - Foreman integration for Capistrano
 https://github.com/zendesk/ruby-kafka - A Ruby client library for Apache Kafka 
 https://github.com/amatsuda/stateful_enum - A very simple state machine plugin built on top of ActiveRecord::Enum
 https://github.com/ruby-concurrency/concurrent-ruby - Modern concurrency tools 
 https://github.com/allenan/human_time - Ruby time and date comparisons for humans
-https://github.com/jstrait/wavefile/
+https://github.com/jstrait/wavefile/ - gem for reading and writing the Wave file sound format
 https://github.com/krisleech/not_found - Allows you to rescue ActiveRecord::RecordNotFound for a specific model
 https://github.com/ankane/pgslice - Postgres partitioning as easy as pie
 https://github.com/rob-murray/five-star - a library to build a rating system in Ruby
@@ -138,24 +138,30 @@ https://github.com/codevise/pageflow - Multimedia story telling for the web
 https://github.com/varvet/godmin - Admin framework for Rails 4+
 https://github.com/matsumoto-r/http-dos-detector - detect huge number of http access like DoS for Apache and nginx using mruby
 https://github.com/mooreniemi/graph-function - graphing your ruby functions
-https://github.com/kwatch/rack-test_app
+https://github.com/rails/webpacker - Use Webpack to manage app-like JavaScript modules in Rails
+https://github.com/kwatch/rack-test_app - more intuitive testing helper library for Rack app
 https://github.com/rosenfeld/rack_web_console - A web console for Rack apps.
 https://github.com/alehander42/matchete - A DSL for method overloading in Ruby based on pattern matching
 https://github.com/efigence/has_reindexable_associations - Automatic Elasticsearch Reindexing of Active Record Associations
 https://github.com/lbarasti/ytry - A Scala inspired implementation of Try for Ruby
-https://github.com/NullVoxPopuli/skinny_controllers
+https://github.com/ansistrano/deploy - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
+https://github.com/NullVoxPopuli/skinny_controllers - A pattern for allowing for easier testing of large projects' business logic
 https://github.com/peter/rails-cms-bootstrap - Bootstrap/demo app for a simple CMS based on Rails 5, Postgres, and Bootstrap 
 https://github.com/JuanitoFatas/active_error - Create an exception with backtrace has never been easier
 https://github.com/solidusio/solidus - Solidus, Rails eCommerce System
 https://github.com/erichaydel/errdo -A simple plugin to handle, log, and customize production errors in Rails applications
-https://github.com/karthikv/model_schema
+https://github.com/zach-capalbo/flammarion - The nifty ruby gui toolkit.
+https://github.com/apneadiving/waterfall - A slice of functional programming to chain ruby services and blocks
+https://github.com/karthikv/model_schema - Enforced, Annotated Schema for Ruby Sequel Models
 https://github.com/vinhnglx/active_bootstrap_skin - Bootstrap skin for Active Admin
 https://github.com/janko-m/shrine - Toolkit for handling file uploads in Ruby
 https://github.com/zhulik/pinball - Simple IOC Container and DI tool for ruby
 https://github.com/davidesantangelo/emailhunter - A tiny Ruby wrapper around Email Hunter API
 https://github.com/iridakos/duckrails - A development tool to quickly & dynamically mock API endpoints
 https://github.com/tobiasfeistmantl/LeSSL - A certificate manager for lets-encrypt certificates
-https://github.com/charliesome/better_errors
+https://github.com/WhitewidowScanner/whitewidow - SQL Vulnerability Scanner
+https://github.com/hartator/wayback-machine-downloader - Download an entire website from the Wayback Machine
+https://github.com/charliesome/better_errors - Better error page for Rack apps
 https://github.com/plum-umd/rdl - RDL is a lightweight system for adding contracts to Ruby
 https://github.com/jvns/ruby-stacktrace - Have you ever wanted to know what your Ruby program is doing
 https://github.com/codervault/codervault - An Open Source, Self-Hosted, Snippet Manager
