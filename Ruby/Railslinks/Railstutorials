@@ -19,6 +19,8 @@ http://blog.honeybadger.io/lexical-scoping-and-ruby-class-variables/
 http://blog.honeybadger.io/what-does-argv-mean-in-ruby/
 http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/
 http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/
+http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/
+http://blog.honeybadger.io/a-beginner-s-guide-to-exceptions-in-ruby/
 
 
 ###################################### Medium ####################################################
@@ -49,6 +51,8 @@ https://medium.com/in-the-weeds/stabilizing-your-test-suite-settings-3139f706ba6
 https://medium.com/@eric.programmer/the-sql-alternative-to-counter-caches-59e2098b7d7#.o3osc7nd4
 https://medium.com/@kristenfletcherwilde/getting-started-with-kernel-format-7c7645266fed#.4gli8qfl8
 https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b#.wbpvkhhjo
+https://medium.com/statuscode/how-to-detect-image-contents-from-ruby-with-amazon-rekognition-46a962cb040f#.s9ye8k6rf
+https://medium.com/@slainer68/developing-a-wizard-or-multi-steps-forms-in-rails-d2f3b7c692ce#.kz77b3d2i
 
 
 ###################################### Justin Weiss ####################################################
@@ -142,6 +146,9 @@ https://blog.codeship.com/testing-http-requests/
 https://blog.codeship.com/when-to-be-concerned-about-concerns/
 https://blog.codeship.com/building-a-well-polished-ruby-gem/
 https://blog.codeship.com/microservice-communication-queues/
+https://blog.codeship.com/replacing-sinatra-with-rack-in-sidekiq/
+https://blog.codeship.com/refactoring-legacy-rails-controllers/
+https://resources.codeship.com/ebooks/test-deploy-docker-apps-aws-elastic-beankstalk-ebs-aw
 
 
 ###################################### Rossta ####################################################
@@ -156,6 +163,8 @@ https://rossta.net/blog/a-ruby-antihero-thread-pool.html
 https://rossta.net/blog/using-webpack-with-middleman.html
 https://rossta.net/blog/how-to-specify-local-ruby-gems-in-your-gemfile.html
 https://rossta.net/blog/quiet-assets-in-rails-5.html
+https://rossta.net/blog/testing-rails-generators.html
+https://rossta.net/blog/make-your-rails-app-a-progressive-web-app.html
 
 
 ###################################### JamisBuck ####################################################
@@ -240,6 +249,7 @@ http://blog.bigbinary.com/2016/02/15/rails-5-makes-belong-to-association-require
 http://blog.bigbinary.com/2016/03/08/rails-5-switches-from-strong-etags-to-weak-tags.html
 http://blog.bigbinary.com/2016/04/13/rails-5-adds-option-to-log-warning-when-fetching-big-result-sets.html
 http://blog.bigbinary.com/2016/08/17/rails-5-allows-wildcard-for-specifying-template-dependencies.html
+http://blog.bigbinary.com/2016/11/22/ruby-2-4-introduces-liberal_parsing-option-for-parsing-bad-csv-data.html
 
 
 ###################################### Performance Book ####################################################
@@ -284,6 +294,7 @@ http://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/
 http://www.rubypigeon.com/posts/examining-internals-of-rails-request-response-cycle/
 http://www.rubypigeon.com/posts/the-pure-function-as-an-object-pfaao-pattern/
 http://www.rubypigeon.com/posts/fizzbuzz-in-too-much-detail/
+http://www.rubypigeon.com/posts/how-to-make-a-dsl-hygienically/
 
 
 ###################################### MixandGo ####################################################
@@ -328,6 +339,7 @@ http://readysteadycode.com/howto-parse-html-with-ruby-and-nokogiri
 http://readysteadycode.com/howto-access-amazon-dynamodb-with-ruby
 http://readysteadycode.com/howto-access-the-gmail-api-with-ruby
 http://readysteadycode.com/howto-manage-campaign-monitor-lists-with-ruby
+http://readysteadycode.com/howto-integrate-google-calendar-with-rails
 
 
 ###################################### Akita On Rails ####################################################
@@ -337,8 +349,23 @@ http://www.akitaonrails.com/2016/10/03/sharing-models-between-rails-apps-part-1
 http://www.akitaonrails.com/2016/10/31/ruby-on-rails-implementation-of-a-proper-ranking-popularity-system
 
 
-###################################### ombulabs ####################################################
+###################################### Ombulabs ####################################################
 http://www.ombulabs.com/blog/ruby/performance/using-bumbler-to-reduce-runtime-dependencies.html
 http://www.ombulabs.com/blog/ruby/imap/a-comprehensive-guide-to-interacting-with-imap-using-ruby.html
 http://www.ombulabs.com/blog/rspec/ruby/spy-vs-double-vs-instance-double.html
 http://www.ombulabs.com/blog/performance/rails/writing-fast-rails.html
+
+
+###################################### Carbonfive ####################################################
+http://blog.carbonfive.com/2016/07/06/rails-meet-phoenix-add-phoenix-to-your-rails-ecosystem-with-session-sharing/
+http://blog.carbonfive.com/2016/11/01/bring-clarity-to-your-monolith-with-bounded-contexts/
+http://blog.carbonfive.com/2016/10/04/ubiquitous-language-the-joy-of-naming/
+http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/
+
+
+###################################### Appsignal ####################################################
+http://blog.appsignal.com/blog/2016/03/17/ruby-magic-mastering-concurrency.html
+http://blog.appsignal.com/blog/2016/08/23/how-to-tame-your-growing-users-table.html
+http://blog.appsignal.com/blog/2016/09/27/git-rebasing-strategies.html
+http://blog.appsignal.com/blog/2016/10/18/ruby-magic-exceptions-primer.html
+http://blog.appsignal.com/2016/11/23/ruby-magic-building-a-30-line-http-server-in-ruby.html
