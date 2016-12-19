@@ -84,9 +84,20 @@ https://medium.com/rocknnull/no-more-value-classes-boilerplate-the-power-of-auto
 https://medium.com/startup-grind/bye-bye-burger-5bd963806015#.b07am7glx
 https://medium.com/inloop/android-process-kill-and-the-big-implications-for-your-app-1ecbed4921cb#.bln502zej
 https://medium.com/uptech-team/audio-not-playing-in-android-cde9a0fdfafd#.u28hha318
+https://medium.com/uptech-team/how-to-create-beautiful-text-stickers-for-android-10eeea0cee09#.kicqzas6z
 https://medium.com/@vergauwen.simon/400-faster-layouts-with-anko-da17f32c45dd#.2ntjosglv
 https://medium.com/upday-devs/mvvm-rxjava-learnings-1819423f9592#.pnumsq4m3
 https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.8uvrfmsph
+https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.17gdrgevn
+https://medium.com/@sahildave/product-flavors-for-android-library-d3b2d240fca2#.roznlmqzo
+https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.lh52s0em6
+https://medium.com/inloop/adventures-with-fragmentstatepageradapter-4f56a643f8e0#.q38p3zkav
+https://medium.com/@fabioCollini/testing-asynchronous-rxjava-code-using-mockito-8ad831a16877#.ycvq0zmuf
+https://medium.com/@p.tournaris/android-improving-sign-in-experience-with-google-sign-in-and-smartlock-f0bfd789602a#.fc8ufrhqp
+https://medium.com/@cesarmcferreira/mastering-the-terminal-side-of-android-development-e7520466c521#.6xconzull
+https://medium.com/azimolabs/managing-android-virtual-devices-during-test-session-98a403acffc2#.csa0nl2mm
+https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013#.amcgnvcs0
+https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.tij2rn1x5
 
 
 ######################################## Android Developers Blog ##############################################
@@ -141,6 +152,10 @@ https://medium.com/di-101/di-101-part-1-81896c2858a0#.emi75yih5
 https://developers.google.com/vision/face-detection-concepts
 https://design.google.com/articles/design-is-never-done/
 https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83#.t84oo9m9q
+https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.dnqogqbvi
+https://medium.com/google-developer-experts/weakreference-in-android-dd1e66b9be9d#.ckcokshex
+https://medium.com/google-developers/making-the-most-of-the-apk-analyzer-c066cb871ea2#.gb59iikxk
+https://medium.com/google-developer-experts/diving-deeper-into-the-java-transient-modifier-3b16eff68f42#.dewupkib2
 
 
 ######################################## Tutsplus ##############################################
@@ -151,6 +166,7 @@ http://code.tutsplus.com/tutorials/android-from-scratch-understanding-views-and-
 http://code.tutsplus.com/tutorials/android-from-scratch-background-operations--cms-26810
 https://code.tutsplus.com/tutorials/google-play-services-google-cast-v3-and-media--cms-26893
 https://code.tutsplus.com/tutorials/background-audio-in-android-with-mediasessioncompat--cms-27030
+https://code.tutsplus.com/tutorials/getting-started-with-retrofit-2--cms-27792
 
 
 ######################################## UXPlanet ##############################################
@@ -211,6 +227,8 @@ https://blog.stylingandroid.com/constraintlayout-chains-spread-chains/
 https://blog.stylingandroid.com/constraintlayout-chains-part-2/
 https://blog.stylingandroid.com/vectordrawable-png/
 https://blog.stylingandroid.com/bottomnavigationview/
+https://blog.stylingandroid.com/downloadmanager-part-3/
+https://blog.stylingandroid.com/fileprovider/
 
 
 ######################################## Nimbledroid ##############################################
@@ -266,7 +284,7 @@ https://riggaroo.co.za/introduction-android-testing-part3/
 https://riggaroo.co.za/introduction-android-testing-part-4/
 https://riggaroo.co.za/introduction-automated-android-testing-part-5/
 https://riggaroo.co.za/introduction-automated-android-testing-part-6/
-
+https://riggaroo.co.za/stage-rollout-features-firebase-remote-config-ios-android/
 
 
 ######################################## Philisophical Hacker ##############################################
@@ -274,7 +292,7 @@ http://www.philosophicalhacker.com/post/psa-dont-use-esprsso-idling-resources-li
 http://www.philosophicalhacker.com/post/vice-a-regression-test-generation-library/
 http://www.philosophicalhacker.com/post/an-espresso-test-recorder-deep-dive/
 http://www.philosophicalhacker.com/post/why-dont-we-have-a-unit-test-recorder/
-
+http://www.philosophicalhacker.com/post/what-makes-android-apps-testable/
 
 
 ######################################## Jeroen Mols ##############################################
@@ -282,3 +300,11 @@ http://jeroenmols.com/blog/2016/05/06/methodcount/
 http://jeroenmols.com/blog/2016/02/05/wagongit/
 http://jeroenmols.com/blog/2016/09/01/coveragecost/
 http://jeroenmols.com/blog/2016/10/31/mockitomatchers/
+
+
+######################################## Novada ##############################################
+https://www.novoda.com/blog/better-class-naming/
+https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
+https://www.novoda.com/blog/new-jenkins-pipelines/
+https://www.novoda.com/blog/designing-something-solid/
+https://www.novoda.com/blog/layout-preview-101/
