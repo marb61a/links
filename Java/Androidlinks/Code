@@ -112,4 +112,22 @@ https://github.com/firebase/FirebaseUI-Android - UI bindings for Firebase
 https://github.com/yongjhih/android-proguards - AAR proguards
 https://github.com/Arello-Mobile/Moxy - Moxy is MVP library for Android
 https://github.com/isuPatches/WiseFy - Wrapper around WifiManager and ConnectivityManager for Android
+https://github.com/facebookincubator/TextLayoutBuilder - An Android library that allows you to build text layouts more easily
+https://github.com/facebookincubator/Keyframes - A library for converting Adobe AE shape based animations to a data format
+https://github.com/Tencent/tinker - a hot-fix solution library for Android
+https://github.com/Stocard/KeepActivitiesTile - A quick settings tile to quickly toggle
+https://github.com/race604/WaveLoading - A wave-like loading drawable
+https://github.com/eschao/android-PageFlip - 3D Style Page Flip on Android
+https://github.com/hypertrack/smart-scheduler-android - utility library for scheduling periodic and non-periodic jobs efficiently
+https://github.com/square/coordinators - Simple MVWhatever for Android
+https://github.com/airbnb/epoxy - an Android library for building complex screens in a RecyclerView
+https://github.com/material-components - Modular and customizable Material Design UI components
+https://github.com/kickstarter/android-oss - Kickstarter for Android. Bring new ideas to life, anywhere
+https://github.com/amitshekhariitbhu/Android-Debug-Database -  library for debugging android databases and shared preferences
+https://github.com/thoughtbot/stencil - animating the path created from text
+https://github.com/charbgr/AuthManager - Google Sign-In and SmartLock Manager
+https://github.com/FolioReader/FolioReader-Android - A Java ePub reader and parser framework for Android.
+https://github.com/bufferapp/BufferTextInputLayout - customised version of the TextInputLayout from the Android Design Support Library
+https://github.com/arieridwan8/pageloader - Simple android library for loading page with easy customization
+https://github.com/wonderkiln/blurkit-android - The missing Android blurring library.
 
