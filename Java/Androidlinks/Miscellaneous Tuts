@@ -31,9 +31,6 @@ http://blog.alexsimo.com/delightful-persistence-android/
 https://robots.thoughtbot.com/accessibility-testing-on-android
 https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide
 https://robots.thoughtbot.com/introducing-expandablerecyclerview
-https://www.novoda.com/blog/better-class-naming/
-https://www.novoda.com/blog/new-jenkins-pipelines/
-https://www.novoda.com/blog/designing-something-solid/
 https://tir38.com/archives/1423
 https://lambdasoup.com/post/automate_screenshots_1/
 https://developer.android.com/wear/preview/features/notifications.html
@@ -41,7 +38,6 @@ http://saulmm.github.io/the-powerful-android-studio
 http://saulmm.github.io/vcs-android-studio
 http://blog.danlew.net/2016/06/13/multicasting-in-rxjava/
 http://www.developerphil.com/no-you-can-not-override-the-home-button-but-you-dont-have-to/
-https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
 http://blog.alexsimo.com/clean-java-immutability/
 https://labs.ribot.co.uk/exploring-buy-with-android-pay-4c8822c86133#.5054m2uw2
 http://www.grokkingandroid.com/thoughts-on-constraintlayout-and-design-editor/
@@ -67,6 +63,8 @@ http://mayojava.github.io/android/android-support-annotations/
 https://caster.io/lessons/espresso-idling-resource-introduction/
 https://android.jlelse.eu/android-accessibility-75fdc5810025#.95c8sw3px
 https://android.jlelse.eu/inject-interfaces-without-providing-in-dagger-2-618cce9b1e29#.ay1ipqoax
+https://android.jlelse.eu/writing-custom-lint-rules-and-integrating-them-with-android-studio-inspections-or-carefulnow-c54d72f00d30#.5tlev9wfo
+https://android.jlelse.eu/getting-started-with-android-things-b73be3295b42#.rxl4tdo75
 http://nerds.headout.com/fix-horizontal-scrolling-in-your-android-app/
 http://bytes.schibsted.com/dealing-65k-methods-limit-android/
 http://crushingcode.co/update-dependencies-code-repeat/
@@ -82,6 +80,8 @@ https://upday.github.io/blog/reactive_frustrations_1/
 http://saulmm.github.io/vcs-android-studio
 https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-1-face-detection-e7e24a3e472f#.sf6prlhpg
 https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-2-barcode-detection-61e84c858518#.bib6ow758
+https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.2sxanof0h
+https://hackernoon.com/rxrecipes-wrap-your-way-to-rx-fd40eb5254b6#.tiqoaovhb
 https://yarikx.github.io/Reductor-introduction/
 https://yarikx.github.io/Reductor-composition/?
 https://blog.egorand.me/understanding-test-rules/
@@ -90,3 +90,10 @@ http://pguardiola.com/blog/darealfragmentation-sensors/
 https://stfalcon.com/en/blog/post/simple-unit-tests-for-android
 http://www.adavis.info/2016/11/background-work-with-android-job-and.html
 https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329#.dsmby6au5
+https://inthecheesefactory.com/blog/how-to-share-access-to-file-with-fileprovider-on-android-nougat/
+https://zeroturnaround.com/rebellabs/using-build-cache-in-android-studio-makes-gradle-build-faster/
+http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html
+https://blog.hypertrack.io/2016/12/01/scheduling-tasks-in-android-made-easy/
+http://www.survivingwithandroid.com/2016/09/android-firebase-push-notification.html
+http://www.andevcon.com/news/rxify-the-anti-cache-then-network-or-network-then-cache-problem
+https://www.androidsecurity.info/2016/12/15/storing-your-secure-information-in-the-ndk/
