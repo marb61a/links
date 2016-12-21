@@ -51,6 +51,7 @@ http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/
 http://eli.thegreenplace.net/2016/comparing-types-in-python-3/
 http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch-part-2/
 http://eli.thegreenplace.net/2016/drawing-animated-gifs-with-matplotlib/
+http://eli.thegreenplace.net/2016/basics-of-using-the-readline-library/
 
 
 ####################################### Scraping Hub ###########################################################
@@ -59,11 +60,13 @@ https://blog.scrapinghub.com/2016/03/23/scrapy-tips-from-the-pros-march-2016-edi
 https://blog.scrapinghub.com/2016/05/18/scrapy-tips-from-the-pros-may-2016-edition/
 https://blog.scrapinghub.com/2016/07/20/scrapy-tips-from-the-pros-july-2016/
 
+
 ####################################### Daniel Bader ###########################################################
 https://dbader.org/blog/catching-bogus-python-asserts
 https://dbader.org/blog/python-min-max-and-nested-lists
 https://dbader.org/blog/live-python-code-review
 https://dbader.org/blog/python-code-review-unplugged-episode-2
+https://dbader.org/blog/python-code-linting
 
 
 ####################################### Dataquest ###########################################################
@@ -107,6 +110,7 @@ https://www.oreilly.com/ideas/how-to-get-superior-text-processing-in-python-with
 https://semaphoreci.com/community/tutorials/getting-started-with-behavior-testing-in-python-with-behave
 https://semaphoreci.com/community/tutorials/testing-python-requests-with-betamax
 https://semaphoreci.com/community/tutorials/mocks-and-monkeypatching-in-python
+https://semaphoreci.com/community/tutorials/building-and-testing-an-api-wrapper-in-python
 
 
 ####################################### VKinght ###########################################################
@@ -131,4 +135,17 @@ https://ruslanspivak.com/lsbasi-part8/
 https://ruslanspivak.com/lsbasi-part9/
 https://ruslanspivak.com/lsbasi-part10/
 https://ruslanspivak.com/lsbasi-part11/
-  
+
+
+####################################### Real Python ###########################################################
+https://realpython.com/blog/python/python-virtual-environments-a-primer/
+https://realpython.com/blog/python/testing-third-party-apis-with-mock-servers/
+https://realpython.com/blog/python/pygame-a-primer/
+https://realpython.com/blog/python/introduction-to-mongodb-and-python/
+
+
+####################################### Hackernoon ###########################################################
+https://hackernoon.com/asynchronous-python-45df84b82434#.rzdzat54f
+https://hackernoon.com/timing-tests-in-python-for-fun-and-profit-1663144571#.pcbcoc88w
+https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32#.1elevmbpq
+https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e#.ylspk9yp4
