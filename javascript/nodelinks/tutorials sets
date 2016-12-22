@@ -29,6 +29,7 @@ https://www.sitepoint.com/remote-control-mac-node-js-arduino/
 https://www.sitepoint.com/music-streaming-app-electron-react-es6/
 https://www.sitepoint.com/search-engine-node-elasticsearch/
 https://www.sitepoint.com/10-npm-tips-and-tricks/
+https://www.sitepoint.com/getting-started-node-js-aws-lambda/
 
 
 ######################################## Scotch.io ##############################################
@@ -43,6 +44,7 @@ https://scotch.io/tutorials/server-side-web-components-how-and-why
 https://scotch.io/tutorials/building-and-securing-a-modern-backend-api
 https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
 https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js
+https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize
 
 
 ######################################## Medium ##############################################
@@ -86,6 +88,8 @@ https://medium.com/trisfera/deploying-an-express-application-to-aws-lambda-the-e
 https://medium.com/google-cloud/upload-images-to-google-cloud-storage-with-react-native-and-expressjs-61b8874abc49#.86hashndi
 https://medium.com/the-founders-blog/scaling-slack-events-in-node-c5b0a54a55a6#.8y06ptoa9
 https://medium.com/node-security/what-are-the-bots-up-to-on-npm-4ab1aea034b#.czhw00jom
+https://medium.com/@ryyppy/shipping-flowtype-definitions-in-npm-packages-c987917efb65#.xtyyx3k00
+https://medium.com/@anaptfox/getting-started-with-amazon-polly-using-node-js-345e84dbd23d#.fw7d5vb27
 
 
 ######################################## Risingstack ##############################################
@@ -124,6 +128,8 @@ https://community.risingstack.com/using-buffers-node-js-c-plus-plus/
 https://blog.risingstack.com/history-of-node-js/
 https://community.risingstack.com/building-microservices-stonemason-generating-microservice-stubs/
 https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/
+https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/
+https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
 
 
 ######################################## Tutsplus ##############################################
@@ -214,11 +220,14 @@ https://hackernoon.com/using-yarn-with-docker-c116ad289d56#.e7i0ji7zm
 https://hackernoon.com/publishing-react-components-to-npm-experiments-with-firenpm-c3a1aac3f408#.evllv66q9
 https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.u2h3hjbeu
 https://hackernoon.com/running-nodejs-on-linux-on-windows-88bd12993bae#.thtxoshy9
+https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08#.9lv5yy5lj
 
 
-######################################## Distelli ##############################################
-https://www.distelli.com/docs/tutorials/automated-mocha-tests-for-node
-https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
+######################################## Thisdavej ##############################################
+http://thisdavej.com/getting-started-with-yaml-in-node-js-using-js-yaml/
+http://thisdavej.com/creating-node-js-microservices-with-ease-using-stdlib/
+http://thisdavej.com/consuming-node-js-microservices-created-with-stdlib/
+http://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/
 
 
 ######################################## Semaphoreci ##############################################
@@ -248,6 +257,8 @@ http://blog.npmjs.org/post/130644130685/how-to-email-daily-gifs-use-nodemailer-w
 http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy
 http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability
 http://blog.npmjs.org/post/145260155635/introducing-hooks-get-notifications-of-npm
+http://blog.npmjs.org/post/153186129005/zero-one-infinity-readmes
+
 
 
 ######################################## YLD ##############################################
