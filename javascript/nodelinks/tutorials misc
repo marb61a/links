@@ -143,6 +143,8 @@ https://blog.codeship.com/running-node-js-linux-systemd/
 http://nerds.intuo.io/2016/07/06/setup-cucumberjs-webdriverio-and-chai-js.html
 https://dzone.com/articles/testing-http-apis-with-supertest
 http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/
+https://www.distelli.com/docs/tutorials/automated-mocha-tests-for-node
+https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
 https://github.com/blog/2231-building-your-first-atom-plugin
 https://gist.github.com/joepie91/4c3a10629a4263a522e3bc4839a28c83 - Promises FAQ
 https://askmacgyver.com/blog/tutorial/how-to-manage-your-node-servers-using-forever
@@ -164,8 +166,6 @@ http://blog.derhess.de/2016/06/12/use-your-raspberry-pi-as-your-local-nodejs-web
 http://hecodes.com/2016/09/building-serverless-mesh-processing-microservice-node-js/
 http://hecodes.com/2016/10/better-testing-microservices-using-consumer-driven-contracts-node-js/
 http://www.codingdefined.com/2016/09/getting-started-with-rethinkdb-in-nodejs.html
-http://thisdavej.com/getting-started-with-yaml-in-node-js-using-js-yaml/
-http://thisdavej.com/creating-node-js-microservices-with-ease-using-stdlib/
 https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools
 http://fiznool.com/blog/2016/10/01/running-a-node-dot-js-app-in-a-low-memory-environment/
 http://webagility.com/posts/purplejs-the-alternative-to-node.js-for-java-projects
@@ -192,4 +192,12 @@ https://www.londonappdeveloper.com/how-to-build-a-websocket-multi-client-chat-us
 http://stackparse.posthaven.com/exposing-node-dot-js-process-metrics-using-pm2-and-pmx
 http://www.theodo.fr/blog/2016/11/getting-started-with-the-physical-web-part-1/
 https://www.compose.com/articles/getting-started-with-elasticsearch-and-node/
+https://www.compose.com/articles/power-prototyping-with-mongodb-and-node-red-2/
+https://www.future-processing.pl/blog/a-curious-case-of-memory-leak-in-a-node-js-app/
+https://blog.pusher.com/how-to-build-a-realtime-activity-feed-with-react-and-pusher/
+https://remysharp.com/2016/12/06/auto-detect-node-version-in-npm-start
+https://yarnpkg.com/blog/2016/11/24/lockfiles-for-all
+http://cs.mcgill.ca/~mxia3/2016/11/18/Statically-typed-PostgreSQL-queries-and-typescript-schemats/
+https://lethalbrains.com/integrating-jenkins-with-github-node-js-and-slack-e8fc4d2271b5#.igj3bhl83
+http://unframework.com/wrapping-facebook-messenger-stream-api/
 
