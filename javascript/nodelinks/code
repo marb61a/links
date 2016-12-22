@@ -20,7 +20,9 @@ https://github.com/edenspiekermann/sprite.sh - A Bash script to build a SVG spri
 https://github.com/quorrajs/NodeSession - Session handling for NodeJS
 https://github.com/hit9/ntt - Node Tiny Tests module
 https://github.com/Bottr-js/Bottr - The world's simplest framework for creating Bots
-https://github.com/gflandre/mongo-aggregation-debugger
+https://github.com/cmake-js/fastcall - Fast, dyncall based foreign function interface library for Node.js
+https://github.com/raksoras/koroutine - Small, lightweight coroutine scheduler for node.js based on ES6 generators
+https://github.com/gflandre/mongo-aggregation-debugger - Debug MongoDb's aggregation framework
 https://github.com/s-a/iso-8583 - A native Node module to process ISO 8583 Financial transaction card originated messages
 https://github.com/SBoudrias/Inquirer.js - A collection of common interactive command line user interfaces.
 https://github.com/mafintosh/unordered-array-remove - Efficiently remove an element from an unordered array without doing a splice
@@ -285,3 +287,20 @@ https://github.com/keithwhor/cmnd - Command Line Interface Utility for Node.js u
 https://github.com/rjmacarthy/express-typescript-starter - An Express.js project implemented using Typescript with strongly typed objects
 https://github.com/lerna/lerna/ - A tool for managing JavaScript projects with multiple packages
 https://github.com/sachinchoolur/lightgallery-desktop - A modern, electron and nodejs based image viewer for Mac, Windows and Linux
+https://github.com/wellsjo/JSON-Splora - GUI for editing, visualizing, and manipulating JSON data
+https://github.com/surma/streaming-dot - doT-based streaming templating engine for Node and the web
+https://github.com/720kb/ndm - npm desktop manager
+https://github.com/ForestAdmin/lumber - The Admin Interface Framework
+https://github.com/hemerajs/hemera - A Node.js microservices toolkit for NATS
+https://github.com/uWebSockets/uWebSockets - Highly scalable cross-platform WebSocket & HTTP library for C++11 and Node.js
+https://github.com/benas/ssed - push STDIN messages as Server Sent Events
+https://github.com/anywhichway/reasondb - A 100% native JavaScript automatically synchronizing object database
+https://github.com/poly/stdlib - A Standard Library for Microservices
+https://github.com/gamestdio/colyseus - Multiplayer Game Server for Node.js.
+https://github.com/mongolass/mongolass - Elegant MongoDB driver for Node.js.
+https://github.com/JBlaak/Express-Torch - Expressive and maintainable routes for Express.js
+https://github.com/CapacitorSet/rebridge - A transparent Javascript interface to Redis
+https://github.com/date-fns/date-fns - Modern JavaScript date utility library
+https://github.com/facundoolano/redis-lru - Redis-backed LRU cache for Node.js
+https://github.com/typeorm/typeorm - Data-Mapper ORM for TypeScript and JavaScript
+https://github.com/zeit/hyper - A terminal built on web technologies
