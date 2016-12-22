@@ -1,7 +1,9 @@
                                      DJANGO TUTORIALS
                                           
-######################################## Sitepoint ##############################################
-http://www.sitepoint.com/deploying-a-django-app-with-mod_wsgi-on-ubuntu-14-04/
+######################################## Machinalis ##############################################
+http://www.machinalis.com/blog/introduction-to-django-channels/
+http://www.machinalis.com/blog/ocr-with-django/
+http://www.machinalis.com/blog/watermarking-images-django/
 
 
 ######################################## Medium ##############################################
@@ -17,6 +19,11 @@ https://medium.com/@thorgate/one-page-websites-with-django-cms-52046e89d22f#.ovd
 https://medium.com/wdstack/django-crispy-forms-what-are-they-about-5bfa1ffa5187#.ca1kp6kjr
 https://medium.com/@hansjhoffman/0-custom-django-1-9-email-authentication-backend-a312ad71b304#.bfg5xb2ac
 https://medium.com/@hakibenita/things-you-must-know-about-django-admin-as-your-app-gets-bigger-6be0b0ee9614#.aekljxvpk
+https://medium.com/@kitsunde/checking-that-django-has-all-migrations-55a1c23c3a59#.gke0rvqch
+https://medium.com/@hakibenita/how-to-add-custom-action-buttons-to-django-admin-8d266f5b0d41#.p6v520tft
+https://medium.com/@mwhitt.w/restful-error-messages-with-django-537047892dff#.wvilykg7v
+https://medium.com/@jbg_/server-side-cursors-in-django-90508255405e#.in5bdqnri
+https://medium.com/@adriennedomingus/working-with-urls-in-python-django-81192e4115c9#.foit3p9ig
 
 
 ######################################## James Cooke ##############################################
@@ -32,6 +39,10 @@ https://simpleisbetterthancomplex.com/tutorial/2016/10/04/how-to-use-django-flat
 https://simpleisbetterthancomplex.com/tutorial/2016/07/18/how-to-create-a-custom-django-middleware.html
 https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
 https://simpleisbetterthancomplex.com/tips/2016/09/27/django-tip-15-cbv-mixins.html
+https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html
+https://simpleisbetterthancomplex.com/tips/2016/11/01/django-tip-19-protecting-sensitive-information.html
+https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
+https://simpleisbetterthancomplex.com/tutorial/2016/11/23/how-to-add-user-profile-to-django-admin.html
 
 
 ######################################## Algotech ##############################################
@@ -47,8 +58,6 @@ https://qbox.io/blog/elasticsearch-python-django-frontend-queries
 ######################################## Miscellaneous ##############################################
 http://getblimp.github.io/django-rest-framework-jwt/
 https://micropyramid.com/blog/integration-of-linkedin-api-in-python-django/
-http://www.machinalis.com/blog/introduction-to-django-channels/
-http://www.machinalis.com/blog/ocr-with-django/
 http://mmorejon.github.io/en/blog/deployment-diagram-docker-django/
 https://scotch.io/tutorials/build-your-first-python-and-django-application
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
@@ -69,11 +78,14 @@ http://www.aeracode.org/2016/6/16/philosophy-channels/
 http://reinout.vanrees.org/weblog/2016/06/30/djangorecipe-test-coverage.html
 https://blog.modeanalytics.com/measure-customer-service-with-python/
 http://hirelofty.com/blog/6-tips-you-should-use-when-kicking-django-project/
+http://hirelofty.com/blog/auto-generate-swagger-docs-your-django-api/
 https://www.stavros.io/posts/how-deploy-django-docker/
 https://blog.bitlabstudio.com/from-single-server-to-cloud-c6d4d0e957a#.gel4pks26
 https://softwaremaking.quora.com/Get-Django-Ready
 http://nerd.kelseyinnis.com/blog/2016/05/30/python-django-security-on-a-shoestring-resources/
 http://www.vinta.com.br/blog/2016/database-concurrency-in-django-the-right-way/
+http://www.vinta.com.br/blog/2016/controlling-access-a-django-permission-apps-comparison/
+http://www.vinta.com.br/blog/2016/metaprogramming-and-django-using-decorators/
 https://oddbit.se/deploying-django-to-google-app-engine-with-gitlab-ci-541c0dc67a12#.337q0jhyw
 http://masnun.rocks/2016/09/25/introduction-to-django-channels/
 https://samoylov.tech/2016/09/29/deploying-django-with-fabric/
@@ -92,4 +104,15 @@ https://tldlife.com/using-s3-for-django-media-files-a8bd4b582b98#.gbgijkru0
 http://www.dreisbach.us/blog/building-dashboards-with-django-and-d3/
 https://worthwhile.com/blog/2016/07/11/django-page-load-speed/
 https://chatbotsmagazine.com/slack-bot-with-a-django-backend-101-tutorial-c1aa8ea3f15e#.s4ata96kg
-http://www.vinta.com.br/blog/2016/controlling-access-a-django-permission-apps-comparison/
+https://geekchick77.dreamwidth.org/5560.html
+https://blog.bitlabstudio.com/a-guide-for-using-braintree-in-django-53e99d677f71#.98eo7hkla
+https://www.webforefront.com/django/
+https://code.kiwi.com/how-to-find-a-silent-bug-b9245d70332e#.4mzjy7nfm
+https://tutorial.djangogirls.org/en/
+http://lukeplant.me.uk/blog/posts/avoid-django-genericforeignkey/
+https://www.davidfozo.com/blog/command-line-tricks-for-ridiculously-fast-django-development/
+https://www.davidfozo.com/blog/a-primer-to-django-forms/
+https://www.vlent.nl/weblog/2016/11/16/how-does-the-django-cross-site-request-forgery-protection-work/
+https://blog.mirumee.com/django-fast-part-1-8d068a1b14bc#.tn1i18nrb
+https://blog.mirumee.com/django-fast-part-2-d73a4ecd61f3#.63pntwssq
+
