@@ -8,6 +8,7 @@
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t - DjangoCon 2015 (US)
 https://skillsmatter.com/skillscasts/9137-full-clean-factories - Full clean factories
 https://www.youtube.com/watch?v=3UC1MNFOjEI - Comparing Wagtail, Django CMS and Mezzanine
+https://www.youtube.com/channel/UC9T1dhIlL_8Va9DxvKRowBw/videos - Django Under The Hood
   
   
 ###CODE
@@ -53,6 +54,23 @@ https://github.com/barseghyanartur/django-fobi - Form generator/builder applicat
 https://github.com/taigaio/taiga-back - Project management web application with scrum in mind
 https://github.com/jsocol/django-ratelimit - Cache-based rate-limiting for Django
 https://github.com/django-salesforce/django-salesforce - Salesforce integration for Django's ORM using the SF REST API
+https://github.com/logandk/serverless-wsgi - Serverless plugin to deploy WSGI applications
+https://github.com/umutcoskun/vim-mule -  Django productivity plugin for VIM
+https://github.com/caktus/django-jsx - A simply tool for using Django and React/JSX together
+https://github.com/koslibpro/django-traffic - Django middleware that helps visualize your app's traffic in Kibana
+https://github.com/groveco/django-sql-explorer - Easily share data across your company via SQL queries
+https://github.com/elky/django-flat-responsive - An extension for Django admin that makes interface mobile friendly
+https://github.com/llazzaro/django-scheduler - A calendar app for Django
+https://github.com/PaesslerAG/django-performance-testing - Performance testing for Django through your automated tests!
+https://github.com/amitassaraf/angular2-django-boilerplate - An Angular2 & Django boilerplate
+https://github.com/luminousmen/reset_migrations - Clean up Django migrations with just one press
+https://github.com/stevenrouk/heroku-django - An instant script for creating a Django environment and deploying it to Heroku
+https://github.com/albertoconnor/asyncdemo - Demo code for Async Task with Django Channels
+https://github.com/arteria/djangocms-inline-comment - Plugin for django CMS
+https://github.com/APSL/kaneda - Configurable Python library for metrics and events reporting
+https://github.com/avinassh/della - Della is a Django app for managing Secret Santa/Gift Exchange.
+https://github.com/WoHinDu/django-heroku-skeleton - A modern Django 1.10+ skeleton. Works perfectly with Heroku
+https://github.com/akshaysharma096/ujson_drf - JSON Renderer and Parser for Django Rest Framework
 
   
 ###LINKS
