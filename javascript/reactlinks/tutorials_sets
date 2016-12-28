@@ -34,9 +34,13 @@ https://blog.risingstack.com/react-js-best-practices-for-2016/
 https://blog.risingstack.com/handling-react-forms-with-mobx-observables/
 
 
-###################################### Codementor ################################################################## 
-https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
-https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app
+###################################### ISquaredSoftware ################################################################## 
+http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/
+http://blog.isquaredsoftware.com/2016/10/practical-redux-part-1-redux-orm-basics/
+http://blog.isquaredsoftware.com/2016/10/practical-redux-part-2-redux-orm-concepts-and-techniques/
+http://blog.isquaredsoftware.com/2016/11/practical-redux-part-3-project-planning-and-setup/
+http://blog.isquaredsoftware.com/2016/11/practical-redux-part-4-ui-layout-and-project-structure/
+http://blog.isquaredsoftware.com/2016/12/practical-redux-part-5-loading-and-displaying-data/
 
 
 ###################################### Medium ##################################################################
@@ -111,6 +115,11 @@ https://medium.com/@taion/react-routing-and-data-fetching-ec519428135c#.baygdd4e
 https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776#.n9m06wwm7
 https://medium.com/@pioul/modular-css-with-react-61638ae9ea3e#.l593hvjrd
 https://medium.com/@mustwin/responsive-react-9b56d63c4edc#.27azug93w
+https://medium.com/@jolyon_russ/11-lessons-learned-as-a-react-contractor-f515cd0491cf#.j4ounopka
+https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0#.5ewq7sjie
+https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a#.7nhh23a9w
+https://medium.com/myntra-engineering/updating-apps-on-the-fly-aab40c26fac2#.d2s75zpkp
+https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.m3styxd6q
 
 
 ###################################### Raja Rao ##################################################################
@@ -138,6 +147,7 @@ https://hackernoon.com/introducing-react-axiom-84bf37a50adb#.vp90g55kp
 https://hackernoon.com/building-d3-components-with-react-7510e4743288#.j00oxmn2k
 https://hackernoon.com/math-the-react-js-way-49ece7b6471f#.jhwru76vu
 https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.o5hblnm40
+https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.41zb47vtq
 
 
 ###################################### Freecodecamp ##################################################################
@@ -147,6 +157,8 @@ https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.ay6
 https://medium.freecodecamp.com/seo-vs-react-is-it-neccessary-to-render-react-pages-in-the-backend-74ce5015c0c9#.6ifzyil8p
 https://medium.com/@paulwithap/the-most-important-eslint-rule-for-redux-applications-c10f6aeff61d#.2sjen1dy9
 https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1#.zi8xjehdv
+https://medium.freecodecamp.com/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468#.edxmt5u5m
+https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1#.spzb8m9nt
 
 
 ###################################### Javascript Inside ##################################################################
@@ -196,4 +208,11 @@ https://daveceddia.com/ajax-requests-in-react/
 https://daveceddia.com/visual-guide-to-state-in-react/
 https://daveceddia.com/how-to-learn-react/
 https://daveceddia.com/what-to-test-in-react-app/
+https://daveceddia.com/what-is-a-thunk/
 
+
+###################################### Stormpath ##################################################################
+https://stormpath.com/blog/react-sdk-custom-forms/
+https://stormpath.com/blog/build-a-redux-powered-react-application/
+https://stormpath.com/blog/react-facebook-login
+https://stormpath.com/blog/crud-application-react-spring-boot-user-authentication
