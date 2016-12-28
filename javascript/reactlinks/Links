@@ -31,6 +31,8 @@ https://www.youtube.com/watch?v=dV8K6fsjDCQ - Netflix JavaScript Talks - React &
 https://www.youtube.com/watch?v=tfuZ7uZmVyg - ReactJS / Redux Tutorial - #7 Connect ReactJS and Redux
 https://www.youtube.com/watch?v=aV1271hd9ew - What's Next for React — ReactNext 2016
 https://www.youtube.com/watch?v=_70Yp8KPXH8 - Component Based Style Reuse
+https://www.youtube.com/watch?v=19gqsBc_Cx0 - Styling React.JS applications
+https://www.youtube.com/watch?v=xRoYf-QgHpc - How to write your first React component
 
 
 ##Playlists & Channels
@@ -45,6 +47,9 @@ https://www.youtube.com/watch?v=WE3XAt9P8Ek - ReactCasts #2 - Function as Child 
 https://www.youtube.com/watch?v=DJ53-G8EbxE - ReactCasts #3 - React's Children API
 https://www.youtube.com/watch?v=lxq938kqIss - ReactCasts #4 - Context (Part 1)
 https://www.youtube.com/watch?v=mwYHDXS6uSc - ReactCasts #5 - Context (Part 2)
+https://www.youtube.com/watch?v=T-qtHI1qHIg - ReactCasts #6 - Redux Middleware
+https://www.youtube.com/watch?v=f-ctxG2qEps - ReactCasts #7 - Hot Module Replacement in Create-React-App
+
 
 
 ##Vimeo - 
@@ -52,6 +57,7 @@ https://vimeo.com/album/3930691 - Reverse Engineering React
 https://vimeo.com/album/4199344/video/187454108 - Building Modular Redux Application
 https://vimeo.com/album/4199344/video/187454105 - How to push a ReactJS application in production and sleep better
 https://vimeo.com/album/4199344/video/187454109 - Experiences Using React In A Large Organization
+https://vimeo.com/168648012 - Scaling React.js Applications
 
 
 ##Code -
@@ -176,6 +182,20 @@ https://github.com/WhitestormJS/whitestorm.js - Framework for developing 3D web 
 https://github.com/paularmstrong/mocha-to-jest-codemod - Convert Mochan TDD with Chai assert tests to Jest
 https://github.com/mbasso/react-decoration - A collection of decorators for React Components
 https://github.com/gatsbyjs/gatsby - Transform plain text into dynamic blogs and websites using React.js
+https://github.com/tommikaikkonen/redux-orm - A small, simple and immutable ORM to manage relational data
+https://github.com/MicheleBertoli/react-fix-it - Automagically generate tests from errors
+https://github.com/pburtchaell/react-notification - Snackbar notifications for React
+https://github.com/mlaursen/react-md - React material design
+https://github.com/BosNaufal/react-simple-pwa - Simple Progressive Web App Built with React Js
+https://github.com/luisvinicius167/mockschema - The best way to generate fake data to work with your components.
+https://github.com/weslleyaraujo/react-simon-says - A "Simon Says" game built with React and Redux
+https://github.com/tannerlinsley/react-form - A simple and powerful form builder for React
+https://github.com/FormidableLabs/victory - A collection of composable React components
+https://github.com/palantir/blueprint - A React UI toolkit for the web
+https://github.com/tylermcginnis/react-router-firebase-auth - Example of how to have protected routes with Firebase and React Router.
+https://github.com/tifa2UP/Netly - Linkedin.com clone built using React.js
+https://github.com/reactive-react/react-most - Declarative Monadic Reactive State Container for React
+https://github.com/threepointone/markdown-in-js - inline markdown for react/jsx
 
 
 ## Codepen
