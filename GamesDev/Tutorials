@@ -18,6 +18,7 @@ https://www.smashingmagazine.com/2016/02/simple-augmented-reality-with-opencv-a-
 https://www.smashingmagazine.com/2016/03/procedural-content-generation-introduction/
 https://www.smashingmagazine.com/2016/06/make-music-in-the-browser-with-a-web-audio-theremin/
 https://www.smashingmagazine.com/2016/08/how-to-create-a-responsive-8-bit-drum-machine-using-web-audio-svg-and-multitouch/
+https://www.smashingmagazine.com/2016/11/building-shaders-with-babylon-js/
 
 
 ######################################## Tutsplus ##################################################### 
@@ -33,6 +34,10 @@ https://gamedevelopment.tutsplus.com/articles/using-texture-atlas-in-order-to-op
 https://code.tutsplus.com/tutorials/particles-js-control-particle-count-and-shape--cms-26290
 https://gamedevelopment.tutsplus.com/tutorials/building-a-beat-em-up-in-game-maker-part-1-player-movement-attacks-and-basic-enemies--cms-26147
 https://gamedevelopment.tutsplus.com/tutorials/building-a-beat-em-up-in-game-makercombo-attacks-more-ai-and-health-pickups--cms-26471
+https://code.tutsplus.com/tutorials/how-to-draw-a-pie-chart-and-doughnut-chart-using-javascript-and-html5-canvas--cms-27197
+https://gamedevelopment.tutsplus.com/tutorials/using-displacement-shaders-to-create-an-underwater-effect--cms-27191
+https://gamedevelopment.tutsplus.com/tutorials/redesign-your-display-list-with-spatial-hashes--cms-27586
+https://gamedevelopment.tutsplus.com/tutorials/create-clothing-for-a-character-with-blender--cms-27059
 
 
 ######################################## Firenibbler ##################################################### 
@@ -49,6 +54,8 @@ https://hacks.mozilla.org/2016/06/webfont-preloading-for-html5-games/
 https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Babylon.js
 https://developer.mozilla.org/en-US/docs/Games/Techniques/Control_mechanisms/Desktop_with_mouse_and_keyboard
 https://developer.mozilla.org/en-US/docs/Games/Techniques/Control_mechanisms/Mobile_touch
+https://developer.mozilla.org/en-US/docs/Games/Techniques/Control_mechanisms/Desktop_with_gamepad
+https://developer.mozilla.org/en-US/docs/Games/Techniques/Control_mechanisms/Other
 
 
 ######################################## Gamasutra ##################################################### 
@@ -88,4 +95,9 @@ http://www.mobilezdeveloper.com/construct-2-tutorials-stick-hero/
 http://graphics.cs.williams.edu/courses/cs371/f16/gallery/4-midterm/terrain/report.md.html
 https://developer.tizen.org/community/tip-tech/matter.js-2d-physics-library-tizen
 https://blog.ludei.com/how-to-create-a-game-bot-and-publish-your-html5-games-on-telegram/
-
+https://www.programmingmind.com/phaser/fun-with-spells-using-phaser
+https://www.programmingmind.com/phaser/stop-particles-from-sliding-in-phaser
+https://codepen.io/gregh/post/create-svg-game-coloron
+https://www.dotworldmaker.com/Help/create_a_simple_game.html
+http://lea.verou.me/2016/11/url-rewriting-with-github-pages/
+http://wimi5.com/how-to-create-a-gamebot-in-telegram-with-nodejs/
