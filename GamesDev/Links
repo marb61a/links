@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=MZxzuHY97ug - HTML5 Game Development with Phaser
 https://www.youtube.com/watch?v=vqlWtfriYao - Prototyping With Phaser Game Jam to Release
 https://www.youtube.com/watch?v=H2aW5V46khA - Writing a Tetris game in JavaScript
 https://www.youtube.com/watch?v=5qct-pVJ2O0 - Game Interfaces: How It's Made in Raining Chain
+https://www.youtube.com/watch?v=VuN8qwZoego - Make a JavaScript Drum Kit in Vanilla JS!
+https://www.youtube.com/watch?v=4O61sPaGI50 - SydJS - Genetic Algorithms in JavaScript
+https://www.youtube.com/watch?v=JmwbYl6f11c - How to Survive in Gamedev for Eleven Years Without a Hit
 
   
 ### Courses ###
@@ -47,6 +50,7 @@ https://github.com/MaxArt2501/re-build - Building regular expressions with natur
 https://github.com/VitaZheltyakov/phaser-arcade-circles-plugin - This plugin adds circle-collision to Phaser framework
 https://github.com/spite/ccapture.js - A library to capture canvas-based animations at a fixed framerate
 https://github.com/Flaxis/slick-ui - Lightweight Phaser UI plugin
+https://github.com/kchapelier/procjam2016 - Inund, a short contemplative game for PROCJAM2016
 https://github.com/ajakubo1/CanvasMenu
 https://github.com/orange-games/phaser-input - Adds input boxes to Phaser like CanvasInput
 https://github.com/jin/raytracer - Parallel and animated raytracer running on WebGL/GPU.js
@@ -62,6 +66,7 @@ https://github.com/Makio64/img2dds - Application to convert easily image to dxt 
 https://github.com/markusfisch/web-game-from-scratch-talk - Making games from scratch using vanilla JavaScript
 https://github.com/surikov/webaudiofont - Web Audio Font - Soundfont for Web Audio API
 https://github.com/Firenibbler/HYPERJS - a JavaScript Game engine designed for 2D game development
+https://github.com/michaelrambeau/bestofjs-webui -  A place to find the best components to build amazing web applications
 
 
 ### Codepens ###
@@ -84,6 +89,15 @@ http://codepen.io/tricsi/pen/WxWjAx - WebAudio Music ES6
 http://codepen.io/bali_balo/pen/pEYrvw - Coordination
 http://codepen.io/keithclark/pen/ORjAqZ - Zero Element: Cube
 http://codepen.io/JeffSturgis/pen/GjPpoR - Random SVG Morphing
+http://codepen.io/kevinjannis/pen/Krids - A winter wonderland scene
+http://codepen.io/davidkpiano/pen/kkpGWj - Meshi the CSS Dog
+http://codepen.io/levchenkod/pen/jEMwBb - Holiday Experiment
+http://codepen.io/waisbren89/pen/gwvVpP - Fizzy Sparks
+https://codepen.io/mikun/full/jrRJjq/ - React Memory Game
+http://codepen.io/Zeaklous/pen/mVEwje - Reverse clip path with blend modes
+http://codepen.io/enxaneta/pen/oYMxqe - Animated SVG Turbulence Filter
+http://codepen.io/thepeted/pen/bpovxz - Game of Life (React + Redux)
+
 
   
 ### Links ###
@@ -95,7 +109,11 @@ http://blog.melonjs.org
 https://mythbusters.js.org/ - An optimization handbook from a high level point of view
 https://www.truevalhalla.com/blog/tools - List of tools used to run game dev business
 https://screeps.com/
+https://quickdraw.withgoogle.com/ - Neural network for learning from drawing
+http://www.gamedevtreasure.com/ - The best articles and videos about game development
 https://aframe.io/
+http://www.lostdecadegames.com/lostcast/ - The game development podcast
+http://www.jeffreybiles.com/build-pacman - book about surviving an alien invasion and using web technologies
 http://www.qiciengine.com/
 http://iamthecu.be/
 https://lightsaber.withgoogle.com/
