@@ -12,6 +12,7 @@ http://julienrenaux.fr/2015/08/17/modular-angularjs-and-ionic-architecture-a-fir
 http://www.metaltoad.com/blog/angular-2-http-observables
 http://blog.rangle.io/upgrade-your-application-to-angular-2-with-ng-upgrade/
 http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/
+http://blog.rangle.io/angular-2-ngmodel-and-custom-form-components/
 http://juristr.com/blog/2016/02/debugging-angular2-console/
 http://blog.ng-book.com/introduction-to-redux-with-typescript-and-angular-2/
 http://blog.ng-book.com/the-ultimate-guide-to-forms-in-angular-2/
@@ -38,9 +39,6 @@ http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-an
 http://jasonwatmore.com/post/2016/08/23/angular-2-pagination-example-with-logic-like-google
 http://blog.angular-university.io/angular2-ngmodule/
 https://spin.atomicobject.com/2016/10/03/prototyping-angularjs-google-sheets/
-http://www.gistia.com/angular2testing/
-http://www.gistia.com/getting-started-covalent-angular-2/
-http://www.gistia.com/guide-end-end-testing-angular-2/
 http://www.codelord.net/2016/09/26/animating-transitions-in-2-minutes-with-nganimate-and-css/
 https://johnpapa.net/introducing-angular-modules-feature-modules-2/
 http://houssein.me/angular2-hacker-news
@@ -50,3 +48,18 @@ https://www.lucidchart.com/techblog/2016/11/08/angular-2-and-observables-data-sh
 http://www.business2community.com/brandviews/upwork/common-mistakes-avoid-using-angularjs-framework-01681400
 http://beyondscheme.com/2016/angular2-discussion-portal
 http://www.c-sharpcorner.com/article/using-mvc-6-and-angularjs-2-with-net-core/
+http://blog.brakmic.com/intro-to-angular-2-part-6-serviceworkers/
+http://blog.brakmic.com/introduction-to-angular-2-part-5-webworkers/
+http://www.discoversdk.com/blog/http-in-angular-2
+http://www.discoversdk.com/blog/testing-in-angular-2
+https://www.eduonix.com/blog/web-programming-tutorials/learn-write-angular-2-code-es5/
+https://dzone.com/articles/recipe-for-getting-started-with-spring-boot-and-an
+https://dzone.com/articles/recipe-for-angular-2-in-a-java-ee-environment
+https://dzone.com/articles/simplifying-custom-two-way-data-binding-in-angular
+http://angularfirst.com/your-first-angular-2-asp-net-core-project-in-visual-studio-code-part-1/
+https://blog.nrwl.io/essential-angular-components-and-directives-ab65172ba60#.q24bgj3hp
+https://coryrylan.com/blog/angular-debugging-tips-and-tricks
+http://codewithstyle.info/building-serverless-web-application-angular-2-webtask-firebase/
+https://hackernoon.com/build-an-angularjs-website-in-4-steps-afd2e83abe1#.7q0jxscpo
+https://blogs.msdn.microsoft.com/visualstudio/2016/12/20/create-great-looking-fast-mobile-apps-using-javascript-angular-2-and-ionic-2/
+http://blog.ionic.io/build-a-whatsapp-clone-with-ionic-2-angular-2-and-meteor/
