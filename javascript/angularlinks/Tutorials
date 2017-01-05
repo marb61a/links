@@ -11,8 +11,10 @@ http://www.sitepoint.com/introduction-angularjs-style-guides/
 https://www.sitepoint.com/building-angular-1-5-components/
 
 
-################################################# Thinkful #####################################################
-https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Introduction#Getting-Started-with-AngularJS
+################################################# Stormpath #####################################################
+https://stormpath.com/blog/fullstack-express-angular-stormpath/
+https://stormpath.com/blog/jwt-authentication-angularjs/
+https://stormpath.com/blog/angularjs-spring-boot-tutorial
 
 
 ################################################# Medium ##################################################### 
@@ -99,6 +101,12 @@ http://www.codelord.net/2015/12/03/lazy-loading-your-first-component-in-angular/
 http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/
 http://www.codelord.net/2016/01/14/adding-the-first-angular-2-component-to-your-angular-1-app/
 http://www.codelord.net/2016/06/02/$scope-dot-$watch-and-controlleras/
+http://www.codelord.net/2016/11/23/spotting-outdated-angular-1-dot-x-posts/
+http://www.codelord.net/2016/11/17/avoiding-ng-include-for-elegenace-and-performance/
+http://www.codelord.net/2016/11/30/advanced-angular-1-dot-x-component-communication-with-require/
+http://www.codelord.net/2016/12/06/video-walkthrough-refactoring-angular-components-to-use-require-mechanism/
+http://www.codelord.net/2016/12/20/replacing-angulars-deep-watches-with-the-$docheck-lifecycle-hook/
+http://www.codelord.net/2016/12/13/replacing-$scope-dot-$watch-with-lifecycle-hooks/
 
 
 ################################################# Code Project ##################################################### 
@@ -112,6 +120,7 @@ http://www.codeproject.com/Articles/1094784/angles-of-angularjs-part
 http://www.codeproject.com/Articles/1103321/Custom-Validation-with-AngularJS
 http://www.codeproject.com/Articles/1123309/Configure-Angular-material-with-Require-Js
 http://www.codeproject.com/Articles/1144200/ASP-NET-MVC-Hotel-Booking-System-Using-AngularJS
+https://www.codeproject.com/Articles/1158439/Crud-Operation-using-Angular-JS-and-Web-API
 
 
 ################################################# Dave Ceddia ##################################################### 
@@ -160,9 +169,7 @@ http://www.c-sharpcorner.com/article/currency-filter-in-angular-js/
 http://www.cloudcity.io/blog/2016/03/03/angular-loading-annoyances/
 https://eng.saucelabs.com/blog/building-a-ui-style-guide-with-angularjs-directives
 http://bencentra.com/code/2015/11/16/unit-testing-angularjs.html
-https://stormpath.com/blog/fullstack-express-angular-stormpath/
-https://stormpath.com/blog/jwt-authentication-angularjs/
-https://stormpath.com/blog/angularjs-spring-boot-tutorial
+https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Introduction#Getting-Started-with-AngularJS
 http://anandmanisankar.com/posts/angularjs-best-parts/
 http://thejackalofjavascript.com/node-webkit-webrtc-and-angularjs-a-video-chat-client/
 http://www.w3schools.com/angular/
