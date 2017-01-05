@@ -5,6 +5,7 @@ http://www.sitepoint.com/getting-started-with-angular-2-using-typescript/
 http://www.sitepoint.com/creating-components-angular-2-typescript-es5/
 http://www.sitepoint.com/angular-2-mockbackend/
 https://www.sitepoint.com/chart-component-angular2-fusioncharts/
+https://www.sitepoint.com/angular-2-tutorial/
 
 
 ################################################# Syntax Success ##################################################### 
@@ -18,6 +19,7 @@ http://www.syntaxsuccess.com/viewarticle/dynamic-form-in-angular-2.0
 http://www.syntaxsuccess.com/viewarticle/buffering-with-rxjs-in-angular-2.0
 http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angular-2.0
 http://www.syntaxsuccess.com/viewarticle/optimizing-ngupgrade-bundle-sizes-in-angular-2
+http://www.syntaxsuccess.com/viewarticle/i18n-and-ahead-of-time-compilation-(aot)-in-angular
 
 
 ################################################# Medium ##################################################### 
@@ -38,6 +40,8 @@ https://medium.com/@ladyleet/simple-use-of-components-in-angular-2-with-v-2-0-0-
 https://medium.com/@NetanelBasal/angular-2-improve-performance-with-trackby-cc147b5104e5#.ti8ux4l6j
 https://medium.com/@NetanelBasal/angular-2-security-the-domsanitizer-service-2202c83bd90#.x6hzb6obw
 https://medium.com/@NetanelBasal/angular-2-take-advantage-of-the-exportas-property-81374ce24d26#.8lkfyble5
+https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0#.oq231v501
+https://medium.com/@cnunciato/a-simple-mock-component-for-angular-2-d79bd58a7b31#.l0cknmayw
 
 
 ################################################# Thoughtram ##################################################### 
@@ -66,6 +70,8 @@ https://toddmotto.com/angular-2-forms-template-driven
 https://toddmotto.com/angular-2-forms-reactive
 https://toddmotto.com/please-stop-worrying-about-angular-3
 https://toddmotto.com/reactive-formgroup-validation-angular-2
+https://toddmotto.com/angular-2-form-controls-patch-value-set-value
+https://toddmotto.com/building-tesla-range-calculator-angular-2-reactive-forms
 
 
 ################################################# Auth0 ##################################################### 
@@ -82,6 +88,8 @@ https://scotch.io/tutorials/how-to-implement-a-custom-validator-directive-confir
 https://scotch.io/tutorials/all-the-ways-to-add-css-to-angular-2-components
 https://scotch.io/tutorials/angular-2-form-validation
 https://scotch.io/tutorials/angular-2-transclusion-using-ng-content
+https://scotch.io/tutorials/get-angular-1-features-in-angular-2
+https://scotch.io/tutorials/server-side-rendering-in-angular-2-with-angular-universal
 
 
 ################################################# Ben Nadel ##################################################### 
@@ -91,6 +99,8 @@ https://www.bennadel.com/blog/3129-implementing-a-log-inspired-logging-service-i
 https://www.bennadel.com/blog/3151-revisited-creating-an-event-driven-pre-bootstrap-loading-screen-in-angular-2-0-0.htm
 https://www.bennadel.com/blog/3184-creating-leaky-abstractions-with-rxjs-in-angular-2-1-1.htm
 https://www.bennadel.com/blog/3169-adding-custom-typings-files-d-ts-in-an-angular-2-typescript-application.htm
+https://www.bennadel.com/blog/3187-partial-stream-execution-a-case-for-hot-rxjs-observables-in-angular-2-1-1.htm
+https://www.bennadel.com/blog/3206-configuring-pouchdb-after-login-for-a-database-per-user-architecture-in-angular-2-4-1.htm
 
 
 ################################################# Telerik ##################################################### 
@@ -115,3 +125,12 @@ http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/
 http://orizens.com/wp/topics/from-angular-1-x-ng-repeat-to-angular-2-ngfor-with-component/
 
 
+################################################# Gistia ##################################################### 
+http://www.gistia.com/angular2testing/
+http://www.gistia.com/getting-started-covalent-angular-2/
+http://www.gistia.com/guide-end-end-testing-angular-2/
+http://www.gistia.com/working-angular-2-router-part-1/
+http://www.gistia.com/working-angular-2-router-part-2/
+http://www.gistia.com/bind-data-view/
+
+http://www.gistia.com/mastering-promises/
