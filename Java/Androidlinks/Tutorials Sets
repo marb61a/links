@@ -68,6 +68,7 @@ https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-view
 https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c#.jvpjwilc1
 https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-application-7e248b5f615e#.jhbwru4ym
 https://medium.com/@nikita.kozlov/get-access-to-raw-profiling-results-with-plugins-for-pury-f9a7cc5e8345#.yadcrs78v
+https://medium.com/@nikita.kozlov/how-modularisation-affects-build-time-of-an-android-application-43a984ce9968#.3in9uou9m
 https://medium.com/crunching-rxandroid/crunching-rxandroid-part-10-cc0c33108ee2#.4hbmc1fc4
 https://medium.com/di-101/di-101-part-2-9f7f4e1dcc81#.vg866l5yx
 https://medium.com/di-101/di-101-part-3-f0136e67db8#.a9u8krtmh
@@ -98,6 +99,8 @@ https://medium.com/@cesarmcferreira/mastering-the-terminal-side-of-android-devel
 https://medium.com/azimolabs/managing-android-virtual-devices-during-test-session-98a403acffc2#.csa0nl2mm
 https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013#.amcgnvcs0
 https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.tij2rn1x5
+https://medium.com/@Miqubel/mastering-firebase-notifications-36a3ffe57c41#.kn2fn2p4x
+https://medium.com/appaloosa-store-engineering/continuous-integration-with-android-14047096f3de#.3mj55q6hv
 
 
 ######################################## Android Developers Blog ##############################################
@@ -107,6 +110,7 @@ http://android-developers.blogspot.ie/2016/06/notifications-in-android-n.html
 http://android-developers.blogspot.ie/2016/06/security-crypto-provider-deprecated-in.html
 http://android-developers.blogspot.ie/2016/06/create-intelligent-context-aware-apps.html
 http://android-developers.blogspot.ie/2016/11/adding-tv-channels-to-your-app-with-the-tif-companion-library.html
+https://android-developers.googleblog.com/2016/12/important-best-practices-to-improve-app-engagement.html
 
 
 ######################################## Sebs Top Tips ##############################################
@@ -156,6 +160,8 @@ https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.dnqogq
 https://medium.com/google-developer-experts/weakreference-in-android-dd1e66b9be9d#.ckcokshex
 https://medium.com/google-developers/making-the-most-of-the-apk-analyzer-c066cb871ea2#.gb59iikxk
 https://medium.com/google-developer-experts/diving-deeper-into-the-java-transient-modifier-3b16eff68f42#.dewupkib2
+https://medium.com/google-developers/recyclerview-prefetch-c2f269075710#.o7iyzei8f
+https://medium.com/google-developers/tracking-app-update-sizes-1a1f57634f7b#.wn0za1w2h
 
 
 ######################################## Tutsplus ##############################################
@@ -180,6 +186,7 @@ https://uxplanet.org/mobile-app-ux-design-making-a-great-first-impression-bed280
 https://uxplanet.org/mobile-app-ux-design-grid-view-for-products-947e94c1fcb8#.k6n2nkxky
 https://uxplanet.org/motion-in-ux-design-90f6da5c32fe#.3ofc5z3pj
 https://uxplanet.org/functional-animation-in-ux-design-what-makes-a-good-transition-d6e7b4344e5e#.skdi3ucvy
+https://uxplanet.org/how-to-communicate-hidden-gestures-in-mobile-app-e55397f4006b#.2hkdkgr7e
 
 
 ######################################## David Karnok ##############################################
@@ -229,6 +236,11 @@ https://blog.stylingandroid.com/vectordrawable-png/
 https://blog.stylingandroid.com/bottomnavigationview/
 https://blog.stylingandroid.com/downloadmanager-part-3/
 https://blog.stylingandroid.com/fileprovider/
+https://blog.stylingandroid.com/simple-things-part-1/
+https://blog.stylingandroid.com/simple-things-part-2/
+https://blog.stylingandroid.com/simple-things-part-3/
+https://blog.stylingandroid.com/christmas-voice-part-1/
+https://blog.stylingandroid.com/christmas-voice-part-2/
 
 
 ######################################## Nimbledroid ##############################################
@@ -261,6 +273,8 @@ http://hannesdorfmann.com/android/presenters-dont-need-lifecycle
 http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house
 http://hannesdorfmann.com/android/evolution-of-the-repository-pattern
 http://hannesdorfmann.com/android/library-abstract-class
+http://hannesdorfmann.com/android/mosby3-mvi-1
+http://hannesdorfmann.com/android/mosby3-mvi-2
 
 
 ######################################## Artemzin ##############################################
@@ -288,11 +302,13 @@ https://riggaroo.co.za/stage-rollout-features-firebase-remote-config-ios-android
 
 
 ######################################## Philisophical Hacker ##############################################
-http://www.philosophicalhacker.com/post/psa-dont-use-esprsso-idling-resources-like-this/
-http://www.philosophicalhacker.com/post/vice-a-regression-test-generation-library/
-http://www.philosophicalhacker.com/post/an-espresso-test-recorder-deep-dive/
-http://www.philosophicalhacker.com/post/why-dont-we-have-a-unit-test-recorder/
-http://www.philosophicalhacker.com/post/what-makes-android-apps-testable/
+https://www.philosophicalhacker.com/post/psa-dont-use-esprsso-idling-resources-like-this/
+https://www.philosophicalhacker.com/post/vice-a-regression-test-generation-library/
+https://www.philosophicalhacker.com/post/an-espresso-test-recorder-deep-dive/
+https://www.philosophicalhacker.com/post/why-dont-we-have-a-unit-test-recorder/
+https://www.philosophicalhacker.com/post/what-makes-android-apps-testable/
+https://www.philosophicalhacker.com/post/exploiting-android-specific-seams-for-testing-and-flexibility/
+https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/
 
 
 ######################################## Jeroen Mols ##############################################
@@ -308,3 +324,28 @@ https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
 https://www.novoda.com/blog/new-jenkins-pipelines/
 https://www.novoda.com/blog/designing-something-solid/
 https://www.novoda.com/blog/layout-preview-101/
+https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/
+https://www.novoda.com/blog/android-wear-packaging/
+
+
+######################################## Hackernoon ##############################################
+https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-1-face-detection-e7e24a3e472f#.sf6prlhpg
+https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-2-barcode-detection-61e84c858518#.bib6ow758
+https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.2sxanof0h
+https://hackernoon.com/rxrecipes-wrap-your-way-to-rx-fd40eb5254b6#.tiqoaovhb
+https://hackernoon.com/android-how-to-add-gradle-dependencies-using-foreach-c4cbcc070458#.3kb3kte18
+
+
+######################################## Raphael Toledo ##############################################
+https://medium.com/@rafael_toledo/preparing-your-android-environment-for-development-android-tutorials-pt-1-5f76ca2b8a32#.lr7ulkbvp
+https://medium.com/@rafael_toledo/creating-a-new-project-and-an-emulator-on-android-studio-android-tutorials-2-35bd965ac42b#.1nwojgw84
+https://medium.com/@rafael_toledo/layouts-resources-android-tutorials-pt-4-2aa3ef7485d2#.ri1zx2g3f
+
+
+######################################## Jlelse ##############################################
+https://android.jlelse.eu/android-accessibility-75fdc5810025#.95c8sw3px
+https://android.jlelse.eu/inject-interfaces-without-providing-in-dagger-2-618cce9b1e29#.ay1ipqoax
+https://android.jlelse.eu/writing-custom-lint-rules-and-integrating-them-with-android-studio-inspections-or-carefulnow-c54d72f00d30#.5tlev9wfo
+https://android.jlelse.eu/getting-started-with-android-things-b73be3295b42#.rxl4tdo75
+https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522#.ce0px3kwi
+https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186#.99sy4dpej
