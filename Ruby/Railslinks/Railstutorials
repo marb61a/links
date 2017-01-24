@@ -21,6 +21,8 @@ http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-r
 http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/
 http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/
 http://blog.honeybadger.io/a-beginner-s-guide-to-exceptions-in-ruby/
+http://blog.honeybadger.io/common-rails-idioms-that-kill-database-performance/
+http://blog.honeybadger.io/ruby-rescue-elegant-trick-for-knowing-which-exceptions-to-catch/
 
 
 ###################################### Medium ####################################################
@@ -53,6 +55,9 @@ https://medium.com/@kristenfletcherwilde/getting-started-with-kernel-format-7c76
 https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b#.wbpvkhhjo
 https://medium.com/statuscode/how-to-detect-image-contents-from-ruby-with-amazon-rekognition-46a962cb040f#.s9ye8k6rf
 https://medium.com/@slainer68/developing-a-wizard-or-multi-steps-forms-in-rails-d2f3b7c692ce#.kz77b3d2i
+https://medium.com/@gauravbasti2006/async-mongo-queries-in-ruby-96a31b48b8f3#.elji5no0y
+https://medium.com/@rob__race/how-to-setup-and-deploy-a-rails-5-app-on-aws-beanstalk-with-postgresql-redis-and-more-88a38355f1ea#.fhbapt94j
+https://medium.com/@stevenpetryk/providing-useful-error-responses-in-a-rails-api-24c004b31a2e#.2ff7vua6q
 
 
 ###################################### Justin Weiss ####################################################
@@ -75,6 +80,7 @@ https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec
 https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-minitest
 https://semaphoreci.com/community/tutorials/how-to-reduce-controller-bloat-with-interactors-in-ruby
 https://semaphoreci.com/community/tutorials/using-rspec-metadata
+https://semaphoreci.com/community/tutorials/integration-testing-ruby-on-rails-with-minitest-and-capybara
 
 
 ###################################### Jake Yesbeck ####################################################
@@ -149,6 +155,7 @@ https://blog.codeship.com/microservice-communication-queues/
 https://blog.codeship.com/replacing-sinatra-with-rack-in-sidekiq/
 https://blog.codeship.com/refactoring-legacy-rails-controllers/
 https://resources.codeship.com/ebooks/test-deploy-docker-apps-aws-elastic-beankstalk-ebs-aw
+https://blog.codeship.com/creating-advanced-active-record-db-queries-arel/
 
 
 ###################################### Rossta ####################################################
@@ -205,6 +212,7 @@ http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/
 http://gavinmiller.io/2015/fixing-file-access-vulnerabilities-in-ruby-and-rails/
 http://gavinmiller.io/2016/the-safesty-way-to-constantize/
 
+
 ###################################### Pluralsight ####################################################
 http://tutorials.pluralsight.com/review/elastic-search-with-ruby-on-rails
 http://tutorials.pluralsight.com/ruby-ruby-on-rails/ruby-on-rails-nested-attributes
@@ -230,6 +238,8 @@ http://www.blackbytes.info/2016/07/writing-a-shell-in-ruby/
 http://www.blackbytes.info/2016/07/numbers-in-ruby/
 http://www.blackbytes.info/2016/09/object-space/
 http://www.blackbytes.info/2016/11/code-analysis-minitest/
+http://www.blackbytes.info/2017/01/spy-on-your-ruby-methods/
+http://www.blackbytes.info/2017/01/read-binary-data/
 
 
 ###################################### Wyeworks ####################################################
@@ -273,6 +283,7 @@ http://blog.arkency.com/2016/07/phases-of-refactoring-complex-rails-apps/
 http://blog.arkency.com/2016/09/minimal-decoupled-subsystems-of-your-rails-app/
 http://blog.arkency.com/2016/10/running-bash-command-from-ruby-with-your-bash-profile/
 http://blog.arkency.com/2016/10/the-esthetics-of-a-ruby-service-object/
+http://blog.arkency.com/2016/12/event-sourced-domain-objects-in-less-than-150-loc/
 
 
 ###################################### Tutsplus ####################################################
@@ -369,3 +380,12 @@ http://blog.appsignal.com/blog/2016/08/23/how-to-tame-your-growing-users-table.h
 http://blog.appsignal.com/blog/2016/09/27/git-rebasing-strategies.html
 http://blog.appsignal.com/blog/2016/10/18/ruby-magic-exceptions-primer.html
 http://blog.appsignal.com/2016/11/23/ruby-magic-building-a-30-line-http-server-in-ruby.html
+http://blog.appsignal.com/2016/12/21/ruby-magic-escaping-in-ruby.html
+
+
+###################################### Schneems ####################################################
+https://www.schneems.com/blogs/2015-09-30-reverse-rubygems/
+https://www.schneems.com/blogs/2016-04-07-conference-proposal/
+https://www.schneems.com/2016/05/31/saving-sprockets.html
+https://www.schneems.com/2016/11/14/statistical-lit.html
+https://www.schneems.com/2016/11/21/writing-a-rails-feature-blow-by-blow/
