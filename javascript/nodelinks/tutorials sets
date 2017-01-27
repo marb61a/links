@@ -30,6 +30,10 @@ https://www.sitepoint.com/music-streaming-app-electron-react-es6/
 https://www.sitepoint.com/search-engine-node-elasticsearch/
 https://www.sitepoint.com/10-npm-tips-and-tricks/
 https://www.sitepoint.com/getting-started-node-js-aws-lambda/
+https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/
+https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/
+https://www.sitepoint.com/private-npm-packages-verdaccio/
+https://www.sitepoint.com/building-facebook-chat-bot-node-heroku/
 
 
 ######################################## Scotch.io ##############################################
@@ -45,6 +49,7 @@ https://scotch.io/tutorials/building-and-securing-a-modern-backend-api
 https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
 https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js
 https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize
+https://scotch.io/tutorials/how-to-host-a-node-js-app-on-digital-ocean
 
 
 ######################################## Medium ##############################################
@@ -90,6 +95,8 @@ https://medium.com/the-founders-blog/scaling-slack-events-in-node-c5b0a54a55a6#.
 https://medium.com/node-security/what-are-the-bots-up-to-on-npm-4ab1aea034b#.czhw00jom
 https://medium.com/@ryyppy/shipping-flowtype-definitions-in-npm-packages-c987917efb65#.xtyyx3k00
 https://medium.com/@anaptfox/getting-started-with-amazon-polly-using-node-js-345e84dbd23d#.fw7d5vb27
+https://medium.com/software-engineering/beautiful-node-apis-eaf0b636cbe#.daayxuz3z
+https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.1yii3796j
 
 
 ######################################## Risingstack ##############################################
@@ -130,6 +137,13 @@ https://community.risingstack.com/building-microservices-stonemason-generating-m
 https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/
 https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/
 https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
+https://blog.risingstack.com/yarn-vs-npm-node-js-package-managers/
+https://community.risingstack.com/opencv-tutorial-computer-vision-with-node-js/
+https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/
+https://community.risingstack.com/tutorial-building-expressjs-based-microservices-using-hydra/
+https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/
+https://community.risingstack.com/how-to-find-node-js-performance-optimization-killers/
+https://blog.risingstack.com/event-sourcing-with-examples-node-js-at-scale/
 
 
 ######################################## Tutsplus ##############################################
@@ -219,9 +233,14 @@ https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e#.17lb39phn
 https://hackernoon.com/using-yarn-with-docker-c116ad289d56#.e7i0ji7zm
 https://hackernoon.com/publishing-react-components-to-npm-experiments-with-firenpm-c3a1aac3f408#.evllv66q9
 https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.u2h3hjbeu
+https://hackernoon.com/a-sketch-note-guide-to-node-js-streams-part-1-6db88e32623a#.ml1r2gse3
 https://hackernoon.com/running-nodejs-on-linux-on-windows-88bd12993bae#.thtxoshy9
 https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08#.9lv5yy5lj
-
+https://hackernoon.com/implementing-the-irc-spec-in-node-js-c630b8cd5771#.modbrmygg
+https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08#.tjqdvthkp
+https://hackernoon.com/using-server-less-architecture-to-massively-parallelize-dna-sequence-alignment-via-stdlib-and-343dd2d5aebf#.krsf4fuhi
+https://hackernoon.com/scrape-any-website-service-api-with-a-single-sql-select-statement-8d60be1e9a49#.i6gzo37rd
+https://hackernoon.com/microservice-series-scraper-ee970df3e81f#.wmao4t76w
 
 ######################################## Thisdavej ##############################################
 http://thisdavej.com/getting-started-with-yaml-in-node-js-using-js-yaml/
