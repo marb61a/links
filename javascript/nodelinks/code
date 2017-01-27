@@ -304,3 +304,26 @@ https://github.com/date-fns/date-fns - Modern JavaScript date utility library
 https://github.com/facundoolano/redis-lru - Redis-backed LRU cache for Node.js
 https://github.com/typeorm/typeorm - Data-Mapper ORM for TypeScript and JavaScript
 https://github.com/zeit/hyper - A terminal built on web technologies
+https://github.com/pd4d10/friendly-error - Show uncaught errors friendly in Node.js
+https://github.com/zeit/release - Generate changelogs with a single command 
+https://github.com/typicode/tlapse - Create a timelapse of your web development
+https://github.com/lorenzofox3/zora - A less than 200 lines of code javascript test harness for nodejs and the browser
+https://github.com/nolanlawson/marky - High-resolution JavaScript timer based on performance.mark() and measure()
+https://github.com/SocketCluster/iogrid - Multiplayer game engine/framework built using SocketCluster and Phaser
+https://github.com/Gothdo/range - A JavaScript implementation of the Python's range() function.
+https://github.com/lukechilds/expired - Calculate when HTTP cache headers expire
+https://github.com/kbariotis/ansible-nodejs-digitalocean - Complete playbook to create and deploy a Node.js application on Digital Ocean.
+https://github.com/talyssonoc/structure - A simple schema/attributes library built on top of modern JavaScript 
+https://github.com/rook2pawn/router-middleware - express style middleware router supporting stream based templating
+https://github.com/keithcollins/pi-bots - A simple system for running Twitter bots from your Raspberry Pi
+https://github.com/waseem18/node-rake - A NodeJS implementation of the Rapid Automatic Keyword Extraction algorithm.
+https://github.com/LinusU/node-xorshift128plus - xorshift128+ implementation for Node.js
+https://github.com/nbransby/dialogue-builder - Beautifully readable static dialogue
+https://github.com/vmasto/express-babel - Express starter kit with ES2017+ support, testing, linting, and code coverage
+https://github.com/Neamar/featureless-job-queue - A Redis-backed job queue that on performance instead of feature creep
+https://github.com/kiril-me/cassandrom - Cassandra object modeling tool for Node.Js like mongoose
+https://github.com/patrickjquinn/P-Brain.ai - Natural language virtual assistant using Node.js + Bootstrap
+https://github.com/micro-analytics/micro-analytics - Public analytics as a Node.js microservice.
+https://github.com/mike-eason/oledb - A small promised based module
+https://github.com/millwrightjs/millwright - The easiest build tool you'll ever use.
+https://github.com/team-emt/razorframe - Node library for empowering real-time applications at scale
