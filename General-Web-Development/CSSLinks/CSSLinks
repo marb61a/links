@@ -18,6 +18,11 @@ https://www.youtube.com/watch?v=msrcqmlAnLA - Accessibility for developers
 https://www.youtube.com/watch?v=fuuBOmm2ZXU - How to Engage with Browser Vendors
 https://www.youtube.com/watch?v=sKlA7U5ZKVs - Improving Above-the-Fold Performance with Preload
 https://www.youtube.com/watch?v=HF1luRD4Qmk - Debugging The Web
+https://www.youtube.com/watch?v=ZVL6FeCJdD8 - Service Worker and the Appification of the Web
+https://www.youtube.com/watch?v=QH94CXVv3UE - Code-splitting your way to better perf with Webpack in Totally Tooling 
+https://www.youtube.com/watch?v=HaD5z2KqcGk - Functional Animation - CSSConf.Asia 2016
+
+https://pusher.com/sessions/meetup/ember-london/leveraging-html5-animations-using-css3-emberjs-and-friends?
 
 
 ##Vimeo Videos
@@ -27,91 +32,6 @@ https://vimeo.com/177103832 - Peter van der Zee | < IFRAME > | HTML Special, CSS
 
 ##Playlists & Channels
 https://www.youtube.com/watch?v=paBou8Fy25k&list=UUJ0_R6U3ZClQDGpVJNjuPAQ - Rachel Andrew CSS Video Playlist
-
-
-##Code -
-https://github.com/Wildhoney/Interpose - Apply stylesheet variables to your React components for use in your stylesheets
-https://github.com/kamranahmedse/gulp-css-tailor - Gulp plugin to automatically generate CSS from your HTML classes
-https://github.com/dollarshaveclub/reframe.js/ - Reframe unresponsive elements responsively.
-https://github.com/macropodhq/postcss-local-constants - PostCSS plugin to process imported values from a file.
-https://github.com/jgthms/wysiwyg.css/ - A tiny CSS for generated HTML or Markdown content
-https://github.com/Ramotion/aquarelle - Aquarelle is a watercolor js effect
-https://github.com/mozilla/css-grid-inspector - A Firefox extension for seeing the grid lines created by CSS Grid
-https://github.com/morishitter/cssfmt - a tool that automatically formats stylesheets
-https://github.com/usablica/kissui.scrollanim - CSS3 scroll animation library
-https://gist.github.com/realseanp/cefe1727533619f340bb2aee5e1339af - HTML5 Drag and Drop React Component
-https://github.com/soenkekluth/sticky-state - StickyState is a high performant module making native position:sticky
-https://github.com/skatejs/skatejs - a web component library
-https://github.com/kazzkiq/balloon.css - Simple tooltips made of pure CSS 
-https://github.com/postcss/postcss - Transforming styles with JS plugins
-https://github.com/christinecha/3d-css-cubes - A rotating grid of 3d (via CSS) cubes.
-https://github.com/mdo/wtf-forms/ - Friendlier HTML form controls with a little CSS magic
-https://github.com/andreypopp/react-css-components - Define React presentational components with CSS
-https://github.com/cssstats/cssstats - Webapp to visualize various stats about your css
-https://github.com/leemunroe/responsive-html-email-template - When all you need is a really simple HTML email template
-https://github.com/deuill/fawkss - Fawkss is a CSS preprocessor for people who dislike CSS preprocessors
-https://github.com/paulsonnentag/swip - a library to create multi device experiments
-https://github.com/milligram/milligram - A minimalist CSS framework.
-https://github.com/cmpolis/smart-table-scroll - Build 1MM row tables with native scroll bars
-https://github.com/mozilla/fathom - A framework for extracting meaning from web pages
-https://github.com/scriptify/Chnl - Chnl - one channel, all effects.
-https://github.com/crocodilejs/font-awesome-assets - Convert any of @FortAwesome's Font-Awesome icons to an asset
-https://github.com/mozilla/thimble.mozilla.org - Online code editor geared to people teaching and learning HTML, CSS, and JavaScript
-https://github.com/stylelint/stylelint/ - A mighty, modern CSS linter
-https://github.com/filipelinhares/ress - A modern CSS reset
-https://github.com/andreleon/critical-style-snapshot - Capture CSS above the fold with one click.
-https://github.com/tawian/text-spinners - Pure text, CSS only, font independent, inline loading indicators
-https://github.com/Ghosh/cssFilters - Custom and Instagram like photo filter playground for CSS built with React
-https://github.com/una/YouMightNotNeedJS/ - You Might Not Need JavaScript
-https://github.com/tmoreton/useful.ly useful.ly Flexbox-Based CSS Framework
-https://github.com/ovdojoey/Juiced - A Flexbox CSS Framework
-https://github.com/Specro/Philter - a JS plugin giving you the power to control CSS filters
-https://github.com/planttheidea/jile - Modular CSS in pure JavaScript
-https://github.com/ruanyf/css-modules-demos - a collection of simple demos of CSS Modules
-https://github.com/still-life-studio/txt.wav - some weird text animations the internet deserves
-https://github.com/christinecha/choreographer-js - A simple library to take care of complicated animations
-https://github.com/jamiewilson/corpus - Yet another CSS toolkit
-https://github.com/eliorshalev/sprite-spirit - SCSS Mixin that Brings Image Sprite to life
-https://github.com/jacksleight/ayre - Sass powered responsive grid system
-https://github.com/mightyCrow/wenk -  Lightweight pure CSS tooltip for the greater good
-https://github.com/stylelint/stylelint - A mighty, modern CSS linter
-https://github.com/voronianski/griddy.css - Responsive 12 column based grid in 311 Bytes gzipped
-https://github.com/femmebot/google-type - Collaborative typography project
-https://github.com/ben-eb/postcss-resemble-image - Provide a gradient fallback for an image
-https://github.com/LeadDyno/intercooler-js - Making AJAX as easy as anchor tags
-https://github.com/BoxFactura/pulltorefresh.js - A quick and powerful plugin for your pull-to-refresh needs
-https://github.com/jonsuh/mcgriddle - A get-out-of-the-way Sass grid library
-https://github.com/notwaldorf/font-style-matcher - Matches the x-heights and widths of two fonts
-https://github.com/uber/deck.gl - WebGL based visualization layers
-https://github.com/BlazeCSS/blaze - Open Source CSS Framework
-https://github.com/stevenmhunt/badgerly - A CSS 3 library for rendering badges
-https://github.com/xcatliu/mobi.css - A lightweight, flexible css framework that focus on mobile
-https://github.com/primer/primer - The base coat of GitHub. Our internal CSS toolkit and guidelines
-https://github.com/johnpolacek/expressive-css/ - An approach to writing lightweight, scalable CSS
-https://github.com/DevExpress/testcafe - Automated browser testing for the modern web development stack
-https://github.com/NeXTs/Jets.js - Native CSS search engine
-https://github.com/StefanKovac/flex-layout-attribute - HTML layout helper based on CSS flexbox specification
-https://github.com/LunarLogic/starability - Accessible rating forms with cute animations on top
-https://github.com/scriptify/Chnl - Chnl - one channel, all effects
-https://github.com/zzarcon/chaosocket -  Mock WebSockets and create chaos 
-https://github.com/andriussev/timelined - A customizable CSS-only vertical timeline
-https://github.com/bfred-it/iphone-inline-video - Play videos inline on Safari iPhone
-https://github.com/bendc/animateplus - CSS and SVG animation library
-https://github.com/sarcadass/granim.js - Create fluid and interactive gradients animations
-https://github.com/maxwellito/vivus - JavaScript library to make drawing animation on SVG
-https://github.com/cutestrap/cutestrap - A tiny alternative to Bootstrap.
-https://github.com/blog/2112-delivering-octicons-with-svg
-https://github.com/wbobeirne/stranger-things - Intro of the show Stranger Things in CSS
-https://github.com/ademilter/bricklayer - Lightweight and independent Pinterest-like cascading grid layout library
-https://github.com/kristoferjoseph/flexboxgrid - Grid based on CSS3 flexbox
-https://github.com/1000ch/grd - A CSS grid framework using Flexbox
-https://github.com/morishitter/stylefmt - stylefmt is a tool that automatically formats stylesheets.
-https://github.com/bfred-it/object-fit-images - Adds support to object-fit to images on IE9, IE10, IE11, Edge and other old browsers.
-https://github.com/cjcenizal/flexbox-patterns - Patterns for using flexbox CSS to build awesome UI components
-https://github.com/polarnotion/starwarsintro/ - A CSS Library for the Star Wars Intro Crawl 
-https://github.com/jasonmoo/smlr - Re-encode jpeg images with no perceivable quality loss.
-https://github.com/adamsilver/maintainablecss.com/ - MaintainableCSS is an approach to writing modular, scalable and of course, maintainable CSS
-https://github.com/matejlatin/Gutenberg - A meaningful web typography starter kit.
 
 
 ##Codepen -
@@ -125,7 +45,8 @@ http://codepen.io/kizu/pen/PzGadO - Coloring emoji using CSS
 http://codepen.io/rachel_web/pen/rOLRvM/ -The Lego Movie's Emmet in Pure CSS
 http://codepen.io/davidkpiano/pen/wMqXea - Alex the CSS Husky
 https://codepen.io/callmenick/pen/yVJger - box-decoration-break demos
-http://codepen.io/shshaw/pen/akXzzE - CSS-only Sliding Panels using transforms
+http://codepen.io/shshaw/pen/akXzzE - CSS-only Sliding Panels using transform
+http://codepen.io/ge1doot/full/GgOYoy/ - apparently transparent
 
 
 ##Links -
@@ -142,6 +63,8 @@ https://www.jpeg.io/ - Convert any major image format into a highly optimized JP
 http://vrcollab.com/2015/08/10/what-is-metaroom-markup.html
 https://18f.gsa.gov/2016/01/11/introducing-the-css-coding-style-guide/
 http://www.thecssninja.com
+https://resilientwebdesign.com/ - Free online book
+https://csstriggers.com/ - List of CSS triggers
 http://ayre.jacksleight.com/
 https://win2k.brod.io/
 http://doximity.github.io/vital/get-started/
