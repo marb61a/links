@@ -54,6 +54,11 @@ https://medium.com/purse-essays/introducing-bcoin-fdfcb22dfa34#.4nb85hbfx
 https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.3lbp6950n
 https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.9t474h51k
 https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776#.n5eywixta
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.66l41ey8r
+https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem-7dfeb1aafde0#.77leqvb1w
+https://medium.com/javascript-inside/introduction-to-functional-front-ends-with-inferno-side-effects-and-routing-a8b226c47b0f#.ofbyf1ozk
+https://medium.com/@bradfmd/vue-vuex-getting-started-f78c03d9f65#.jeuj043oy
+https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.wunvznyjo
 
 
 ###################################### Freecodecamp ###########################################################
@@ -112,6 +117,9 @@ http://www.2ality.com/2016/05/template-literal-whitespace.html
 http://www.2ality.com/2016/09/global.html
 http://www.2ality.com/2016/09/three-useful-babel-presets.html
 http://www.2ality.com/2016/10/asynchronous-iteration.html
+http://www.2ality.com/2017/01/messagechannel.html
+http://www.2ality.com/2017/01/babel-esm-spec-mode.html
+http://www.2ality.com/2017/01/shared-array-buffer.html
 
 
 ####################################### Mozilla ###########################################################
@@ -123,6 +131,7 @@ https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building
 https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
 https://hacks.mozilla.org/2016/09/introducing-debugger-html/
+https://hacks.mozilla.org/2017/01/typedarray-or-dataview-understanding-byte-order/
 
 
 ####################################### James K Nelson ###########################################################
@@ -189,6 +198,7 @@ https://davidwalsh.name/modernization-reactivity
 https://davidwalsh.name/essential-javascript-functions
 https://davidwalsh.name/speech-recognition
 https://davidwalsh.name/es6-features
+https://davidwalsh.name/spread-operator
 
 
 ####################################### CSS Tricks ###########################################################
@@ -203,3 +213,11 @@ http://wesbos.com/arrow-functions/
 http://wesbos.com/javascript-default-function-arguments/
 http://wesbos.com/template-strings-html/
 http://wesbos.com/destructuring-objects/
+
+
+####################################### Hackernoon ###########################################################
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.6rq4b15wj
+https://hackernoon.com/recursion-in-javascript-with-es6-destructuring-and-rest-spread-4b22ae5998fa#.lepqkfq00
+https://hackernoon.com/using-yarn-with-docker-c116ad289d56#.hlqj0mccl
+https://hackernoon.com/building-a-custom-tag-input-with-skate-js-fbd4cdf744f#.d1lia8gc9
+https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665#.iftdpalno
