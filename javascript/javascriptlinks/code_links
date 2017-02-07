@@ -226,3 +226,34 @@ https://github.com/ctrl-freaks/freezeframe.js - Pauses animated .gifs and enable
 https://github.com/pharzan/promiseRunner - A simple promise maker which creates promises out of normal functions when you need asynchronous run of the functions
 https://github.com/majman/adobe-scripts-panel - Scripting Panel for After Effects, Illustrator, and Photoshop
 https://github.com/rethinkdb/horizon - Horizon is a realtime, open-source backend for JavaScript apps
+https://github.com/ryanmcdermott/clean-code-javascript - Clean Code concepts adapted for JavaScript
+https://github.com/viebel/klipse - A simple client-side code evaluator pluggable on any web page
+https://github.com/yamafaktory/shrimpit - a small CLI analysis tool for checking unused JavaScript
+https://github.com/egoist/eventstop - A minimal event library for Node.js and browser.
+https://github.com/nolanlawson/marky - High-resolution JavaScript timer based on performance.mark() and measure()
+https://github.com/chmln/flatpickr -lightweight and powerful datetimepicker with no dependencies
+https://github.com/Huemul/trae -  Minimalistic Fetch based HTTP client for the browser 
+https://github.com/Gothdo/range - A JavaScript implementation of the Python's range() function.
+https://github.com/nishanths/zoom.js - Medium's Image Zoom
+https://github.com/infernojs/inferno - An extremely fast, React-like JavaScript library for building modern user interfaces
+https://github.com/lebab/lebab - Turn your ES5 code into readable ES6 (sugar-syntax).
+https://github.com/pawelgrzybek/siema -  Lightweight and simple carousel in pure JavaScript
+https://github.com/vmasto/express-babel - Express starter kit with ES2017+ support, testing, linting, and code coverage
+https://github.com/arqex/freezer - A tree data structure that emits events on updates
+https://github.com/caiogondim/fast-memoize.js -  Fastest possible memoization library
+https://github.com/micku7zu/vanilla-tilt.js/ - A smooth 3D tilt javascript library
+https://github.com/userpixel/micromustache - fast and small sub-implementation of the {{mustache}} template engine for JavaScript
+https://github.com/eddyerburgh/avoriaz -  Vue.js testing utility library
+https://github.com/gopalraju/gridtab - GridTab is a lightweight jQuery plugin to create grid based responsive tabs
+https://github.com/hyperapp/hyperapp - 1kb JavaScript library for building modern UI applications
+https://github.com/callmecavs/gotem - Copy to clipboard for modern browsers in less than 1kb.
+https://github.com/luisvinicius167/ityped - Dead simple Javascript animated typing, with no dependencies.
+https://github.com/knsv/mermaid - Generation of diagram and flowchart from text in a similar manner as markdown
+https://github.com/lukechilds/when-dom-ready - $(document).ready() for the 21st century
+https://github.com/service-mocker/service-mocker -  Next generation frontend API mocking framework 
+https://github.com/developit/mitt - Tiny 200b functional event emitter / pubsub.
+https://github.com/brownhci/WebGazer - Scalable Webcam EyeTracking Using User Interactions 
+https://github.com/erosson/swarm-numberformat - Format large numbers in several human-readable ways
+https://github.com/LeadDyno/intercooler-js - Making AJAX as easy as anchor tags
+https://github.com/kciter/qart.js - Generate artistic QR code
+https://github.com/bloomberg/bucklescript - A backend for the OCaml compiler which emits JavaScript.
