@@ -37,6 +37,7 @@ https://www.youtube.com/watch?v=Jf7DfjKCqEE - The story of Android app architect
 https://www.youtube.com/watch?v=wCvXe2LsN5o - Understanding Dagger 2's Generated Code
 https://www.youtube.com/watch?v=1mbyBAe0b0I - Firebase Android Dive
 https://www.youtube.com/watch?v=oewijOCwJms - Intro to RxJava for Android
+https://www.youtube.com/watch?v=vnBmdKkMLZw - MVVM on Android
 
 
 ## Playlists & Channels
@@ -72,7 +73,8 @@ https://realm.io/news/sf-fabien-davos-modern-android-ditching-activities-fragmen
 https://caster.io/episodes/custom-views-and-viewgroups-part-1/
 https://caster.io/episodes/eventbus-basics/
 https://caster.io/lessons/mockito-what-makes-a-good-unit-test/
-https://caster.io/lessons/rxjava-marble-diagrams/?
+https://caster.io/lessons/rxjava-marble-diagrams/
+https://caster.io/lessons/ab-testing-your-apps-google-play-store-listing/
 
 
 ## Fragmented Podcast
@@ -85,6 +87,11 @@ http://fragmentedpodcast.com/episodes/66/ - Let’s talk Immutability, Value Typ
 http://fragmentedpodcast.com/episodes/67/ - Cross platform development with Xamarin cofounder Joseph Hill
 http://fragmentedpodcast.com/episodes/68/ - Talking Buck with Uber engineer Gautam Korlam
 http://fragmentedpodcast.com/episodes/69/ - Talking Buck with Uber engineer Gautam Korlam 
+http://fragmentedpodcast.com/episodes/70/ - An honest discussion about Realm
+http://fragmentedpodcast.com/episodes/71/ - UI UX development with GDE Raveesh
+http://fragmentedpodcast.com/episodes/72/ - App Shortcuts with Andrew Orobator
+http://fragmentedpodcast.com/episodes/73/ - Effective Java for Android Developers – Item #14
+http://fragmentedpodcast.com/episodes/74/ - Ben Oberkfell talks Fingerprint API
 
 
 ##Links - 
@@ -99,3 +106,5 @@ http://androidbackstage.blogspot.ie
 https://romannurik.github.io/AndroidIconAnimator/ - Icon Animation
 http://google.github.io/android-gradle-dsl/current/index.html
 https://github.com/AndroidStudyGroup/conferences/wiki/360AnDev2016 - 360AnDev2016
+https://github.com/PareshMayani/Intro-To-RxJava - An extensive tutorial on RxJava
+
