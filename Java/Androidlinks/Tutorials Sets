@@ -82,6 +82,7 @@ https://medium.com/@manuelvicnt/android-wear-accessing-the-data-layer-api-d64fd5
 https://medium.com/@manuelvicnt/rxjava2-android-mvvm-lifecycle-app-structure-with-retrofit-2-cf903849f49e#.o7hvwxtte
 https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.1bjzr9ll1
 https://medium.com/rocknnull/no-more-value-classes-boilerplate-the-power-of-autovalue-bbaf36cf8bbe#.oskcsfo2k
+https://medium.com/rocknnull/the-lost-droid-and-the-magic-dagger-an-intro-to-dependency-injection-for-android-c686f4399117#.aabzy0h96
 https://medium.com/startup-grind/bye-bye-burger-5bd963806015#.b07am7glx
 https://medium.com/inloop/android-process-kill-and-the-big-implications-for-your-app-1ecbed4921cb#.bln502zej
 https://medium.com/uptech-team/audio-not-playing-in-android-cde9a0fdfafd#.u28hha318
@@ -91,7 +92,6 @@ https://medium.com/upday-devs/mvvm-rxjava-learnings-1819423f9592#.pnumsq4m3
 https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.8uvrfmsph
 https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.17gdrgevn
 https://medium.com/@sahildave/product-flavors-for-android-library-d3b2d240fca2#.roznlmqzo
-https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.lh52s0em6
 https://medium.com/inloop/adventures-with-fragmentstatepageradapter-4f56a643f8e0#.q38p3zkav
 https://medium.com/@fabioCollini/testing-asynchronous-rxjava-code-using-mockito-8ad831a16877#.ycvq0zmuf
 https://medium.com/@p.tournaris/android-improving-sign-in-experience-with-google-sign-in-and-smartlock-f0bfd789602a#.fc8ufrhqp
@@ -101,6 +101,12 @@ https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013#.amcgnvcs0
 https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.tij2rn1x5
 https://medium.com/@Miqubel/mastering-firebase-notifications-36a3ffe57c41#.kn2fn2p4x
 https://medium.com/appaloosa-store-engineering/continuous-integration-with-android-14047096f3de#.3mj55q6hv
+https://medium.com/@froger_mcs/building-google-actions-with-java-696cffedbd01#.tdmiaggwv
+https://medium.com/@dftaiwo/understanding-the-power-of-firebase-security-rules-part-1-f46aae773a24#.ybgq78rjd
+https://medium.com/@josiassena/android-how-to-unit-test-a-service-67e5340544a5#.kyctdbmk1
+https://medium.com/@josiassena/using-the-android-keystore-system-to-store-sensitive-information-3a56175a454b#.bwg0skygk
+https://medium.com/@quiro91/sharing-files-though-intents-are-you-ready-for-nougat-70f7e9294a0b#.cy5jw33s4
+https://medium.com/@se.solovyev/implementing-in-app-billing-in-android-4896232c7d6b#.agb02d6w8
 
 
 ######################################## Android Developers Blog ##############################################
@@ -111,6 +117,7 @@ http://android-developers.blogspot.ie/2016/06/security-crypto-provider-deprecate
 http://android-developers.blogspot.ie/2016/06/create-intelligent-context-aware-apps.html
 http://android-developers.blogspot.ie/2016/11/adding-tv-channels-to-your-app-with-the-tif-companion-library.html
 https://android-developers.googleblog.com/2016/12/important-best-practices-to-improve-app-engagement.html
+https://android-developers.googleblog.com/2017/02/build-flexible-layouts-with.html
 
 
 ######################################## Sebs Top Tips ##############################################
@@ -122,6 +129,7 @@ https://medium.com/sebs-top-tips/analyse-data-flows-without-the-debugger-android
 ######################################## FreeCodeCamp ##############################################
 https://medium.freecodecamp.com/android-app-optimization-using-arraymap-and-sparsearray-f2b4e2e3dc47#.w0xnfvu0u
 https://medium.freecodecamp.com/android-development-best-practices-83c94b027fd3#.fqy2njfo3
+https://medium.freecodecamp.com/material-design-and-the-mystery-meat-navigation-problem-65425fb5b52e#.vvdzlr1q5
 
 
 ######################################## Firebase Blog ##############################################
@@ -162,6 +170,7 @@ https://medium.com/google-developers/making-the-most-of-the-apk-analyzer-c066cb8
 https://medium.com/google-developer-experts/diving-deeper-into-the-java-transient-modifier-3b16eff68f42#.dewupkib2
 https://medium.com/google-developers/recyclerview-prefetch-c2f269075710#.o7iyzei8f
 https://medium.com/google-developers/tracking-app-update-sizes-1a1f57634f7b#.wn0za1w2h
+https://medium.com/google-developer-experts/learning-to-use-and-abuse-mutability-b4c71576299#.fp9h8lw3s
 
 
 ######################################## Tutsplus ##############################################
@@ -173,6 +182,7 @@ http://code.tutsplus.com/tutorials/android-from-scratch-background-operations--c
 https://code.tutsplus.com/tutorials/google-play-services-google-cast-v3-and-media--cms-26893
 https://code.tutsplus.com/tutorials/background-audio-in-android-with-mediasessioncompat--cms-27030
 https://code.tutsplus.com/tutorials/getting-started-with-retrofit-2--cms-27792
+https://code.tutsplus.com/tutorials/how-to-make-calls-and-use-sms-in-android-apps--cms-28168
 
 
 ######################################## UXPlanet ##############################################
@@ -239,8 +249,11 @@ https://blog.stylingandroid.com/fileprovider/
 https://blog.stylingandroid.com/simple-things-part-1/
 https://blog.stylingandroid.com/simple-things-part-2/
 https://blog.stylingandroid.com/simple-things-part-3/
+https://blog.stylingandroid.com/simple-things-part-4/
 https://blog.stylingandroid.com/christmas-voice-part-1/
 https://blog.stylingandroid.com/christmas-voice-part-2/
+https://blog.stylingandroid.com/wear-2-0-something-oclock/
+https://blog.stylingandroid.com/wear-2-0-match-timer-part-1/
 
 
 ######################################## Nimbledroid ##############################################
@@ -275,6 +288,7 @@ http://hannesdorfmann.com/android/evolution-of-the-repository-pattern
 http://hannesdorfmann.com/android/library-abstract-class
 http://hannesdorfmann.com/android/mosby3-mvi-1
 http://hannesdorfmann.com/android/mosby3-mvi-2
+http://hannesdorfmann.com/android/mosby3-mvi-3
 
 
 ######################################## Artemzin ##############################################
@@ -288,6 +302,9 @@ https://artemzin.com/blog/rxjava-thread-safety-of-operators-and-subjects/
 https://realm.io/news/donn-felker-solid-part-3/
 https://realm.io/news/donn-felker-solid-part-4/
 https://realm.io/news/kau-jake-wharton-testing-robots/
+https://realm.io/news/eric-maxwell-mvc-mvp-and-mvvm-on-android/
+https://realm.io/news/mobilization-hugo-visser-rxjava-for-rest-of-us/
+https://realm.io/news/mobilization-eric-kok-functional-android-lambdas-rx-streams-app
 
 
 ######################################## Rebecca Franks ##############################################
@@ -309,6 +326,10 @@ https://www.philosophicalhacker.com/post/why-dont-we-have-a-unit-test-recorder/
 https://www.philosophicalhacker.com/post/what-makes-android-apps-testable/
 https://www.philosophicalhacker.com/post/exploiting-android-specific-seams-for-testing-and-flexibility/
 https://www.philosophicalhacker.com/post/why-i-dont-use-roboletric/
+https://www.philosophicalhacker.com/post/espresso-test-addiction/
+https://www.philosophicalhacker.com/post/why-android-testing-is-so-hard-historical-edition/
+https://www.philosophicalhacker.com/post/towards-godless-android-development-how-and-why-i-kill-god-objects/
+https://www.philosophicalhacker.com/post/what-unit-tests-are-trying-to-tell-us-about-activities-pt1/
 
 
 ######################################## Jeroen Mols ##############################################
@@ -316,6 +337,7 @@ http://jeroenmols.com/blog/2016/05/06/methodcount/
 http://jeroenmols.com/blog/2016/02/05/wagongit/
 http://jeroenmols.com/blog/2016/09/01/coveragecost/
 http://jeroenmols.com/blog/2016/10/31/mockitomatchers/
+http://jeroenmols.com/blog/2017/02/16/unittests/
 
 
 ######################################## Novada ##############################################
@@ -334,6 +356,7 @@ https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-v
 https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.2sxanof0h
 https://hackernoon.com/rxrecipes-wrap-your-way-to-rx-fd40eb5254b6#.tiqoaovhb
 https://hackernoon.com/android-how-to-add-gradle-dependencies-using-foreach-c4cbcc070458#.3kb3kte18
+https://hackernoon.com/coordinators-solving-a-problem-you-didnt-even-know-you-had-e86623f15ebf#.fec2isrno
 
 
 ######################################## Raphael Toledo ##############################################
@@ -349,3 +372,6 @@ https://android.jlelse.eu/writing-custom-lint-rules-and-integrating-them-with-an
 https://android.jlelse.eu/getting-started-with-android-things-b73be3295b42#.rxl4tdo75
 https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522#.ce0px3kwi
 https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186#.99sy4dpej
+https://android.jlelse.eu/practical-challenges-for-rxjava-learners-1821c454de9#.oe4hzkzfe
+https://android.jlelse.eu/stress-testing-android-apps-601311ebf590#.c27j2h2zk
+
