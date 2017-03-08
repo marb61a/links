@@ -142,6 +142,7 @@ https://azurelogic.com/posts/web-scraping-with-nightmare-js/
 https://blog.codeship.com/running-node-js-linux-systemd/
 http://nerds.intuo.io/2016/07/06/setup-cucumberjs-webdriverio-and-chai-js.html
 https://dzone.com/articles/testing-http-apis-with-supertest
+https://dzone.com/articles/how-to-use-twitter-api-using-nodejs
 http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/
 https://www.distelli.com/docs/tutorials/automated-mocha-tests-for-node
 https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
@@ -194,9 +195,6 @@ https://realm.io/news/first-object-database-realm-node-js-server/
 https://www.londonappdeveloper.com/how-to-build-a-websocket-multi-client-chat-using-ionic-and-node-js/
 http://stackparse.posthaven.com/exposing-node-dot-js-process-metrics-using-pm2-and-pmx
 http://www.theodo.fr/blog/2016/11/getting-started-with-the-physical-web-part-1/
-https://www.compose.com/articles/getting-started-with-elasticsearch-and-node/
-https://www.compose.com/articles/power-prototyping-with-mongodb-and-node-red-2/
-https://www.compose.com/articles/building-javascript-microservices-with-senecajs-and-compose/
 https://www.future-processing.pl/blog/a-curious-case-of-memory-leak-in-a-node-js-app/
 https://blog.pusher.com/how-to-build-a-realtime-activity-feed-with-react-and-pusher/
 https://remysharp.com/2016/12/06/auto-detect-node-version-in-npm-start
@@ -215,3 +213,14 @@ https://blog.hellojs.org/10-minute-javascript-library-development-in-es6-with-ba
 https://www.exclamationlabs.com/blog/continuous-deployment-to-npm-using-gitlab-ci/
 http://jlongster.com/A-Prettier-Formatter
 http://coenraets.org/blog/2017/01/react-native-sample-app-tutorial/
+https://blog.continuation.io/building-and-embedding-node-js-as-a-shared-library/
+https://ponyfoo.com/articles/content-security-policy-in-express-apps
+https://blog.qmo.io/how-to-make-jenkins-build-nodejs-ruby-and-maven-on-docker/
+http://vitomd.com/blog/coding/deploy-a-javascript-node-app-to-heroku-in-20-minutes/
+http://lorenstewart.me/2017/02/03/twitter-api-uploading-videos-using-node-js/
+https://asafdav2.github.io/2017/node-js-timers/
+http://www.theodo.fr/blog/2017/02/have-your-mvp-running-in-prod-within-15-minutes-with-serverless/
+http://gonehybrid.com/how-to-create-a-node-js-microservice-for-your-ionic-app/
+http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html
+https://nodesource.com/blog/scale-node-js-with-n-solid-and-kubernetes-on-azure-container-services
+http://blog.websecurify.com/2017/03/http-pcap-in-node.html
