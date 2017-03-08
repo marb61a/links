@@ -327,3 +327,23 @@ https://github.com/micro-analytics/micro-analytics - Public analytics as a Node.
 https://github.com/mike-eason/oledb - A small promised based module
 https://github.com/millwrightjs/millwright - The easiest build tool you'll ever use.
 https://github.com/team-emt/razorframe - Node library for empowering real-time applications at scale
+https://github.com/simple-statistics/simple-statistics - simple statistics for node & browser javascript 
+https://github.com/breakdance/breakdance/ - HTML to markdown converter
+https://github.com/oliver-moran/jimp - An image processing library
+https://github.com/kirillrogovoy/promised-pipe - A ramda.pipe-like utility that handles promises internally
+https://github.com/svg/svgo - Nodejs-based tool for optimizing SVG vector graphics files
+https://github.com/nodegit/nodegit - Native Node bindings to Git.
+https://github.com/craftship/codebox-npm - Serverless private npm registry
+https://github.com/yamafaktory/pattern-guard - JavaScript pattern guards
+https://github.com/alexreardon/memoize-one - A memoization library which only remembers the latest invocation
+https://github.com/eggjs/egg - Born to build better enterprise frameworks and apps with Node.js & koa
+https://github.com/littlstar/s3-lambda - Lambda functions over S3 objects with concurrency control
+https://github.com/botpress/botpress - The only sane way of building great bots.
+https://github.com/FuturisticCake/phin - Ultra-simple, lightweight, dependency-free Node.JS HTTP request client
+https://github.com/mzabriskie/axios - Promise based HTTP client for the browser and node.js
+https://github.com/nodebox/opentype.js - Read and write OpenType fonts using JavaScript
+https://github.com/brianc/node-postgres - PostgreSQL client for node.js.
+https://github.com/hemerajs/hemera - A Node.js microservices toolkit for NATS
+https://github.com/typicode/pkg-ok - Prevents publishing a module with bad paths
+https://github.com/felixrieseberg/razer-chroma - Control your Razer Keyboard, right from Node
+https://github.com/mattallty/Caporal.js - A full-featured framework for building command line applications (cli) with node.js
