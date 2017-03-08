@@ -34,6 +34,8 @@ https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/
 https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/
 https://www.sitepoint.com/private-npm-packages-verdaccio/
 https://www.sitepoint.com/building-facebook-chat-bot-node-heroku/
+https://www.sitepoint.com/build-microblog-node-js-git-markdown/
+https://www.sitepoint.com/node-js-mvc-application/
 
 
 ######################################## Scotch.io ##############################################
@@ -97,6 +99,12 @@ https://medium.com/@ryyppy/shipping-flowtype-definitions-in-npm-packages-c987917
 https://medium.com/@anaptfox/getting-started-with-amazon-polly-using-node-js-345e84dbd23d#.fw7d5vb27
 https://medium.com/software-engineering/beautiful-node-apis-eaf0b636cbe#.daayxuz3z
 https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.1yii3796j
+https://medium.com/@yash.kulshrestha/using-lets-encrypt-with-express-e069c7abe625#.451m8mcic
+https://medium.com/@zurfyx/building-a-scalable-node-js-express-app-1be1a7134cfd#.vxwutec5w
+https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c#.w8zzm16kr
+https://medium.com/@iamnayr/a-multi-part-analysis-of-node-docker-image-sizes-using-yarn-vs-traditional-npm-2c20f034c08f#.uyo7kaujf
+https://medium.com/@nparsons08/real-time-delivery-updates-with-slack-mongodb-atlas-tailable-cursors-802b08b2c6c4#.xw1dpn5jc
+https://medium.com/@graeme_boy/how-to-optimize-cpu-intensive-work-in-node-js-cdc09099ed41#.a80mmmeq4
 
 
 ######################################## Risingstack ##############################################
@@ -144,6 +152,11 @@ https://community.risingstack.com/tutorial-building-expressjs-based-microservice
 https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/
 https://community.risingstack.com/how-to-find-node-js-performance-optimization-killers/
 https://blog.risingstack.com/event-sourcing-with-examples-node-js-at-scale/
+https://blog.risingstack.com/cqrs-explained-node-js-at-scale/
+https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/
+https://community.risingstack.com/building-a-microservices-example-game-with-distributed-messaging/
+https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/
+https://community.risingstack.com/using-heroku-node-js-production-ready-application-checklist/
 
 
 ######################################## Tutsplus ##############################################
@@ -195,6 +208,7 @@ https://davidwalsh.name/git-hook-npm-install-package-json-modified
 https://davidwalsh.name/get-webpage-screenshot
 https://davidwalsh.name/slimerjs-screenshots
 https://davidwalsh.name/stdlib
+https://davidwalsh.name/system-notifications-node
 
 
 ######################################## Smashing Magazine ##############################################
@@ -241,6 +255,8 @@ https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08#.tj
 https://hackernoon.com/using-server-less-architecture-to-massively-parallelize-dna-sequence-alignment-via-stdlib-and-343dd2d5aebf#.krsf4fuhi
 https://hackernoon.com/scrape-any-website-service-api-with-a-single-sql-select-statement-8d60be1e9a49#.i6gzo37rd
 https://hackernoon.com/microservice-series-scraper-ee970df3e81f#.wmao4t76w
+https://hackernoon.com/build-an-alexa-skill-in-7-minutes-flat-with-node-js-and-stdlib-70611f58c37f#.vqp8bylsc
+
 
 ######################################## Thisdavej ##############################################
 http://thisdavej.com/getting-started-with-yaml-in-node-js-using-js-yaml/
@@ -316,3 +332,11 @@ http://blog.bandwidth.com/creating-a-webrtc-app-with-typescript-and-bandwidth
 http://blog.bandwidth.com/building-a-sms-weather-and-image-bot
 http://blog.bandwidth.com/express-es5-to-koa-es7/
 http://blog.bandwidth.com/intro-to-simple-docker-with-node-koa/
+
+
+######################################## Compose ##############################################
+https://www.compose.com/articles/getting-started-with-elasticsearch-and-node/
+https://www.compose.com/articles/power-prototyping-with-mongodb-and-node-red-2/
+https://www.compose.com/articles/building-javascript-microservices-with-senecajs-and-compose/
+https://www.compose.com/articles/authenticating-node-red-with-jsonwebtoken/
+https://www.compose.com/articles/document-validation-in-mongodb-by-example/
