@@ -265,3 +265,29 @@ https://github.com/armilam/google-assistant-ruby - A ruby gem for creating Googl
 https://github.com/andymeneely/squib - A Ruby DSL for prototyping card games.
 https://github.com/keepcosmos/terjira - Terjira is a very interactive and easy to use CLI tool for Jira
 https://github.com/markets/invisible_captcha - Unobtrusive and flexible spam protection for RoR apps
+https://github.com/NullVoxPopuli/drawers - Group related classes together. No more silos.
+https://github.com/leereilly/swot - Identify email addresses or domains names that belong to colleges or universities
+https://github.com/palkan/litecable - Lightweight ActionCable implementation (Rails-free)
+https://github.com/westonganger/spreadsheet_architect - lets you turn any activerecord relation  into a XLSX, ODS etc
+https://github.com/schmich/spicy-proton - Generate a random English adjective-noun word pair in Ruby
+https://github.com/metaware/underlock - makes it dead simple to encrypt and decrypt your data and files
+https://github.com/piotrmurach/tty - Toolbox for developing CLI clients
+https://github.com/bogdan-dumitru/cljs-rails - Clojurescript integration for Rails inspired by webpack-rails
+https://github.com/danielpclark/state_inspector - State change & method call logger
+https://github.com/stympy/faker - A library for generating fake data
+https://github.com/jamesrwhite/minicron - Monitor your cron jobs
+https://github.com/KMarshland/heroku-ssl - Quickly and easily add SSL to Rails applications
+https://github.com/davidgf/design-patterns-in-ruby - GoF design patterns in Ruby
+https://github.com/peterc/trtl - Tk-powered Ruby turtle graphics
+https://github.com/kigster/sym - makes it trivial to encrypt and decrypt sensitive data
+https://github.com/kigster/simple-feed - implements a flexible time-ordered activity feeds
+https://github.com/simplymadeapps/simple_scheduler - An enhancement for Heroku Scheduler + Sidekiq
+https://github.com/Medvedu/rudisco - Rubygems local database
+https://github.com/omniauth/omniauth - a flexible authentication system utilizing Rack middleware
+https://github.com/boazsegev/iodine - HTTP / Websocket Server & EventMachine alternative for Ruby MRI
+https://github.com/jeremyevans/ruby-refrigerator - Freeze all core ruby classes
+https://github.com/cjhdev/contrived_json - A JSON parser implemented using Flex, Bison, and Ruby
+https://github.com/jeremyevans/erubi - Small ERB Implementation
+https://github.com/godfat/rib - Yet another interactive Ruby shell
+https://github.com/jacobsmith/queryable_pstore - Adds a small wrapper to allow for easily querying a PStore in Ruby.
+
