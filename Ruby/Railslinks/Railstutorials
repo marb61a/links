@@ -23,6 +23,10 @@ http://blog.honeybadger.io/a-rubyist-s-guide-to-big-o-notation/
 http://blog.honeybadger.io/a-beginner-s-guide-to-exceptions-in-ruby/
 http://blog.honeybadger.io/common-rails-idioms-that-kill-database-performance/
 http://blog.honeybadger.io/ruby-rescue-elegant-trick-for-knowing-which-exceptions-to-catch/
+http://blog.honeybadger.io/easy_rails_database_scaling_wins/
+http://blog.honeybadger.io/introducing-our-sidekiq-cluster-script/
+http://blog.honeybadger.io/objects-as-ruby-hash-keys/
+http://blog.honeybadger.io/ruby_unicode_normalization/
 
 
 ###################################### Medium ####################################################
@@ -58,6 +62,10 @@ https://medium.com/@slainer68/developing-a-wizard-or-multi-steps-forms-in-rails-
 https://medium.com/@gauravbasti2006/async-mongo-queries-in-ruby-96a31b48b8f3#.elji5no0y
 https://medium.com/@rob__race/how-to-setup-and-deploy-a-rails-5-app-on-aws-beanstalk-with-postgresql-redis-and-more-88a38355f1ea#.fhbapt94j
 https://medium.com/@stevenpetryk/providing-useful-error-responses-in-a-rails-api-24c004b31a2e#.2ff7vua6q
+https://medium.com/trisfera/getting-to-know-and-love-aws-elastic-beanstalk-configuration-files-ebextensions-9a4502a26e3c#.42c576f4i
+https://medium.freecodecamp.com/how-to-dry-out-your-rspec-tests-using-shared-examples-d5cc5d33fd76#.l79o2bxz6
+https://medium.com/@amliving/rubys-unary-operator-a93d36d3cd8b#.oqmxc4hio
+https://medium.com/statuscode/introducing-webpacker-7136d66cddfb#.2cczdlo4t
 
 
 ###################################### Justin Weiss ####################################################
@@ -65,7 +73,8 @@ http://www.justinweiss.com/blog/2015/09/01/should-you-use-scopes-or-class-method
 http://www.justinweiss.com/articles/with-so-much-rails-to-learn//
 http://www.justinweiss.com/blog/2015/09/08/keeping-your-logs-from-becoming-an-unreadable-mess/
 http://www.justinweiss.com/blog/2015/09/15/3-steps-to-fix-encoding-problems-in-ruby/
-http://www.justinweiss.com/articles/how-to-get-from-theyre-to-theyre//
+http://www.justinweiss.com/articles/how-to-get-from-theyre-to-theyre/
+https://www.justinweiss.com/articles/writing-a-one-time-script-in-rails/
 
 
 ###################################### Semaphoreci ####################################################
@@ -81,6 +90,7 @@ https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-minite
 https://semaphoreci.com/community/tutorials/how-to-reduce-controller-bloat-with-interactors-in-ruby
 https://semaphoreci.com/community/tutorials/using-rspec-metadata
 https://semaphoreci.com/community/tutorials/integration-testing-ruby-on-rails-with-minitest-and-capybara
+https://semaphoreci.com/community/tutorials/stubbing-the-aws-sdk
 
 
 ###################################### Jake Yesbeck ####################################################
@@ -156,6 +166,9 @@ https://blog.codeship.com/replacing-sinatra-with-rack-in-sidekiq/
 https://blog.codeship.com/refactoring-legacy-rails-controllers/
 https://resources.codeship.com/ebooks/test-deploy-docker-apps-aws-elastic-beankstalk-ebs-aw
 https://blog.codeship.com/creating-advanced-active-record-db-queries-arel/
+https://blog.codeship.com/effectively-testing-dockerized-ruby-applications/
+https://blog.codeship.com/the-evernote-api-in-rails/
+https://blog.codeship.com/creating-powerful-command-line-tools-in-ruby/
 
 
 ###################################### Rossta ####################################################
@@ -240,6 +253,7 @@ http://www.blackbytes.info/2016/09/object-space/
 http://www.blackbytes.info/2016/11/code-analysis-minitest/
 http://www.blackbytes.info/2017/01/spy-on-your-ruby-methods/
 http://www.blackbytes.info/2017/01/read-binary-data/
+http://www.blackbytes.info/2017/02/weird-ruby/
 
 
 ###################################### Wyeworks ####################################################
@@ -260,6 +274,7 @@ http://blog.bigbinary.com/2016/03/08/rails-5-switches-from-strong-etags-to-weak-
 http://blog.bigbinary.com/2016/04/13/rails-5-adds-option-to-log-warning-when-fetching-big-result-sets.html
 http://blog.bigbinary.com/2016/08/17/rails-5-allows-wildcard-for-specifying-template-dependencies.html
 http://blog.bigbinary.com/2016/11/22/ruby-2-4-introduces-liberal_parsing-option-for-parsing-bad-csv-data.html
+http://blog.bigbinary.com/2017/03/07/io-readlines-now-accepts-chomp-flag-as-an-argument.html
 
 
 ###################################### Performance Book ####################################################
@@ -284,6 +299,7 @@ http://blog.arkency.com/2016/09/minimal-decoupled-subsystems-of-your-rails-app/
 http://blog.arkency.com/2016/10/running-bash-command-from-ruby-with-your-bash-profile/
 http://blog.arkency.com/2016/10/the-esthetics-of-a-ruby-service-object/
 http://blog.arkency.com/2016/12/event-sourced-domain-objects-in-less-than-150-loc/
+http://blog.arkency.com/2017/02/yield-default-object/
 
 
 ###################################### Tutsplus ####################################################
@@ -381,6 +397,8 @@ http://blog.appsignal.com/blog/2016/09/27/git-rebasing-strategies.html
 http://blog.appsignal.com/blog/2016/10/18/ruby-magic-exceptions-primer.html
 http://blog.appsignal.com/2016/11/23/ruby-magic-building-a-30-line-http-server-in-ruby.html
 http://blog.appsignal.com/2016/12/21/ruby-magic-escaping-in-ruby.html
+http://blog.appsignal.com/2017/01/24/ruby-magic-building-a-ruby-http-server-part-2-running-a-rails-app.html
+http://blog.appsignal.com/2017/03/07/ruby-magic-concurrency-processes.html
 
 
 ###################################### Schneems ####################################################
@@ -389,3 +407,5 @@ https://www.schneems.com/blogs/2016-04-07-conference-proposal/
 https://www.schneems.com/2016/05/31/saving-sprockets.html
 https://www.schneems.com/2016/11/14/statistical-lit.html
 https://www.schneems.com/2016/11/21/writing-a-rails-feature-blow-by-blow/
+https://www.schneems.com/2016/01/25/ruby-debugging-magic-cheat-sheet.html
+
