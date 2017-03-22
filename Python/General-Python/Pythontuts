@@ -30,6 +30,7 @@ https://medium.com/@trstringer/the-easy-and-nice-way-to-do-cli-apps-in-python-5d
 https://medium.com/python-pandemonium/python-introspection-with-the-inspect-module-2c85d5aa5a48#.xitw8e9jq
 https://medium.com/@hoppy/how-to-test-or-scrape-javascript-rendered-websites-with-python-selenium-a-beginner-step-by-c137892216aa#.l3a42lt9y
 https://medium.com/instamojo-matters/become-a-pdb-power-user-e3fc4e2774b2#.joq1d7ypj
+https://medium.com/hockey-stick/tl-dr-bayesian-a-b-testing-with-python-c495d375db4d#.fpv1y5gny
 
 
 ####################################### Python Library ###########################################################
@@ -44,6 +45,7 @@ http://www.blog.pythonlibrary.org/2016/07/27/python-visualization-with-bokeh/
 http://www.blog.pythonlibrary.org/2016/07/26/python-3-an-intro-to-asyncio/
 http://www.blog.pythonlibrary.org/2016/10/07/an-intro-to-the-python-imaging-library-pillow/
 http://www.blog.pythonlibrary.org/2016/10/11/how-to-create-a-diff-of-an-image-in-python/
+http://www.blog.pythonlibrary.org/2017/02/08/new-in-python-formatted-string-literals/
 
 
 ####################################### Eli Bendersky ###########################################################
@@ -67,6 +69,8 @@ https://dbader.org/blog/python-min-max-and-nested-lists
 https://dbader.org/blog/live-python-code-review
 https://dbader.org/blog/python-code-review-unplugged-episode-2
 https://dbader.org/blog/python-code-linting
+https://dbader.org/blog/python-assert-tutorial
+https://dbader.org/blog/python-lambda-functions
 
 
 ####################################### Dataquest ###########################################################
@@ -111,6 +115,7 @@ https://semaphoreci.com/community/tutorials/getting-started-with-behavior-testin
 https://semaphoreci.com/community/tutorials/testing-python-requests-with-betamax
 https://semaphoreci.com/community/tutorials/mocks-and-monkeypatching-in-python
 https://semaphoreci.com/community/tutorials/building-and-testing-an-api-wrapper-in-python
+https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest
 
 
 ####################################### VKinght ###########################################################
@@ -142,6 +147,7 @@ https://realpython.com/blog/python/python-virtual-environments-a-primer/
 https://realpython.com/blog/python/testing-third-party-apis-with-mock-servers/
 https://realpython.com/blog/python/pygame-a-primer/
 https://realpython.com/blog/python/introduction-to-mongodb-and-python/
+https://realpython.com/blog/python/token-based-authentication-with-flask/
 
 
 ####################################### Hackernoon ###########################################################
@@ -149,3 +155,18 @@ https://hackernoon.com/asynchronous-python-45df84b82434#.rzdzat54f
 https://hackernoon.com/timing-tests-in-python-for-fun-and-profit-1663144571#.pcbcoc88w
 https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32#.1elevmbpq
 https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e#.ylspk9yp4
+https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc#.g01hyryp1
+
+
+####################################### Bernardblog ###########################################################
+https://benbernardblog.com/my-startling-encounter-with-python-debuggers/
+https://benbernardblog.com/my-startling-encounter-with-python-debuggers-part-2/
+https://benbernardblog.com/tracking-down-a-freaky-python-memory-leak/
+https://benbernardblog.com/tracking-down-a-freaky-python-memory-leak-part-2/
+
+
+####################################### Datacamp ###########################################################
+https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#gs.L8t2NK8
+https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.cT7N2IA
+https://www.datacamp.com/community/tutorials/machine-learning-python#gs.abeyMhc
+https://www.datacamp.com/community/tutorials/python-excel-tutorial#gs.Dq16r2w
