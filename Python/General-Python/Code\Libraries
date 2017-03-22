@@ -248,3 +248,34 @@ https://github.com/pcbje/gransk - Document processing for investigations
 https://github.com/GoSecure/malboxes - Builds malware analysis Windows VMs so that you don't have to
 https://github.com/ecthros/pina-colada - A powerful and extensible wireless drop box
 https://github.com/openai/universe - a software platform for measuring and training an AI's general intelligence
+https://github.com/atpaino/deep-text-corrector - Deep learning models trained to correct input errors in short, message-like text
+https://github.com/lazywei/psync - Synchronize project based on rsync; support watching changes and sync automatically
+https://github.com/titusjan/argos - Argos Panoptes HDF/NCDF/scientific data viewer.
+https://github.com/brilee/MuGo - Replicating AlphaGo's architecture in a readable manner
+https://github.com/pyk/hsr - Hand signals recognition using Convolutional Neural Network
+https://github.com/4w4k3/rePy2exe - A Reverse Engineering Tool for py2exe applications.
+https://github.com/pytorch/pytorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/c0riolis/tifu - A tool that helps you to restore commits erased by a force push
+https://github.com/paulgclark/waveconverter - An Open Source tool for RF reverse engineering.
+https://github.com/kanishka-linux/kawaii-player - Audio/Video manager, multimedia player and portable media server
+https://github.com/czheo/syntax_sugar_python - A library adding some anti-Pythonic syntatic sugar to Python
+https://github.com/meownoid/face-identification-tpe - Face identification using CNN + TPE written with Keras
+https://github.com/wroscoe/donkey - self driving car
+https://github.com/google/glazier - A tool for automating the installation of the Microsoft Windows
+https://github.com/kennethreitz/pipenv - Sacred Marriage of Pipfile, Pip, & Virtualenv. 
+https://github.com/pfnet/PaintsChainer - line drawing colorization using chainer
+https://github.com/RUB-NDS/PRET - Printer Exploitation Toolkit - The tool that made dumpster diving obsolete
+https://github.com/kylemcdonald/FreeWifi - How to get free wifi.
+https://github.com/Shmoopty/rpi-appliance-monitor - Device to monitor appliances that vibrate
+https://github.com/saurabhmathur96/clickbait-detector - Detects clickbait headlines using deep learning
+https://github.com/samdroid-apps/pyract - Think: Gtk+ meets React + MobX but for Python
+https://github.com/Netflix/hubcommander - A Slack bot for GitHub organization management
+https://github.com/jarrekk/imgkit - Wkhtmltoimage python wrapper to convert html to image
+https://github.com/thanethomson/MLAlchemy - Python library to convert YAML/JSON into SQLAlchemy SELECT queries
+https://github.com/stampery/mongoaudit - A powerful MongoDB auditing and pentesting tool
+https://github.com/ergonomica/ergonomica - Ergonomica is a cross-platform shell language
+https://github.com/manwhoami/Bella -  post-exploitation, data mining tool and remote administration tool for macOS.
+https://github.com/Netflix/stethoscope - Personalized, user-focused recommendations for employee information security.
+https://github.com/synhack/mercure - Mercure is a tool for security managers who want to train their colleague to phishing.
+https://github.com/dropbox/securitybot - Distributed alerting for the masses!
+https://github.com/ofek/privy - Password-protected secrets made easy.
