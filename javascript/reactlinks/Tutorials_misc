@@ -1,9 +1,6 @@
 ###################################### Miscellaneous Tutorials ##################################################################
 http://buildwithreact.com
 http://reactjs.net/getting-started/tutorial.html
-http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
-http://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js/
-https://tylermcginnis.com/react-elements-vs-react-components/
 https://zapier.com/engineering/react-js-tutorial-guide-gotchas/
 http://up.svbtle.com/blackjackin-with-react-js
 http://dapperdeveloper.com/2015/07/04/react-js-and-flux-todo-tutorial/
@@ -55,6 +52,7 @@ http://benchling.engineering/performance-engineering-with-react/
 http://www.zohaib.me/redux-call-service-async/
 http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 http://blog.goguardian.com/nerds/chrome-extensions-in-react
+http://blog.goguardian.com/nerds/an-odyssey-to-find-a-sustainable-icon-system-with-svgs-in-react
 http://blog.daiwei.lu/what-i-learned-from-redux-the-redux-pattern/
 http://technologyadvice.github.io/app-analytics-redux/
 https://blog.searchkit.co/searchkit-0-8-2c6432f9b4ac#.n0irews75
@@ -68,6 +66,7 @@ https://m.alphasights.com/killing-cors-preflight-requests-on-a-react-spa-1f9b04a
 https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/
 https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 https://www.toptal.com/react/react-redux-and-immutablejs
+https://www.toptal.com/javascript/immutability-in-javascript-using-redux
 https://devbutze.com/p/306
 http://www.jamasoftware.com/blog/lets-write-redux/
 http://hackingbeauty.com/create-a-reactjs-component-part1/
@@ -92,7 +91,8 @@ http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-
 http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/
 http://blog.webkid.io/react-ui-libraries/
 https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/
-http://blog.goguardian.com/nerds/an-odyssey-to-find-a-sustainable-icon-system-with-svgs-in-react
+https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/
+https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
 http://blog.getstream.io/cabin-react-redux-example-app-imgix/
 https://www.netlify.com/blog/2016/07/26/our-conversion-from-angular-to-react
 http://goshakkk.name/react-custom-renderers/
@@ -104,7 +104,6 @@ http://www.robinwieruch.de/mobx-react/
 http://www.robinwieruch.de/redux-mobx-confusion/
 https://www.ckl.io/blog/3-simple-steps-to-improve-react-redux-code/
 http://blog.wolksoftware.com/dependency-injection-in-react-powered-inversifyjs
-https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/
 http://nikolay.rocks/2016-09-09-responsive-charts
 https://formidable.com/blog/2016/09/15/introducing-react-game-kit/
 http://benmccormick.org/2016/09/19/testing-with-jest-snapshots-first-impressions/
@@ -115,6 +114,8 @@ https://www.pubnub.com/blog/2016-06-14-getting-started-with-pubnub-and-react/
 https://www.pubnub.com/blog/2016-09-26-4-tutorials-create-language-in-less-than-200-lines-of-code/
 https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e#.63s3zrz84
 https://auth0.com/blog/bootstrapping-a-react-project/
+https://auth0.com/blog/testing-react-applications-with-jest/
+https://auth0.com/blog/optimizing-react/
 http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/
 https://diessi.ca/blog/svg-images-as-react-components-with-webpack
 http://julian.io/new-horizons-with-horizon-rethinkdb-and-react/
@@ -154,6 +155,22 @@ http://reactkungfu.com/2016/11/dynamic-jsx-tags/
 http://jaysoo.ca/2016/02/28/organizing-redux-application/
 https://blog.yld.io/2016/11/25/react-component-profiling
 https://goshakkk.name/should-i-put-form-state-into-redux/
+https://goshakkk.name/instant-form-fields-validation-react/
+https://goshakkk.name/array-form-inputs/
 https://techblog.commercetools.com/advanced-data-tables-in-react-dbe33f8345ab#.w593z3nry
 https://blog.pusher.com/how-to-build-a-realtime-activity-feed-with-react-and-pusher/
 https://www.netlify.com/blog/2016/11/10/3-of-the-most-common-errors-in-react/
+https://blog.sicara.com/a-starting-point-on-using-d3-with-react-869fdf3dfaf
+http://cloudinary.com/blog/how_to_develop_a_react_library
+http://blog.testdouble.com/posts/2017-01-05-react-d3.html
+http://techblog.netflix.com/2017/01/crafting-high-performance-tv-user.html
+https://www.zillow.com/engineering/redux-inputs-library-react-forms/
+https://appendto.com/2017/01/learn-react-through-20-progressively-more-complex-open-source-apps/
+https://appendto.com/2017/01/3-libraries-and-3-ways-to-handle-ajax-in-react-apps/
+https://appendto.com/2017/01/react-events-101/ 
+https://datarockets.com/blog/typing-react-components
+http://blog.filestack.com/api/crop-resize-filter-images-javascript-react/
+https://60devs.com/pure-component-in-react.html
+https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8
+https://develoger.com/when-you-need-flux-library-explained-with-car-as-example-f3cd73296cdc
+
