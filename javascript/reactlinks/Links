@@ -33,6 +33,10 @@ https://www.youtube.com/watch?v=aV1271hd9ew - What's Next for React — ReactNex
 https://www.youtube.com/watch?v=_70Yp8KPXH8 - Component Based Style Reuse
 https://www.youtube.com/watch?v=19gqsBc_Cx0 - Styling React.JS applications
 https://www.youtube.com/watch?v=xRoYf-QgHpc - How to write your first React component
+https://egghead.io/lessons/javascript-public-class-fields-with-react-components
+https://www.youtube.com/watch?v=VZaQfb2y6BI - React Workshop at PayPal 2016-12-13
+https://www.youtube.com/watch?v=PahsgJn0sgU - How to use Redux in Polymer 
+https://www.youtube.com/watch?v=NMiYaaB0-fI - App In an Hour: Making a Discussion Board with React and Firebase
 
 
 ##Playlists & Channels
@@ -40,6 +44,8 @@ https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU - React
 https://www.youtube.com/watch?v=iVKPbH3qyW0&list=PLanDnKP78H3yAjtSHvXQ8nrj9KgdSRuEP 
 https://www.youtube.com/watch?v=-xiki68cpTc&list=PLXoXQD8Ev85ZZEg6Es3TU6AjmnFY1n4Bu&index=2
 https://www.youtube.com/playlist?list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY - Building app with React and Redux
+https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw/playlists -  This Dot Media
+
 
 ##ReactCasts
 https://www.youtube.com/watch?v=LTunyI2Oyzw - ReactCasts #1 - Higher Order Components
@@ -196,6 +202,22 @@ https://github.com/tylermcginnis/react-router-firebase-auth - Example of how to 
 https://github.com/tifa2UP/Netly - Linkedin.com clone built using React.js
 https://github.com/reactive-react/react-most - Declarative Monadic Reactive State Container for React
 https://github.com/threepointone/markdown-in-js - inline markdown for react/jsx
+https://github.com/robeio/robe-react-ui - Robe React UI Components
+https://github.com/codecks-io/react-reform - Helps you create powerful themes for pleasant to use forms
+https://github.com/chvin/react-tetris - Use React, Redux, Immutable to code Tetris.
+https://github.com/andrerpena/react-mde - React Markdown Editor
+https://github.com/alibaba/rax - A universal React-compatible render engine
+https://github.com/jamesknelson/junctions - Give your ReactJS components routes.
+https://github.com/ericls/react-put - A flexible formatter and i18n interface for React.
+https://github.com/chrvadala/react-svg-pan-zoom - A React component that adds pan and zoom features to SVG 
+https://github.com/tannerlinsley/react-table - React Table - A lightweight, fast and extendable datagrid for React
+https://github.com/joshwcomeau/react-collection-helpers - A suite of composable utility components to manipulate collections
+https://github.com/ReactTraining/react-router - Declarative routing for React
+https://github.com/cvdlab/react-planner -  A React Component for plans design
+https://github.com/bencripps/react-redux-grid - A React Grid/Tree Component written in the Redux Pattern
+https://github.com/lavrton/react-konva - a JavaScript library for drawing complex canvas graphics using React
+https://github.com/cyclejs-community/redux-cycles - Bring functional reactive programming to Redux using Cycle.js
+https://github.com/lingui/js-lingui - Tools for i18n in ReactJS
 
 
 ## Codepen
