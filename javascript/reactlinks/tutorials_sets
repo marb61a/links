@@ -16,6 +16,7 @@ http://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/
 https://www.sitepoint.com/music-streaming-app-electron-react-es6/
 https://www.sitepoint.com/exploring-reacts-state-propagation/
 https://www.sitepoint.com/building-a-game-reactjs-and-webgl/
+https://www.sitepoint.com/tutorial-build-a-react-js-application-with-user-login-and-authentication/
 
 
 ###################################### Scotch.io ################################################################## 
@@ -25,6 +26,7 @@ https://scotch.io/bar-talk/getting-started-with-redux-an-intro
 https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
 https://scotch.io/tutorials/routing-react-apps-the-complete-guide
 https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps
+https://pub.scotch.io/@zhirzh/building-a-pwa-using-react-webpack-and-other-stuff
 
 
 ###################################### Risingstack ################################################################
@@ -32,6 +34,7 @@ https://blog.risingstack.com/the-react-way-getting-started-tutorial/
 https://blog.risingstack.com/using-react-with-webpack-tutorial/
 https://blog.risingstack.com/react-js-best-practices-for-2016/
 https://blog.risingstack.com/handling-react-forms-with-mobx-observables/
+https://community.risingstack.com/handling-outside-events-with-the-redux-listener-pattern/
 
 
 ###################################### ISquaredSoftware ################################################################## 
@@ -41,6 +44,10 @@ http://blog.isquaredsoftware.com/2016/10/practical-redux-part-2-redux-orm-concep
 http://blog.isquaredsoftware.com/2016/11/practical-redux-part-3-project-planning-and-setup/
 http://blog.isquaredsoftware.com/2016/11/practical-redux-part-4-ui-layout-and-project-structure/
 http://blog.isquaredsoftware.com/2016/12/practical-redux-part-5-loading-and-displaying-data/
+http://blog.isquaredsoftware.com/2017/01/practical-redux-part-6-connected-lists-forms-and-performance/
+http://blog.isquaredsoftware.com/2017/01/practical-redux-part-7-forms-editing-reducers/
+http://blog.isquaredsoftware.com/2017/01/practical-redux-part-8-form-draft-data-management/
+http://blog.isquaredsoftware.com/2017/01/idiomatic-redux-thoughts-on-thunks-sagas-abstraction-and-reusability/
 
 
 ###################################### Medium ##################################################################
@@ -99,6 +106,7 @@ https://medium.com/@nate_wang/a-new-approach-for-managing-redux-actions-91c26ce8
 https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.29khbn8z8
 https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.izlh8kj57
 https://medium.com/walmartlabs/using-electrode-to-improve-react-server-side-render-performance-by-up-to-70-e43f9494eb8b#.4wd93hna8
+https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0
 https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a#.9rd99fwwk
 https://medium.com/@kitze/configure-create-react-app-without-ejecting-d8450e96196a#.5t1dxcs5l
 https://medium.com/front-end-hacking/react-for-designers-3fbc7b6560dd#.lpes637jc
@@ -120,6 +128,11 @@ https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-a
 https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a#.7nhh23a9w
 https://medium.com/myntra-engineering/updating-apps-on-the-fly-aab40c26fac2#.d2s75zpkp
 https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.m3styxd6q
+https://medium.com/@shopsifter/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1
+https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem-7dfeb1aafde0
+https://medium.com/@zbzzn/integrating-react-and-datatables-not-as-hard-as-advertised-f3364f395dfa
+https://medium.com/ecmastack/uploading-files-with-react-js-and-node-js-e7e6b707f4ef
+https://medium.com/@_ankitp/inverting-control-in-react-lap-1-fd1074088619
 
 
 ###################################### Raja Rao ##################################################################
@@ -148,6 +161,12 @@ https://hackernoon.com/building-d3-components-with-react-7510e4743288#.j00oxmn2k
 https://hackernoon.com/math-the-react-js-way-49ece7b6471f#.jhwru76vu
 https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.o5hblnm40
 https://hackernoon.com/testing-react-components-with-jest-and-enzyme-41d592c174f#.41zb47vtq
+https://hackernoon.com/animating-particles-using-react-motion-dcded1895f17
+https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff
+https://hackernoon.com/animating-particles-using-react-motion-dcded1895f17
+https://hackernoon.com/quick-development-with-nwb-35f3fee5d837
+https://hackernoon.com/thinking-in-redux-when-all-youve-known-is-mvc-c78a74d35133
+https://hackernoon.com/open-sourcing-a-redux-component-bb82f260ff62
 
 
 ###################################### Freecodecamp ##################################################################
@@ -159,6 +178,7 @@ https://medium.com/@paulwithap/the-most-important-eslint-rule-for-redux-applicat
 https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1#.zi8xjehdv
 https://medium.freecodecamp.com/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468#.edxmt5u5m
 https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1#.spzb8m9nt
+https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22
 
 
 ###################################### Javascript Inside ##################################################################
@@ -180,6 +200,7 @@ http://jamesknelson.com/state-react-2-inception-redux/
 http://jamesknelson.com/state-react-1-stateless-react-app/
 http://jamesknelson.com/5-types-react-application-state/
 http://jamesknelson.com/even-need-routing-library/
+http://jamesknelson.com/created-junctions-js/
 
 
 ###################################### Swizec ################################################################
@@ -192,6 +213,7 @@ http://swizec.com/blog/how-to-make-a-piechart-using-react-and-d3/will/6785
 https://reactjsnews.com/webpack-in-production
 https://reactjsnews.com/redux-middleware
 https://reactjsnews.com/how-to-make-your-react-apps-10x-faster
+https://reactjsnews.com/react-js-with-cloudinary
 
 
 ###################################### Krasimir Tsonev ##################################################################
@@ -199,6 +221,7 @@ http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webp
 http://krasimirtsonev.com/blog/article/distributing-react-components-babel-browserify-webpack-uglifyjs
 http://krasimirtsonev.com/blog/article/The-bare-minimum-to-work-with-React
 http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
+http://krasimirtsonev.com/blog/article/children-in-jsx
 
 
 ###################################### Dave Ceddia ##################################################################
@@ -209,6 +232,8 @@ https://daveceddia.com/visual-guide-to-state-in-react/
 https://daveceddia.com/how-to-learn-react/
 https://daveceddia.com/what-to-test-in-react-app/
 https://daveceddia.com/what-is-a-thunk/
+https://daveceddia.com/thinking-statefully/
+https://daveceddia.com/redux-action-creators/
 
 
 ###################################### Stormpath ##################################################################
@@ -216,3 +241,13 @@ https://stormpath.com/blog/react-sdk-custom-forms/
 https://stormpath.com/blog/build-a-redux-powered-react-application/
 https://stormpath.com/blog/react-facebook-login
 https://stormpath.com/blog/crud-application-react-spring-boot-user-authentication
+
+
+###################################### Tyler McGinnis ##################################################################
+https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
+https://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-function-composition-in-react-js/
+https://tylermcginnis.com/react-elements-vs-react-components/
+https://tylermcginnis.com/react-interview-questions/
+https://tylermcginnis.com/react-aha-moments/
+https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js/
+
