@@ -94,6 +94,7 @@ http://elijahmanor.com/npm-precommit-scripts/
 http://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/
 http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd/
 http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad
+http://jrsinclair.com/articles/2017/javascript-without-loops/
 http://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/
 http://thejsguy.com/2016/07/30/javascript-for-loop-vs-array-foreach.html
 http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html
@@ -114,6 +115,7 @@ https://nolanlawson.com/2017/01/09/how-to-write-a-javascript-package-for-both-no
 http://x-team.com/2016/08/beginners-guide-ionic-2-mobile-applications/
 https://bocoup.com/weblog/test262-is-a-javascript-sideshow
 https://bocoup.com/weblog/javascript-developers-watch-your-language
+https://bocoup.com/blog/lets-define-my-favorite-test
 https://madebymike.com.au//writing/service-workers/
 https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
 http://hasharray.pw/tutorials/javascript/tracking-outbound-forms-and-links-with-google-analytics
@@ -132,6 +134,7 @@ https://benjaminlistwon.com/blog/data-flow-in-vue-and-vuex/
 http://gilesbowkett.blogspot.ie/2016/10/this-infographic-explains-why-js-dev.html
 https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.g4u6apom8
 http://jazcash.com/a-javascript-journey-with-only-six-characters/
+https://blog.pusher.com/build-live-comments-feature-using-javascript/
 http://marcgg.com/blog/2016/11/01/javascript-audio/
 https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f#.l7jni8l2i
 http://blog.wolksoftware.com/contributing-to-definitelytyped
@@ -153,6 +156,7 @@ http://www.onextrapixel.com/2016/11/16/8-javascript-libraries-for-interactive-ma
 https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/
 https://svelte.technology/blog/frameworks-without-the-framework/
 https://appendto.com/2016/11/a-friendly-introduction-to-vue-js/
+https://appendto.com/2017/02/vue-jss-single-file-components-keeping-it-all-in-one-place-2/
 https://dev.to/corgibytes/setting-up-a-minimal-yet-useful-javascript-dev-environment
 http://coenraets.org/blog/2016/11/new-version-of-forcejs-a-javascript-library-for-using-the-salesforce-apis-in-ecmascript-6-apps/
 http://benediktmeurer.de/2016/12/16/the-truth-about-traditional-javascript-benchmarks/
@@ -167,3 +171,14 @@ http://ivanjov.com/working-with-http-streams-with-cycle-js/
 http://erikaybar.name/webpack-source-maps-in-chrome/
 https://www.reaktor.com/blog/refactoring-30000-lines-js-types/
 http://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/
+https://philna.sh/blog/2017/02/09/toast-to-es20
+http://vuetips.com/introduction-continuous-integration-gitlab
+https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import
+http://jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/
+http://blog.webkid.io/image-processing-in-javascript/
+http://blog.klipse.tech/javascript/2017/02/08/tiny-compiler-intro.html
+http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html
+https://benmccormick.org/2017/02/26/running-jest-tests-before-each-git-commit/
+https://alligator.io/vuejs/e2e-testing-testcafe/
+http://mediatemple.net/blog/tips/randomizing-svg-shapes/
+https://blog.pusher.com/how-to-build-a-whos-typing-feature-in-javascript
