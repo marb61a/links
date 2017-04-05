@@ -20,6 +20,8 @@ http://ponyfoo.com/articles/understanding-javascript-async-await
 https://ponyfoo.com/articles/javascript-decorators-proposal
 https://ponyfoo.com/articles/template-literals-strictly-better-strings
 https://ponyfoo.com/articles/javascript-asynchronous-iteration-proposal
+https://ponyfoo.com/articles/observables-coming-to-ecmascript
+https://ponyfoo.com/articles/iterators-as-generators
 
 
 ####################################### Medium ###########################################################
@@ -59,6 +61,12 @@ https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem
 https://medium.com/javascript-inside/introduction-to-functional-front-ends-with-inferno-side-effects-and-routing-a8b226c47b0f#.ofbyf1ozk
 https://medium.com/@bradfmd/vue-vuex-getting-started-f78c03d9f65#.jeuj043oy
 https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.wunvznyjo
+https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201
+https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9
+https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161
+https://medium.com/statuscode/cors-a-guided-tour-4e72230a8739
+https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
+https://medium.com/dailyjs/maybe-you-should-use-maybes-297f2c88c228
 
 
 ###################################### Freecodecamp ###########################################################
@@ -120,6 +128,10 @@ http://www.2ality.com/2016/10/asynchronous-iteration.html
 http://www.2ality.com/2017/01/messagechannel.html
 http://www.2ality.com/2017/01/babel-esm-spec-mode.html
 http://www.2ality.com/2017/01/shared-array-buffer.html
+http://2ality.com/2016/10/understanding-promises.html
+http://2ality.com/2017/03/csp-vs-async-generators.html
+http://2ality.com/2017/03/es-integer.html
+http://2ality.com/2017/03/text-as-clocks.html
 
 
 ####################################### Mozilla ###########################################################
@@ -154,6 +166,9 @@ https://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-l
 https://www.smashingmagazine.com/2015/10/es6-whats-new-next-version-javascript/
 https://www.smashingmagazine.com/2016/02/javascript-ai-html-sliding-tiles-puzzle/
 https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/
+https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/
+https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/
+https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/
 
 
 ####################################### Auth0 ###########################################################
@@ -174,6 +189,7 @@ https://blog.mariusschulz.com/2016/01/13/disassembling-javascripts-iife-syntax
 https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
 https://blog.mariusschulz.com/2016/02/03/ecmascript-2016-array-prototype-includes
 https://blog.mariusschulz.com/2016/07/16/removing-elements-from-javascript-arrays
+https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type
 
 
 ####################################### Ben Nadel ###########################################################
@@ -189,6 +205,7 @@ https://blog.risingstack.com/writing-a-javascript-framework-execution-timing-bey
 https://blog.risingstack.com/async-await-node-js-7-nightly/
 https://blog.risingstack.com/writing-a-javascript-framework-data-binding-es6-proxy/
 https://community.risingstack.com/explaining-javascript-closure-scope-chain-examples/
+https://blog.risingstack.com/writing-a-javascript-framework-the-benefits-of-custom-elements
 
 
 ####################################### David Walsh ###########################################################
@@ -199,6 +216,7 @@ https://davidwalsh.name/essential-javascript-functions
 https://davidwalsh.name/speech-recognition
 https://davidwalsh.name/es6-features
 https://davidwalsh.name/spread-operator
+https://davidwalsh.name/functional-programming
 
 
 ####################################### CSS Tricks ###########################################################
@@ -206,6 +224,9 @@ https://css-tricks.com/right-click-logo-show-logo-download-options/
 https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/
 https://css-tricks.com/intro-monkey-testing-gremlins-js/
 https://css-tricks.com/introduction-mo-js/
+https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
+https://css-tricks.com/animated-intro-rxjs/
+https://css-tricks.com/creating-book-cover-using-javascript-p5-js/
 
 
 ####################################### Wes Bos ###########################################################
@@ -221,3 +242,7 @@ https://hackernoon.com/recursion-in-javascript-with-es6-destructuring-and-rest-s
 https://hackernoon.com/using-yarn-with-docker-c116ad289d56#.hlqj0mccl
 https://hackernoon.com/building-a-custom-tag-input-with-skate-js-fbd4cdf744f#.d1lia8gc9
 https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665#.iftdpalno
+https://hackernoon.com/naive-infinite-scroll-in-reactive-programming-using-rxjs-observables-4a605d3146e8
+https://hackernoon.com/what-you-should-know-about-numbers-in-es6-javascript-7370be6b3469
+https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e
+
