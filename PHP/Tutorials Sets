@@ -2,19 +2,38 @@
 ################################################## Sitepoint ###################################################################
 https://www.sitepoint.com/the-delicious-evils-of-php/
 https://www.sitepoint.com/home-made-twitter-and-gmail-notifications-with-php-and-arduino/
+https://www.sitepoint.com/calendar-as-a-service-in-php-easy-with-google-calendar-api/
+https://www.sitepoint.com/how-to-make-modern-php-more-modern-with-preprocessing/
+https://www.sitepoint.com/achieving-modular-architecture-with-forwarding-decorators/
+https://www.sitepoint.com/taming-the-snoo-playing-with-the-reddit-api/
+https://www.sitepoint.com/writing-async-libraries-lets-convert-html-to-pdf/
+https://www.sitepoint.com/sylius-and-cutting-your-teeth-on-tdd/
+https://www.sitepoint.com/php-fractal-make-your-apis-json-pretty-always/
+https://www.sitepoint.com/android-elephpant-laravel-android-phone/
+https://www.sitepoint.com/crash-course-continuous-deployment-semaphore-ci/
 
 
-################################################## Codeship ###################################################################
-https://blog.codeship.com/setting-up-and-deploying-a-modern-php-application/
+################################################## Medium ###################################################################
+https://medium.com/@crocodile2u/running-phpunit-tests-in-phpstorm-7d486221e71a
+https://medium.com/weebly-engineering/streamed-file-zipping-and-downloading-in-php-1fb59b0a5b79
+https://medium.com/weebly-engineering/phpunit-mocking-the-file-system-using-vfsstream-5d7d79b1eb2a
+
 
 
 ################################################## Tutsplus ###################################################################
 https://code.tutsplus.com/tutorials/programming-with-yii2-security--cms-26701
+https://code.tutsplus.com/tutorials/programming-with-yii2-automated-testing-with-codeception--cms-26790
 https://code.tutsplus.com/tutorials/building-your-startup-issue-tracking-and-feature-planning--cms-26722
 https://code.tutsplus.com/tutorials/building-your-startup-dynamic-ajax-forms-for-scheduling--cms-26643
 https://code.tutsplus.com/tutorials/building-your-startup-increasing-security--cms-26703
 https://code.tutsplus.com/tutorials/building-your-startup-preparing-for-text-messaging--cms-26912
 https://code.tutsplus.com/tutorials/building-your-startup-automatic-timezone-detection--cms-27041
+https://code.tutsplus.com/tutorials/building-your-startup-issue-tracking-and-feature-planning--cms-26722
+https://code.tutsplus.com/tutorials/building-your-startup-ajax-for-meeting-times-and-places--cms-27327
+https://code.tutsplus.com/tutorials/building-your-startup-dynamic-ajax-forms-for-scheduling--cms-26643
+https://code.tutsplus.com/tutorials/building-your-startup-meetings-with-multiple-participants--cms-27132
+https://code.tutsplus.com/tutorials/building-your-startup-preparing-for-text-messaging--cms-26912
+https://code.tutsplus.com/tutorials/building-your-startup-requesting-scheduling-changes--cms-27076
 
 
 ################################################## Masterzendframework ###################################################################
@@ -24,8 +43,23 @@ http://www.masterzendframework.com/series/tooling/composer/forked-repositories/
 http://www.masterzendframework.com/simple-factory-generation-with-factorycreator
 http://www.masterzendframework.com/simplify-expressive-configuration-with-interop-config
 http://www.masterzendframework.com/how-to-build-a-docker-test-environment
+http://www.masterzendframework.com/rad-prototyping-and-development-with-reflectionbasedabstractfactory/
 
 
+################################################## Startutorial ###################################################################
 https://www.startutorial.com/articles/view/a-quick-guide-on-integration-omnipay-on-php-projects
-https://benramsey.com/blog/2016/12/aws-codebuild-php/
-https://blog.ripstech.com/2016/freepbx-from-cross-site-scripting-to-remote-command-execution/
+https://www.startutorial.com/articles/view/dynamic-image-resizing-via-uri-with-glide-and-slim
+https://www.startutorial.com/articles/view/manually-reconnect-mysql-in-cakephp-3
+
+
+################################################## Zend ###################################################################
+https://framework.zend.com/blog/2017-01-31-zend-paginator.html
+https://framework.zend.com/blog/2017-02-14-php-sql-server-linux.html
+https://framework.zend.com/blog/2017-02-22-zend-config.html
+
+
+################################################## Laravel News ###################################################################
+https://laravel-news.com/laravel-collections-when-method
+https://laravel-news.com/first-laravel-package-tips
+https://laravel-news.com/countries-and-currencies
+https://laravel-news.com/config-caching
