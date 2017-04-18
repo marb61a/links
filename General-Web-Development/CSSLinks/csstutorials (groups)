@@ -62,6 +62,20 @@ https://www.sitepoint.com/seven-ways-you-can-place-elements-using-css-grid-layou
 https://www.sitepoint.com/fun-web-animation-effects-with-kute-js/
 https://www.sitepoint.com/front-end-tools-my-favorite-finds-of-2016/
 https://www.sitepoint.com/defining-the-sample-sites-page-structure/
+https://www.sitepoint.com/beginners-guide-to-webpack-2-and-module-bundling/
+https://www.sitepoint.com/a-step-by-step-guide-to-the-auto-placement-algorithm-in-css-grid/
+https://www.sitepoint.com/eqcss-a-javascript-plugin-to-write-element-queries/
+https://www.sitepoint.com/css-pseudo-classes-styling-form-fields-based-on-their-input/
+https://www.sitepoint.com/achieve-60-fps-mobile-animations-with-css3/
+https://www.sitepoint.com/css-selectors-attribute-selectors/
+https://www.sitepoint.com/responsive-css-patterns-without-media-queries/
+https://www.sitepoint.com/more-html5-semantics-changes-to-existing-features/
+https://www.sitepoint.com/css-architecture-block-element-modifier-bem/
+https://www.sitepoint.com/order-align-items-grid-layout/
+https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/
+https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/
+https://www.sitepoint.com/css-viewport-units-quick-start/
+https://www.sitepoint.com/debugging-css-for-ui-responsiveness/
 
 
 ############################################## Smashing ########################################################## 
@@ -108,6 +122,11 @@ https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-eas
 https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/
 https://www.smashingmagazine.com/2016/12/progressive-web-amps
 https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right/
+https://www.smashingmagazine.com/2017/02/designing-html-apis/
+https://www.smashingmagazine.com/2017/02/experimenting-with-speechsynthesis/
+https://www.smashingmagazine.com/2017/03/improve-billing-form-ux/
+https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/
+https://www.smashingmagazine.com/2017/03/world-wide-web-not-wealthy-western-web-part-1/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -150,6 +169,9 @@ https://medium.freecodecamp.com/how-to-disappear-completely-2f23ddb14835#.8zy9gp
 https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.z7t1jk7tk
 https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.h4hflunir
 https://medium.freecodecamp.com/a-5-minute-intro-to-styled-components-41f40eb7cd55#.w5fhpk5yq
+https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35
+https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053
+https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76
 https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.6ujeslfzw
 https://medium.com/dev-channel/css-containment-in-chrome-52-f04a30bdc92a#.v3u8azu4f
 https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.kyiyf7tz7
@@ -162,6 +184,10 @@ https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with
 https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.kh4u3jggn
 https://medium.com/statuscode/11-interesting-web-browsers-that-arent-chrome-a3f976752b21#.b5c3q0r2h
 https://medium.com/bitmatica-lab/svg-line-animation-for-the-uninitiated-5a65d91c6044#.xd14l2rdx
+https://medium.com/statuscode/make-your-pull-requests-visual-for-front-end-changes-ef91d83d4fc2
+https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34
+https://medium.com/dev-channel/testing-service-workers-318d7b016b19
+https://medium.com/@SylvainPV/css-grid-layout-and-postcss-now-kiss-5e35f61a6f00
 
 
 ############################################## Tutsplus ##########################################################
@@ -171,6 +197,7 @@ http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatib
 http://webdesign.tutsplus.com/tutorials/better-css-drop-caps-with-initial-letter--cms-26350
 http://code.tutsplus.com/tutorials/editing-images-in-css-filters--cms-25948
 http://webdesign.tutsplus.com/tutorials/how-to-build-a-news-website-layout-with-flexbox--cms-26611
+https://webdesign.tutsplus.com/tutorials/exercises-in-flexbox-simple-web-components--cms-28049
 
 
 ############################################## CSS Wizadry ##########################################################
@@ -180,6 +207,9 @@ http://csswizardry.com/2016/08/refactoring-css-the-three-i-s/
 http://csswizardry.com/2016/10/pure-css-content-filter/
 http://csswizardry.com/2016/10/continue-normalising-your-css/
 http://csswizardry.com/2016/10/pragmatic-practical-progressive-theming-with-custom-properties/
+https://csswizardry.com/2017/01/ack-for-css-developers/
+https://csswizardry.com/2017/02/code-smells-in-css-revisited/
+https://csswizardry.com/2017/02/base64-encoding-and-performance/
 
 
 ############################################## Telerik ########################################################## 
@@ -241,4 +271,11 @@ https://webkit.org/blog/4017/scroll-snapping-with-css-snap-points/
 https://webkit.org/blog/5735/css-font-features/
 https://webkit.org/blog/5663/editing-css-with-the-visual-styles-sidebar/
 https://webkit.org/blog/5989/css-variables-in-webkit/
+https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/
 
+
+############################################## Jake Archibald ########################################################## 
+https://jakearchibald.com/2016/link-in-body/
+https://jakearchibald.com/2016/svg-media-queries/
+https://jakearchibald.com/2016/fun-hacks-faster-content/
+https://jakearchibald.com/2017/do-we-need-a-new-heading-element/
