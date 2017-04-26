@@ -107,6 +107,12 @@ https://medium.com/@josiassena/android-how-to-unit-test-a-service-67e5340544a5#.
 https://medium.com/@josiassena/using-the-android-keystore-system-to-store-sensitive-information-3a56175a454b#.bwg0skygk
 https://medium.com/@quiro91/sharing-files-though-intents-are-you-ready-for-nougat-70f7e9294a0b#.cy5jw33s4
 https://medium.com/@se.solovyev/implementing-in-app-billing-in-android-4896232c7d6b#.agb02d6w8
+https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33eba79dc
+https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf
+https://medium.com/@Zhuinden/retaining-dagger-components-across-configuration-change-using-service-tree-3709c78bf6d2
+https://medium.com/fueled-android/how-to-be-a-mock-star-fc00714d8c2f
+https://medium.com/proandroiddev/how-to-create-a-bubble-selection-animation-on-android-627044da4854
+https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2
 
 
 ######################################## Android Developers Blog ##############################################
@@ -254,6 +260,12 @@ https://blog.stylingandroid.com/christmas-voice-part-1/
 https://blog.stylingandroid.com/christmas-voice-part-2/
 https://blog.stylingandroid.com/wear-2-0-something-oclock/
 https://blog.stylingandroid.com/wear-2-0-match-timer-part-1/
+https://blog.stylingandroid.com/junit-5-getting-started/
+https://blog.stylingandroid.com/junit-5-displayname/
+https://blog.stylingandroid.com/junit-5-dynamic-tests/
+https://blog.stylingandroid.com/junit-5-lambdas/
+https://blog.stylingandroid.com/junit-5-kotlin/
+https://blog.stylingandroid.com/android-o-fonts/
 
 
 ######################################## Nimbledroid ##############################################
@@ -289,6 +301,8 @@ http://hannesdorfmann.com/android/library-abstract-class
 http://hannesdorfmann.com/android/mosby3-mvi-1
 http://hannesdorfmann.com/android/mosby3-mvi-2
 http://hannesdorfmann.com/android/mosby3-mvi-3
+http://hannesdorfmann.com/android/mosby3-mvi-4
+http://hannesdorfmann.com/android/mosby3-mvi-5
 
 
 ######################################## Artemzin ##############################################
@@ -330,6 +344,9 @@ https://www.philosophicalhacker.com/post/espresso-test-addiction/
 https://www.philosophicalhacker.com/post/why-android-testing-is-so-hard-historical-edition/
 https://www.philosophicalhacker.com/post/towards-godless-android-development-how-and-why-i-kill-god-objects/
 https://www.philosophicalhacker.com/post/what-unit-tests-are-trying-to-tell-us-about-activities-pt1/
+https://www.philosophicalhacker.com/post/what-unit-tests-are-trying-to-tell-us-about-activities-pt-2/
+https://www.philosophicalhacker.com/post/some-resources-for-learning-how-to-test-android-apps/
+https://www.philosophicalhacker.com/post/test-driving-away-coupling-in-activities/
 
 
 ######################################## Jeroen Mols ##############################################
@@ -338,6 +355,7 @@ http://jeroenmols.com/blog/2016/02/05/wagongit/
 http://jeroenmols.com/blog/2016/09/01/coveragecost/
 http://jeroenmols.com/blog/2016/10/31/mockitomatchers/
 http://jeroenmols.com/blog/2017/02/16/unittests/
+http://jeroenmols.com/blog/2017/03/08/appcrash/
 
 
 ######################################## Novada ##############################################
@@ -348,6 +366,7 @@ https://www.novoda.com/blog/designing-something-solid/
 https://www.novoda.com/blog/layout-preview-101/
 https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/
 https://www.novoda.com/blog/android-wear-packaging/
+https://www.novoda.com/blog/testing-views-in-isolation-with-espresso/
 
 
 ######################################## Hackernoon ##############################################
@@ -357,6 +376,9 @@ https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#
 https://hackernoon.com/rxrecipes-wrap-your-way-to-rx-fd40eb5254b6#.tiqoaovhb
 https://hackernoon.com/android-how-to-add-gradle-dependencies-using-foreach-c4cbcc070458#.3kb3kte18
 https://hackernoon.com/coordinators-solving-a-problem-you-didnt-even-know-you-had-e86623f15ebf#.fec2isrno
+https://hackernoon.com/configuring-android-project-version-name-code-b168952f3323
+https://hackernoon.com/configuring-android-project-static-code-analysis-tools-b6dd83282921
+https://hackernoon.com/flying-solo-with-android-development-c52d911b62bf
 
 
 ######################################## Raphael Toledo ##############################################
@@ -374,4 +396,22 @@ https://android.jlelse.eu/clean-tests-part-1-naming-cce94edf0522#.ce0px3kwi
 https://android.jlelse.eu/clean-tests-part-2-comments-4016ee82f186#.99sy4dpej
 https://android.jlelse.eu/practical-challenges-for-rxjava-learners-1821c454de9#.oe4hzkzfe
 https://android.jlelse.eu/stress-testing-android-apps-601311ebf590#.c27j2h2zk
+https://android.jlelse.eu/making-your-rxjava-intentions-clearer-with-single-and-completable-f064d98d53a8
+https://android.jlelse.eu/things-i-wish-i-knew-when-i-started-building-android-sdk-libraries-dba1a524d619#.tc5qkaglp
+https://android.jlelse.eu/reducing-your-networking-footprint-with-okhttp-etags-and-if-modified-since-b598b8dd81a1
+https://android.jlelse.eu/a-nice-combination-of-rxjava-and-diffutil-fe3807186012
 
+
+######################################## Big Nerd Ranch ##############################################
+https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
+https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/
+https://www.bignerdranch.com/blog/diving-into-doze-mode-for-developers/
+https://www.bignerdranch.com/blog/perfecting-custom-typography-in-android/
+
+
+######################################## Droids on Roids ##############################################
+https://www.thedroidsonroids.com/blog/android/workcation-app-part-1-fragments-custom-transition/
+https://www.thedroidsonroids.com/blog/workcation-app-part-2-animating-markers-with-mapoverlaylayout/
+https://www.thedroidsonroids.com/blog/workcation-app-part-3-recyclerview-interaction-with-animated-markers/
+https://www.thedroidsonroids.com/blog/android/springanimation-examples/
+https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes/
