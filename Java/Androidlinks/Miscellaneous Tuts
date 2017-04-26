@@ -14,9 +14,6 @@ http://www.thedroidsonroids.com/blog/android/rxjava-production-line/
 http://blog.jetbrains.com/kotlin/2016/03/kotlins-android-roadmap/
 http://trickyandroid.com/the-dark-world-of-jack-and-jill/
 http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/
-https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
-https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/
-https://www.bignerdranch.com/blog/diving-into-doze-mode-for-developers/
 https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/
 https://nullpointer.wtf/android/using-retrofit-realm-parceler/
 http://www.dmytrodanylyk.com/android-data-sync-part-2/
@@ -74,6 +71,7 @@ https://pspdfkit.com/blog/2016/android-animations-powered-by-rx-java/
 https://upday.github.io/blog/model-view-presenter/
 https://upday.github.io/blog/reactive_frustrations_1/
 http://saulmm.github.io/vcs-android-studio
+http://saulmm.github.io/from-design-to-android-part1
 https://yarikx.github.io/Reductor-introduction/
 https://yarikx.github.io/Reductor-composition/?
 https://blog.egorand.me/understanding-test-rules/
@@ -113,3 +111,17 @@ http://mikescamell.com/shared-element-transitions-part-1/
 http://mikescamell.com/shared-element-transitions-part-2/
 http://mikescamell.com/shared-element-transitions-part-3/
 http://mikescamell.com/shared-element-transitions-part-4-recyclerview/
+https://www.infoq.com/articles/Testing-RxJava2
+https://www.toptal.com/android/simplify-concurrency-reactive-modelling-android
+https://blog.devcenter.co/unboxing-the-flexboxlayout-a7cfd125f023
+https://rhye.org/post/custom-android-findbugs/
+http://tech.trello.com/syncing-changes/
+http://tech.trello.com/sync-failure-handling/
+http://tech.trello.com/sync-two-id-problem/
+http://adavis.info/2017/03/realm-migrations-supercharged-with.html
+http://josiassena.com/android-fingerprint-authentication/
+https://josiassena.com/testing-mvp-using-espresso-and-mockito/
+https://pspdfkit.com/blog/2017/writing-concise-code-with-kotlin-and-rxjava/
+https://eng.uber.com/deep-scope-hierarchies/
+http://nilhcem.com/android-things/external-displays
+
