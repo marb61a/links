@@ -167,3 +167,34 @@ https://github.com/gturedi/StatefulLayout - Android layout to show template for 
 https://github.com/google/flexbox-layout - Flexbox for Android
 https://github.com/gyorgygabor/fragment-navigation-2.0 - A fragment navigation library
 https://github.com/timusus/Shuttle - Shuttle Music Player
+https://github.com/Pixplicity/HtmlCompat - Compatibility library for Android's Html class
+https://github.com/f2prateek/gradle-android-javafmt-plugin - A plugin that formats your code using google-java-format.
+https://github.com/k0shk0sh/FastHub - FastHub the ultimate GitHub client for Android.
+https://github.com/yarolegovich/DiscreteScrollView - Scrollable list of items, where current item is centered and can be changed 
+https://github.com/yasharpm/InstaCropper - A View for cropping images 
+https://github.com/Zhuinden/service-tree - A tree that stores services in its node for a given key
+https://github.com/izacus/RoboGif - A small utility to record Android device screen to a GIF
+https://github.com/anupcowkur/here-be-dragons - An Intellij/Android Studio plugin to help visualise side effects in your code.
+https://github.com/huhx0015/GuildWars2_APIViewer -  basic Android application which is used for viewing various Guild Wars 2 API 
+https://github.com/Krupen/AutoplayVideos - Android library to auto-play/pause videos from url in recyclerview
+https://github.com/MarcinMoskala/PreferenceHolder - SharedPreference usage made fun in Kotlin
+https://github.com/MarcinMoskala/ActivityStarter -  provide simpler way to start the Activities with multiple arguments.
+https://github.com/seiginonakama/BlockCanaryEx - make performance bottleneck detection easily when app blocked
+https://github.com/WhiteDG/EasySP - A SharedPreferences wrapper that has a fluent interface to store data
+https://github.com/Commit451/LabCoat - GitLab client for Android. Mirror of project on GitLab
+https://github.com/Ilhasoft/data-binding-validator - Android fields validation library based on data binding adapters
+https://github.com/terrakok/Cicerone - Lightweight library that makes the navigation in an Android app easy
+https://github.com/yarolegovich/SlidingRootNav - DrawerLayout-like ViewGroup
+https://github.com/borisf/classyshark-calculate-size - Calculate the size of any Android dependency in your Android app
+https://github.com/volders/Badger - A badge for any drawable
+https://github.com/DrKLO/Telegram - Telegram for Android source
+https://github.com/bignerdranch/Typesetter - Android tool to help display changes to text positioning
+https://github.com/TangXiaoLv/Android-Router - An android componentization protocol framework
+https://github.com/willowtreeapps/spruce-android - Spruce Animation Library
+https://github.com/T-Spoon/Traceur - Easier RxJava2 debugging with better stacktraces
+https://github.com/willowtreeapps/scratch - Easy app data clearing and relaunching
+https://github.com/vigzmv/what_the_thing - Point camera at things to learn how to say them in a different language
+https://github.com/pchmn/MaterialChipsInput - Implementation of Material Design Chips component for Android
+https://github.com/Cleveroad/AdaptiveTableLayout - Library that makes it possible to read, edit and write CSV files
+
+
