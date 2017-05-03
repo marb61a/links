@@ -36,6 +36,8 @@ https://www.sitepoint.com/private-npm-packages-verdaccio/
 https://www.sitepoint.com/building-facebook-chat-bot-node-heroku/
 https://www.sitepoint.com/build-microblog-node-js-git-markdown/
 https://www.sitepoint.com/node-js-mvc-application/
+https://www.sitepoint.com/debugging-javascript-node-debugger/
+https://www.sitepoint.com/debugging-electron-application/
 
 
 ######################################## Scotch.io ##############################################
@@ -105,6 +107,11 @@ https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42
 https://medium.com/@iamnayr/a-multi-part-analysis-of-node-docker-image-sizes-using-yarn-vs-traditional-npm-2c20f034c08f#.uyo7kaujf
 https://medium.com/@nparsons08/real-time-delivery-updates-with-slack-mongodb-atlas-tailable-cursors-802b08b2c6c4#.xw1dpn5jc
 https://medium.com/@graeme_boy/how-to-optimize-cpu-intensive-work-in-node-js-cdc09099ed41#.a80mmmeq4
+https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358
+https://medium.com/the-node-js-collection/what-does-const-stand-for-in-es6-f7ab3d9e06fc
+https://medium.com/@_lrlna/garbage-collection-in-v8-an-illustrated-guide-d24a952ee3b8
+https://medium.com/@peterhanssens/how-to-build-a-node-js-api-using-postgres-lambda-and-api-gateway-3211a4570cea
+https://medium.freecodecamp.com/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9
 
 
 ######################################## Risingstack ##############################################
@@ -157,6 +164,13 @@ https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-sc
 https://community.risingstack.com/building-a-microservices-example-game-with-distributed-messaging/
 https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/
 https://community.risingstack.com/using-heroku-node-js-production-ready-application-checklist/
+https://blog.risingstack.com/end-to-end-testing-with-nightwatch-js-node-js-at-scale/
+https://community.risingstack.com/deploying-node-js-microservices-to-aws-using-docker/
+https://community.risingstack.com/using-docker-swarm-for-deploying-nodejs-microservices/
+https://blog.risingstack.com/node-js-war-stories-solving-issues-in-production-2/
+https://blog.risingstack.com/mastering-the-node-js-cli-command-line-options/
+https://community.risingstack.com/the-definitive-guide-to-object-streams-in-node-js/
+https://blog.risingstack.com/how-to-debug-nodej-js-with-the-best-tools-available/
 
 
 ######################################## Tutsplus ##############################################
@@ -182,6 +196,7 @@ http://developer.telerik.com/featured/bots/
 http://developer.telerik.com/featured/alexa-can-use/
 http://developer.telerik.com/featured/npm-for-the-visual-studio-developer/
 http://developer.telerik.com/featured/building-node-based-apis-loopback-framework
+http://developer.telerik.com/content-types/tutorials/building-conversational-bot-javascript
 
 
 ######################################## Stormpath ##############################################
@@ -220,6 +235,7 @@ https://www.smashingmagazine.com/2016/08/optimizing-critical-path-performance-wi
 https://www.smashingmagazine.com/2016/08/getting-started-koa-2-async-functions/
 https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/
 https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/
+https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/
 
 
 ######################################## Nic Raboy ##############################################
@@ -256,6 +272,10 @@ https://hackernoon.com/using-server-less-architecture-to-massively-parallelize-d
 https://hackernoon.com/scrape-any-website-service-api-with-a-single-sql-select-statement-8d60be1e9a49#.i6gzo37rd
 https://hackernoon.com/microservice-series-scraper-ee970df3e81f#.wmao4t76w
 https://hackernoon.com/build-an-alexa-skill-in-7-minutes-flat-with-node-js-and-stdlib-70611f58c37f#.vqp8bylsc
+https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9
+https://hackernoon.com/how-to-mock-data-for-node-js-applications-using-faker-js-b1f4c0e78102
+https://hackernoon.com/the-definitive-guide-for-monitoring-node-js-applications-404feeea5951
+https://hackernoon.com/build-a-node-js-blog-roll-app-in-4-steps-61e1a6d0c292
 
 
 ######################################## Thisdavej ##############################################
@@ -283,6 +303,7 @@ http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/
 http://mherman.org/blog/2016/04/28/test-driven-development-with-node/
 http://mherman.org/blog/2016/10/28/token-based-authentication-with-node/
 http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/
+http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/
 
 
 ######################################## NPMJS ##############################################
@@ -325,6 +346,9 @@ https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-
 https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/
 https://nodesource.com/blog/six-of-the-most-exciting-es6-features-in-node-js-v6-lts
 https://nodesource.com/blog/seven-more-npm-tricks-to-knock-your-wombat-socks-off
+https://nodesource.com/blog/scale-node-js-with-n-solid-and-kubernetes-on-azure-container-services
+https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm
+https://nodesource.com/blog/configuring-your-npmrc-for-an-optimal-node-js-environment
 
 
 ######################################## Bandwidth ##############################################
@@ -340,3 +364,23 @@ https://www.compose.com/articles/power-prototyping-with-mongodb-and-node-red-2/
 https://www.compose.com/articles/building-javascript-microservices-with-senecajs-and-compose/
 https://www.compose.com/articles/authenticating-node-red-with-jsonwebtoken/
 https://www.compose.com/articles/document-validation-in-mongodb-by-example/
+https://www.compose.com/articles/mysql-for-json-generated-columns-and-indexing/
+https://www.compose.com/articles/creating-an-aws-vpc-and-secured-compose-mongodb-with-terraform/
+https://www.compose.com/articles/use-all-the-databases-part-1/
+
+
+######################################## Sqreen ##############################################
+https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
+https://blog.sqreen.io/identify-tor-connections-node-js-tor-test/
+https://blog.sqreen.io/mongodb-will-not-prevent-nosql-injections-in-your-node-js-app/
+https://blog.sqreen.io/prevent-nosql-injections-mongodb-node-js/
+
+
+######################################## Code Barbarian ##############################################
+http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html
+http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js.html
+http://thecodebarbarian.com/common-async-await-design-patterns-in-node.js.html
+http://thecodebarbarian.com/unhandled-promise-rejections-in-node.js.html
+http://thecodebarbarian.com/server-side-rendering-with-preact-and-firebase.html
+http://thecodebarbarian.com/basic-functional-programming-with-async-await.html
+http://thecodebarbarian.com/building-a-nextjs-app-with-mongodb.html
