@@ -347,3 +347,39 @@ https://github.com/hemerajs/hemera - A Node.js microservices toolkit for NATS
 https://github.com/typicode/pkg-ok - Prevents publishing a module with bad paths
 https://github.com/felixrieseberg/razer-chroma - Control your Razer Keyboard, right from Node
 https://github.com/mattallty/Caporal.js - A full-featured framework for building command line applications (cli) with node.js
+https://github.com/wildduck-email/wildduck - Distributed IMAP server built with Node.js, MongoDB and Redis (beta)
+https://github.com/FranckFreiburger/module-invalidate - Invalidate node.js modules loaded through require()
+https://github.com/SpoonX/wetland - A Mapping-based ORM for Node.js
+https://github.com/roccomuso/iot-433mhz - IoT System to control 433 MHz RC power sockets
+https://github.com/captainsafia/legit - Add licenses to projects at the command line
+https://github.com/wooorm/franc - Natural language detection
+https://github.com/shanev/tempdb - Key-value store for temporary items
+https://github.com/kabirvirji/singlespotify -  Create Spotify playlists based on one artist through the command line 
+https://github.com/apogeu/apogeu - A multi platform rails like framework made for Node.js.
+https://github.com/d3-node/d3-node - Server-side D3 for static chart/map generation
+https://github.com/sindresorhus/create-dmg - Create a good-looking DMG for your macOS app in seconds
+https://github.com/ivanseidel/node-draftlog -  Create updatable log lines into the terminal
+https://github.com/harc/ohm - A library and language for building parsers, interpreters, compilers, etc.
+https://github.com/buttercup/buttercup -  Javascript Password Vault - Multi-Platform Desktop Application
+https://github.com/vstirbu/fsm-as-promised - A finite state machine library using ES6 promises
+https://github.com/AlexSapoznikov/node-alexa-starter-kit - Simple starter kit for adding new skills to Amazon Alexa Echo
+https://github.com/nodesecurity/eslint-plugin-security - ESLint rules for Node Security
+https://github.com/floatdrop/node-cctz -  Fast parsing, formatting and timezone manipulations for dates
+https://github.com/fossage/ASCII-Video - A tool to create and play sprite animation in the terminal
+https://github.com/qwook/graphical - Draw dynamic graphics straight to the browser from NodeJS.
+https://github.com/mhink/react-ionize - A React renderer for building your entire Electron app
+https://github.com/cyrus-and/chrome-remote-interface - Chrome Debugging Protocol interface for Node.js
+https://github.com/ericjjj/vms - A Vue.js 2.0 Content Management System
+https://github.com/sinedied/backslide - CLI tool for making HTML presentations with Remark.js using Markdown
+https://github.com/node-apn/node-apn - Apple Push Notification module for Node.js
+https://github.com/fiatjaf/glua - Full-featured Lua VM for nodejs and the browser
+https://github.com/slackapi/sample-message-menus-node - An example Slack app that demonstrates use of message menus
+https://github.com/hunterloftis/awaiting  - The async/await utility for browsers and Node.js.
+https://github.com/peterc/chrome2gif - Dynamically create an animated GIF of a page running in Chrome
+https://github.com/notwaldorf/tiny-care-terminal -  A little dashboard that tries to take care of you when you're using your terminal.
+https://github.com/MaiaVictor/forall - Expressive static types and invariant checks for JavaScript.
+https://github.com/sdgluck/carbonate -  colourful sprintf
+https://github.com/fvgs/commandir - Effortless mkdir and rmdir for Node.js
+https://github.com/rmdm/assert-match - assert + matchers <3
+https://github.com/rse/stmux - Simple Terminal Multiplexer for Node.js Environments
+https://github.com/leebyron/testcheck-js - Generative testing for JavaScript 
