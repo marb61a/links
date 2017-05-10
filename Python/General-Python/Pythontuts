@@ -31,6 +31,11 @@ https://medium.com/python-pandemonium/python-introspection-with-the-inspect-modu
 https://medium.com/@hoppy/how-to-test-or-scrape-javascript-rendered-websites-with-python-selenium-a-beginner-step-by-c137892216aa#.l3a42lt9y
 https://medium.com/instamojo-matters/become-a-pdb-power-user-e3fc4e2774b2#.joq1d7ypj
 https://medium.com/hockey-stick/tl-dr-bayesian-a-b-testing-with-python-c495d375db4d#.fpv1y5gny
+https://medium.com/python-pandemonium/embedding-a-python-application-in-macos-d866adfcaf94
+https://medium.com/@ssola/building-microservices-with-python-part-i-5240a8dcc2fb
+https://medium.com/@ssola/building-microservices-with-python-part-2-9f951199094a
+https://medium.com/google-cloud/building-a-serverless-python-app-in-minutes-with-gcp-5184d21a012f
+https://medium.com/@nkhaja/memoization-and-decorators-with-python-32f607439f84
 
 
 ####################################### Python Library ###########################################################
@@ -46,6 +51,7 @@ http://www.blog.pythonlibrary.org/2016/07/26/python-3-an-intro-to-asyncio/
 http://www.blog.pythonlibrary.org/2016/10/07/an-intro-to-the-python-imaging-library-pillow/
 http://www.blog.pythonlibrary.org/2016/10/11/how-to-create-a-diff-of-an-image-in-python/
 http://www.blog.pythonlibrary.org/2017/02/08/new-in-python-formatted-string-literals/
+http://www.blog.pythonlibrary.org/2017/03/14/how-to-run-python-tests-continuously-while-coding/
 
 
 ####################################### Eli Bendersky ###########################################################
@@ -71,6 +77,7 @@ https://dbader.org/blog/python-code-review-unplugged-episode-2
 https://dbader.org/blog/python-code-linting
 https://dbader.org/blog/python-assert-tutorial
 https://dbader.org/blog/python-lambda-functions
+https://dbader.org/blog/python-first-class-functions
 
 
 ####################################### Dataquest ###########################################################
@@ -79,6 +86,9 @@ https://www.dataquest.io/blog/data-science-portfolio-machine-learning/
 https://www.dataquest.io/blog/python-pandas-databases/
 https://www.dataquest.io/blog/numpy-tutorial-python/
 https://www.dataquest.io/blog/using-json-data-in-pandas/
+https://www.dataquest.io/blog/streaming-data-python/
+https://www.dataquest.io/blog/web-scraping-tutorial-python/
+https://www.dataquest.io/blog/data-pipelines-tutorial/
 
 
 ####################################### Yhat ###########################################################
@@ -91,6 +101,8 @@ http://blog.yhat.com/posts/pandasql-intro.html
 http://blog.yhat.com/posts/machine-learning-as-a-service.html
 http://blog.yhat.com/posts/keras-for-image-recognition.html
 http://blog.yhat.com/posts/deploying-r-models.html
+http://blog.yhat.com/posts/customer-segmentation-python-rodeo.html
+http://blog.yhat.com/posts/isochrones-isocronut.html
 
 
 ####################################### Machinalis ###########################################################
@@ -116,6 +128,7 @@ https://semaphoreci.com/community/tutorials/testing-python-requests-with-betamax
 https://semaphoreci.com/community/tutorials/mocks-and-monkeypatching-in-python
 https://semaphoreci.com/community/tutorials/building-and-testing-an-api-wrapper-in-python
 https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest
+https://semaphoreci.com/community/tutorials/getting-started-with-mocking-in-python
 
 
 ####################################### VKinght ###########################################################
@@ -163,6 +176,7 @@ https://benbernardblog.com/my-startling-encounter-with-python-debuggers/
 https://benbernardblog.com/my-startling-encounter-with-python-debuggers-part-2/
 https://benbernardblog.com/tracking-down-a-freaky-python-memory-leak/
 https://benbernardblog.com/tracking-down-a-freaky-python-memory-leak-part-2/
+https://benbernardblog.com/using-ubers-pyflame-and-logs-to-tackle-scaling-issues/
 
 
 ####################################### Datacamp ###########################################################
@@ -170,3 +184,20 @@ https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#gs
 https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.cT7N2IA
 https://www.datacamp.com/community/tutorials/machine-learning-python#gs.abeyMhc
 https://www.datacamp.com/community/tutorials/python-excel-tutorial#gs.Dq16r2w
+
+
+####################################### Ned Batchelder ###########################################################
+http://nedbatchelder.com//blog/201608/breaking_out_of_two_loops.html
+http://nedbatchelder.com/blog/201608/lists_vs_tuples.html
+http://nedbatchelder.com//blog/201612/who_tests_what.html
+https://nedbatchelder.com/blog/201702/a_tale_of_two_exceptions_continued.html
+https://nedbatchelder.com//blog/201703/ironpython_is_weird.html
+
+
+####################################### PB Python ###########################################################
+http://pbpython.com/xlwings-pandas-excel.html
+http://pbpython.com/altair-intro.html
+http://pbpython.com/categorical-encoding.html
+http://pbpython.com/amortization-model.html
+http://pbpython.com/python-word-template.html
+http://pbpython.com/prophet-overview.html
