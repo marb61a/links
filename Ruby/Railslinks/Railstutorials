@@ -27,6 +27,7 @@ http://blog.honeybadger.io/easy_rails_database_scaling_wins/
 http://blog.honeybadger.io/introducing-our-sidekiq-cluster-script/
 http://blog.honeybadger.io/objects-as-ruby-hash-keys/
 http://blog.honeybadger.io/ruby_unicode_normalization/
+http://blog.honeybadger.io/rubyist_guide_to_memoization/
 
 
 ###################################### Medium ####################################################
@@ -66,6 +67,10 @@ https://medium.com/trisfera/getting-to-know-and-love-aws-elastic-beanstalk-confi
 https://medium.freecodecamp.com/how-to-dry-out-your-rspec-tests-using-shared-examples-d5cc5d33fd76#.l79o2bxz6
 https://medium.com/@amliving/rubys-unary-operator-a93d36d3cd8b#.oqmxc4hio
 https://medium.com/statuscode/introducing-webpacker-7136d66cddfb#.2cczdlo4t
+https://medium.com/devtechtipstricks/build-a-simple-rails-api-server-auth0-jwt-authentication-react-from-scratch-in-30-minutes-or-257cbb2a939a
+https://medium.com/the-renaissance-developer/idiomatic-ruby-1b5fa1445098
+https://medium.com/@dathanbennett/why-is-ruby-multithreading-slow-96afb475f669
+https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312
 
 
 ###################################### Justin Weiss ####################################################
@@ -75,6 +80,7 @@ http://www.justinweiss.com/blog/2015/09/08/keeping-your-logs-from-becoming-an-un
 http://www.justinweiss.com/blog/2015/09/15/3-steps-to-fix-encoding-problems-in-ruby/
 http://www.justinweiss.com/articles/how-to-get-from-theyre-to-theyre/
 https://www.justinweiss.com/articles/writing-a-one-time-script-in-rails/
+http://www.justinweiss.com/articles/the-lesser-known-features-in-rails-5-dot-1/
 
 
 ###################################### Semaphoreci ####################################################
@@ -91,6 +97,9 @@ https://semaphoreci.com/community/tutorials/how-to-reduce-controller-bloat-with-
 https://semaphoreci.com/community/tutorials/using-rspec-metadata
 https://semaphoreci.com/community/tutorials/integration-testing-ruby-on-rails-with-minitest-and-capybara
 https://semaphoreci.com/community/tutorials/stubbing-the-aws-sdk
+https://semaphoreci.com/blog/2017/03/14/faster-rails-how-to-check-if-a-record-exists.html
+https://semaphoreci.com/community/tutorials/5-tips-for-more-effective-capybara-tests
+https://semaphoreci.com/blog/2017/05/09/faster-rails-is-your-database-properly-indexed.html
 
 
 ###################################### Jake Yesbeck ####################################################
@@ -169,6 +178,7 @@ https://blog.codeship.com/creating-advanced-active-record-db-queries-arel/
 https://blog.codeship.com/effectively-testing-dockerized-ruby-applications/
 https://blog.codeship.com/the-evernote-api-in-rails/
 https://blog.codeship.com/creating-powerful-command-line-tools-in-ruby/
+https://blog.codeship.com/principles-of-effective-testing-with-capybara/
 
 
 ###################################### Rossta ####################################################
@@ -217,6 +227,8 @@ https://www.twilio.com/blog/2016/01/two-factor-authentication-in-rails-4-with-de
 https://www.twilio.com/blog/2016/02/add-chat-to-a-rails-app-with-twilio-ip-messaging.html
 https://www.twilio.com/blog/2016/04/receive-and-reply-to-sms-in-rails.htm
 https://www.twilio.com//blog/2016/09/ruby-twilio-voice-phone-hotline.html
+https://www.twilio.com/blog/2017/03/google-spreadsheets-ruby.html
+https://www.twilio.com/blog/2017/03/create-a-landing-page-with-sinatra-google-spreadsheets-and-ruby.html
 
 
 ###################################### Gavin Miller ####################################################
@@ -254,6 +266,7 @@ http://www.blackbytes.info/2016/11/code-analysis-minitest/
 http://www.blackbytes.info/2017/01/spy-on-your-ruby-methods/
 http://www.blackbytes.info/2017/01/read-binary-data/
 http://www.blackbytes.info/2017/02/weird-ruby/
+http://www.blackbytes.info/2017/04/memory-layout-of-an-object/
 
 
 ###################################### Wyeworks ####################################################
@@ -275,6 +288,10 @@ http://blog.bigbinary.com/2016/04/13/rails-5-adds-option-to-log-warning-when-fet
 http://blog.bigbinary.com/2016/08/17/rails-5-allows-wildcard-for-specifying-template-dependencies.html
 http://blog.bigbinary.com/2016/11/22/ruby-2-4-introduces-liberal_parsing-option-for-parsing-bad-csv-data.html
 http://blog.bigbinary.com/2017/03/07/io-readlines-now-accepts-chomp-flag-as-an-argument.html
+http://blog.bigbinary.com/2017/03/21/enumerable-uniq-and-enumerable-lazy-uniq-part-of-ruby-2-4.html
+http://blog.bigbinary.com/2017/04/04/ruby-2-4-has-default-basename-for-tempfile-create.html
+http://blog.bigbinary.com/2017/04/18/binding-irb.html
+https://blog.bigbinary.com/2017/05/09/rails-5-1-introduced-assert_changes-and-assert_no_changes.html
 
 
 ###################################### Performance Book ####################################################
@@ -300,6 +317,7 @@ http://blog.arkency.com/2016/10/running-bash-command-from-ruby-with-your-bash-pr
 http://blog.arkency.com/2016/10/the-esthetics-of-a-ruby-service-object/
 http://blog.arkency.com/2016/12/event-sourced-domain-objects-in-less-than-150-loc/
 http://blog.arkency.com/2017/02/yield-default-object/
+http://blog.arkency.com/2017/03/prototypes-in-ruby/
 
 
 ###################################### Tutsplus ####################################################
@@ -335,7 +353,8 @@ http://brandonhilkert.com/blog/sidekiq-as-a-microservice-message-queue/
 http://brandonhilkert.com/blog/solving-backwards-compatibility-in-ruby-with-a-proxy-object/
 http://brandonhilkert.com/blog/ruby-gem-post-install-message/
 http://brandonhilkert.com/blog/rails-progress-indicator-for-turbolinks-using-nprogress/
-http://brandonhilkert.com/blog/monitoring-sidekiq-using-aws-lambda-and-slack/?
+http://brandonhilkert.com/blog/monitoring-sidekiq-using-aws-lambda-and-slack/
+http://brandonhilkert.com/blog/monitoring-sidekiq-using-aws-lambda-and-cloudwatch/
 
 
 ###################################### Aaron Lasseigne ####################################################
@@ -352,6 +371,7 @@ http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-07-18-a-review-of-cod
 http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-07-27-introducing-racktoolkit-a-fast-server-and-dsl-designed-to-test-rack-apps
 http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-07-18-autoreloader-a-transparent-automatic-code-reloader-for-ruby
 http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2016-08-05-using-rspec-nested-transactions-to-speed-up-tests-touching-the-database
+https://rosenfeld.herokuapp.com/en/articles/ruby-rails/2017-05-03-ruby-on-rails-the-bad-and-good-parts
 
 
 ###################################### Phusion ####################################################
@@ -359,6 +379,7 @@ https://blog.phusion.nl/2016/08/04/using-rails-5-actioncable-and-rethinkdb-to-bu
 https://blog.phusion.nl/2016/07/07/actioncable-under-stress-p1/
 https://blog.phusion.nl/2016/07/27/using-ssl-with-passenger-in-development-on-macos/
 https://blog.phusion.nl/2016/08/31/efficiently-and-conveniently-building-ruby-and-node-js-application-docker-containers-for-production-2/
+https://blog.phusion.nl/2016/12/21/actioncable-under-stress-protecting-your-application-against-slow-clients-using-passenger/
 
 
 ###################################### Ready Steady Code ####################################################
@@ -408,4 +429,18 @@ https://www.schneems.com/2016/05/31/saving-sprockets.html
 https://www.schneems.com/2016/11/14/statistical-lit.html
 https://www.schneems.com/2016/11/21/writing-a-rails-feature-blow-by-blow/
 https://www.schneems.com/2016/01/25/ruby-debugging-magic-cheat-sheet.html
+https://www.schneems.com/2017/03/21/config-behavior-versus-credentials/
+https://www.schneems.com/2017/04/12/jumping-off-the-memory-cliff/
+https://www.schneems.com/2017/04/24/a-variable-by-any-other-name/
+https://www.schneems.com/2017/05/01/the-fastest-way-to-generate-a-heap-dump-on-heroku/
 
+
+###################################### Hackernoon ####################################################
+https://hackernoon.com/smooth-coordinator-1427dce17f00#.3f09tlkpf
+https://hackernoon.com/speed-up-allocating-activerecord-objects-86c7ced839a5#.i3lieivmg
+https://hackernoon.com/service-objects-in-ruby-on-rails-and-you-79ca8a1c946e#.5dhs3pqq9
+https://hackernoon.com/angular-2-and-ruby-on-rails-user-authentication-fde230ddaed8#.dw6ew956v
+https://hackernoon.com/going-further-with-service-objects-in-ruby-on-rails-b8aac13a7271#.7fpldkr9a
+https://hackernoon.com/using-bootstrap-in-rails-5-969cbe423926#.k1r194vus
+https://hackernoon.com/27-gems-i-use-in-almost-every-project-832986551df8
+https://hackernoon.com/the-giving-ruby-the-strange-case-of-user-enumeration-on-heroku-not-fixed-1a8296067318
