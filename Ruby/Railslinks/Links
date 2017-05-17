@@ -35,11 +35,16 @@ https://www.youtube.com/watch?v=0q2HRwP7Vzo - Ruby on small devices
 https://www.youtube.com/watch?v=bK9RX_CzCeI - Attention Rubyists: you can write video games 
 https://www.youtube.com/watch?v=EZxGa6dqero - Exploiting a Real-World XXE Vulnerability in the Popular Nokogiri Library
 https://www.youtube.com/watch?v=N08NHsyaoKM - Simple and Awesome Database Tricks
+https://www.youtube.com/watch?v=0q2HRwP7Vzo - (m)Ruby on small devices by Shashank Daté
+https://www.youtube.com/watch?v=_KFxWyJrzso - Ruby, HTTP/2 and You
+https://www.youtube.com/watch?v=u_JFDqax0l0 - How to install Ruby on Rails on Windows 10 with PostgreSQL
+https://www.youtube.com/watch?v=Zl17mtp1adM - Practical Machine Learning in Ruby
 
 
 ## Playlists & Channels
 http://confreaks.tv/events/rubyconf2015
 https://confreaks.tv/events/rubyconf2016
+http://confreaks.tv/events/railsconf2017
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyY8lLkCbIiseqXy_liFzX2F - JRuby EU 2015
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyaUIjpEKMLTKc32kr4vseg9 - Ruby on Ales 2015
 https://www.youtube.com/playlist?list=PL5klM3mD6alLUhNTPTbj5a3GBjU7oZN0t#neo4jrb
@@ -47,6 +52,7 @@ https://www.youtube.com/playlist?list=PLE7tQUdRKcyY_prUE739kR31k9bzY07zW - Lone 
 https://www.youtube.com/channel/UChGs1td4ViQFqT0jlvkyUJg - EuRuKo 2016
 https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg
 https://www.youtube.com/user/JakeDayWilliams/playlists
+https://www.youtube.com/playlist?list=PL9_jjLrTYxc3hxsmj3AnPFf3RD4f3zfUl - RubyConf AU 2017
 
 
 ## Drifting Ruby
@@ -59,13 +65,20 @@ https://www.driftingruby.com/episodes/periodic-tasks-with-sidekiq-cron
 https://www.driftingruby.com/episodes/security-and-static-code-analyzers
 https://www.driftingruby.com/episodes/managing-servers-with-ansible
 https://www.driftingruby.com/episodes/ruby-on-rails-5-1-0-changes-and-new-features
+https://www.driftingruby.com/episodes/drag-and-drop-with-interact-js
+https://www.driftingruby.com/episodes/rails-engines
 
 
 ## Go Rails
 https://gorails.com/episodes/devise-masquerade
+https://gorails.com/episodes/using-webpack-in-rails-with-webpacker-gem
+https://gorails.com/episodes/how-to-use-vuejs-and-turbolinks-together
+https://gorails.com/episodes/using-vuejs-for-nested-forms-part-1
+
 
 ## Ruby Tapas
 https://www.rubytapas.com/2017/02/28/write-expressive-tests-mastering-rspec-matchers/
+https://www.rubytapas.com/2017/04/11/skinny-controller-domain-model-events/?
 
 
 ## Links
@@ -79,10 +92,13 @@ https://github.com/ankane/the-ultimate-guide-to-timeouts-in-ruby
 https://rubymonk.com
 https://honeybadger.leadpages.co/exceptions/ - Free Ebook 
 http://rubyfacets.com - Podcast
+https://idiosyncratic-ruby.com/ - Documenting All Ruby Specialities
 https://rubygems.org/gems
 http://opalphaser.com/ - Opal wrapper for the phaser framework
 https://isitvulnerable.com/
+https://developer.amazon.com/blogs/alexa/post/105df30e-9890-4a8c-9caf-5de1c8ff86cb/makers-academy-s-alexa-series-how-to-build-a-hello-world-skill-with-ruby
 http://rom-rb.org
+https://ruby-rbot.org/ - The Ruby IRC Bot
 https://www.fedux.org/articles.html
 https://www.ruby-toolbox.com
 http://railsware.com/blog/
