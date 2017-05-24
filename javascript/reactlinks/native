@@ -37,6 +37,10 @@ https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560
 https://medium.com/differential/handling-offline-actions-in-react-native-74949cbfabf2
 https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24
 https://medium.com/@david.aurelio/medium-fast-source-map-generation-for-react-native-ea5549007c18
+https://medium.com/react-native-training/redux-4-ways-95a130da0cdc
+https://medium.com/kuralabs-engineering/reactive-core-architecture-for-react-native-and-react-applications-d590daf4ef8a
+https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440
+https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2
 
 
 ###################################### Tutsplus ##################################################################
@@ -82,10 +86,17 @@ https://www.raywenderlich.com/136047/react-native-existing-app
 http://goshakkk.name/react-native-camera-roll-image-picker/
 https://hackernoon.com/a-simple-messaging-app-with-react-native-and-socket-io-e1cae3df7bda
 https://hackernoon.com/image-caching-in-react-native-96d8df33ca84
+https://hackernoon.com/how-i-built-a-super-simple-game-using-react-native-67bdade50373
 http://coenraets.org/blog/2017/01/react-native-sample-app-tutorial/
 https://blog.revisify.com/5-reasons-why-i-chose-react-native-over-traditional-app-development-3de18e208b8a
 https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e
 https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7
+https://steinar.io/building-your-own-camera-app-for-ios-with-react-native/
+https://school.shoutem.com/lectures/build-simple-imgur-client-react-native-mobx-tutorial/
+https://school.shoutem.com/lectures/geolocation-app-react-native/
+https://blog.hellojs.org/tales-of-a-react-native-beginner-why-graphql-is-the-real-mvp-9169b60b6f92
+https://launchdrawer.com/i-made-react-native-fast-you-can-too-9e61c951ce0
+https://blog.expo.io/sketch-a-playground-for-react-native-16b2401f44a2
 
 
 ##### Code #####
@@ -117,6 +128,9 @@ https://github.com/sbycrosz/react-native-credit-card-input - Easy, cross-platfor
 https://github.com/amoghbanta/react-native-everywhere - Starter kit to target multiple platforms
 https://github.com/tonyhb/tectonic - Client-Side Database for Browsers, NodeJS
 https://github.com/avocode/nachos-ui - Nachos UI is a React Native component library
+https://github.com/wix/react-native-paged-contacts - Paged contacts for React Native
+https://github.com/Thinkmill/react-conf-app - React Conf 2017 Companion App - built with React Native
+https://github.com/facebook/react-vr - Create amazing 360 and VR content using React
 
 
 ##### Videos ######
@@ -129,6 +143,7 @@ https://www.youtube.com/watch?v=iwEdEMOtpCg - Build React Native apps faster wit
 https://www.youtube.com/watch?v=3msLwu25SQY&list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5 - Getting Started with React Native and Redux
 https://codecookbook.co/post/how-to-share-text-from-your-react-native-app/
 https://devchat.tv/react-native-radio/41-react-native-for-windows-with-eric-rozell-of-microsoft - React Native Radio
+https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html
 
 
 ### Links ###
