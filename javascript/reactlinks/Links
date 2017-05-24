@@ -45,6 +45,8 @@ https://www.youtube.com/watch?v=iVKPbH3qyW0&list=PLanDnKP78H3yAjtSHvXQ8nrj9KgdSR
 https://www.youtube.com/watch?v=-xiki68cpTc&list=PLXoXQD8Ev85ZZEg6Es3TU6AjmnFY1n4Bu&index=2
 https://www.youtube.com/playlist?list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY - Building app with React and Redux
 https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw/playlists -  This Dot Media
+https://www.youtube.com/watch?v=7HSd1sk07uU&list=PLb0IAmt7-GS0kj3saZuh4vzfldxEdH5RH - React Conf 2017 - Day 1
+https://www.youtube.com/watch?v=CtVo3z_o9Rw&list=PLb0IAmt7-GS1_fTtjoeSbiIXeia9aYxB1 - React Conf 2017 - Day 2
 
 
 ##ReactCasts
@@ -218,6 +220,25 @@ https://github.com/bencripps/react-redux-grid - A React Grid/Tree Component writ
 https://github.com/lavrton/react-konva - a JavaScript library for drawing complex canvas graphics using React
 https://github.com/cyclejs-community/redux-cycles - Bring functional reactive programming to Redux using Cycle.js
 https://github.com/lingui/js-lingui - Tools for i18n in ReactJS
+https://github.com/JedWatson/react-select - A Select control built with and for React JS
+https://github.com/txgruppi/json2react - Use JSON to create React Components.
+https://github.com/alixander/redux-store-validator - Add validation to your Redux reducers
+https://github.com/griddlegriddle/griddle - Simple Grid Component written in React
+https://github.com/aickin/react-dom-stream - A streaming server-side rendering library for React.
+https://github.com/mfix22/calendarx - Calendar plugin for React pages
+https://github.com/ctrlplusb/react-universally - A starter kit for universal react applications.
+https://github.com/react-cosmos/react-cosmos - DX tool for designing reusable React components
+https://github.com/contra/react-responsive - Media queries in react for responsive design
+https://github.com/evcohen/eslint-plugin-jsx-a11y - Static AST checker for a11y rules on JSX elements.
+https://github.com/zackify/react-router-async-routing - react router v4 async routing
+https://github.com/coatue-oss/react2angular - The easiest way to embed React components in Angular 1 apps.
+https://github.com/raymestalez/django-react-blog - Simple blog built with Django and React/Redux
+https://github.com/monvillalon/react-page-layout - Create layouts for react
+https://github.com/thejameskyle/react-loadable - A higher order component for loading components with promises
+https://github.com/aweary/react-perimeter - Create an invisible perimeter around an element and respond when its breached.
+https://github.com/MoOx/react-svg-inline - A React component to inline your SVG
+https://github.com/noderaider/redux-idle-monitor - A  Redux component to schedule events
+
 
 
 ## Codepen
