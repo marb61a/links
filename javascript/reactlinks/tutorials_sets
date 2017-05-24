@@ -17,6 +17,7 @@ https://www.sitepoint.com/music-streaming-app-electron-react-es6/
 https://www.sitepoint.com/exploring-reacts-state-propagation/
 https://www.sitepoint.com/building-a-game-reactjs-and-webgl/
 https://www.sitepoint.com/tutorial-build-a-react-js-application-with-user-login-and-authentication/
+https://www.sitepoint.com/react-storybook-develop-beautiful-user-interfaces-with-ease/
 
 
 ###################################### Scotch.io ################################################################## 
@@ -27,6 +28,7 @@ https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-
 https://scotch.io/tutorials/routing-react-apps-the-complete-guide
 https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps
 https://pub.scotch.io/@zhirzh/building-a-pwa-using-react-webpack-and-other-stuff
+https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel
 
 
 ###################################### Risingstack ################################################################
@@ -107,6 +109,7 @@ https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.29
 https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.izlh8kj57
 https://medium.com/walmartlabs/using-electrode-to-improve-react-server-side-render-performance-by-up-to-70-e43f9494eb8b#.4wd93hna8
 https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0
+https://medium.com/walmartlabs/building-react-components-for-multiple-brands-and-applications-7e9157a39db4
 https://medium.com/@navgarcha7891/react-server-side-rendering-with-simple-redux-store-hydration-9f77ab66900a#.9rd99fwwk
 https://medium.com/@kitze/configure-create-react-app-without-ejecting-d8450e96196a#.5t1dxcs5l
 https://medium.com/front-end-hacking/react-for-designers-3fbc7b6560dd#.lpes637jc
@@ -133,6 +136,10 @@ https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem
 https://medium.com/@zbzzn/integrating-react-and-datatables-not-as-hard-as-advertised-f3364f395dfa
 https://medium.com/ecmastack/uploading-files-with-react-js-and-node-js-e7e6b707f4ef
 https://medium.com/@_ankitp/inverting-control-in-react-lap-1-fd1074088619
+https://medium.com/@yoniweisbrod/styling-react-applications-with-ant-design-92b742aab0b0
+https://medium.com/@baphemot/understanding-react-deployment-5a717d4378fd
+https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205
+https://medium.com/@thejameskyle/react-loadable-2674c59de178
 
 
 ###################################### Raja Rao ##################################################################
@@ -167,6 +174,13 @@ https://hackernoon.com/animating-particles-using-react-motion-dcded1895f17
 https://hackernoon.com/quick-development-with-nwb-35f3fee5d837
 https://hackernoon.com/thinking-in-redux-when-all-youve-known-is-mvc-c78a74d35133
 https://hackernoon.com/open-sourcing-a-redux-component-bb82f260ff62
+https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
+https://hackernoon.com/improving-first-time-load-of-a-production-react-app-part-1-of-2-e7494a7c7ab0
+https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a590bd9fd5
+https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0
+https://hackernoon.com/render-a-hearthstone-card-using-react-and-svg-cb086957e74a
+https://hackernoon.com/react-js-cms-blog-tutorial-e090c699845b
+https://hackernoon.com/routing-in-react-the-uncomplicated-way-b2c5ffaee997
 
 
 ###################################### Freecodecamp ##################################################################
@@ -179,6 +193,11 @@ https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-r
 https://medium.freecodecamp.com/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468#.edxmt5u5m
 https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1#.spzb8m9nt
 https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22
+https://medium.freecodecamp.com/how-to-build-animated-microinteractions-in-react-aab1cb9fe7c8
+https://medium.freecodecamp.com/reacts-jsx-vs-vue-s-templates-a-showdown-on-the-front-end-b00a70470409
+https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b
+https://medium.freecodecamp.com/how-to-build-react-apps-on-top-of-the-wordpress-rest-api-bcc632808025
+https://medium.freecodecamp.com/how-to-make-your-react-app-fully-functional-fully-reactive-and-able-to-handle-all-those-crazy-e5da8e7dac10
 
 
 ###################################### Javascript Inside ##################################################################
@@ -207,6 +226,7 @@ http://jamesknelson.com/created-junctions-js/
 http://swizec.com/blog/using-react-in-the-real-world/swizec/6710
 http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775
 http://swizec.com/blog/how-to-make-a-piechart-using-react-and-d3/will/6785
+https://swizec.com/blog/dancing-rainbow-snake/swizec/
 
 
 ###################################### ReactJS News ##################################################################
@@ -234,6 +254,8 @@ https://daveceddia.com/what-to-test-in-react-app/
 https://daveceddia.com/what-is-a-thunk/
 https://daveceddia.com/thinking-statefully/
 https://daveceddia.com/redux-action-creators/
+https://daveceddia.com/watch-out-for-undefined-state/
+https://daveceddia.com/random-numbers-in-redux/
 
 
 ###################################### Stormpath ##################################################################
