@@ -31,6 +31,8 @@ https://medium.com/opinionated-angularjs/angular-model-objects-with-javascript-c
 https://medium.com/@danieljoonlee/using-broadcast-to-change-your-partials-in-angularjs-920c2b9f5e96#.36kkiot8u
 https://medium.com/@alecklandgraf/an-introduction-to-angular-1-5-components-97ab4c79966d#.d0o9fqnkc
 https://medium.com/testing-angular/testing-an-angular-resource-factory-59c5491ec3a6#.abg3s7dlp
+https://medium.com/@juliapassynkova/angular-grids-destructuring-7488757e06a1
+https://medium.com/covalent-ui/building-slack-in-angular-with-covalent-e116c55f58e8
 
 
 ################################################# Scotch.io ##################################################### 
@@ -91,6 +93,7 @@ https://toddmotto.com/angular-modules-setters-getters/
 https://toddmotto.com/exploring-the-angular-1-5-component-method/
 https://toddmotto.com/angular-1-5-lifecycle-hooks
 https://toddmotto.com/modern-angular-interview-questions
+https://toddmotto.com/component-architecture-reactive-forms-angular
 
 
 ################################################# Codelord ##################################################### 
@@ -107,6 +110,10 @@ http://www.codelord.net/2016/11/30/advanced-angular-1-dot-x-component-communicat
 http://www.codelord.net/2016/12/06/video-walkthrough-refactoring-angular-components-to-use-require-mechanism/
 http://www.codelord.net/2016/12/20/replacing-angulars-deep-watches-with-the-$docheck-lifecycle-hook/
 http://www.codelord.net/2016/12/13/replacing-$scope-dot-$watch-with-lifecycle-hooks/
+http://www.codelord.net/2016/04/21/angular-performance-updating-bind-once-elements/
+http://www.codelord.net/2017/05/08/moving-anuglar-factories-to-services-with-classes/
+http://www.codelord.net/2017/05/28/understanding-optional-angularjs-bindings/
+http://www.codelord.net/2017/05/20/converting-angular-controllers-to-es6-classes/
 
 
 ################################################# Code Project ##################################################### 
@@ -147,6 +154,13 @@ http://www.webcodegeeks.com/javascript/angular-js/mock-responses-http-calls-netw
 http://www.webcodegeeks.com/javascript/angular-js/angular-js-transclusion-example/
 https://examples.javacodegeeks.com/enterprise-java/spring/mvc/angularjs-spring-integration-tutorial/
 https://www.webcodegeeks.com/javascript/angular-js/using-angularjs-to-extend-your-code-quality
+
+
+################################################# NRWL ##################################################### 
+https://blog.nrwl.io/ngupgrade-in-depth-436a52298a00
+https://blog.nrwl.io/essential-angular-components-and-directives-ab65172ba60#.q24bgj3hp
+https://blog.nrwl.io/using-ngupgrade-like-a-pro-lazy-loading-angularjs-applications-469819f5c86
+https://blog.nrwl.io/upgrading-angular-applications-managing-routers-and-url-ca5588290aaa
 
 
 ################################################# Pluralsight ##################################################### 
@@ -229,7 +243,6 @@ https://www.twilio.com/blog/2016/05/build-video-chat-using-angularjs-1-x.html
 http://www.lunametrics.com/blog/2016/05/04/integrating-angularjs-google-tag-manager/
 http://www.centric.eu/NL/Default/Craft/Blogs/2016/04/15/Running-AngularJS-20-unit-tests-in-Visual-Studio
 http://www.allaboutweb.biz/angular-js-framework-for-creating-ambitious-web-applications/
-http://www.codelord.net/2016/04/21/angular-performance-updating-bind-once-elements/
 http://www.wisdomofjim.com/woj-blog/working-effectively-with-legacy-angular-code
 http://www.siddharthpandey.net/write-angularjs-components-with-nested-routing-using-typescript/
 http://webdev.snapagency.com/how-to-use-angular-js-and-json-api-to-build-wordpress-theme/
@@ -243,3 +256,7 @@ https://www.simple-talk.com/dotnet/net-development/4-keys-clean-angular-implemen
 http://internetdevels.com/blog/drupal-angular-js-web-app-development
 http://zephyri.co/2016/when-magic-is-too-slow-isolate-scope-broadcast-and-angularjs/
 http://leopathu.com/content/build-ultra-modern-web-apps-angular-material
+https://devdactic.com/ionic-firebase-angularfire/
+https://cosmicjs.com/blog/how-to-build-a-mobile-product-catalog-app-using-angular-js-ionic-and-cosmic-js
+http://developer.telerik.com/products/nativescript/use-firebase-cloud-messaging-nativescript-app/
+https://code.tutsplus.com/tutorials/how-to-create-animations-in-angularjs-with-nganimate--cms-28593
