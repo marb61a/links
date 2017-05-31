@@ -22,6 +22,7 @@ http://www.syntaxsuccess.com/viewarticle/optimizing-ngupgrade-bundle-sizes-in-an
 http://www.syntaxsuccess.com/viewarticle/i18n-and-ahead-of-time-compilation-(aot)-in-angular
 
 
+
 ################################################# Medium ##################################################### 
 https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.bmutqoccu
 https://medium.com/@blacksonic86/angular-2-authentication-revisited-611bf7373bf9#.jtv1gvsxw
@@ -57,6 +58,7 @@ http://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.h
 http://blog.thoughtram.io/angular/2016/09/16/angular-2-animation-important-concepts.html
 http://blog.thoughtram.io/angular/2016/10/10/resolving-route-data-in-angular-2.html
 http://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
+https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html
 
 
 ################################################# Todd Motto ##################################################### 
@@ -101,6 +103,7 @@ https://www.bennadel.com/blog/3184-creating-leaky-abstractions-with-rxjs-in-angu
 https://www.bennadel.com/blog/3169-adding-custom-typings-files-d-ts-in-an-angular-2-typescript-application.htm
 https://www.bennadel.com/blog/3187-partial-stream-execution-a-case-for-hot-rxjs-observables-in-angular-2-1-1.htm
 https://www.bennadel.com/blog/3206-configuring-pouchdb-after-login-for-a-database-per-user-architecture-in-angular-2-4-1.htm
+https://www.bennadel.com/blog/3259-using-import-require-syntax-with-typescript-2-2-in-angular-2-4-9.htm
 
 
 ################################################# Telerik ##################################################### 
@@ -132,5 +135,6 @@ http://www.gistia.com/guide-end-end-testing-angular-2/
 http://www.gistia.com/working-angular-2-router-part-1/
 http://www.gistia.com/working-angular-2-router-part-2/
 http://www.gistia.com/bind-data-view/
-
 http://www.gistia.com/mastering-promises/
+http://www.gistia.com/getting-started-angular-2-bootstrap/
+
