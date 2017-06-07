@@ -287,3 +287,50 @@ https://github.com/alexanderjarvis/maybe - Maybe is a type that wraps optional v
 https://github.com/jshjohnson/Choices - A vanilla JS customisable select box/text input plugin
 https://github.com/vstirbu/fsm-as-promised - A finite state machine library using ES6 promises
 https://github.com/d3-node/d3-node - Server-side D3 for static chart/map generation
+https://github.com/reactide/reactide - the first dedicated IDE for React web application development.
+https://github.com/photopea/UTIF.js - Fast and advanced TIFF decoder
+https://github.com/nodesecurity/eslint-plugin-security - ESLint rules for Node Security
+https://github.com/atomiks/tippyjs - A lightweight, pure JS tooltip library
+https://github.com/shobhitsharma/embedo - Content Embed Plugin for Web 
+https://github.com/limonte/sweetalert2 - replacement for JavaScript's popup boxes
+https://github.com/brockwhittaker/BitArray.js - A memory efficient implementation of bit flag arrays in JavaScript
+https://github.com/photopea/UPNG.js - Fast and advanced PNG encoder (lossy / lossless) and decoder
+https://github.com/sinedied/backslide - CLI tool for making HTML presentations
+https://github.com/ericjjj/vms - A Vue.js 2.0 Content Management System
+https://github.com/shamadee/web-dsp - A client-side signal processing library utilizing the power of WebAssembly
+https://github.com/hunterloftis/awaiting - The async/await utility for browsers and Node.js
+https://github.com/luruke/barba.js - Create badass, fluid and smooth transition between your website's pages
+https://github.com/aweary/tinytime - A straightforward time and time formatter in <1kb
+https://github.com/crapthings/lodash-form-collector - a form collector powered by lodash that support any frontend framework
+https://github.com/gka/chroma.js - JavaScript library for all kinds of color manipulations
+https://github.com/mburakerman/hrjs/ - Tiny JavaScript plugin for highlighting and replacing text in the DOM
+https://github.com/styled-components/polished - A lightweight toolset for writing styles in JavaScript
+https://github.com/ruyadorno/simple-slider - The 1kb JavaScript Carousel
+https://github.com/logaretm/vee-validate - Simple Vue.js input validation plugin
+https://github.com/Yomguithereal/pandemonium - Typical random-related functions for JavaScript.
+https://github.com/FinNLP/en-inflectors -  English inflection library 
+https://github.com/sindresorhus/p-event - Promisify an event by waiting for it to be emitted
+https://github.com/appleple/SmartPhoto - The most easy to use responsive image viewer especially for mobile devices
+https://github.com/ngryman/speedracer - Collect performance metrics for your library/application
+https://github.com/Rich-Harris/butternut - The fast, future-friendly minifier 
+https://github.com/reactioncommerce/reaction - a customizable, real-time reactive, JavaScript commerce platform.
+https://github.com/weixsong/elasticlunr.js - Based on lunr.js, but more flexible and customized
+https://github.com/mamboer/vue-easy-gantt - A simple Vue.js gantt chart plugin for presenting weekly tasks
+https://github.com/abouolia/sticky-sidebar - jQuery plugin for making smart and high performance sticky sidebar
+https://github.com/mapbox/delaunator -  fast JavaScript library for Delaunay triangulation of 2D points
+https://github.com/alixander/Stanchion - Add priorities to your web app's network requests
+https://github.com/pubkey/rxdb - Client-Side Database for Browsers
+https://github.com/ks888/LambStatus - Serverless Status Page System
+https://github.com/sirrodgepodge/arrayCompress - Extremely efficient compression of arrays
+https://github.com/mbasso/asm-dom - A minimal WebAssembly virtual DOM focused on performance
+https://github.com/toish/chromatism -  A simple set of utility functions for colours
+https://github.com/brh55/react-native-masonry - A react-native component to render a masonry~ish layout for images
+https://github.com/provejs/provejs-jquery - An event based jQuery plugin for client-side validation of html forms.
+https://github.com/PeachScript/vue-infinite-loading - An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0.
+https://github.com/MaiaVictor/forall - Expressive static types and invariant checks for JavaScript.
+https://github.com/Sirvasile/Typefont - The first open-source project that detects the font of a text in a image.
+https://github.com/remerge/micro-http-client - Specify common request and response processing in a single location
+https://github.com/ForbesLindesay/taxi-rank - A JSDom based Selenium Webdriver API
+https://github.com/ilkeryilmaz/timelinejs/ - jQuery timeline plugin, easily creates timeline slider
+https://github.com/hilongjw/vue-recyclerview - Mastering Large Lists with the vue-recyclerview
+https://github.com/picodom/picodom - 1kb Virtual DOM builder and patch algorithm.
