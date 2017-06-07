@@ -7,11 +7,15 @@ http://addyosmani.com/largescalejavascript/
 https://booker.codes/data-driven-tests-in-javascript-using-mocha/
 https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
 https://jakearchibald.com/2016/streaming-template-literals/
+https://jakearchibald.com/2017/async-iterators-and-generators/
 http://vegibit.com/vue-js-tutorial/
 http://derickbailey.com/2015/08/26/building-a-component-based-web-ui-with-modern-javascript-frameworks/
+https://derickbailey.com/2017/04/18/you-need-es7s-async-functions-heres-why/
 http://www.pubnub.com/blog/webrtc-video-chat-app-in-20-lines-of-javascript/
 https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/
-https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback?
+https://www.pubnub.com/blog/integrate-embeddable-gifs-into-a-realtime-chat-app-with-giphy-api-and-blocks/
+https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/
+https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback
 http://blog.rangle.io/angular-gulp-bestpractices/
 http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/
 https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js
@@ -66,6 +70,7 @@ http://nickmeldrum.com/blog/decorators-in-javascript-using-monkey-patching-closu
 https://www.twilio.com/blog/2016/03/getting-started-with-the-twilio-video-javascript-sdk.html
 https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html
 https://engineering.mongodb.com/post/code-generating-away-the-boilerplate-in-our-migration-back-to-spidermonkey/
+https://www.mongodb.com/blog/post/the-modern-application-stack-part-5-using-reactjs-es6-and-jsx-to-build-a-ui-the-rise-of-mern
 http://knpw.rs/blog/using-lodash
 http://bytearcher.com/articles/understanding-prototype-property-in-javascript/
 http://kamranahmed.info/blog/2016/04/04/es6-in-depth/
@@ -74,6 +79,7 @@ https://www.sitepen.com/blog/2016/04/13/es6-symbols-drumroll-please/
 http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html
 https://blog.jscrambler.com/creating-modules-javascript-es7-babel/
 https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/
+https://blog.jscrambler.com/getting-started-with-three-js
 http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript
 https://m.alphasights.com/using-nginx-on-heroku-to-serve-single-page-apps-and-avoid-cors-5d013b171a45#.c0gw84q4e
 http://martinfowler.com/articles/refactoring-video-store-js/
@@ -116,6 +122,7 @@ http://x-team.com/2016/08/beginners-guide-ionic-2-mobile-applications/
 https://bocoup.com/weblog/test262-is-a-javascript-sideshow
 https://bocoup.com/weblog/javascript-developers-watch-your-language
 https://bocoup.com/blog/lets-define-my-favorite-test
+https://bocoup.com/blog/the-many-faces-of-functions-in-javascript
 https://madebymike.com.au//writing/service-workers/
 https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
 http://hasharray.pw/tutorials/javascript/tracking-outbound-forms-and-links-with-google-analytics
@@ -135,6 +142,7 @@ http://gilesbowkett.blogspot.ie/2016/10/this-infographic-explains-why-js-dev.htm
 https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.g4u6apom8
 http://jazcash.com/a-javascript-journey-with-only-six-characters/
 https://blog.pusher.com/build-live-comments-feature-using-javascript/
+https://blog.pusher.com/how-to-build-a-whos-typing-feature-in-javascript
 http://marcgg.com/blog/2016/11/01/javascript-audio/
 https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f#.l7jni8l2i
 http://blog.wolksoftware.com/contributing-to-definitelytyped
@@ -165,6 +173,7 @@ http://www.thedotpost.com/2016/12/goncalo-morais-binary-in-javascript
 http://softeng.oicr.on.ca/chang_wang/2017/01/03/Legacy-Build-Tool-Migration/
 http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript
 http://jlongster.com/A-Prettier-Formatter
+http://jlongster.com/prettier-1.0
 http://javascriptplayground.com/blog/2017/01/npm-flowjs-javascript/
 http://arianv.com/post/Module-Bundling-and-Webpack-in-Simple-Terms/
 http://ivanjov.com/working-with-http-streams-with-cycle-js/
@@ -181,4 +190,17 @@ http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html
 https://benmccormick.org/2017/02/26/running-jest-tests-before-each-git-commit/
 https://alligator.io/vuejs/e2e-testing-testcafe/
 http://mediatemple.net/blog/tips/randomizing-svg-shapes/
-https://blog.pusher.com/how-to-build-a-whos-typing-feature-in-javascript
+https://www.linkedin.com/pulse/emberjs-future-tom-dale-greg-leffler
+https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/
+https://zapier.com/engineering/how-to-build-redux/
+https://rainsoft.io/7-tips-to-handle-undefined-in-javascript/
+http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html
+https://zellwk.com/blog/js-in-dom/
+https://zellwk.com/blog/es6/
+http://raganwald.com/2017/04/30/transducers.html
+https://tympanus.net/codrops/2017/05/09/infinite-tubes-with-three-js/
+http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/
+https://hackcabin.com/post/managing-async-dependencies-javascript/
+https://raygun.com/blog/javascript-unit-testing-frameworks/
+http://pragmatists.pl/blog/2017/05/higher-order-functions-in-lodash/
+https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e
