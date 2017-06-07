@@ -22,6 +22,7 @@ https://ponyfoo.com/articles/template-literals-strictly-better-strings
 https://ponyfoo.com/articles/javascript-asynchronous-iteration-proposal
 https://ponyfoo.com/articles/observables-coming-to-ecmascript
 https://ponyfoo.com/articles/iterators-as-generators
+https://ponyfoo.com/articles/regular-expressions-post-es6
 
 
 ####################################### Medium ###########################################################
@@ -67,6 +68,11 @@ https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-prom
 https://medium.com/statuscode/cors-a-guided-tour-4e72230a8739
 https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
 https://medium.com/dailyjs/maybe-you-should-use-maybes-297f2c88c228
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
+https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a
+https://medium.com/@darrenjennings/data-driven-vue-js-53e84f16e28f
+https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358
+https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 
 
 ###################################### Freecodecamp ###########################################################
@@ -77,6 +83,10 @@ https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e
 https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.1pyvvbtlc
 https://medium.freecodecamp.com/javascript-closures-explained-by-mailing-a-package-4f23e9885039#.j99vhsa3v
 https://medium.freecodecamp.com/using-flow-with-babel-c04fdca8d14d#.x467hcj43
+https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77
+https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
+https://medium.freecodecamp.com/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9
+https://medium.freecodecamp.com/simple-chess-ai-step-by-step-1d55a9266977
 
 
 ####################################### Telerik ###########################################################
@@ -132,6 +142,11 @@ http://2ality.com/2016/10/understanding-promises.html
 http://2ality.com/2017/03/csp-vs-async-generators.html
 http://2ality.com/2017/03/es-integer.html
 http://2ality.com/2017/03/text-as-clocks.html
+http://2ality.com/2017/05/es-module-specifiers.html
+http://2ality.com/2017/05/regexp-lookbehind-assertions.html
+http://2ality.com/2017/04/flatmap.html
+http://2ality.com/2017/04/conditional-literal-entries.html
+http://2ality.com/2017/06/pkg-esnext.html
 
 
 ####################################### Mozilla ###########################################################
@@ -169,6 +184,8 @@ https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/
 https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/
 https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/
 https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/
+https://www.smashingmagazine.com/2017/05/json-api-normalizer-redux/ 
+https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/
 
 
 ####################################### Auth0 ###########################################################
@@ -196,6 +213,7 @@ https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type
 http://www.bennadel.com/blog/2930-using-cmd-enter-to-submit-a-form-in-angularjs.htm
 http://www.bennadel.com/blog/3124-gathering-data-in-parallel-inside-an-asynchronous-generator-based-workflow-in-javascript.htm
 http://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm
+https://www.bennadel.com/blog/3254-method-binding-is-an-implicit-part-of-your-api-contract-whether-you-like-it-or-not.htm
 
 
 ####################################### Risingstack ###########################################################
@@ -206,6 +224,7 @@ https://blog.risingstack.com/async-await-node-js-7-nightly/
 https://blog.risingstack.com/writing-a-javascript-framework-data-binding-es6-proxy/
 https://community.risingstack.com/explaining-javascript-closure-scope-chain-examples/
 https://blog.risingstack.com/writing-a-javascript-framework-the-benefits-of-custom-elements
+https://blog.risingstack.com/important-features-fixes-node-js-version-8/
 
 
 ####################################### David Walsh ###########################################################
@@ -227,6 +246,10 @@ https://css-tricks.com/introduction-mo-js/
 https://css-tricks.com/intro-to-vue-1-rendering-directives-events/
 https://css-tricks.com/animated-intro-rxjs/
 https://css-tricks.com/creating-book-cover-using-javascript-p5-js/
+https://css-tricks.com/debugging-tips-tricks/
+https://css-tricks.com/pong-svg-js/
+https://css-tricks.com/power-custom-directives-vue/
+https://css-tricks.com/using-fetch/
 
 
 ####################################### Wes Bos ###########################################################
@@ -245,4 +268,5 @@ https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6d
 https://hackernoon.com/naive-infinite-scroll-in-reactive-programming-using-rxjs-observables-4a605d3146e8
 https://hackernoon.com/what-you-should-know-about-numbers-in-es6-javascript-7370be6b3469
 https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e
-
+https://hackernoon.com/javascript-arrow-functions-for-beginners-926947fc0cdc
+https://hackernoon.com/introducing-nile-js-81d83a31cfe3
