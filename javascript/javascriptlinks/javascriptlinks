@@ -52,13 +52,22 @@ https://www.youtube.com/watch?v=Vh_gOMfOod8 - Cleaning up Code with Eslint
 https://www.youtube.com/watch?v=NT3OxvS7McU - Getting Started with Vue.js 2.0 in 2017
 https://www.youtube.com/watch?v=QH94CXVv3UE - Code-splitting your way to better perf with Webpack
 https://www.youtube.com/watch?v=t3R3R7UyN2Y - ES6 and Beyond Workshop at PayPal 
-https://www.youtube.com/watch?v=CFQBHy8RCpg -ASTs for Beginners
+https://www.youtube.com/watch?v=CFQBHy8RCpg - ASTs for Beginners
+https://www.youtube.com/watch?v=4LzcQyZ9JOU - Immutability in JavaScript
+https://www.youtube.com/watch?v=NPB34lDZj3E - The Post JavaScript Apocalypse - Douglas Crockford
+https://www.youtube.com/watch?v=hO7mzO83N1Q - JavaScript Patterns for 2017
+https://scriptconf.org/blog/javascript-is-a-buffet-not-the-enemy-chris-heilmann/
+https://www.youtube.com/watch?v=4tQiJaFzuJ8 - Everything is a plugin! Mastering webpack from the inside out 
+https://www.youtube.com/watch?v=EdFDJANJJLs - V8, Advanced JavaScript, & the Next Performance Frontier 
+https://www.youtube.com/watch?v=aCMbSyngXB4 - Production Progressive Web Apps With JavaScript Frameworks
 
 
 ##Pusher
 https://pusher.com/sessions/meetup/front-end-london/the-evolution-of-asynchronous-javascript
 https://pusher.com/sessions/meetup/ember-london/building-delicious-forms-with-emberjs
 https://pusher.com/sessions/meetup/london-node-user-group/ace-javascript-interviews-scoping-and-hoisting
+https://pusher.com/sessions/meetup/hydrahack/making-desktop-apps-with-electron
+https://pusher.com/sessions/meetup/js-monthly-london/flow
 
 
 ##Egghead
@@ -66,6 +75,7 @@ https://egghead.io/series/how-to-write-an-open-source-javascript-library
 https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 https://egghead.io/lessons/javascript-use-es6-proxies
 https://egghead.io/lessons/javascript-format-console-log-with-css-and-string-template-tags
+https://egghead.io/lessons/javascript-use-test-driven-development
 
 
 ##Channels & Playlists
@@ -78,7 +88,11 @@ https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q/videos - Javascript Air
 https://www.youtube.com/playlist?list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ - Polymer Summit 2016
 https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O - Vue.js Fundamentals
 http://thisdot.co/javascript/01-2017
+https://www.youtube.com/playlist?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_#jsconfeu2017 - JSConf EU 2017
 
+
+##Podcasts
+https://softwareengineeringdaily.com/2017/03/31/webassembly-with-brendan-eich/
 
 
 ##Links -
