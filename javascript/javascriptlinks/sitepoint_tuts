@@ -11,6 +11,7 @@ http://www.sitepoint.com/transpiling-es6-modules-to-amd-commonjs-using-babel-gul
 http://www.sitepoint.com/joys-block-scoping-es6/
 https://www.sitepoint.com/up-and-running-with-eslint-the-pluggable-javascript-linter/
 http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
+https://www.sitepoint.com/patterns-object-inheritance-javascript-es2015/
  
                             
                             ######################## JQuery  ############################
@@ -60,6 +61,7 @@ https://www.sitepoint.com/unit-test-javascript-mocha-chai/
 https://www.sitepoint.com/javascript-functional-testing-nightwatch-js/
 https://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/
 https://www.sitepoint.com/javascript-testing-unit-functional-integration/
+https://www.sitepoint.com/javascript-testing-tool-showdown-sinon-js-vs-testdouble-js/
 
 
                             ######################## Javacript ############################
@@ -86,6 +88,10 @@ https://www.sitepoint.com/introduction-gulp-js/
 https://www.sitepoint.com/beginners-guide-javascript-variables-and-datatypes/
 https://www.sitepoint.com/sort-an-array-of-objects-in-javascript/
 https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/
+http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
+https://www.sitepoint.com/event-bubbling-javascript/
+https://www.sitepoint.com/simple-javascript-quiz/
+https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/
 
                             
                             ######################## Graphics ############################
@@ -123,7 +129,6 @@ http://www.sitepoint.com/quick-tip-master-closures-by-reimplementing-them-from-s
 http://www.sitepoint.com/creating-an-imgur-app-with-nativescript/
 http://www.sitepoint.com/generating-pdfs-from-web-pages-on-the-fly-with-jspdf/
 http://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/
-http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
 http://www.sitepoint.com/creating-donation-widget-with-flight-components/
 http://www.sitepoint.com/using-soundcloud-api-javascript-sdk/
 http://www.sitepoint.com/javascript-modules-bundling-transpiling/
@@ -147,3 +152,7 @@ https://www.sitepoint.com/getting-started-with-vue-js/
 https://www.sitepoint.com/add-remove-css-class-vanilla-js/
 https://www.sitepoint.com/aurelia-custom-pdf-viewer-component/
 https://www.sitepoint.com/logging-errors-client-side-apps/
+https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/
+https://www.sitepoint.com/react-vs-angular/
+https://www.sitepoint.com/building-a-full-sphere-3d-image-gallery-with-react-vr/
+https://www.sitepoint.com/state-aurelia-higher-order-components/
