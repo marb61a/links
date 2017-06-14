@@ -15,37 +15,124 @@
   https://github.com/blackfireio/player - a powerful Web Crawling, Web Testing, and Web Scraper application
   https://github.com/uuf6429/elder-brother - Set up and manage contribution policies for you PHP-based projects
   https://github.com/reliv/pipe-rat - Create REST APIs with just a few lines of config
-  https://github.com/leocavalcante/siler-example - Keeping it simple, stupid
-  https://github.com/synox/disposable-mailbox - self-hosted simple disposable email system
-  https://github.com/expressly/php-common - Common PHP library for Expressly
-  https://github.com/MilloLab/quaver - The Quaver PHP framework.
-  https://github.com/hybridauth/hybridauth - Open source social sign on PHP Library
-  https://github.com/Gargron/fileupload - PHP FileUpload library that supports chunked uploads
-  https://github.com/phpcr/phpcr-migrations - PHPCR Migrations library
-  https://github.com/PHP-FFMpeg/PHP-FFMpeg - An object oriented PHP driver for FFMpeg binary
-  https://github.com/hochstrasserio/wirecard - A PHP library for making payments through the Wirecard payment gateway
-  https://github.com/opulencephp/Opulence - A simple, secure, and scalable PHP application framework 
-  https://github.com/spatie/fractalistic - A developer friendly wrapper around Fractal
-  https://github.com/themosis/themosis - A framework for WordPress developers. 
-  https://github.com/vrana/adminer - Database management in a single PHP file 
-  https://github.com/thephpleague/flysystem - Abstraction for local and remote filesystems 
-  https://github.com/walkor/Workerman - An asynchronous event driven PHP framework
-  https://github.com/EGroupware/egroupware - Web based groupware server written in PHP
-  https://github.com/humhub/humhub - HumHub - Open Source Social Network 
-  https://github.com/CachetHQ/Cachet - An open source status page system for everyone
-  https://github.com/getgrav/grav - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
-  https://github.com/varspool/Wrench- A simple PHP WebSocket implementation for PHP 7.1
-  https://github.com/piwik/piwik - the leading open alternative to Google Analytics
-  https://github.com/inoerp/inoERP - a PHP-based open source enterprise management system
-  https://github.com/maghead/maghead - The fast pure PHP database framework with a powerful static code generator,
-  https://github.com/memio/memio - A highly opinionated PHP code generator library 
-  https://github.com/opencfp/opencfp - a PHP-based conference talk submission system
-  https://github.com/jasonmunro/cypht - Lightweight Open Source webmail written in PHP and JavaScript 
-  https://github.com/timegridio/timegrid - Free, open-source, online appointments platform based on Laravel PHP Framework.
-  https://github.com/santigarcor/laratrust - A role-based access control package for Laravel
-  https://github.com/apsdehal/Link - A PHP router that helps you create webapps and APIs effortlessly
-  https://github.com/Indatus/trucker - A PHP package for mapping remote API resources
-  https://github.com/timber/starter-theme - a dead-simple theme that you can build from
-  https://github.com/jbroadway/analog - micro logging package that is highly extendable via closures
-  https://github.com/PrivateBin/PrivateBin - A minimalist, open source online pastebin 
-  https://github.com/hannob/php-crashers - Example scripts that cause segfaults in PHP
+https://github.com/leocavalcante/siler-example - Keeping it simple, stupid
+https://github.com/synox/disposable-mailbox - self-hosted simple disposable email system
+https://github.com/expressly/php-common - Common PHP library for Expressly
+https://github.com/MilloLab/quaver - The Quaver PHP framework.
+https://github.com/hybridauth/hybridauth - Open source social sign on PHP Library
+https://github.com/Gargron/fileupload - PHP FileUpload library that supports chunked uploads
+https://github.com/phpcr/phpcr-migrations - PHPCR Migrations library
+https://github.com/PHP-FFMpeg/PHP-FFMpeg - An object oriented PHP driver for FFMpeg binary
+https://github.com/hochstrasserio/wirecard - A PHP library for making payments through the Wirecard payment gateway
+https://github.com/opulencephp/Opulence - A simple, secure, and scalable PHP application framework 
+https://github.com/spatie/fractalistic - A developer friendly wrapper around Fractal
+https://github.com/themosis/themosis - A framework for WordPress developers. 
+https://github.com/vrana/adminer - Database management in a single PHP file 
+https://github.com/thephpleague/flysystem - Abstraction for local and remote filesystems 
+https://github.com/walkor/Workerman - An asynchronous event driven PHP framework
+https://github.com/EGroupware/egroupware - Web based groupware server written in PHP
+https://github.com/humhub/humhub - HumHub - Open Source Social Network 
+https://github.com/CachetHQ/Cachet - An open source status page system for everyone
+https://github.com/getgrav/grav - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+https://github.com/varspool/Wrench- A simple PHP WebSocket implementation for PHP 7.1
+https://github.com/piwik/piwik - the leading open alternative to Google Analytics
+https://github.com/inoerp/inoERP - a PHP-based open source enterprise management system
+https://github.com/maghead/maghead - The fast pure PHP database framework with a powerful static code generator,
+https://github.com/memio/memio - A highly opinionated PHP code generator library 
+https://github.com/opencfp/opencfp - a PHP-based conference talk submission system
+https://github.com/jasonmunro/cypht - Lightweight Open Source webmail written in PHP and JavaScript 
+https://github.com/timegridio/timegrid - Free, open-source, online appointments platform based on Laravel PHP Framework.
+https://github.com/santigarcor/laratrust - A role-based access control package for Laravel
+https://github.com/apsdehal/Link - A PHP router that helps you create webapps and APIs effortlessly
+https://github.com/Indatus/trucker - A PHP package for mapping remote API resources
+https://github.com/timber/starter-theme - a dead-simple theme that you can build from
+https://github.com/jbroadway/analog - micro logging package that is highly extendable via closures
+https://github.com/PrivateBin/PrivateBin - A minimalist, open source online pastebin 
+https://github.com/hannob/php-crashers - Example scripts that cause segfaults in PHP
+https://github.com/zordius/HandlebarsTest - Performance tests on Mustache and Handlebars php libs 
+https://github.com/rmccue/Requests - Requests for PHP is a humble HTTP request library
+https://github.com/giorgiosironi/eris/tree/master - Eris is a porting of Quickcheck 
+https://github.com/sebastianfeldmann/phpbu - PHP Backup Utility, Creates and encrypts database and file backups
+https://github.com/fruux/sabre-vobject - allows you to easily parse and manipulate iCalendar and vCard objects
+https://github.com/nextras/orm - Lightweight and high-performance ORM with clean object design 
+https://github.com/filp/whoops - PHP errors for cool kids
+https://github.com/fluxoft/rebar - rebar is a simple framework for quickly building PHP projects
+https://github.com/fabfuel/prophiler - PHP Profiler & Developer Toolbar (built for Phalcon)
+https://github.com/eveseat/seat - A Simple, EVE Online API Tool and Corporation Manager
+https://github.com/box/bart - A collection of our critical PHP tools
+https://github.com/Elgg/Elgg - A social networking engine in PHP/MySQL
+https://github.com/vinkla/laravel-hashids - A Hashids bridge for Laravel 
+https://github.com/Behat/Transliterator - Behat Transliterator library inherited from Doctrine1 
+https://github.com/croogo/croogo - A CakePHP powered Content Management System 
+https://github.com/cnvs/canvas - Simple, Powerful Blog Publishing Platform
+https://github.com/ratchetphp/Ratchet - Asynchronous WebSocket server
+https://github.com/minkphp/Mink - PHP 5.3+ web browser emulator abstraction
+https://github.com/vrana/adminer - Database management in a single PHP file 
+https://github.com/lincanbin/Carbon-Forum - A high performance open-source forum software written in PHP
+https://github.com/timber/timber - Plugin to write WordPress themes w object-oriented code
+https://github.com/silexphp/Pimple - A small PHP 5.3 dependency injection container
+https://github.com/certificationy/certificationy - The core library to create tests and certifications
+https://github.com/Toxantron/scrumonline - PHP web app for planning poker
+https://github.com/ihor/Nspl - Non-standard PHP library (NSPL) 
+https://github.com/composer/composer - Dependency Manager for PHP
+https://github.com/lenochware/pclib - Lightweight PHP framework
+https://github.com/nirix/traq - Project management and issue tracking system written in PHP.
+https://github.com/easytaxibr/newrelic- New Relic Tools for PHP
+https://github.com/Sylius/Sylius - eCommerce PHP framework built on top of Symfony
+https://github.com/maghead/maghead - The fastest pure PHP database framework with a powerful static code generator
+https://github.com/segmentio/analytics-php - The hassle-free way to integrate analytics into any php application
+https://github.com/phpipam/phpipam - phpipam development repository 
+https://github.com/TeknooSoftware/states - Library to create classes following the State pattern in PHP
+https://github.com/dzavy/yunapbx - Lightweight Asterisk configuration utility written in PHP
+https://github.com/grpc/grpc - The C based gRPC
+https://github.com/phpfunct/funct - A PHP library with commonly used code blocks
+https://github.com/szymach/c-pchart - A project bringing Composer support and PSR standards to pChart 2.0 library.
+https://github.com/servo-php/fluidxml - FluidXML, the PHP library for manipulating XML
+https://github.com/opulencephp/Opulence - A simple, secure, and scalable PHP application framework
+https://github.com/ziadoz/awesome-php - A curated list of amazingly awesome PHP libraries
+https://github.com/kahlan/kahlan - PHP Test Framework for Freedom, Truth, and Justice 
+https://github.com/bitExpert/adroit - ADR/PSR-7 middleware
+https://github.com/mjaschen/phpgeo - Simple Geo Library for PHP
+https://github.com/spress/Spress - Static site generator in PHP
+https://github.com/dshorthouse/SimpleMappr - MapServer and PHP-MapScript application
+https://github.com/shadowhand/latitude - A SQL query builder for PHP with zero dependencies
+https://github.com/engintron/engintron - Engintron for cPanel/WHM is the easiest way to integrate Nginx 
+https://github.com/humbug/phar-updater - A thing to make PHAR self-updates easy and secure
+https://github.com/thephpleague/route - Fast router and dispatcher built on top of FastRoute 
+https://github.com/troydavisson/PHRETS - PHP client library for interacting with a RETS server
+https://github.com/shrikeh/teapot - Simple PHP library to improve verbosity in HTTP response codes
+https://github.com/guzzle/promises - Promises/A+ library for PHP with synchronous support
+https://github.com/naneau/php-obfuscator - A  parsing PHP obfuscator
+https://github.com/phanbook/phanbook - A Q&A and Forum PHP platform
+https://github.com/gjedeer/celery-php - PHP client for Celery 
+https://github.com/Maxlab/stacker - The environment for local web development, ready for use
+https://github.com/browscap/browscap-php - Officially supported Browscap for PHP 
+https://github.com/dunglas/DunglasActionBundle - Symfony controllers, redesigned
+https://github.com/kasparsd/minit - A WordPress plugin to combine CSS and Javascript file
+https://github.com/domainmod/domainmod - an open source application written in PHP & MySQ
+https://github.com/chamilo/chamilo-lms - a learning management system focused on ease of use and accessibility
+https://github.com/markuspoerschke/iCal - iCal-creator for PHP 
+https://github.com/PHP-DI/PHP-DI - The dependency injection container for humans 
+https://github.com/kreta/Kreta - Modern project management solution 
+https://github.com/phacility/phabricator - Open software engineering platform and fun adventure game 
+https://github.com/laukstein/ajax-seo - Ajax SEO crawlable webapp framework with boosted UX
+https://github.com/walkor/Workerman - An asynchronous event driven PHP framework
+https://github.com/humhub/humhub - HumHub - Open Source Social Network 
+https://github.com/bvanhoekelen/performance -  PHP performance tool analyser your script on time
+https://github.com/kanboard/kanboard - Kanban project management software
+https://github.com/picocms/Pico - Pico is a stupidly simple, blazing fast, flat file CMS
+https://github.com/wallabag/wallabag - self hostable application for saving web pages:
+https://github.com/dompdf/dompdf - HTML to PDF converter (PHP5) 
+https://github.com/shadowhand/latitude - A SQL query builder for PHP with zero dependencies
+https://github.com/ihor/Nspl - Non-standard PHP library (NSPL) 
+https://github.com/onelogin/php-saml - Simple SAML toolkit for PHP
+https://github.com/rdehnhardt/skeleton - Laravel Skeleton Application
+https://github.com/acquia/lightning - Lightning is a base distribution for fast and feature-rich Drupal
+https://github.com/Bogdaan/viber-bot-php - Php bot interface to work with Viber API
+https://github.com/spatie/laravel-partialcache - Blade directive to cache rendered partials in laravel
+https://github.com/swarrot/swarrot - A lib to consume message from any Broker
+https://github.com/ifsnop/mysqldump-php - PHP version of mysqldump cli that comes with MySQL 
+https://github.com/analogueorm/analogue - Data Mapper ORM for Laravel/PHP
+https://github.com/sbpp/sourcebans-pp - Admin, ban, and comms management system for the Source engine 
+https://github.com/sobstel/metaphore - PHP cache slam defense using a semaphore to prevent dogpile effect.
+
