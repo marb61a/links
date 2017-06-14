@@ -1,5 +1,5 @@
                                                   Tutorials
-################################################## Sitepoint ###################################################################
+################################################## Sitepoint #############################################################
 https://www.sitepoint.com/the-delicious-evils-of-php/
 https://www.sitepoint.com/home-made-twitter-and-gmail-notifications-with-php-and-arduino/
 https://www.sitepoint.com/calendar-as-a-service-in-php-easy-with-google-calendar-api/
@@ -11,16 +11,23 @@ https://www.sitepoint.com/sylius-and-cutting-your-teeth-on-tdd/
 https://www.sitepoint.com/php-fractal-make-your-apis-json-pretty-always/
 https://www.sitepoint.com/android-elephpant-laravel-android-phone/
 https://www.sitepoint.com/crash-course-continuous-deployment-semaphore-ci/
+https://www.sitepoint.com/creating-strictly-typed-arrays-collections-php/
+https://www.sitepoint.com/game-development-with-reactjs-and-php-how-compatible-are-they/
+https://www.sitepoint.com/easily-add-social-logins-to-your-app-with-socialite/
+https://www.sitepoint.com/building-social-network-laravel-stream-easy/
+https://www.sitepoint.com/wordpress-post-revision-control/
+https://www.sitepoint.com/upgrading-sylius-tdd-way-exploring-phpspec/
 
 
-################################################## Medium ###################################################################
+################################################## Medium #################################################################
 https://medium.com/@crocodile2u/running-phpunit-tests-in-phpstorm-7d486221e71a
 https://medium.com/weebly-engineering/streamed-file-zipping-and-downloading-in-php-1fb59b0a5b79
 https://medium.com/weebly-engineering/phpunit-mocking-the-file-system-using-vfsstream-5d7d79b1eb2a
+https://medium.com/@taylorotwell/free-wildcard-ssl-using-forge-cloudflare-ab0ebfbf129f
+https://medium.com/@paulredmond/using-guzzle-6-middleware-in-a-laravel-application-7fbd6d966235
 
 
-
-################################################## Tutsplus ###################################################################
+################################################## Tutsplus ###############################################################
 https://code.tutsplus.com/tutorials/programming-with-yii2-security--cms-26701
 https://code.tutsplus.com/tutorials/programming-with-yii2-automated-testing-with-codeception--cms-26790
 https://code.tutsplus.com/tutorials/building-your-startup-issue-tracking-and-feature-planning--cms-26722
@@ -34,9 +41,17 @@ https://code.tutsplus.com/tutorials/building-your-startup-dynamic-ajax-forms-for
 https://code.tutsplus.com/tutorials/building-your-startup-meetings-with-multiple-participants--cms-27132
 https://code.tutsplus.com/tutorials/building-your-startup-preparing-for-text-messaging--cms-26912
 https://code.tutsplus.com/tutorials/building-your-startup-requesting-scheduling-changes--cms-27076
+https://code.tutsplus.com/tutorials/building-your-startup-meetings-with-multiple-participants--cms-27132
+https://code.tutsplus.com/tutorials/building-your-startup-completing-group-scheduling--cms-27133
+https://code.tutsplus.com/tutorials/building-your-startup-error-logging--cms-27349
+https://code.tutsplus.com/tutorials/building-your-startup-running-multiple-domains--cms-27459
+https://code.tutsplus.com/tutorials/building-your-startup-with-php-bootstrap-your-home-page--cms-27565
+https://code.tutsplus.com/tutorials/building-your-startup-leveraging-bootstrap-ajax-and-jquery--cms-27747
+https://code.tutsplus.com/tutorials/how-to-verify-a-phone-number-via-sms--cms-27922
+https://code.tutsplus.com/tutorials/building-with-the-twitter-api-analyzing-your-followers--cms-27523
 
 
-################################################## Masterzendframework ###################################################################
+################################################## Masterzendframework ###################################################
 http://www.masterzendframework.com/series/tooling/composer/command-line-essentials/
 http://www.masterzendframework.com/series/tooling/composer/automation-scripts/
 http://www.masterzendframework.com/series/tooling/composer/forked-repositories/
@@ -46,20 +61,57 @@ http://www.masterzendframework.com/how-to-build-a-docker-test-environment
 http://www.masterzendframework.com/rad-prototyping-and-development-with-reflectionbasedabstractfactory/
 
 
-################################################## Startutorial ###################################################################
+################################################## Startutorial ############################################################
 https://www.startutorial.com/articles/view/a-quick-guide-on-integration-omnipay-on-php-projects
 https://www.startutorial.com/articles/view/dynamic-image-resizing-via-uri-with-glide-and-slim
 https://www.startutorial.com/articles/view/manually-reconnect-mysql-in-cakephp-3
+https://www.startutorial.com/articles/view/markdown-processing-in-php
+https://www.startutorial.com/articles/view/dealing-with-date-range
 
 
 ################################################## Zend ###################################################################
 https://framework.zend.com/blog/2017-01-31-zend-paginator.html
 https://framework.zend.com/blog/2017-02-14-php-sql-server-linux.html
 https://framework.zend.com/blog/2017-02-22-zend-config.html
+http://blog.zend.com/2017/03/22/running-magento-on-zend-server-cluster-on-aws-simple-walkthrough/#.WUEdar-q88p
+https://framework.zend.com/blog/2017-04-11-expressive-tooling.html
+https://framework.zend.com/blog/2017-04-20-config-aggregator.html
 
 
-################################################## Laravel News ###################################################################
+################################################## Laravel News #############################################################
 https://laravel-news.com/laravel-collections-when-method
 https://laravel-news.com/first-laravel-package-tips
 https://laravel-news.com/countries-and-currencies
 https://laravel-news.com/config-caching
+https://laravel-news.com/laravel-dusk-continuous-integration
+https://laravel-news.com/render-mailables
+https://laravel-news.com/which-laravel-helper-do-you-use-for-your-urls
+https://laravel-news.com/authorization-gates
+https://laravel-news.com/laravel-5-5-error-views
+
+
+################################################## Delicious Brains ########################################################
+https://deliciousbrains.com/scaling-laravel-aws-elastic-beanstalk-part-1-setting-up-laravel/
+https://deliciousbrains.com/scaling-laravel-using-aws-elastic-beanstalk-part-2-setting-up-vpc-rds-elasticache/
+https://deliciousbrains.com/scaling-laravel-using-aws-elastic-beanstalk-part-3-setting-elastic-beanstalk/
+https://deliciousbrains.com/introducing-wp-image-processing-queue/
+https://deliciousbrains.com/php-curl-how-wordpress-makes-http-requests/
+https://deliciousbrains.com/microcaching-wordpress-nginx-improve-server-requests-2400/
+https://deliciousbrains.com/https-locally-without-browser-privacy-errors/
+
+
+################################################## PHP & Symfony ########################################################
+https://php-and-symfony.matthiasnoback.nl/2017/02/convenient-ducktyping-in-php/
+https://php-and-symfony.matthiasnoback.nl/2017/02/convincing-developers-to-write-tests/
+https://php-and-symfony.matthiasnoback.nl/2017/03/bash-practices-input-validation-and-local-variables/
+https://php-and-symfony.matthiasnoback.nl/2017/03/bash-practices-cqs-and-return-values
+https://php-and-symfony.matthiasnoback.nl/2017/04/docker-build-patterns/
+
+
+#################################################### Qafoo ##############################################################
+https://qafoo.com/blog/092_using_traits_with_phpunit.html
+https://qafoo.com/blog/096_refactoring_extract_data_objects.html
+https://qafoo.com/blog/098_extract_method.html
+https://qafoo.com/blog/099_extract_service_class.html
+https://qafoo.com/blog/101_branch_by_abstraction.html
+https://qafoo.com/blog/102_testing_the_untestable.html
