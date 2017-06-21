@@ -52,7 +52,6 @@ https://github.com/requery/requery - modern SQL based query & persistence for Ja
 https://github.com/p-v/DateTimeSeer - A painless way to pick future time.
 https://github.com/beworker/featured - Simple yet powerful composition library for Android
 https://github.com/borjabravo10/FocusResize - A custom animation with scroll listener to recycler views
-https://github.com/googlesamples/android-architecture - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 https://gist.github.com/rock3r/369ef6fa734c865c564ef4fe5fb6ef6b - A simple bash script to enable demo mode on a Marshmallow+ device via ADB 
 https://github.com/andremion/Floating-Navigation-View - A simple Floating Action Button that shows an anchored Navigation View
 https://github.com/brianegan/bansa - A state container for Java & Kotlin
@@ -196,5 +195,20 @@ https://github.com/willowtreeapps/scratch - Easy app data clearing and relaunchi
 https://github.com/vigzmv/what_the_thing - Point camera at things to learn how to say them in a different language
 https://github.com/pchmn/MaterialChipsInput - Implementation of Material Design Chips component for Android
 https://github.com/Cleveroad/AdaptiveTableLayout - Library that makes it possible to read, edit and write CSV files
-
-
+https://github.com/charbgr/litho-picasso - Picasso image-loading Component for Litho
+https://github.com/aritraroy/UltimateAndroidReference - Ultimate Android Reference
+https://github.com/igalata/Bubble-Picker -An easy-to-use animation which can be used for content picking for Android 
+https://github.com/StylingAndroid/ViewPagerAnimator - A lightweight, yet powerful ViewPager animation library for Android
+https://github.com/rjsvieira/floatingMenu - An orbit-like action button
+https://github.com/kmdupr33/RxLoader - data loading solution for android to load data with no memory leaks
+https://github.com/bufferapp/AdaptableBottomNavigation - A simpler way for implementing the Bottom Navigation View on Android
+https://github.com/pavlospt/litho-glide - Glide image-loading Component for Litho
+https://github.com/androidthings/sample-googleassistant - Google Assistant API sample for Android Things
+https://github.com/dlew/android-architecture-counter-sample - Sample app using Android architecture components
+https://github.com/efortuna/memechat - playing with flutter
+https://github.com/afollestad/aesthetic -  A fast and easy to use plug-and-play dynamic theme engine
+https://github.com/russelarms/OffsetAnimator - Animations driven by finger movement
+https://github.com/glomadrian/Grav - Configurable animations based on points
+https://github.com/Tapadoo/Alerter - An Android Alerting Library
+https://github.com/tumblr/Graywater - An Android library for decomposing RecyclerView layouts to improve scroll performance.
+https://github.com/saschpe/android-customtabs - Chrome CustomTabs for Android demystified.
