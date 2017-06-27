@@ -37,7 +37,7 @@ https://github.com/wit-ai/pywit - Python library for Wit.ai
 https://github.com/isamert/gedi - python code completion plugin for gedit3+
 https://github.com/ets-labs/dependency_injector - Python dependency injection framework
 https://github.com/mokhdzanifaeq/pyflirt - map file generator for intel x86 binary based on flirt signature
-https://github.com/capitalone/cloud-custodian - Policy rules engine for aws management, policies in yaml for query, filter, and take actions on resources
+https://github.com/capitalone/cloud-custodian - Policy rules engine for aws management
 https://github.com/kirbyfan64/arclib - A unified API for accessing Python's many supported archive formats
 https://github.com/MagicStack/httptools - Fast HTTP parser
 https://github.com/capitalone/cloud-custodian - Policy rules engine for aws management
@@ -67,11 +67,11 @@ https://github.com/alanhamlett/pip-update-requirements - Update the packages in 
 https://github.com/jart/fabulous - Print images, colors, and stylish text to the terminal with Python
 https://github.com/ccbrown/needy - A C++ library dependency helper
 https://github.com/madisonmay/BlackWidow - Visualizing Python Project Import Graphs
-https://github.com/ciscocsirt/malspider - Malspider is a web spidering framework that detects characteristics of web compromises.
+https://github.com/ciscocsirt/malspider - Aweb spidering framework that detects characteristics of web compromises.
 https://github.com/AmmsA/Githeat - Interactive heatmap for your git repos
 https://github.com/asphalt-framework/asphalt - Asphalt application framework 
 https://github.com/bcicen/wikitables - Import tables from any Wikipedia article as a dataset in Python
-https://github.com/madoee/SolarSystemOrbiter - Plot orbits of our planets. Calculate Hohmann Transfer Orbits between them and extract movies of the motions in the Solar System
+https://github.com/madoee/SolarSystemOrbiter - Plot orbits of our planets. 
 https://github.com/digitalocean/netbox - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 https://github.com/supasate/yosh - yosh - Your Own Shell in Python
 https://github.com/dmulholland/clio - A minimalist, multi-language argument-parsing library
@@ -85,7 +85,7 @@ https://github.com/mixxorz/ok-redis - Object-Key Mapper for Redis
 https://github.com/Mechrophile/schemagic - Define the shape of your data with simple python data structures
 https://github.com/Kozea/wdb#importing-wdb-each-time-is-exhausting - An improbable web debugger through WebSockets
 https://github.com/Max00355/Coffer - A lightweight platform for creating isolated and portable development environments
-https://github.com/OpenChemistry/tomviz - Cross platform, open source application for the processing, visualization, and analysis of 3D tomography data
+https://github.com/OpenChemistry/tomviz - Cross platform, open source application for the processing, visualization, and 
 https://github.com/rednaga/APKiD - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities
 https://github.com/overlap-ai/words2map - online natural language processing with word vectors
 https://github.com/dxa4481/Snapper - A security tool for grabbing screenshots of many web hosts
@@ -93,7 +93,7 @@ https://github.com/CENSUS/choronzon - An evolutionary knowledge-based fuzzer
 https://github.com/jisaacso/DeepHeart - Neural networks for monitoring cardiac data
 https://github.com/Mila432/Pokemon_Go_API - Pokémon GO API in Python
 https://github.com/AHAAAAAAA/PokemonGo-Map - Live visualization of all the pokemon in your area... and more!
-https://github.com/Jakobovski/aws-spot-bot - A simple script to automate the creation of the cheapest AWS spot instances given your requirements
+https://github.com/Jakobovski/aws-spot-bot - A simple script to automate the creation of the cheapest AWS spot instances 
 https://github.com/nerevu/riko - A python stream processing engine modeled after Yahoo! Pipes
 https://github.com/blankwall/MacHeap - OS X malloc introspection tool
 https://github.com/zsdonghao/tensorlayer - TensorLayer: Deep learning and Reinforcement learning library for TensorFlow
@@ -202,7 +202,7 @@ https://github.com/pveugen/human-to-geojson - Convert raw Human exports to geoJS
 https://github.com/quora/asynq - Python library for asynchronous programming
 https://github.com/streamlink/streamlink - CLI for extracting streams from various websites to a video player of your choosing
 https://github.com/frappe/erpnext - Open Source ERP built for the Web. Uses Python, MariaDB
-https://github.com/anfederico/Clairvoyant - Software designed to identify and monitor social/historical cues for short term stock movement
+https://github.com/anfederico/Clairvoyant - Software designed to identify and monitor social/historical cues 
 https://github.com/posener/mock-import - A helper mocking function to mask ImportErrors
 https://github.com/kivy/python-for-android - Turn your Python application into an Android APK
 https://github.com/balzss/yip - Frontend for searching PyPI, a feature rich alternative to pip search
@@ -223,7 +223,7 @@ https://github.com/gutfeeling/word_forms - Accurately generate all possible form
 https://github.com/airbnb/knowledge-repo - A next-generation curated knowledge sharing platform for data scientists 
 https://github.com/inclement/Pyonic-interpreter - A Python interpreter for Android.
 https://github.com/boppreh/keyboard - Hook and simulate global keyboard events on Windows and Linux.
-https://github.com/ardila/paintingReorganize - Use PCA analysis to reorganize the pixels of a painting into a smooth color palette.
+https://github.com/ardila/paintingReorganize - Use PCA analysis to reorganize the pixels of a painting 
 https://github.com/ParhamP/altify - Uses deep learning to caption images in an HTML file 
 https://github.com/kleiinnn/slack-to-telegram-bot - Bot for forwarding slack messages to telegram.
 https://github.com/sidneijp/webblocker - A simple website list blocker for time periods based on hosts
@@ -285,7 +285,7 @@ https://github.com/asrp/tkui - A visual introspective GUI maker with live editin
 https://github.com/uclatommy/tweetfeels - Real-time sentiment analysis in Python using twitter's streaming api
 https://github.com/xTEddie/Scrapstagram - An Instagram Scrapper
 https://github.com/putdotio/kimo - Find OS processes of MySQL queries
-https://github.com/WZBSocialScienceCenter/pdftabextract - A set of tools for extracting tables from PDF files helping to do data mining
+https://github.com/WZBSocialScienceCenter/pdftabextract - Tools for extracting tables from PDF files helping to do data mining
 https://github.com/plantpark/scaleable-crawler-with-docker-cluster - a scaleable and efficient crawelr with docker cluster
 https://github.com/mkosut/rekognition_osx_tagfile - Takes local OSX directory of images and uses Amazon Rekognition
 https://github.com/SirCmpwn/pass-rotate - A tool and library for rotating your password on online services
@@ -297,12 +297,12 @@ https://github.com/bailaohe/parade - A data processing engine and service
 https://github.com/gaojiuli/xweb - Web framework for the zen of python.
 https://github.com/half0wl/simon - Simple menubar system monitor for macOS, written in Python with pyobjc
 https://github.com/chipsec/chipsec - Platform Security Assessment Framework
-https://github.com/vipul-sharma20/sharingan - Tool to extract news articles from newspaper and give the context about the news
+https://github.com/vipul-sharma20/sharingan - Tool to extract news articles from newspaper and give the context about news
 https://github.com/sukeesh/Jarvis - Personal Assistant for Linux
 https://github.com/Mellcap/MellPlayer - A tiny terminal player based on Python3
 https://github.com/ageitgey/face_recognition - The world's simplest facial recognition api for Python and the command line
 https://github.com/ofek/bit - Bitcoin made easy. 
-https://github.com/pythonnet/pythonnet - gives Python programmers nearly seamless integration with the .NET Common Language Runtime 
+https://github.com/pythonnet/pythonnet - gives Python programmers nearly seamless integration with the .NET 
 https://github.com/memoiry/Snaky - A snake game, three versions of AI included, implemented in python, pygame.
 https://github.com/readbeyond/aeneas - a Python/C library and a set of tools to automagically synchronize audio and text
 https://github.com/asciidisco/plugin.video.netflix - Inputstream based Netflix plugin for Kodi
@@ -316,3 +316,42 @@ https://github.com/cr0hn/aiotasks - A Celery like task manager that distributes 
 https://github.com/jakevdp/travis-python-template - Small template for setting up Travis CI with Python
 https://github.com/shaildeliwala/delbot - understands your voice commands, searches news and knowledge sources
 https://github.com/mingrammer/pyreportcard -  A report card for your Python application
+https://github.com/xlzd/img2html - Convert image to HTML
+https://github.com/kendricktan/drawlikebobross - Draw like Bob Ross using the power of Neural Networks
+https://github.com/JannikHv/gydl - a GUI wrapper around the already existing youtube-dl program.
+https://github.com/srcecde/google-youtube-history-analytics - reads your history data you get from Google
+https://github.com/viraja1/mitm_postman - creates a Postman collection from App / Web API calls
+https://github.com/tomchristie/apistar - A smart Web API framework, designed for Python 3
+https://github.com/aleju/imgaug - Image augmentation for machine learning experiments.
+https://github.com/maqp/tfc - Tinfoil Chat
+https://github.com/nmyster/python-alexa - Simple Python Library to make Alexa skill development easy
+https://github.com/Miserlou/NoDB - NoDB isn't a database.. but it sort of looks like one.
+https://github.com/tstringer/venvdetect - Detect available Python virtual environments in your current directory
+https://github.com/MarcelSimon/MigrateGitlabToGogs - Migrate repositories from Gitlab to Gogs or Gitea
+https://github.com/sentdex/pygta5/ - Explorations of Using Python to play Grand Theft Auto 5.
+https://github.com/evilsocket/opensnitch - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+https://github.com/uranusjr/diffhtml - Tools for generating diff output in HTML
+https://github.com/trailofbits/manticore - Dynamic binary analysis tool
+https://github.com/overshard/timestrap - Time tracking and invoicing you can host anywhere
+https://github.com/uber/focuson - A tool to surface security issues in python code
+https://github.com/kgretzky/evilginx - Man-in-the-middle attack framework
+https://github.com/nvbn/py-backwards - Python to python compiler that allows you to use Python 3.6 features in older versions
+https://github.com/m3liot/shcheck - Just a small tool to check security headers
+https://github.com/vector-sec/PSPy - a simple Python 2.7 AWS Lambda function
+https://github.com/rasbt/mputil - Utility functions for Python's multiprocessing standard library module
+https://github.com/Deeplocal/mocktailsmixer - Make a DIY Robotic Mocktails Mixer Powered by the Google Assistant SDK
+https://github.com/google/clif - Wrapper generator foundation to wrap C++ for Python
+https://github.com/lunixbochs/ActualVim - Sublime Text 3 input mode using Neovim
+https://github.com/huntrar/scrape - a command-line web scraping tool
+https://github.com/Dfenestrator/GooPyCharts - A Google Charts API for Python
+https://github.com/kennethreitz/flask-common - A Flask extension with lots of common time-savers
+https://github.com/chasinglogic/chattie - A framework for making bots in Python3. Inspired by Hubot.
+https://github.com/boyter/python-license-checker - A license checker for source code written in python
+https://github.com/cedricbonhomme/Stegano - Stéganô is a pure Python steganography module
+https://github.com/facebookincubator/OnlineSchemaChange - A tool for performing online schema changes on MySQL
+https://github.com/vesche/scanless - online port scan scraper
+https://github.com/openai/roboschool - Open-source software for robot simulation
+https://github.com/bitlang/flexicon - A lightweight, regex-based lexer framework for Python
+https://github.com/Ekultek/Dagon - Advanced Hash Manipulation
+
+
