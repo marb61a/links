@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=CB9p8n3gugM - Glen Jarvis: Explort Git Internals
 https://www.oreilly.com/learning/thinking-in-coroutines - Thinking in coroutines
 https://www.youtube.com/watch?v=ZP_QV4ccFHQ - Introducing Type Annotations for Python
 https://www.youtube.com/watch?v=sAsi9QRgWuI - Adding text & shapes with the Google Slides API
+https://www.youtube.com/watch?v=M-UcUs7IMIM - Get to grips with asyncio in Python 3
+https://www.youtube.com/watch?v=Ma6lVy6x3Mg - A Pythonic Tour of Neo4j and the Cypher Query Language
+
 
 
 
@@ -32,6 +35,9 @@ https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg - PyCon Canada 2016
 http://pgbovine.net/python-async-io-walkthrough.htm - Python Asynchronous I/O Walkthrough
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ - Python Programming for Finance
 https://www.youtube.com/user/APMonitorCom - APMonitor
+https://www.youtube.com/playlist?list=PLGVZCDnMOq0r0Fv-NM9e2JM_iPvsHTU96 - PyData Amsterdam 2017
+https://www.youtube.com/playlist?list=PLGVZCDnMOq0pAwbVAb1kUN3lV7ukhLL2k - PyData London 2017
+
 
 
 ##Courses - 
@@ -81,6 +87,13 @@ https://talkpython.fm/episodes/show/102/effective-code-reviews
 https://talkpython.fm/episodes/show/103/compiling-python-through-pyllvm-and-mongodb-for-data-scientists
 https://talkpython.fm/episodes/show/104/game-theory-in-python
 https://talkpython.fm/episodes/show/105/a-pythonic-database-tour
+https://talkpython.fm/episodes/show/106/invent-your-own-computer-games-with-python
+https://talkpython.fm/episodes/show/107/python-concurrency-with-curio
+https://talkpython.fm/episodes/show/108/micropython-and-open-source-hardware-at-adafruit
+https://talkpython.fm/episodes/show/109/mongodb-applied-design-patterns
+https://talkpython.fm/episodes/show/110/data-democratization-with-redash
+https://talkpython.fm/episodes/show/111/pythonic-career-advice-and-more
+https://talkpython.fm/episodes/show/112/geeking-out-in-the-golden-years
 
 
 ##PodcastInit
@@ -103,6 +116,13 @@ https://www.podcastinit.com/episode-99-the-update-framework-with-justin-cappos/
 https://www.podcastinit.com/episode-100-metpy-with-ryan-may-sean-arms-and-john-leeman/
 https://www.podcastinit.com/episode-101-crossbar-io-with-tobias-oberstein-and-alexander-goedde/
 https://www.podcastinit.com/episode-102-brian-warner/
+https://www.podcastinit.com/episode-103-duplicity-with-kenneth-loafman/
+https://www.podcastinit.com/episode-104-oscar-ecommerce-with-david-winterbottom-and-michael-van-tellingen/
+https://www.podcastinit.com/episode-105-scikit-image-with-stefan-van-der-walt-and-juan-nunez-iglesias/
+https://www.podcastinit.com/episode-106-yt-project-with-nathan-goldbaum-and-john-zuhone/
+https://www.podcastinit.com/episode-107-scapy-with-guillaume-valadon/
+https://www.podcastinit.com/episode-108-python-goes-to-the-movies-with-dhruv-govil/
+https://www.podcastinit.com/episode-109-lbry-with-jeremy-kauffman/
 
 
 ##Links -
