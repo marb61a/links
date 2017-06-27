@@ -36,6 +36,13 @@ https://medium.com/@ssola/building-microservices-with-python-part-i-5240a8dcc2fb
 https://medium.com/@ssola/building-microservices-with-python-part-2-9f951199094a
 https://medium.com/google-cloud/building-a-serverless-python-app-in-minutes-with-gcp-5184d21a012f
 https://medium.com/@nkhaja/memoization-and-decorators-with-python-32f607439f84
+https://medium.com/labcodes/graph-databases-talking-about-your-data-relationships-with-python-b438c689dc89
+https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b
+https://medium.com/unbabel-dev/refactoring-a-python-codebase-using-the-single-responsibility-principle-ed1367baefd6
+https://medium.com/@sourleangchhean/how-to-use-the-python-debugger-43a05a826f82
+https://medium.com/wassa/modern-face-detection-based-on-deep-learning-using-python-and-mxnet-5e6377f22674
+https://medium.com/towards-data-science/train-test-split-and-cross-validation-in-python-80b61beca4b6
+https://medium.com/@happymishra66/lambda-map-and-filter-in-python-4935f248593
 
 
 ####################################### Python Library ###########################################################
@@ -60,6 +67,8 @@ http://eli.thegreenplace.net/2016/comparing-types-in-python-3/
 http://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch-part-2/
 http://eli.thegreenplace.net/2016/drawing-animated-gifs-with-matplotlib/
 http://eli.thegreenplace.net/2016/basics-of-using-the-readline-library/
+http://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/
+http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/
 
 
 ####################################### Scraping Hub ###########################################################
@@ -78,6 +87,7 @@ https://dbader.org/blog/python-code-linting
 https://dbader.org/blog/python-assert-tutorial
 https://dbader.org/blog/python-lambda-functions
 https://dbader.org/blog/python-first-class-functions
+https://dbader.org/blog/python-decorators
 
 
 ####################################### Dataquest ###########################################################
@@ -103,6 +113,7 @@ http://blog.yhat.com/posts/keras-for-image-recognition.html
 http://blog.yhat.com/posts/deploying-r-models.html
 http://blog.yhat.com/posts/customer-segmentation-python-rodeo.html
 http://blog.yhat.com/posts/isochrones-isocronut.html
+http://blog.yhat.com/posts/visualize-nba-pipelines.html
 
 
 ####################################### Machinalis ###########################################################
@@ -120,6 +131,7 @@ https://www.oreilly.com/ideas/5-reasons-you-need-to-learn-to-write-python-decora
 https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow
 https://www.oreilly.com/learning/complex-neural-networks-made-easy-by-chainer
 https://www.oreilly.com/ideas/how-to-get-superior-text-processing-in-python-with-pynini
+https://www.oreilly.com/learning/how-do-i-compare-document-similarity-using-python
 
 
 ####################################### Semaphore CI ###########################################################
@@ -129,6 +141,7 @@ https://semaphoreci.com/community/tutorials/mocks-and-monkeypatching-in-python
 https://semaphoreci.com/community/tutorials/building-and-testing-an-api-wrapper-in-python
 https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest
 https://semaphoreci.com/community/tutorials/getting-started-with-mocking-in-python
+https://semaphoreci.com/community/tutorials/generating-fake-data-for-python-unit-tests-with-faker
 
 
 ####################################### VKinght ###########################################################
@@ -153,6 +166,9 @@ https://ruslanspivak.com/lsbasi-part8/
 https://ruslanspivak.com/lsbasi-part9/
 https://ruslanspivak.com/lsbasi-part10/
 https://ruslanspivak.com/lsbasi-part11/
+https://ruslanspivak.com/lsbasi-part12/
+https://ruslanspivak.com/lsbasi-part13/
+https://ruslanspivak.com/lsbasi-part14/
 
 
 ####################################### Real Python ###########################################################
@@ -201,3 +217,5 @@ http://pbpython.com/categorical-encoding.html
 http://pbpython.com/amortization-model.html
 http://pbpython.com/python-word-template.html
 http://pbpython.com/prophet-overview.html
+http://pbpython.com/pandas_transform.html
+
