@@ -76,6 +76,13 @@ https://www.sitepoint.com/golden-guidelines-for-writing-clean-css/
 https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/
 https://www.sitepoint.com/css-viewport-units-quick-start/
 https://www.sitepoint.com/debugging-css-for-ui-responsiveness/
+https://www.sitepoint.com/pseudo-classes-the-basics/
+https://www.sitepoint.com/five-techniques-lazy-load-images-website-performance/
+https://www.sitepoint.com/optimizing-web-fonts-for-performance-the-state-of-the-art/
+https://www.sitepoint.com/set-css-margins-padding-cool-layout-tricks/
+https://www.sitepoint.com/creative-ui-design-ideas-you-can-use-in-your-next-website/
+https://www.sitepoint.com/cool-scroll-animations-made-easy-aos-library/
+https://www.sitepoint.com/css3-transform-background-image/
 
 
 ############################################## Smashing ########################################################## 
@@ -127,6 +134,18 @@ https://www.smashingmagazine.com/2017/02/experimenting-with-speechsynthesis/
 https://www.smashingmagazine.com/2017/03/improve-billing-form-ux/
 https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/
 https://www.smashingmagazine.com/2017/03/world-wide-web-not-wealthy-western-web-part-1/
+https://www.smashingmagazine.com/2017/04/overview-responsive-navigation-patterns/
+https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/
+https://www.smashingmagazine.com/2017/04/content-delivery-network-optimize-images/
+https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/
+https://www.smashingmagazine.com/2017/05/intrusive-interstitials-guidelines-avoid-google-penalty/
+https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/
+https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/
+https://www.smashingmagazine.com/2017/06/designing-efficient-web-forms/
+https://www.smashingmagazine.com/2017/06/designing-hero-images/
+https://www.smashingmagazine.com/2017/06/guide-switching-http-https/
+https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/
+https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -137,7 +156,10 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/TVs_connected_device
 https://hacks.mozilla.org/2016/05/css-coding-techniques/
 https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/
 https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/
-https://hacks.mozilla.org/2016/11/cooperative-scheduling-with-requestidlecallback/?
+https://hacks.mozilla.org/2016/11/cooperative-scheduling-with-requestidlecallback/
+https://hacks.mozilla.org/2017/04/replace-bootstrap-layouts-with-css-grid/
+https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/
+https://hacks.mozilla.org/2017/06/css-shapes-clipping-and-masking/
 
 
 ############################################## Google ########################################################## 
@@ -149,6 +171,7 @@ https://developers.google.com/web/updates/2016/07/infinite-scroller
 https://developers.google.com/web/fundamentals/primers/shadowdom/
 https://developers.google.com/web/fundamentals/native-hardware/capturing-images/
 https://developers.google.com/web/updates/2016/12/performant-parallaxing
+https://developers.google.com/web/tools/setup/setup-workflow
 
 
 ############################################## Medium ##########################################################
@@ -172,6 +195,7 @@ https://medium.freecodecamp.com/a-5-minute-intro-to-styled-components-41f40eb7cd
 https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35
 https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053
 https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76
+https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41
 https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.6ujeslfzw
 https://medium.com/dev-channel/css-containment-in-chrome-52-f04a30bdc92a#.v3u8azu4f
 https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.kyiyf7tz7
@@ -188,6 +212,9 @@ https://medium.com/statuscode/make-your-pull-requests-visual-for-front-end-chang
 https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34
 https://medium.com/dev-channel/testing-service-workers-318d7b016b19
 https://medium.com/@SylvainPV/css-grid-layout-and-postcss-now-kiss-5e35f61a6f00
+https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab
+https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660
+https://medium.com/@mikael_ainalem/how-to-create-a-check-mark-animation-with-anime-js-86781951a67
 
 
 ############################################## Tutsplus ##########################################################
@@ -198,6 +225,8 @@ http://webdesign.tutsplus.com/tutorials/better-css-drop-caps-with-initial-letter
 http://code.tutsplus.com/tutorials/editing-images-in-css-filters--cms-25948
 http://webdesign.tutsplus.com/tutorials/how-to-build-a-news-website-layout-with-flexbox--cms-26611
 https://webdesign.tutsplus.com/tutorials/exercises-in-flexbox-simple-web-components--cms-28049
+https://webdesign.tutsplus.com/tutorials/how-to-create-perfectly-centered-text-with-flexbox--cms-27989
+https://webdesign.tutsplus.com/tutorials/how-to-build-web-form-layouts-with-css-grid--cms-28776
 
 
 ############################################## CSS Wizadry ##########################################################
@@ -216,6 +245,7 @@ https://csswizardry.com/2017/02/base64-encoding-and-performance/
 http://developer.telerik.com/featured/lazy-loading-images-on-the-web/
 http://developer.telerik.com/featured/css-preprocessing-with-visual-studio/
 http://developer.telerik.com/featured/guide-browser-scroll-animations/
+http://developer.telerik.com/content-types/tutorials/get-ready-web-bluetooth/
 
 
 ############################################## Sara Soueidan ##########################################################
@@ -223,7 +253,6 @@ http://sarasoueidan.com/blog/svg-vs-gif/
 http://sarasoueidan.com/blog/svg-style-inheritance-and-FOUSVG/
 https://sarasoueidan.com/blog/icon-fonts-to-svg/
 https://sarasoueidan.com/blog/mimic-relative-positioning-in-svg/
-
 
 
 ############################################## The New Code ########################################################## 
@@ -260,9 +289,13 @@ http://www.creativebloq.com/web-design/how-use-chrome-developer-tools-test-layou
 http://www.creativebloq.com/features/22-stunning-examples-of-css3-animation
 
 
-############################################## Tobias Ahlin ########################################################## 
-http://tobiasahlin.com/blog/how-to-animate-box-shadow/
-http://tobiasahlin.com/blog/curved-path-animations-in-css/
+############################################## Tympanus ########################################################## 
+http://tympanus.net/codrops/2016/03/16/interactive-animated-svg-drum-kit/
+http://tympanus.net/codrops/2016/09/13/fancy-svg-letter-animation/
+https://tympanus.net/codrops/2017/01/04/mirror-effect/
+https://tympanus.net/codrops/css_reference/grid/
+https://tympanus.net/codrops/css_reference/touch-action/
+https://tympanus.net/codrops/2017/05/23/on-scroll-morphing-background-shapes/
 
 
 ############################################## Webkit ########################################################## 
@@ -279,3 +312,26 @@ https://jakearchibald.com/2016/link-in-body/
 https://jakearchibald.com/2016/svg-media-queries/
 https://jakearchibald.com/2016/fun-hacks-faster-content/
 https://jakearchibald.com/2017/do-we-need-a-new-heading-element/
+https://jakearchibald.com/2017/es-modules-in-browsers/
+https://jakearchibald.com/2017/combining-fonts/
+
+
+############################################## Bits Of Code ########################################################## 
+https://bitsofco.de/holy-grail-layout-css-grid/
+https://bitsofco.de/3-new-css-features-to-learn-in-2017/
+https://bitsofco.de/alternative-text-and-images/
+https://bitsofco.de/css-grid-terminology/
+https://bitsofco.de/optimising-gifs/
+https://bitsofco.de/linting-html-using-css/
+https://bitsofco.de/css-animations-vs-the-web-animations-api/
+https://bitsofco.de/how-the-minmax-function-works/
+
+
+############################################## Hackernoon ########################################################## 
+https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.kw6765uma
+https://hackernoon.com/a-simple-pie-chart-in-svg-dbdd653b6936#.ez5kyzria
+https://hackernoon.com/a-guide-to-cross-browser-testing-installing-all-the-things-6e56c2bd8182
+https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-bit-less-7c8de164e423
+https://hackernoon.com/rems-and-ems-and-why-you-probably-dont-need-them-664b9ce1e09f
+https://hackernoon.com/advanced-vertical-margins-4ac69f032f79
+https://hackernoon.com/designing-a-simple-web-page-with-mini-css-f455e9f6403b
