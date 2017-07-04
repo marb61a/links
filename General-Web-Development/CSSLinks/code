@@ -2,6 +2,7 @@
 https://github.com/Wildhoney/Interpose - Apply stylesheet variables to your React components for use in your stylesheets
 https://github.com/kamranahmedse/gulp-css-tailor - Gulp plugin to automatically generate CSS from your HTML classes
 https://github.com/dollarshaveclub/reframe.js/ - Reframe unresponsive elements responsively.
+https://github.com/dollarshaveclub/stickybits -  a lightweight (~2KB) alternative to `position: sticky` polyfills 
 https://github.com/macropodhq/postcss-local-constants - PostCSS plugin to process imported values from a file.
 https://github.com/jgthms/wysiwyg.css/ - A tiny CSS for generated HTML or Markdown content
 https://github.com/Ramotion/aquarelle - Aquarelle is a watercolor js effect
@@ -130,3 +131,31 @@ https://github.com/limonte/sweetalert2 - replacement for JavaScript's popup boxe
 https://github.com/yahoo/pure/ - A set of small, responsive CSS modules that you can use in every web project.
 https://github.com/shobhitsharma/embedo - Content Embed Plugin for Web
 https://github.com/wingify/across-tabs - Easy communication between cross-origin browser tabs 
+https://github.com/argyleink/ragrid - Intrinsic first auto-layout flexbox grid 
+https://github.com/ben-eb/cssnano - A modular minifier, built on top of the PostCSS ecosystem
+https://github.com/jessekorzan/expodal - The Most Explosive Modal on The Web.
+https://github.com/BabylonJS/Spector.js - Explore and Troubleshoot your WebGL scenes with ease
+https://github.com/tsherif/picogl.js - A minimal, WebGL 2-only rendering library 
+https://github.com/appleple/SmartPhoto - easy to use responsive image viewer especially for mobile devices
+https://github.com/eventbrite/britecharts/ - Client-side reusable Charting Library
+https://github.com/tholman/obnoxious.css - Animations for the strong of heart, and stupid of mind.
+https://github.com/GoogleChrome/workbox - Workbox is a collection of JavaScript libraries for Progressive Web Apps
+https://github.com/haltu/muuri - Responsive, sortable, filterable and draggable grid layouts 
+https://github.com/tastejs/hacker-news-pwas - Hacker News readers as Progressive Web Apps
+https://github.com/bbc/VideoContext - An experimental HTML5 & WebGL video composition and rendering API
+https://github.com/zouhir/lqip-loader - Low Quality Image Placeholders (LQIP) for Webpack
+https://github.com/Angelmmiguel/svgi - The SVG inspection tool
+https://github.com/ForbesLindesay/taxi-rank - A JSDom based Selenium Webdriver API
+https://github.com/hjnilsson/country-flags - SVG and PNG renders of all countries' flags.
+https://github.com/naver/billboard.js - Re-usable easy interface JavaScript chart library, based on D3
+https://github.com/erikolson186/zangodb - MongoDB-like interface for HTML5 IndexedDB
+https://github.com/521dimensions/amplitudejs - Amplitude.js is the HTML5 Audio Player for the modern era
+https://github.com/jxnblk/grid-styled - Responsive React grid system built with styled-components 
+https://github.com/colebemis/feather - Simply beautiful open source icons 
+https://github.com/intercellular/cell - A self-driving web app framework
+https://github.com/kovidgoyal/html5-parser - Fast C based HTML 5 parsing for python
+https://github.com/marko-js/marko - A friendly (and fast!) UI library from eBay
+https://github.com/ttmarek/consolemock - A small dev utility for testing console logs
+https://github.com/veltman/flubber - Tools for smoother shape animations.
+https://github.com/tsherif/picogl.js - A minimal, WebGL 2-only rendering library 
+https://github.com/MaxArt2501/share-this - Medium-like text selection sharing without dependencies
