@@ -39,6 +39,12 @@ https://www.youtube.com/watch?v=0q2HRwP7Vzo - (m)Ruby on small devices by Shasha
 https://www.youtube.com/watch?v=_KFxWyJrzso - Ruby, HTTP/2 and You
 https://www.youtube.com/watch?v=u_JFDqax0l0 - How to install Ruby on Rails on Windows 10 with PostgreSQL
 https://www.youtube.com/watch?v=Zl17mtp1adM - Practical Machine Learning in Ruby
+https://www.youtube.com/watch?v=WbO2FEpNPvQ - Writing a Gameboy emulator in Ruby
+https://www.youtube.com/watch?v=uB7m9T7ymn8 - How to Write Better Code Using Mutation Testing
+https://www.youtube.com/watch?v=nq1nNx8-fNQ - Helix: Build Native Ruby Extensions Without Fear
+https://www.youtube.com/watch?v=Q_MpGRfnY5s - Perusing the Rails Source Code - A Beginners Guide
+https://www.youtube.com/watch?v=j2V-A8vvLP0 - How does Bundler work anyway?
+
 
 
 ## Playlists & Channels
@@ -67,6 +73,8 @@ https://www.driftingruby.com/episodes/managing-servers-with-ansible
 https://www.driftingruby.com/episodes/ruby-on-rails-5-1-0-changes-and-new-features
 https://www.driftingruby.com/episodes/drag-and-drop-with-interact-js
 https://www.driftingruby.com/episodes/rails-engines
+https://www.driftingruby.com/episodes/routing-partials
+https://www.driftingruby.com/episodes/virtual-columns-in-mysql
 
 
 ## Go Rails
@@ -74,11 +82,14 @@ https://gorails.com/episodes/devise-masquerade
 https://gorails.com/episodes/using-webpack-in-rails-with-webpacker-gem
 https://gorails.com/episodes/how-to-use-vuejs-and-turbolinks-together
 https://gorails.com/episodes/using-vuejs-for-nested-forms-part-1
+https://gorails.com/episodes/migrating-from-jquery-to-vanilla-javascript
+https://gorails.com/episodes/global-autocomplete-search
+https://gorails.com/episodes/charts-with-chartkick-and-groupdate
 
 
 ## Ruby Tapas
 https://www.rubytapas.com/2017/02/28/write-expressive-tests-mastering-rspec-matchers/
-https://www.rubytapas.com/2017/04/11/skinny-controller-domain-model-events/?
+https://www.rubytapas.com/2017/04/11/skinny-controller-domain-model-events/
 
 
 ## Links
@@ -86,7 +97,7 @@ http://www.rubypigeon.com/posts/minitest-cheat-sheet/ - Minitest Cheat Sheet
 http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html
 http://trailblazer.to/ - A High-level Architecture For The Web
 https://snyk.io - continuously finds and fixes vulnerabilities in your dependencies.
-http://twin.github.io/ode-to-sequel/
+https://leanpub.com/developing-games-with-ruby/read - Free E-Book
 http://githubengineering.com/scientist/
 https://github.com/ankane/the-ultimate-guide-to-timeouts-in-ruby
 https://rubymonk.com
