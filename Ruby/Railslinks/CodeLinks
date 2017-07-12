@@ -322,3 +322,22 @@ https://github.com/westonganger/rearmed-js - A collection of helpful methods and
 https://github.com/dejan/rails_panel - Chrome extension for Rails development
 https://github.com/sjmog/ralyxa - A Ruby framework for interacting with Amazon Alexa.
 https://github.com/molybdenum-99/mediawiktory - Full-featured MediaWiki client
+https://github.com/pawandubey/cuckoo_filter - Pure Ruby Cuckoo Filter Implementation
+https://github.com/AaronLasseigne/polyfill - Polyfill implements newer Ruby features into older versions
+https://github.com/jalkoby/squasher - Squasher - squash your old migrations in a single command
+https://github.com/chef/inspec - InSpec: Auditing and Testing Framework
+https://github.com/red-data-tools/red-arrow - Ruby bindings for Apache Arrow 
+https://github.com/Shopify/semian - Resiliency toolkit for Ruby for failing fast
+https://github.com/WriteCodeEveryday/flynn_auto_scale - Let your Rails apps on Flynn scale to your business needs
+https://github.com/palkan/n_plus_one_control - RSpec and Minitest matchers to prevent N+1 queries problem
+https://github.com/BaseSecrete/redis_dashboard - Sinatra app to monitor Redis servers.
+https://github.com/feedparser/feedparser - (universal) web feed parser and normalizer
+https://github.com/janlelis/stdgems - Ruby Standard Gems
+https://github.com/monterail/sequel-combine - adds the Sequel::Dataset#combine method
+https://github.com/mariusandra/insights - Desktop and Self-Hosted "SQL-not-required" data analytics and visualisation tool.
+https://github.com/fetlife/rollout - Feature flippers
+https://github.com/palkan/anyway_config - Ruby libraries and applications configuration on steroids!
+https://github.com/bkuhlmann/git-cop - Enforces consistent Git commits.
+https://github.com/ankane/dexter - The automatic indexer for Postgres
+https://github.com/athityakumar/colorls - A Ruby gem that beautifies the terminal's ls command
+https://github.com/netguru/callio - Answer your phone calls in the browser through Slack
