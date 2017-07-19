@@ -383,3 +383,50 @@ https://github.com/fvgs/commandir - Effortless mkdir and rmdir for Node.js
 https://github.com/rmdm/assert-match - assert + matchers <3
 https://github.com/rse/stmux - Simple Terminal Multiplexer for Node.js Environments
 https://github.com/leebyron/testcheck-js - Generative testing for JavaScript 
+https://github.com/sgtlambda/extrakt - Extract .tar(.gz) using the system binary
+https://github.com/rastapasta/mapscii - MapSCII is a Braille & ASCII map renderer for your console
+https://github.com/soldair/node-qrcode - qr code generator
+https://github.com/surmon-china/naivebayes - Naive Bayes Classifier for node.js
+https://github.com/zeit/pkg - Package your Node.js project into an executable 
+https://github.com/IrosTheBeggar/mStream - Music Streaming Server With FLAC Support 
+https://github.com/metafloor/bwip-js - Barcode Writer in Pure JavaScript
+https://github.com/sindresorhus/make-dir - Make a directory and its parents if needed 
+https://github.com/rickbergfalk/sqlpad - Web-based SQL editor run in your own private cloud
+https://github.com/pbojinov/request-ip - A Node.js module for retrieving a request's IP address on the server.
+https://github.com/kabirvirji/spotifork - Fork a Spotify playlist 
+https://github.com/reactioncommerce/reaction - Reaction is a customizable, real-time reactive, JavaScript commerce platform
+https://github.com/JuicyPasta/reddit-snooper - Simple Reddit bot framework for Nodejs
+https://github.com/lovell/sharp - High performance Node.js image processing,
+https://github.com/adpushup/woodlot - An all-in-one JSON logging utility that supports ExpressJS HTTP logging
+https://github.com/Vincit/objection.js - An SQL-friendly ORM for Node.js
+https://github.com/risingstack/protect - Proactively protect your Node.js web services
+https://github.com/sindresorhus/caprine - Elegant Facebook Messenger desktop app
+https://github.com/airbnb/hypernova - A service for server-side rendering your JavaScript views
+https://github.com/pkamenarsky/leerraum.js - A PDF typesetting library with exact positioning and hyphenated line breaking
+https://github.com/lirantal/express-version-route - provides middleware to load controllers based on api versions
+https://github.com/mgcrea/node-easyrsa - Node.js public key infrastructure management library inspired by EasyRSA.
+https://github.com/shoumma/ReForum - A forum application. Built with React, Redux, Express and MongoDB.
+https://github.com/probot/probot - a trainable robot that responds to activity on GitHub
+https://github.com/tuananh/camaro - camaro is an utility to transform XML to JSON
+https://github.com/dosaygo-coder-0/tifuhash - TIny Floating Point Universal Hash
+https://github.com/OptimalBits/redbird - A modern reverse proxy for node
+https://github.com/roccomuso/netcat - Netcat client and server modules written in pure Javascript for Node.js
+https://github.com/e-oj/Fawn - Transactions for MongoDB 
+https://github.com/7anshuai/masq - A simple local dns server extracted from Pow
+https://github.com/tscanlin/next-blog - Markdown based blog using next.js, supporting static export
+https://github.com/typicode/json-server - Get a full fake REST API with zero coding in less than 30 seconds
+https://github.com/dollarshaveclub/study - A simple, progressive, client/server AB testing library 
+https://github.com/lukechilds/base64-async - Non-blocking chunked Base64 encoding
+https://github.com/camelaissani/frontexpress - An Express.js-Style router for the front-end
+https://github.com/dmfay/massive-js - A data mapper for Node.js and PostgreSQL.
+https://github.com/nypublicradio/audiogram - Turn audio into a shareable video
+https://github.com/fvgs/timercore - Precision Node.js timer library
+https://github.com/oguzhaninan/Stacer - Linux System Optimizer and Monitoring
+https://github.com/siddharthkp/bundlesize - Keep your bundle size in check
+https://github.com/lipp/login-with - Stateless login-with microservice for OAuth 
+https://github.com/joelgriffith/navalia - Not your father's web driver 
+https://github.com/vadimdemedes/ink - React for interactive command-line apps
+https://github.com/elmasse/nextein - A static site generator based in Next.js 
+https://github.com/typicode/please-upgrade-node - show a message to your users to upgrade Node instead of a stacktrace
+
+
