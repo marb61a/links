@@ -38,6 +38,10 @@ https://www.sitepoint.com/build-microblog-node-js-git-markdown/
 https://www.sitepoint.com/node-js-mvc-application/
 https://www.sitepoint.com/debugging-javascript-node-debugger/
 https://www.sitepoint.com/debugging-electron-application/
+https://www.sitepoint.com/testing-node-applications/
+https://www.sitepoint.com/fusebox-faster-webpack-alternative/
+https://www.sitepoint.com/kubernetes-deploy-node-js-docker-app/
+https://www.sitepoint.com/using-node-mysql-javascript-client/
 
 
 ######################################## Scotch.io ##############################################
@@ -54,6 +58,7 @@ https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-
 https://scotch.io/tutorials/meet-adonisjs-a-laravel-style-mvc-framework-for-node-js
 https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize
 https://scotch.io/tutorials/how-to-host-a-node-js-app-on-digital-ocean
+https://scotch.io/tutorials/create-a-custom-slack-slash-command-with-nodejs-and-express
 
 
 ######################################## Medium ##############################################
@@ -112,6 +117,21 @@ https://medium.com/the-node-js-collection/what-does-const-stand-for-in-es6-f7ab3
 https://medium.com/@_lrlna/garbage-collection-in-v8-an-illustrated-guide-d24a952ee3b8
 https://medium.com/@peterhanssens/how-to-build-a-node-js-api-using-postgres-lambda-and-api-gateway-3211a4570cea
 https://medium.freecodecamp.com/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9
+https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d
+https://medium.freecodecamp.org/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e
+https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93
+https://medium.freecodecamp.org/follow-the-rules-with-seneca-b3cf3d08fe5d
+https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a
+https://medium.freecodecamp.org/how-to-write-beautiful-node-js-apis-using-async-await-and-the-firebase-database-befdf3a5ffee
+https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297
+https://medium.com/the-node-js-collection/keeping-the-node-js-core-small-137f83d18152
+https://medium.com/@dashersw/microservices-made-easy-with-node-js-f41bb2be2d3c
+https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4
+https://medium.com/@antoinegrandiere/build-a-moderation-system-with-sightengine-for-node-js-6600ac0668c8
+https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd309
+https://medium.com/slack-developer-blog/building-a-sentiment-analysis-bot-with-ibm-watson-and-raspberry-pi-eeb399bb8803
+https://medium.com/@antonkorzunov/how-to-mock-dependency-in-a-node-js-and-why-2ad4386f6587
+https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b
 
 
 ######################################## Risingstack ##############################################
@@ -171,6 +191,13 @@ https://blog.risingstack.com/node-js-war-stories-solving-issues-in-production-2/
 https://blog.risingstack.com/mastering-the-node-js-cli-command-line-options/
 https://community.risingstack.com/the-definitive-guide-to-object-streams-in-node-js/
 https://blog.risingstack.com/how-to-debug-nodej-js-with-the-best-tools-available/
+https://blog.risingstack.com/mastering-the-nodejs-core-modules-file-system-fs-module/
+https://community.risingstack.com/writing-secure-node-js-code-danny-grander/
+https://blog.risingstack.com/post-mortem-diagnostics-debugging-node-js-at-scale/
+https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
+https://blog.risingstack.com/node-js-performance-monitoring-with-prometheus/
+https://blog.risingstack.com/mastering-async-await-in-nodejs/
+https://blog.risingstack.com/distributed-tracing-opentracing-node-js/
 
 
 ######################################## Tutsplus ##############################################
@@ -224,6 +251,7 @@ https://davidwalsh.name/get-webpage-screenshot
 https://davidwalsh.name/slimerjs-screenshots
 https://davidwalsh.name/stdlib
 https://davidwalsh.name/system-notifications-node
+https://davidwalsh.name/2fa
 
 
 ######################################## Smashing Magazine ##############################################
@@ -252,10 +280,12 @@ http://stackabuse.com/bookshelf-js-a-node-js-orm/
 http://stackabuse.com/avoiding-callback-hell-in-node-js/
 
 
-######################################## Lob.Com ##############################################
-https://lob.com/blog/building-an-instagram-postcard-app-in-express-js/
-https://lob.com/blog/introducing-calipers-the-fastest-way-to-measure-images-and-pdfs-in-node/
-https://lob.com/blog/automate-payment-reminder-system-with-lob-customerio-segment/
+######################################## Twilio ##############################################
+https://www.twilio.com/blog/2015/08/playing-tunes-over-the-phone-with-the-twilio-nodejs-library-in-es6.html
+https://www.twilio.com/blog/2016/03/building-sms-weather-forecasts-with-stamplay-twilio-and-nodejs.html
+https://www.twilio.com/blog/2016/06/how-to-validate-phone-numbers-in-nodejavascript-with-the-twilio-lookup-api.html
+https://www.twilio.com/blog/2017/05/calls-congress-node-js-twilio.html
+https://www.twilio.com/blog/2017/06/writing-a-node-module-in-typescript.html
 
 
 ######################################## Hackernoon ##############################################
@@ -276,6 +306,7 @@ https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away
 https://hackernoon.com/how-to-mock-data-for-node-js-applications-using-faker-js-b1f4c0e78102
 https://hackernoon.com/the-definitive-guide-for-monitoring-node-js-applications-404feeea5951
 https://hackernoon.com/build-a-node-js-blog-roll-app-in-4-steps-61e1a6d0c292
+https://hackernoon.com/build-a-serverless-twilio-sms-call-forwarding-bot-in-7-minutes-using-node-js-stdlib-411697c3cc1b
 
 
 ######################################## Thisdavej ##############################################
@@ -304,6 +335,7 @@ http://mherman.org/blog/2016/04/28/test-driven-development-with-node/
 http://mherman.org/blog/2016/10/28/token-based-authentication-with-node/
 http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/
 http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/
+http://mherman.org/blog/2017/05/11/developing-microservices-node-react-docker/
 
 
 ######################################## NPMJS ##############################################
@@ -349,6 +381,8 @@ https://nodesource.com/blog/seven-more-npm-tricks-to-knock-your-wombat-socks-off
 https://nodesource.com/blog/scale-node-js-with-n-solid-and-kubernetes-on-azure-container-services
 https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm
 https://nodesource.com/blog/configuring-your-npmrc-for-an-optimal-node-js-environment
+https://nodesource.com/blog/installing-node-js-8-tutorial-linux-via-package-manager
+https://nodesource.com/blog/getting-started-with-node-js-and-mongodb
 
 
 ######################################## Bandwidth ##############################################
@@ -384,3 +418,5 @@ http://thecodebarbarian.com/unhandled-promise-rejections-in-node.js.html
 http://thecodebarbarian.com/server-side-rendering-with-preact-and-firebase.html
 http://thecodebarbarian.com/basic-functional-programming-with-async-await.html
 http://thecodebarbarian.com/building-a-nextjs-app-with-mongodb.html
+http://thecodebarbarian.com/standalone-express-apis-binaries-with-pkg.html
+
