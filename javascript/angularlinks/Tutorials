@@ -39,7 +39,8 @@ https://medium.com/covalent-ui/building-slack-in-angular-with-covalent-e116c55f5
 https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron
 https://scotch.io/courses/build-an-etsy-clone-with-angularjs-and-stamplay
 https://scotch.io/tutorials/build-a-todo-app-using-sailsjs-and-angularjs
-https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron?
+https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron
+https://scotch.io/tutorials/password-strength-meter-in-angularjs
 https://scotch.io/tutorials/seamless-ways-to-upgrade-angular-1-x-to-angular-2
 https://scotch.io/tutorials/properly-set-environment-variables-for-angular-apps-with-gulp-ng-config
 https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1
@@ -63,6 +64,7 @@ http://www.kogonuso.com/2015/09/angular-with-rails-part-ii-building-hr.html
 
 ################################################# Dzone ##################################################### 
 https://dzone.com/articles/dependency-injection-in-angular-1-vs-angular-2
+https://dzone.com/articles/how-to-debug-an-angular-application-with-chrome-an
 https://dzone.com/articles/migrating-a-spring-web-mvc-application-from-jsp-to
 https://dzone.com/articles/embracing-the-future-with-angularjs-20-web-compone-1
 https://dzone.com/articles/how-to-implement-a-smart-chunking-bootstrap-carous
@@ -77,8 +79,6 @@ http://www.bennadel.com/blog/2930-using-cmd-enter-to-submit-a-form-in-angularjs.
 http://www.bennadel.com/blog/2935-enable-animations-explicitly-for-a-performance-boost-in-angularjs.htm
 http://www.bennadel.com/blog/2922-decoupling-component-directives-from-layout-in-angularjs.htm
 http://www.bennadel.com/blog/2966-rendering-image-previews-using-object-urls-vs-base64-data-uris-in-angularjs.htm
-http://www.bennadel.com/blog/3092-creating-an-abstract-value-accessor-for-ngmodel-in-angular-2-beta-17.htm
-http://www.bennadel.com/blog/3076-creating-an-index-loop-structural-directive-in-angular-2-beta-14.htm
 
 
 ################################################# Todd Motto ##################################################### 
@@ -99,7 +99,7 @@ https://toddmotto.com/component-architecture-reactive-forms-angular
 ################################################# Codelord ##################################################### 
 http://www.codelord.net/2015/10/29/angular-authentication-remember-where-you-were-plus-demo-project/
 http://www.codelord.net/2015/10/22/angular-authentication-3-step-recipe/
-http://www.codelord.net/2015/11/18/the-deal-with-angular-and-minification/?
+http://www.codelord.net/2015/11/18/the-deal-with-angular-and-minification/
 http://www.codelord.net/2015/12/03/lazy-loading-your-first-component-in-angular/
 http://www.codelord.net/2015/10/07/angular-2-preparation-killing-controllers/
 http://www.codelord.net/2016/01/14/adding-the-first-angular-2-component-to-your-angular-1-app/
@@ -111,9 +111,13 @@ http://www.codelord.net/2016/12/06/video-walkthrough-refactoring-angular-compone
 http://www.codelord.net/2016/12/20/replacing-angulars-deep-watches-with-the-$docheck-lifecycle-hook/
 http://www.codelord.net/2016/12/13/replacing-$scope-dot-$watch-with-lifecycle-hooks/
 http://www.codelord.net/2016/04/21/angular-performance-updating-bind-once-elements/
+http://www.codelord.net/2017/01/09/unit-testing-angular-components-with-%24componentcontroller/
 http://www.codelord.net/2017/05/08/moving-anuglar-factories-to-services-with-classes/
 http://www.codelord.net/2017/05/28/understanding-optional-angularjs-bindings/
 http://www.codelord.net/2017/05/20/converting-angular-controllers-to-es6-classes/
+http://www.codelord.net/2017/06/25/prevent-angularjs-injection-errors-with-strict-mode/
+http://www.codelord.net/2017/06/18/ng-annotate-deprecated-what-that-means-for-your-projects/
+http://www.codelord.net/2017/07/02/angularjs-form-properties-guide/
 
 
 ################################################# Code Project ##################################################### 
@@ -161,6 +165,7 @@ https://blog.nrwl.io/ngupgrade-in-depth-436a52298a00
 https://blog.nrwl.io/essential-angular-components-and-directives-ab65172ba60#.q24bgj3hp
 https://blog.nrwl.io/using-ngupgrade-like-a-pro-lazy-loading-angularjs-applications-469819f5c86
 https://blog.nrwl.io/upgrading-angular-applications-managing-routers-and-url-ca5588290aaa
+https://blog.nrwl.io/essential-angular-change-detection-fe0e868dcc00
 
 
 ################################################# Pluralsight ##################################################### 
@@ -186,6 +191,7 @@ http://bencentra.com/code/2015/11/16/unit-testing-angularjs.html
 https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Introduction#Getting-Started-with-AngularJS
 http://anandmanisankar.com/posts/angularjs-best-parts/
 http://thejackalofjavascript.com/node-webkit-webrtc-and-angularjs-a-video-chat-client/
+http://www.syntaxsuccess.com/viewarticle/using-firebase-with-angular
 http://www.w3schools.com/angular/
 http://blog.rangle.io/unittests/
 http://blog.dreamfactory.com/tutorial-angular-and-rest-made-simple
@@ -216,11 +222,11 @@ http://angularjs.chat/tutorials/angularjs-basic-chat-module/
 http://hueypetersen.com/posts/2013/06/24/typeahead-with-angular/
 https://kalimadev.wordpress.com/2016/02/05/hands-on-angularjs-browse-nyt-best-sellers/
 http://www.dotnetcurry.com/angularjs/1252/angularjs-service-factory
+http://www.dotnetcurry.com/angularjs/1255/unit-testing-angularjs-using-jasmine-karma
 http://jslancer.com/2016/02/19/demystify-angularjs-15-one-way-data-binding/
 http://devproconnections.com/javascript/web-pages-more-dynamic-angularjs
 https://scotch.io/tutorials/build-an-angularjs-app-with-stamplay-the-ifttt-for-developers
 http://www.jvandemo.com/how-to-configure-your-angularjs-application-using-environment-variables/
-http://www.dotnetcurry.com/angularjs/1255/unit-testing-angularjs-using-jasmine-karma
 https://lingohub.com/blog/2016/03/angularjs-directives-image-cropping/
 https://davidwalsh.name/angular-charts
 http://madebymunsters.com/blog/posts/creating-a-mock-backend-in-angular/
@@ -260,3 +266,4 @@ https://devdactic.com/ionic-firebase-angularfire/
 https://cosmicjs.com/blog/how-to-build-a-mobile-product-catalog-app-using-angular-js-ionic-and-cosmic-js
 http://developer.telerik.com/products/nativescript/use-firebase-cloud-messaging-nativescript-app/
 https://code.tutsplus.com/tutorials/how-to-create-animations-in-angularjs-with-nganimate--cms-28593
+https://coderwall.com/p/y0zkiw/building-large-apps-with-angularjs
