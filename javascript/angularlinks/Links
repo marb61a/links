@@ -1,13 +1,4 @@
                                             #ANGULARJS LINKS
-
-##Videos - 
-Introduction & Explore to AngularJS 2015 - https://www.youtube.com/watch?v=u2okVLCrqgE
-Introduction to Angular.js in 50 Examples (part 1) - https://www.youtube.com/watch?v=TRrL5j3MIvo (curran kelleher)
-Introduction to Angular.js in 50 Examples (part 2) - https://www.youtube.com/watch?v=6J08m1H2BME (curran kelleher)
-AnuglarJS 2 into the future - https://www.youtube.com/watch?v=7zprDGOxpNk
-http://angular-air.com
-
-
 ##Courses - 
 https://www.udemy.com/learn-angularjs/
 https://www.udemy.com/learn-angularjs-development/
@@ -21,13 +12,21 @@ https://www.udemy.com/learn-angular-2-from-beginner-to-advanced/
 https://www.udemy.com/django-angularjs/
 
 
-
-##Videos -
+##Videos - 
+Introduction to Angular.js in 50 Examples (part 1) - https://www.youtube.com/watch?v=TRrL5j3MIvo (curran kelleher)
+Introduction to Angular.js in 50 Examples (part 2) - https://www.youtube.com/watch?v=6J08m1H2BME (curran kelleher)
+https://www.youtube.com/watch?v=7zprDGOxpNk - AngularJS 2 into the future 
 https://www.youtube.com/watch?v=zoCLEwFUpqg - Build Angular 2 apps with TypeScript and Visual Studio Code
 https://www.youtube.com/watch?v=mH4TpdwZP4A - Learn Angular 2 (TypeScript) by building a simple YouTube player
 https://www.youtube.com/watch?v=tYkb2Qu4UmM - Angular 2 Full MEAN Stack Application
 https://www.youtube.com/watch?v=KaZ0pOiq2ZU - Angular Tutorials: Angular 2 Tutorial for Beginners
 https://www.youtube.com/watch?v=9XCaVrdigGw - Angular Tutorials: Angular 2 with TypeScript Training
+https://www.youtube.com/watch?v=KhzGSHNhnbI - Angular 4 In 60 Minutes
+
+
+##Playlists 
+Introduction & Explore to AngularJS 2015 - https://www.youtube.com/watch?v=u2okVLCrqgE
+https://www.youtube.com/playlist?list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl - AngularJS tutorial for beginners
 
 
 ##Code -
@@ -38,6 +37,7 @@ https://github.com/johnpapa/angular-styleguide
 https://github.com/toddmotto/angularjs-styleguide
 https://github.com/scalyr/angular - Code to optimize AngularJS for complex pages
 https://github.com/mailtoharshit/Angular - demo application that uses Angular.Js with VisualForce
+
 
     ### ANGULAR 2 ###
 https://github.com/blacksonic/angular2-esnext-starter - Angular 2 development in Javascript with ES6/ES7 syntax powered by Babel.
@@ -58,6 +58,9 @@ https://github.com/mgcrea/angular-strap - AngularJS 1.2+ native directives for B
 https://github.com/rangle/angular2-redux-example - Angular 2 Redux Starter Repo
 https://github.com/SebastianM/angular2-google-maps - Angular 2 components for Google Maps
 https://github.com/ocombe/ng2-translate - An implementation of angular translate for Angular 2
+https://github.com/toddmotto/angular-lazy-load-demo - Lazy loading: code-splitting with @NgModules demo 
+https://github.com/auth0-blog/mean-rsvp-auth0/ - MEAN stack application with Auth0
+https://github.com/eugenp/tutorials/tree/master/spring-rest-angular/ - spring-rest-angular
 
 
 ##Links -
