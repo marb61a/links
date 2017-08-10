@@ -33,6 +33,7 @@ https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f#.
 https://medium.com/code-life/getting-started-with-react-native-in-20-minutes-15ea90062094#.n8b6y4e0o
 https://medium.com/react-native-development/five-reasons-why-web-developers-love-react-native-ca5151514c2e#.fzs12pxd7
 https://medium.com/react-native-training/getting-started-with-react-native-and-flow-d40f55746809#.ew74zq3xf
+https://medium.com/react-native-training/deep-linking-your-react-native-app-d87c39a1ad5e
 https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560
 https://medium.com/differential/handling-offline-actions-in-react-native-74949cbfabf2
 https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24
@@ -41,6 +42,9 @@ https://medium.com/react-native-training/redux-4-ways-95a130da0cdc
 https://medium.com/kuralabs-engineering/reactive-core-architecture-for-react-native-and-react-applications-d590daf4ef8a
 https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440
 https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2
+https://medium.com/santiment/the-mobile-terminal-making-react-native-the-hardware-back-button-cooperate-65fe0ec27489
+https://medium.com/handlebar-labs/getting-started-with-react-native-navigation-v1-7a16afdeadcd
+https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae
 
 
 ###################################### Tutsplus ##################################################################
@@ -48,6 +52,14 @@ http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native
 https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328
 https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418
 https://code.tutsplus.com/tutorials/practical-animations-in-react-native--cms-27567
+
+
+###################################### Hackernoon ##################################################################
+https://hackernoon.com/a-simple-messaging-app-with-react-native-and-socket-io-e1cae3df7bda
+https://hackernoon.com/image-caching-in-react-native-96d8df33ca84
+https://hackernoon.com/how-i-built-a-super-simple-game-using-react-native-67bdade50373
+https://hackernoon.com/the-80-20-of-react-native-10f2b6af663
+https://hackernoon.com/how-to-make-a-simple-twitter-clone-with-react-native-4b6c45940583
 
 
 ###################################### Miscellaneous ##################################################################
@@ -84,9 +96,6 @@ https://www.sitepoint.com/adding-analytics-to-a-react-native-app/
 https://habd.as/beta-testing-react-native-buddybuild/
 https://www.raywenderlich.com/136047/react-native-existing-app
 http://goshakkk.name/react-native-camera-roll-image-picker/
-https://hackernoon.com/a-simple-messaging-app-with-react-native-and-socket-io-e1cae3df7bda
-https://hackernoon.com/image-caching-in-react-native-96d8df33ca84
-https://hackernoon.com/how-i-built-a-super-simple-game-using-react-native-67bdade50373
 http://coenraets.org/blog/2017/01/react-native-sample-app-tutorial/
 https://blog.revisify.com/5-reasons-why-i-chose-react-native-over-traditional-app-development-3de18e208b8a
 https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e
@@ -97,6 +106,10 @@ https://school.shoutem.com/lectures/geolocation-app-react-native/
 https://blog.hellojs.org/tales-of-a-react-native-beginner-why-graphql-is-the-real-mvp-9169b60b6f92
 https://launchdrawer.com/i-made-react-native-fast-you-can-too-9e61c951ce0
 https://blog.expo.io/sketch-a-playground-for-react-native-16b2401f44a2
+https://blog.uncommon.is/a-simple-introduction-to-state-management-with-mobx-in-react-native-ed749aa2b5d7
+https://engineering.salesforce.com/experiments-with-high-performance-animation-in-react-native-80a0cb7052b0
+http://artsy.github.io/blog/2017/07/06/React-Native-for-iOS-devs/
+https://blog.brainsandbeards.com/logging-in-react-native-3bc4e69a4c21
 
 
 ##### Code #####
@@ -131,6 +144,11 @@ https://github.com/avocode/nachos-ui - Nachos UI is a React Native component lib
 https://github.com/wix/react-native-paged-contacts - Paged contacts for React Native
 https://github.com/Thinkmill/react-conf-app - React Conf 2017 Companion App - built with React Native
 https://github.com/facebook/react-vr - Create amazing 360 and VR content using React
+https://github.com/wix/react-native-calendars - React Native Calendar Components
+https://github.com/R1ZZU/react-native-webview-messaging - Send/Receive data between React Native app and WebView
+https://github.com/facebook/metro-bundler - The JavaScript bundler for React Native
+https://github.com/akveo/kittenTricks - A react native mobile starter kit with over 40 screens
+
 
 
 ##### Videos ######
@@ -141,6 +159,7 @@ https://www.youtube.com/watch?v=CcdlOLobZ4w - The Impact of React Native - Crate
 https://www.youtube.com/watch?v=E3nB8pI8gac - Using React Native & Meteor to Quickly Build Cross Platform Apps
 https://www.youtube.com/watch?v=iwEdEMOtpCg - Build React Native apps faster with Storybook
 https://www.youtube.com/watch?v=3msLwu25SQY&list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5 - Getting Started with React Native and Redux
+https://www.youtube.com/watch?v=OmiXlJ4ZzAo - Performance Limitations of React Native and How to Overcome Them
 https://codecookbook.co/post/how-to-share-text-from-your-react-native-app/
 https://devchat.tv/react-native-radio/41-react-native-for-windows-with-eric-rozell-of-microsoft - React Native Radio
 https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html
