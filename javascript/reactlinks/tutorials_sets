@@ -16,8 +16,13 @@ http://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/
 https://www.sitepoint.com/music-streaming-app-electron-react-es6/
 https://www.sitepoint.com/exploring-reacts-state-propagation/
 https://www.sitepoint.com/building-a-game-reactjs-and-webgl/
+https://www.sitepoint.com/optimizing-react-performance-stateless-components/
 https://www.sitepoint.com/tutorial-build-a-react-js-application-with-user-login-and-authentication/
 https://www.sitepoint.com/react-storybook-develop-beautiful-user-interfaces-with-ease/
+https://www.sitepoint.com/building-a-full-sphere-3d-image-gallery-with-react-vr/
+https://www.sitepoint.com/crud-app-react-redux-feathersjs/
+https://www.sitepoint.com/switching-from-react-to-cycle-js/
+https://www.sitepoint.com/reddit-clone-react-firebase/
 
 
 ###################################### Scotch.io ################################################################## 
@@ -50,6 +55,8 @@ http://blog.isquaredsoftware.com/2017/01/practical-redux-part-6-connected-lists-
 http://blog.isquaredsoftware.com/2017/01/practical-redux-part-7-forms-editing-reducers/
 http://blog.isquaredsoftware.com/2017/01/practical-redux-part-8-form-draft-data-management/
 http://blog.isquaredsoftware.com/2017/01/idiomatic-redux-thoughts-on-thunks-sagas-abstraction-and-reusability/
+http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/
+http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/
 
 
 ###################################### Medium ##################################################################
@@ -140,6 +147,17 @@ https://medium.com/@yoniweisbrod/styling-react-applications-with-ant-design-92b7
 https://medium.com/@baphemot/understanding-react-deployment-5a717d4378fd
 https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205
 https://medium.com/@thejameskyle/react-loadable-2674c59de178
+https://medium.com/@zimrick/how-to-create-pure-react-svg-maps-with-topojson-and-d3-geo-e4a6b6848a98
+https://medium.com/@n8e/turning-your-reusable-react-component-into-an-npm-package-ca11e1bdac65
+https://medium.com/storybookjs/announcing-storybook-3-0-329748b8f4cd
+https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71
+https://medium.com/coding-artist/how-pure-css-images-helped-me-understand-react-components-3ad7b05051b0
+https://medium.com/styled-components/announcing-v2-f01ef3766ac2
+https://medium.com/faceyspacey/how-to-use-webpacks-new-magic-comment-feature-with-react-universal-component-ssr-a38fd3e296a
+https://medium.com/faceyspacey/pre-release-redux-first-router-a-step-beyond-redux-little-router-cd2716576aea
+https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262
+https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd
+https://medium.com/front-end-hacking/using-immutable-js-with-redux-ba89025e45e2
 
 
 ###################################### Raja Rao ##################################################################
@@ -151,6 +169,9 @@ https://medium.com/@rajaraodv/handling-transactional-emails-in-react-redux-apps-
 https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.lf8qxgy0h
 https://medium.com/@rajaraodv/using-middlewares-in-react-redux-apps-f7c9652610c6#.xhcmg5b5y
 https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.28ckh4i2h
+https://medium.com/@housecor/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5
+https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060
+
 
 
 ###################################### Kadira ##################################################################
@@ -180,7 +201,14 @@ https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a
 https://hackernoon.com/hot-reload-all-the-things-ec0fed8ab0
 https://hackernoon.com/render-a-hearthstone-card-using-react-and-svg-cb086957e74a
 https://hackernoon.com/react-js-cms-blog-tutorial-e090c699845b
+https://hackernoon.com/how-and-why-to-use-d3-with-react-d239eb1ea274
 https://hackernoon.com/routing-in-react-the-uncomplicated-way-b2c5ffaee997
+https://hackernoon.com/configure-eslint-prettier-and-flow-in-vs-code-for-react-development-c9d95db07213
+https://hackernoon.com/serverless-server-side-rendering-with-react-using-redux-or-mobx-ce32a121ce08
+https://hackernoon.com/building-a-react-component-library-part-1-d8a1e248fe6c
+https://hackernoon.com/how-to-deploy-a-live-reactjs-redux-website-in-under-10-minutes-cadf73cfc75a
+https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a
+https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-1-b8a200bb7091
 
 
 ###################################### Freecodecamp ##################################################################
@@ -198,6 +226,8 @@ https://medium.freecodecamp.com/reacts-jsx-vs-vue-s-templates-a-showdown-on-the-
 https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b
 https://medium.freecodecamp.com/how-to-build-react-apps-on-top-of-the-wordpress-rest-api-bcc632808025
 https://medium.freecodecamp.com/how-to-make-your-react-app-fully-functional-fully-reactive-and-able-to-handle-all-those-crazy-e5da8e7dac10
+https://medium.freecodecamp.org/understanding-higher-order-components-6ce359d761b
+https://medium.freecodecamp.org/an-introduction-to-the-redux-first-routing-model-98926ebf53cb
 
 
 ###################################### Javascript Inside ##################################################################
@@ -256,6 +286,8 @@ https://daveceddia.com/thinking-statefully/
 https://daveceddia.com/redux-action-creators/
 https://daveceddia.com/watch-out-for-undefined-state/
 https://daveceddia.com/random-numbers-in-redux/
+https://daveceddia.com/react-project-structure/
+https://daveceddia.com/create-react-app-express-production/
 
 
 ###################################### Stormpath ##################################################################
@@ -271,5 +303,7 @@ https://tylermcginnis.com/building-user-interfaces-with-pure-functions-and-funct
 https://tylermcginnis.com/react-elements-vs-react-components/
 https://tylermcginnis.com/react-interview-questions/
 https://tylermcginnis.com/react-aha-moments/
+https://tylermcginnis.com/build-your-own-react-router-v4/
 https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js/
+https://tylermcginnis.com/react-elements-vs-react-components/
 
