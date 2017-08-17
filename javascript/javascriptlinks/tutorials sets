@@ -23,11 +23,12 @@ https://ponyfoo.com/articles/javascript-asynchronous-iteration-proposal
 https://ponyfoo.com/articles/observables-coming-to-ecmascript
 https://ponyfoo.com/articles/iterators-as-generators
 https://ponyfoo.com/articles/regular-expressions-post-es6
+https://ponyfoo.com/articles/pattern-matching-in-ecmascript
+https://ponyfoo.com/articles/null-propagation-operator
 
 
 ####################################### Medium ###########################################################
 https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
 https://medium.com/all-about-feathersjs/using-feathersjs-as-an-open-source-alternative-to-firebase-b5d93c200cee
 https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.ne34oba7j
 https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.cbe1m8fo3
@@ -40,9 +41,6 @@ https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8
 https://medium.com/@clayallsopp/incrementally-migrating-javascript-to-typescript-565020e49c88#.fnglivobo
 https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.bnpd6d3ny
 https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.s12ky2exz
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.vpo0l5z5q
-https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.6ambti44v
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.w9sxy5gxf
 https://medium.com/net-magazine/the-web-cryptography-api-15d052271494#.5llvddsli
 https://medium.com/@tarkus/how-to-build-and-publish-es6-modules-today-with-babel-and-rollup-4426d9c7ca71#.qkwb1l6gv
 https://medium.com/@galstar/composable-sql-in-javascript-db51d9cae017#.kvc99ont6
@@ -57,22 +55,41 @@ https://medium.com/purse-essays/introducing-bcoin-fdfcb22dfa34#.4nb85hbfx
 https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.3lbp6950n
 https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.9t474h51k
 https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776#.n5eywixta
-https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.66l41ey8r
 https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem-7dfeb1aafde0#.77leqvb1w
 https://medium.com/javascript-inside/introduction-to-functional-front-ends-with-inferno-side-effects-and-routing-a8b226c47b0f#.ofbyf1ozk
 https://medium.com/@bradfmd/vue-vuex-getting-started-f78c03d9f65#.jeuj043oy
 https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.wunvznyjo
 https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201
+https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15
 https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9
 https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161
 https://medium.com/statuscode/cors-a-guided-tour-4e72230a8739
 https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
 https://medium.com/dailyjs/maybe-you-should-use-maybes-297f2c88c228
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
 https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a
 https://medium.com/@darrenjennings/data-driven-vue-js-53e84f16e28f
 https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358
 https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
+https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747
+https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7
+https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad
+https://medium.com/@tkh44/emotion-ad1c45c6d28b
+https://medium.com/faceyspacey/webpacks-import-will-soon-fetch-js-css-here-s-how-you-do-it-today-4eb5b4929852
+https://medium.com/burke-knows-words/introducing-express-react-starter-b6d299206a3a
+https://medium.com/@kentcdodds/glamorous-v4-is-here-c678fe02a39a
+https://medium.appbase.io/how-to-build-a-github-search-ui-in-60-minutes-295109211c70
+
+
+###################################### Eric Elliot ###########################################################
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.vpo0l5z5q
+https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.6ambti44v
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.w9sxy5gxf
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.66l41ey8r
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
+https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
+https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
+https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
 
 
 ###################################### Freecodecamp ###########################################################
@@ -87,6 +104,7 @@ https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-eno
 https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
 https://medium.freecodecamp.com/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9
 https://medium.freecodecamp.com/simple-chess-ai-step-by-step-1d55a9266977
+https://medium.freecodecamp.org/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d
 
 
 ####################################### Telerik ###########################################################
@@ -147,6 +165,11 @@ http://2ality.com/2017/05/regexp-lookbehind-assertions.html
 http://2ality.com/2017/04/flatmap.html
 http://2ality.com/2017/04/conditional-literal-entries.html
 http://2ality.com/2017/06/pkg-esnext.html
+http://2ality.com/2017/05/util-promisify.html
+http://2ality.com/2017/07/regexp-unicode-property-escapes.html
+http://2ality.com/2017/07/class-fields.html
+http://2ality.com/2017/08/promise-callback-data-flow.html
+http://2ality.com/2017/08/promise-try.html
 
 
 ####################################### Mozilla ###########################################################
@@ -159,6 +182,9 @@ https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives
 https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
 https://hacks.mozilla.org/2016/09/introducing-debugger-html/
 https://hacks.mozilla.org/2017/01/typedarray-or-dataview-understanding-byte-order/
+https://hacks.mozilla.org/2017/06/introducing-filterbubbler-a-webextension-built-using-reactredux/
+https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/
+https://hacks.mozilla.org/2017/07/introducing-sphinx-js-a-better-way-to-document-large-javascript-projects/
 
 
 ####################################### James K Nelson ###########################################################
@@ -186,6 +212,8 @@ https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/
 https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/
 https://www.smashingmagazine.com/2017/05/json-api-normalizer-redux/ 
 https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/
+https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/
+https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/
 
 
 ####################################### Auth0 ###########################################################
@@ -198,6 +226,7 @@ https://auth0.com/blog/2016/04/05/quicktip-use-jhipster/
 https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them
 https://auth0.com/blog/aurelia-1.0-how-to-build-a-simple-secured-application/
 https://auth0.com/blog/understanding-reactive-programming-and-rxjs/
+https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-1/#
 
 
 ####################################### Marius Schultz ###########################################################
@@ -236,6 +265,7 @@ https://davidwalsh.name/speech-recognition
 https://davidwalsh.name/es6-features
 https://davidwalsh.name/spread-operator
 https://davidwalsh.name/functional-programming
+https://davidwalsh.name/wake-lock-shim
 
 
 ####################################### CSS Tricks ###########################################################
@@ -250,6 +280,7 @@ https://css-tricks.com/debugging-tips-tricks/
 https://css-tricks.com/pong-svg-js/
 https://css-tricks.com/power-custom-directives-vue/
 https://css-tricks.com/using-fetch/
+https://css-tricks.com/now-ever-might-not-need-jquery/
 
 
 ####################################### Wes Bos ###########################################################
@@ -270,3 +301,5 @@ https://hackernoon.com/what-you-should-know-about-numbers-in-es6-javascript-7370
 https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e
 https://hackernoon.com/javascript-arrow-functions-for-beginners-926947fc0cdc
 https://hackernoon.com/introducing-nile-js-81d83a31cfe3
+https://hackernoon.com/a-semi-quick-guide-to-reliable-stream-processing-with-rxjs-77cd8cb47f38
+
