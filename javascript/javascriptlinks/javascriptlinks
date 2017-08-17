@@ -60,6 +60,15 @@ https://scriptconf.org/blog/javascript-is-a-buffet-not-the-enemy-chris-heilmann/
 https://www.youtube.com/watch?v=4tQiJaFzuJ8 - Everything is a plugin! Mastering webpack from the inside out 
 https://www.youtube.com/watch?v=EdFDJANJJLs - V8, Advanced JavaScript, & the Next Performance Frontier 
 https://www.youtube.com/watch?v=aCMbSyngXB4 - Production Progressive Web Apps With JavaScript Frameworks
+https://www.youtube.com/watch?v=QgGJignGQ1A - Javascript - Brian Holt
+https://www.youtube.com/watch?v=9NXVQsQ8wns - Unleash the power of Angular Reactive Forms
+https://www.youtube.com/watch?v=McPeX5gsSX8 - How to get started and build something with GraphQL 
+https://www.youtube.com/watch?v=JWFyH13_I3o - How Uber uses Javascript
+https://www.youtube.com/watch?v=K7AvXUNB2X8 - Ng-Cruise - RxJS By Example 
+https://www.youtube.com/watch?v=z6hQqgvGI4Y - Vue.js 2.0 In 60 Minutes
+https://www.youtube.com/watch?v=rn97hCNQsKI - Code splitting patterns in Vue.js
+https://www.youtube.com/watch?v=D-juPGb7EKY - JavaScript riddles for fun and profit
+https://www.youtube.com/watch?v=8UqHCrGdxOM - Reverse engineering obfuscated JavaScript
 
 
 ##Pusher
@@ -68,6 +77,7 @@ https://pusher.com/sessions/meetup/ember-london/building-delicious-forms-with-em
 https://pusher.com/sessions/meetup/london-node-user-group/ace-javascript-interviews-scoping-and-hoisting
 https://pusher.com/sessions/meetup/hydrahack/making-desktop-apps-with-electron
 https://pusher.com/sessions/meetup/js-monthly-london/flow
+https://pusher.com/sessions/meetup/bristol-js/web-bluetooth-espruino-and-puckjs
 
 
 ##Egghead
@@ -76,6 +86,7 @@ https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 https://egghead.io/lessons/javascript-use-es6-proxies
 https://egghead.io/lessons/javascript-format-console-log-with-css-and-string-template-tags
 https://egghead.io/lessons/javascript-use-test-driven-development
+https://egghead.io/courses/up-and-running-with-preact
 
 
 ##Channels & Playlists
@@ -108,19 +119,22 @@ http://facebook.github.io/jest/ - Painless JavaScript Testing
 http://www.javascriptkit.com/javatutors/
 https://golden-layout.com/ - a multi-screen layout manager for webapps (tutorials available)
 http://substance.io/
+http://www.react.express - Guide to React application development
 https://stormpath.com/blog/secure-single-page-app-problem/
 https://github.com/wbinnssmith/awesome-promises
 http://www.cerebraljs.com/ - The cerebral project
 http://xregexp.com
+http://turfjs.org - Advanced geospatial analysis for browsers and node
+http://d3indepth.com - D3 information to bridge the gap between tutorials and documenttation
 http://www.chartjs.org/
 https://rumbleinc.github.io/rumble-js-charts/
 http://3d-transforms.webflow.com/
 http://www.javascriptkit.com
-https://davidwalsh.name/javascript-loader
 https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 http://nosir.github.io/cleave.js/ - Format your <input/> content when you are typing
-http://www.mancy-re.pl/
-http://www.javascriptoo.com
+http://www.mancy-re.pl/ - A cross platform NodeJS REPL application based on Electron and React frameworks
+https://display.js.org - A simple JavaScript framework for building ambitious UIs
+http://www.javascriptoo.com - every javascript project you should be looking into
 http://izimodal.marcelodolce.com - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 http://echarts.baidu.com
 http://ottomanjs.com/
