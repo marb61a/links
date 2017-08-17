@@ -3,15 +3,18 @@
 ####################################### Sitepoint ###########################################################
 
                             ######################## ES 6  ############################
-http://www.sitepoint.com/es6-now-template-strings/
-http://www.sitepoint.com/the-es6-conundrum/
+https://www.sitepoint.com/es6-now-template-strings/
+https://www.sitepoint.com/the-es6-conundrum/
 https://www.sitepoint.com/creating-next-generation-javascript-application-aurelia/
-http://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
-http://www.sitepoint.com/transpiling-es6-modules-to-amd-commonjs-using-babel-gulp/
-http://www.sitepoint.com/joys-block-scoping-es6/
+https://www.sitepoint.com/asynchronous-apis-using-fetch-api-es6-generators/
+https://www.sitepoint.com/transpiling-es6-modules-to-amd-commonjs-using-babel-gulp/
+https://www.sitepoint.com/joys-block-scoping-es6/
 https://www.sitepoint.com/up-and-running-with-eslint-the-pluggable-javascript-linter/
-http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
+https://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
 https://www.sitepoint.com/patterns-object-inheritance-javascript-es2015/
+https://www.sitepoint.com/javascript-decorators-what-they-are/
+https://www.sitepoint.com/date-fns-javascript-date-library/
+https://www.sitepoint.com/hyperapp-1-kb-javascript-library/
  
                             
                             ######################## JQuery  ############################
@@ -38,6 +41,7 @@ https://www.sitepoint.com/5-jquery-print-page-options/
 https://www.sitepoint.com/comprehensive-jquery-dom-traversal/
 https://www.sitepoint.com/user-sortable-lists-flexbox-jquery/
 
+
                             
                             ######################## Functional ############################
 https://www.sitepoint.com/introduction-functional-javascript/
@@ -54,6 +58,7 @@ https://www.sitepoint.com/lodash-features-replace-es6/
 https://www.sitepoint.com/functional-programming-with-ramda/
 https://www.sitepoint.com/functional-programming-choo/
 https://www.sitepoint.com/filtering-and-chaining-in-functional-javascript/
+https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
 
                             
                             ######################## Testing ############################
@@ -88,10 +93,13 @@ https://www.sitepoint.com/introduction-gulp-js/
 https://www.sitepoint.com/beginners-guide-javascript-variables-and-datatypes/
 https://www.sitepoint.com/sort-an-array-of-objects-in-javascript/
 https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/
-http://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
+https://www.sitepoint.com/write-atom-packages-using-vanilla-javascript/
 https://www.sitepoint.com/event-bubbling-javascript/
 https://www.sitepoint.com/simple-javascript-quiz/
 https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/
+https://www.sitepoint.com/shorthand-javascript-techniques/
+https://www.sitepoint.com/getting-started-with-codemods/
+https://www.sitepoint.com/mvc-design-pattern-javascript/
 
                             
                             ######################## Graphics ############################
@@ -156,3 +164,8 @@ https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/
 https://www.sitepoint.com/react-vs-angular/
 https://www.sitepoint.com/building-a-full-sphere-3d-image-gallery-with-react-vr/
 https://www.sitepoint.com/state-aurelia-higher-order-components/
+https://www.sitepoint.com/beginners-guide-node-package-manager/
+https://www.sitepoint.com/reddit-clone-react-firebase/
+https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/
+https://www.sitepoint.com/nuxt-js-universal-vue-js/
+
