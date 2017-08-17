@@ -334,3 +334,42 @@ https://github.com/ForbesLindesay/taxi-rank - A JSDom based Selenium Webdriver A
 https://github.com/ilkeryilmaz/timelinejs/ - jQuery timeline plugin, easily creates timeline slider
 https://github.com/hilongjw/vue-recyclerview - Mastering Large Lists with the vue-recyclerview
 https://github.com/picodom/picodom - 1kb Virtual DOM builder and patch algorithm.
+https://github.com/JonAbrams/elsa - A babel plugin for replacing object and array literals with immutable versions
+https://github.com/jiayihu/sinergia - Cooperative expensive tasks at 60fps via ES6 generators
+https://github.com/synacor/wiretie - A Higher Order Component for Preact 
+https://github.com/521dimensions/amplitudejs - The HTML5 Audio Player for the modern era.
+https://github.com/erikolson186/zangodb - MongoDB-like interface for HTML5 IndexedDB 
+https://github.com/luisvinicius167/dutier - A small async state management solution for Javascript applications.
+https://github.com/ecrmnn/collect.js - Convenient and dependency free wrapper for working with arrays and objects 
+https://github.com/js-joda/js-joda -  Immutable date and time library for javascript
+https://github.com/intercellular/cell - A self-driving web app framework 
+https://github.com/toniov/p-iteration - Utilities that make array iteration easy
+https://github.com/25th-floor/spected - Validation library
+https://github.com/swisnl/jQuery-contextMenu - jQuery contextMenu plugin & polyfill
+https://github.com/camelaissani/frontexpress - An Express.js-Style router for the front-end 
+https://github.com/dollarshaveclub/study - A simple, progressive, client/server AB testing library 
+https://github.com/ecomfe/echarts - A powerful, interactive charting and visualization library for browser 
+https://github.com/micku7zu/vanilla-tilt.js/ - A smooth 3D tilt javascript library. 
+https://github.com/redom/redom - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces
+https://github.com/DavidAnson/math-random-polyfill - A browser-based polyfill for JavaScript's Math.random()
+https://github.com/indutny/webpack-common-shake - CommonJS Tree Shaker plugin for WebPack
+https://github.com/ttmarek/consolemock - A small dev utility for testing console logs
+https://github.com/MaxArt2501/share-this - Medium-like text selection sharing without dependencies
+https://github.com/vadimdemedes/ink -  React for interactive command-line apps
+https://github.com/jaredreich/pell - the simplest and smallest (1kB) WYSIWYG text editor for web
+https://github.com/samccone/bundle-buddy - A tool to identify bundle duplication across splits.
+https://github.com/tbodt/v8py - Write Python APIs, then call them from JavaScript using the V8 engine.
+https://github.com/botui/botui -  A JavaScript framework to create conversational UIs
+https://github.com/gpujs/gpu.js - GPU Accelerated JavaScript
+https://github.com/kbrsh/wade -  Blazing fast, 1kb search for Javascript
+https://github.com/Mechazawa/emojify-webpack-plugin/ - Turn your code into emoji
+https://github.com/smallwins/spacetime - A lightweight way to handle timezones in js 
+https://github.com/xkeshi/image-compressor - A simple JavaScript image compressor. 
+https://github.com/kbrsh/moon - A minimal, blazing fast UI library. 
+https://github.com/Turfjs/turf - A modular geospatial engine written in JavaScript 
+https://github.com/epicmaxco/vuestic-admin - Vue.js admin dashboard 
+https://github.com/arguiot/DisplayJS/ - A simple JavaScript framework for building ambitious UIs 
+https://github.com/ream/ream - Framework for building universal Vue.js app
+https://github.com/Mitranim/posterus - Composable async primitives (futures) with true cancelation
+https://github.com/ai/nanoid - A tiny, secure URL-friendly unique string ID generator for JavaScript
+
