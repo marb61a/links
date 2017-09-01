@@ -1,5 +1,10 @@
-##Podcasts
+## Videos
+## Larachat Live
+https://www.youtube.com/watch?v=B3mdPlE11xg - Episode 28 - Work/Life balance & OSMI
+https://www.youtube.com/watch?v=9fjekWB7h5U - Episode 29 Lean Methodologies
 
+
+##Podcasts
 ## PHPTownHall
 https://phptownhall.com/episode-49-async/
 https://phptownhall.com/episode-50-low-down-on-psr15/
@@ -7,19 +12,15 @@ https://phptownhall.com/episode-51-good-riddance/
 https://phptownhall.com/what-do-we-do-now/
 https://phptownhall.com/dev-rel-travel-bedbugs/
 
-
 ## Nomad PHP
 https://nomadphp.com/transparent-session-management-sessionz/
 https://nomadphp.com/install-vagrant-via-composer-homestead/
-
 
 ## Zend Bites
 https://www.briefs.fm/zend-framework-bites/23
 https://www.briefs.fm/zend-framework-bites/24
 https://www.briefs.fm/zend-framework-bites/25
 https://www.briefs.fm/zend-framework-bites/26 - ReflectionBasedAbstractFactory Overview
-
-
 
 ## Laravel News Podcast
 https://laravel-news.com/podcast/30 - Laravel 5.4 with Taylor Otwell
@@ -29,7 +30,8 @@ https://laravel-news.com/podcast/33 - Recapping Laracon Online 2017
 https://laravel-news.com/podcast/34 - Forge updates, Ubuntu DNS issues, and PhpStorm 
 https://laravel-news.com/podcast/35 - Interview with Mohamed Said, Laravel's First Employee
 https://laravel-news.com/podcast/36 - Laravel Macros, frontend presets, and Jigsaw
-
+https://laravel-news.com/podcast/40 - 
+https://laravel-news.com/podcast/41 - Laracon Sessions with Michele and Mathias Hansen
 
 ## PHPUgly
 https://phpugly.com/blog/44upgrayedd
@@ -47,7 +49,17 @@ http://www.phpugly.com/55 - SEx, Lies & Coding
 http://www.phpugly.com/56 - Johnny Apple Seeder
 http://www.phpugly.com/57 - DROP TABLE requests
 http://www.phpugly.com/58 - Lock Down
-
+http://www.phpugly.com/episodes/2bb993ca/59-bert-and-ernie-and-tom
+http://www.phpugly.com/episodes/939f9411/60-mothers-delay
+http://www.phpugly.com/episodes/b6740673/61-wannacry-babies
+http://www.phpugly.com/episodes/56aec3b5/62-php-round-ugly-hall
+http://www.phpugly.com/episodes/9f4dd867/63-the-popular-guys
+http://www.phpugly.com/episodes/91e50d66/64-bad-apples
+http://www.phpugly.com/episodes/5ab9ec03/65-cape-and-cowl
+http://www.phpugly.com/episodes/1bf4951e/66-execute-order-66
+http://www.phpugly.com/episodes/e60da97a/67-block-chain-heads
+http://www.phpugly.com/episodes/d9cd235b/68-trunk-based-outrage
+http://www.phpugly.com/episodes/df758698/69-eric-gets-fired
 
 ## Magetalk
 https://magetalk.com/magetalk-episode-115-fancy-your-schmancy/
@@ -62,14 +74,19 @@ https://magetalk.com/magetalk-episode-123-roadtoimagine-series-the-one-with-bob-
 https://magetalk.com/magetalk-episode-124-roadtoimagine-series-part-3-magento-security-council-w-eric-hileman-of-magemojo/
 https://magetalk.com/magetalk-episode-125-roadtoimagine-series-the-one-with-bob-part-2/
 https://magetalk.com/magetalk-live-imagine-2017-part-1-3-degrees-of-magento-feat-ben-marks-magestackday/
-
+https://magetalk.com/magetalk-episode-130-pj-diddles-esquire/
+https://magetalk.com/magetalk-episode-131-reallyintoshoeshatefeet/
+https://magetalk.com/magetalk-episode-132-the-worst-episode-ever/
+https://magetalk.com/magetalk-episode-133-the-gartner-report/
+https://magetalk.com/magetalk-episode-134-getting-an-mba-in-mbi-with-bob-moore-of-magento/
+https://magetalk.com/magetalk-episode-135-the-great-end-of-life-debate-of-2017/
+https://magetalk.com/magetalk-episode-137-hard-brexit-thanks-obama/
 
 ## Laravelpodcast
 http://www.laravelpodcast.com/episodes/53433-episode-50-turkey-day-touch-bar
 http://www.laravelpodcast.com/episodes/55797-episode-51-dusky-christmas
 http://www.laravelpodcast.com/episodes/59891-episode-52-doug-pro
 http://www.laravelpodcast.com/episodes/68236-episode-53-bigger-better
-
 
 ## PHPRoundtable
 https://www.phproundtable.com/episode/php-7-1
@@ -78,10 +95,5 @@ https://www.phproundtable.com/episode/dependency-injection
 https://www.phproundtable.com/episode/logging-and-crash-reporting-in-php
 https://www.phproundtable.com/episode/dependency-injection-and-psr-11
 https://www.phproundtable.com/episode/all-things-laravel
-
-
-## PHP Classes
-https://www.phpclasses.org/blog/post/516-Tutorial-on-Sending-Postcards-Letters-and-Checks-by-Postal-Mail-Using-LOB-REST-API-using-PHP.html
-https://www.phpclasses.org/blog/post/525-Making-PHP-72-More-Secure-with-LibSodium-Extension--5-Minutes-Lately-in-PHP-podcast-episode-80.html
-https://www.phpclasses.org/blog/post/539-Macroslike-in-PHP-72-using-Arrow-Functions--5-Minutes-Lately-in-PHP-podcast-episode-81.html
-
+https://www.phproundtable.com/episode/php-7-internals-scanning-parsing-ast-and-engine
+https://www.phproundtable.com/episode/php-test-fest-2017
