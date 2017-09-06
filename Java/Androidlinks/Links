@@ -46,6 +46,7 @@ https://www.youtube.com/watch?v=xOccHEgIvwY - Keynote: An Android Retrospective
 https://www.youtube.com/watch?v=RQHYVj2k3NM - ExoPlayer 2.0 & Brushing Up on Lint
 https://www.youtube.com/watch?v=0XSf7sX2rCQ - Advanced RxJava and Conductor
 https://www.youtube.com/watch?v=osVpqz10UP8 - Top Tips for Terrible Tech Talks
+https://www.youtube.com/watch?v=hjHZkZr3GZw - Understanding Dagger 2 on Android
 
 
 
@@ -85,6 +86,14 @@ https://realm.io/news/sf-fabien-davos-modern-android-ditching-activities-fragmen
 https://news.realm.io/news/mobilization-inaki-villar-espresso-beyond-the-basics/
 https://news.realm.io/news/droidkaigi-kevin-pelgrims-data-real-world-data-binding/
 https://news.realm.io/news/michael-yotive-state-of-fragments-2017/
+https://academy.realm.io/posts/kotlin-does-java-droidcon-boston-2017-gonda/
+https://academy.realm.io/posts/tools-and-libraries-for-common-android-problems/
+https://academy.realm.io/posts/converting-an-app-to-use-clean-architecture/
+https://academy.realm.io/posts/droidcon-boston-daniel-molinero-toothpick-dependency-injection-android/
+https://academy.realm.io/posts/postmates-michael-soares-torrey-atcitty-building-realtime-tracking-android/
+https://academy.realm.io/posts/android-studio-tips-droidcon-boston-2017-scheel/
+https://academy.realm.io/posts/understanding-android-views-and-gestures-android-meetup-chang-2017/
+https://academy.realm.io/posts/through-the-looking-glass-eyes-of-an-android-droidcon-2017/
 
 
 ## Caster.io
@@ -93,6 +102,8 @@ https://caster.io/episodes/eventbus-basics/
 https://caster.io/lessons/mockito-what-makes-a-good-unit-test/
 https://caster.io/lessons/rxjava-marble-diagrams/
 https://caster.io/lessons/ab-testing-your-apps-google-play-store-listing/
+https://caster.io/lessons/espreso-idling-registry-for-okhttp/
+https://caster.io/lessons/espresso-test-recorder/
 
 
 ## Fragmented Podcast
@@ -115,6 +126,22 @@ http://fragmentedpodcast.com/episodes/76/ - Taming the activity lifecycle with K
 http://fragmentedpodcast.com/episodes/77/ - Chatting ADB with Genymotion’s Eyal Lezmy
 http://fragmentedpodcast.com/episodes/78/ - Ten Testing Strategies with Michael Bailey
 http://fragmentedpodcast.com/episodes/79/ - How do i get started with VR apps? Etienne Caron explains
+http://fragmentedpodcast.com/episodes/80/ - 10 Books Android developers should read
+http://fragmentedpodcast.com/episodes/81/ - Talking Android Things with Rebecca Franks
+http://fragmentedpodcast.com/episodes/82/ - Airbnb’s Gabriel tells us how to animate with Lottie
+http://fragmentedpodcast.com/episodes/83/ - Learning the basics of functional programing
+http://fragmentedpodcast.com/episodes/84/ - Kaush and Donn go to Google IO 2017
+http://fragmentedpodcast.com/episodes/85/ - Casual Kotlin conversation with Dan Kim
+http://fragmentedpodcast.com/episodes/86/ - Working Effectively with Legacy Code
+http://fragmentedpodcast.com/episodes/87/ - Favor Composition over Inheritance
+http://fragmentedpodcast.com/episodes/88/ - Offensive programming with Piwai from Square
+http://fragmentedpodcast.com/episodes/89/ - Learning Kotlin – Properties a first class language feature
+http://fragmentedpodcast.com/episodes/90/ - Make your apps instant with Zarah Dominguez
+http://fragmentedpodcast.com/episodes/91/ - Reddit AMA highlights, package by feature not layer and testing!
+http://fragmentedpodcast.com/episodes/92/ - Learning Kotlin – dealing with static-ness and (companion) objects costs
+http://fragmentedpodcast.com/episodes/93/ - RxJava intervention with Dan Lew
+http://fragmentedpodcast.com/episodes/94/ - Design Patternitis – 5 Tips to Help You
+http://fragmentedpodcast.com/episodes/95/ - Room Databases with Florina Muntenescu
 
 
 ##Links - 
