@@ -119,6 +119,10 @@ https://medium.com/contentsquare-engineering-blog/make-or-break-with-gradle-dac2
 https://medium.com/@calren24/android-parcelables-made-easy-acb742bcf96b
 https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23
 https://medium.com/vimeo-engineering-blog/vimeo-android-instant-apps-2f8b1e94760c
+https://medium.com/devnibbles/rxjava-the-first-3-patterns-4c112a85b689
+https://medium.com/@kiwiandroiddev/distraction-free-reading-for-your-android-app-part-i-242f77466175
+https://medium.com/@romain.rochegude/fsm-on-android-how-to-reach-app-modularity-f62d0a0054a
+https://medium.com/@zeyad.gasser/rxredux-9dcfa3f35934
 
 
 ######################################## Android Developers Blog ##############################################
@@ -131,6 +135,7 @@ http://android-developers.blogspot.ie/2016/11/adding-tv-channels-to-your-app-wit
 https://android-developers.googleblog.com/2016/12/important-best-practices-to-improve-app-engagement.html
 https://android-developers.googleblog.com/2017/02/build-flexible-layouts-with.html
 https://android-developers.googleblog.com/2017/05/android-and-architecture.html
+https://android-developers.googleblog.com/2017/07/shut-hal-up.html
 
 
 ######################################## Sebs Top Tips ##############################################
@@ -139,10 +144,29 @@ https://medium.com/sebs-top-tips/quickly-change-tokens-case-android-studio-proti
 https://medium.com/sebs-top-tips/analyse-data-flows-without-the-debugger-android-studio-protips-3-ef2885aaffd9#.ig06dopi6
 
 
+######################################## Mindorks ##############################################
+https://blog.mindorks.com/the-dos-and-don-ts-of-writing-test-cases-in-android-70f1b5dab3e1#.jf73qdkh4
+https://blog.mindorks.com/avoiding-conflicts-in-android-gradle-dependencies-28e4200ca235#.byq2p51l4
+https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a#.wmhcpiq6f
+https://blog.mindorks.com/use-strictmode-to-find-things-you-did-by-accident-in-android-development-4cf0e7c8d997#.ukwykt1ye
+https://blog.mindorks.com/refactoring-an-existing-android-app-to-support-instant-app-aa11fe54fd73
+https://mindorks.com/blog/powerful-android-orm-greendao-3-tutorial
+https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7
+
+
 ######################################## FreeCodeCamp ##############################################
 https://medium.freecodecamp.com/android-app-optimization-using-arraymap-and-sparsearray-f2b4e2e3dc47#.w0xnfvu0u
 https://medium.freecodecamp.com/android-development-best-practices-83c94b027fd3#.fqy2njfo3
 https://medium.freecodecamp.com/material-design-and-the-mystery-meat-navigation-problem-65425fb5b52e#.vvdzlr1q5
+
+
+######################################## Ray Wenderlich ##############################################
+https://www.raywenderlich.com/141980/rxandroid-tutorial
+https://www.raywenderlich.com/149112/android-fragments-tutorial-introduction
+https://www.raywenderlich.com/146804/dependency-injection-dagger-2
+https://www.raywenderlich.com/109843/common-design-patterns-for-android
+https://www.raywenderlich.com/161318/beginning-android-development-part-one-installing-android-studio
+https://www.raywenderlich.com/154676/android-studio-tutorial-introduction
 
 
 ######################################## Firebase Blog ##############################################
@@ -151,10 +175,15 @@ https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-2.html
 https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-3_29.html
 
 
-######################################## Android Hive ##############################################
-http://www.androidhive.info/2015/08/android-adding-sms-verification-like-whatsapp-part-1/
-http://www.androidhive.info/2015/08/android-adding-sms-verification-like-whatsapp-part-2/
-http://www.androidhive.info/2015/08/android-integrating-google-analytics-v4/
+######################################## ProAndroidDev ##############################################
+https://proandroiddev.com/intentservice-and-resultreceiver-70de71e5e40a
+https://proandroiddev.com/dagger-2-android-modules-e168821cfc57
+https://proandroiddev.com/zen-android-mvvm-160c26f3203c
+https://proandroiddev.com/dagger-2-part-ii-custom-scopes-component-dependencies-subcomponents-697c1fa1cfc
+https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-2-grids-688829b1d29b
+https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd
+https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-2-6eaf60965df7
+https://proandroiddev.com/solid-android-analytics-with-rxjava2-6270ce8c26f9
 
 
 ######################################## Google Developers ##############################################
@@ -186,6 +215,8 @@ https://medium.com/google-developers/tracking-app-update-sizes-1a1f57634f7b#.wn0
 https://medium.com/google-developer-experts/learning-to-use-and-abuse-mutability-b4c71576299#.fp9h8lw3s
 https://medium.com/google-developer-experts/using-firebase-as-a-real-time-system-d360265aa678
 https://aiyprojects.withgoogle.com/voice/
+https://medium.com/google-developers/room-rxjava-acb0cd4f3757
+https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090
 
 
 ######################################## Tutsplus ##############################################
@@ -198,6 +229,8 @@ https://code.tutsplus.com/tutorials/google-play-services-google-cast-v3-and-medi
 https://code.tutsplus.com/tutorials/background-audio-in-android-with-mediasessioncompat--cms-27030
 https://code.tutsplus.com/tutorials/getting-started-with-retrofit-2--cms-27792
 https://code.tutsplus.com/tutorials/how-to-make-calls-and-use-sms-in-android-apps--cms-28168
+https://code.tutsplus.com/tutorials/android-o-phone-number-verification-with-sms-token--cms-29141
+https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749
 
 
 ######################################## UXPlanet ##############################################
@@ -281,6 +314,14 @@ https://blog.stylingandroid.com/viewpageranimator-the-internals/
 https://blog.stylingandroid.com/fonts-revisited/
 https://blog.stylingandroid.com/adaptive-icons/
 https://blog.stylingandroid.com/downloadable-fonts/
+https://blog.stylingandroid.com/animatedstatelistdrawable/
+https://blog.stylingandroid.com/locationservices/
+https://blog.stylingandroid.com/architecture-components-livedata/
+https://blog.stylingandroid.com/architecture-components-viewmodel/
+https://blog.stylingandroid.com/architecture-components-summary/
+https://blog.stylingandroid.com/the-trouble-with-clickablespan/
+https://blog.stylingandroid.com/time-for-non-time-lords-part-1/
+https://blog.stylingandroid.com/time-for-non-time-lords-part-2/
 
 
 ######################################## Nimbledroid ##############################################
@@ -319,6 +360,7 @@ http://hannesdorfmann.com/android/mosby3-mvi-3
 http://hannesdorfmann.com/android/mosby3-mvi-4
 http://hannesdorfmann.com/android/mosby3-mvi-5
 http://hannesdorfmann.com/android/mosby3-mvi-6
+http://hannesdorfmann.com/android/arch-components-purist
 
 
 ######################################## Artemzin ##############################################
@@ -349,6 +391,8 @@ https://riggaroo.co.za/introduction-automated-android-testing-part-6/
 https://riggaroo.co.za/stage-rollout-features-firebase-remote-config-ios-android/
 https://riggaroo.co.za/android-architecture-components-looking-room-livedata-part-1/
 https://riggaroo.co.za/android-architecture-components-looking-viewmodels-part-2/
+https://riggaroo.co.za/android-architecture-components-looking-lifecycles-part-3/
+https://riggaroo.co.za/resources-getting-started-android-development/
 
 
 ######################################## Philisophical Hacker ##############################################
@@ -376,6 +420,7 @@ http://jeroenmols.com/blog/2016/09/01/coveragecost/
 http://jeroenmols.com/blog/2016/10/31/mockitomatchers/
 http://jeroenmols.com/blog/2017/02/16/unittests/
 http://jeroenmols.com/blog/2017/03/08/appcrash/
+https://jeroenmols.com/blog/2017/07/21/java8language/
 
 
 ######################################## Novada ##############################################
@@ -387,6 +432,7 @@ https://www.novoda.com/blog/layout-preview-101/
 https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/
 https://www.novoda.com/blog/android-wear-packaging/
 https://www.novoda.com/blog/testing-views-in-isolation-with-espresso/
+https://www.novoda.com/blog/take-control-of-your-backend-with-firebase-cloud-functions/
 
 
 ######################################## Hackernoon ##############################################
@@ -429,6 +475,10 @@ https://android.jlelse.eu/introducing-android-debugport-2-0-88ec4ed4db94
 https://android.jlelse.eu/design-principal-understand-law-of-demeter-4a44ac18e923
 https://android.jlelse.eu/weighing-in-on-the-holy-architecture-war-my-take-on-architecture-components-31f7025e9c66
 https://android.jlelse.eu/how-to-speed-up-your-slow-gradle-builds-5d9a9545f91a
+https://android.jlelse.eu/knowledge-boost-for-junior-android-developers-part-i-b3250fe4b622
+https://android.jlelse.eu/recyclerview-in-mvp-passive-views-approach-8dd74633158
+https://android.jlelse.eu/unity-and-android-connecting-the-dots-6368b31e86c5
+https://android.jlelse.eu/make-your-espresso-tests-more-fluent-1eae9429c92f
 
 
 ######################################## Big Nerd Ranch ##############################################
@@ -436,6 +486,9 @@ https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-networ
 https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/
 https://www.bignerdranch.com/blog/diving-into-doze-mode-for-developers/
 https://www.bignerdranch.com/blog/perfecting-custom-typography-in-android/
+https://www.bignerdranch.com/blog/room-data-storage-for-everyone/
+https://www.bignerdranch.com/blog/bluetooth-low-energy-part-1/
+https://www.bignerdranch.com/blog/two-way-data-binding-on-android-observing-your-view-with-xml/
 
 
 ######################################## Droids on Roids ##############################################
@@ -443,4 +496,6 @@ https://www.thedroidsonroids.com/blog/android/workcation-app-part-1-fragments-cu
 https://www.thedroidsonroids.com/blog/workcation-app-part-2-animating-markers-with-mapoverlaylayout/
 https://www.thedroidsonroids.com/blog/workcation-app-part-3-recyclerview-interaction-with-animated-markers/
 https://www.thedroidsonroids.com/blog/android/springanimation-examples/
+https://www.thedroidsonroids.com/blog/android/android-gradle-configurations/
+https://www.thedroidsonroids.com/blog/android/rxjava-production-line/
 https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes/
