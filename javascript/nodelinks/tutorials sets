@@ -36,12 +36,15 @@ https://www.sitepoint.com/private-npm-packages-verdaccio/
 https://www.sitepoint.com/building-facebook-chat-bot-node-heroku/
 https://www.sitepoint.com/build-microblog-node-js-git-markdown/
 https://www.sitepoint.com/node-js-mvc-application/
+https://www.sitepoint.com/beginners-guide-node-package-manager/
 https://www.sitepoint.com/debugging-javascript-node-debugger/
 https://www.sitepoint.com/debugging-electron-application/
 https://www.sitepoint.com/testing-node-applications/
 https://www.sitepoint.com/fusebox-faster-webpack-alternative/
 https://www.sitepoint.com/kubernetes-deploy-node-js-docker-app/
 https://www.sitepoint.com/using-node-mysql-javascript-client/
+https://www.sitepoint.com/headless-chrome-node-js/
+https://www.sitepoint.com/mean-stack-angular-2-angular-cli/
 
 
 ######################################## Scotch.io ##############################################
@@ -108,14 +111,30 @@ https://medium.com/software-engineering/beautiful-node-apis-eaf0b636cbe#.daayxuz
 https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.1yii3796j
 https://medium.com/@yash.kulshrestha/using-lets-encrypt-with-express-e069c7abe625#.451m8mcic
 https://medium.com/@zurfyx/building-a-scalable-node-js-express-app-1be1a7134cfd#.vxwutec5w
-https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c#.w8zzm16kr
 https://medium.com/@iamnayr/a-multi-part-analysis-of-node-docker-image-sizes-using-yarn-vs-traditional-npm-2c20f034c08f#.uyo7kaujf
 https://medium.com/@nparsons08/real-time-delivery-updates-with-slack-mongodb-atlas-tailable-cursors-802b08b2c6c4#.xw1dpn5jc
 https://medium.com/@graeme_boy/how-to-optimize-cpu-intensive-work-in-node-js-cdc09099ed41#.a80mmmeq4
 https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358
-https://medium.com/the-node-js-collection/what-does-const-stand-for-in-es6-f7ab3d9e06fc
 https://medium.com/@_lrlna/garbage-collection-in-v8-an-illustrated-guide-d24a952ee3b8
 https://medium.com/@peterhanssens/how-to-build-a-node-js-api-using-postgres-lambda-and-api-gateway-3211a4570cea
+https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297
+https://medium.com/@dashersw/microservices-made-easy-with-node-js-f41bb2be2d3c
+https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c#.w8zzm16kr
+https://medium.com/the-node-js-collection/what-does-const-stand-for-in-es6-f7ab3d9e06fc
+https://medium.com/the-node-js-collection/keeping-the-node-js-core-small-137f83d18152
+https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4
+https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c
+https://medium.com/@antoinegrandiere/build-a-moderation-system-with-sightengine-for-node-js-6600ac0668c8
+https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd309
+https://medium.com/slack-developer-blog/building-a-sentiment-analysis-bot-with-ibm-watson-and-raspberry-pi-eeb399bb8803
+https://medium.com/@antonkorzunov/how-to-mock-dependency-in-a-node-js-and-why-2ad4386f6587
+https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b
+https://medium.com/@kentcdodds/how-writing-custom-babel-and-eslint-plugins-can-increase-your-productivity-and-improve-user-fd6dd8076e26
+https://medium.com/burke-knows-words/introducing-express-react-starter-b6d299206a3a
+https://medium.com/@e_mad_ehsan/getting-started-with-puppeteer-and-chrome-headless-for-web-scrapping-6bf5979dee3e
+
+
+######################################## FreeCodeCamp ##############################################
 https://medium.freecodecamp.com/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9
 https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d
 https://medium.freecodecamp.org/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e
@@ -123,15 +142,7 @@ https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c914
 https://medium.freecodecamp.org/follow-the-rules-with-seneca-b3cf3d08fe5d
 https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a
 https://medium.freecodecamp.org/how-to-write-beautiful-node-js-apis-using-async-await-and-the-firebase-database-befdf3a5ffee
-https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297
-https://medium.com/the-node-js-collection/keeping-the-node-js-core-small-137f83d18152
-https://medium.com/@dashersw/microservices-made-easy-with-node-js-f41bb2be2d3c
-https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4
-https://medium.com/@antoinegrandiere/build-a-moderation-system-with-sightengine-for-node-js-6600ac0668c8
-https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd309
-https://medium.com/slack-developer-blog/building-a-sentiment-analysis-bot-with-ibm-watson-and-raspberry-pi-eeb399bb8803
-https://medium.com/@antonkorzunov/how-to-mock-dependency-in-a-node-js-and-why-2ad4386f6587
-https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b
+https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc
 
 
 ######################################## Risingstack ##############################################
@@ -188,6 +199,7 @@ https://blog.risingstack.com/end-to-end-testing-with-nightwatch-js-node-js-at-sc
 https://community.risingstack.com/deploying-node-js-microservices-to-aws-using-docker/
 https://community.risingstack.com/using-docker-swarm-for-deploying-nodejs-microservices/
 https://blog.risingstack.com/node-js-war-stories-solving-issues-in-production-2/
+https://blog.risingstack.com/node-js-mysql-example-handling-hundred-gigabytes-of-data/
 https://blog.risingstack.com/mastering-the-node-js-cli-command-line-options/
 https://community.risingstack.com/the-definitive-guide-to-object-streams-in-node-js/
 https://blog.risingstack.com/how-to-debug-nodej-js-with-the-best-tools-available/
@@ -264,6 +276,7 @@ https://www.smashingmagazine.com/2016/08/getting-started-koa-2-async-functions/
 https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/
 https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/
 https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/
+https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/
 
 
 ######################################## Nic Raboy ##############################################
@@ -286,6 +299,10 @@ https://www.twilio.com/blog/2016/03/building-sms-weather-forecasts-with-stamplay
 https://www.twilio.com/blog/2016/06/how-to-validate-phone-numbers-in-nodejavascript-with-the-twilio-lookup-api.html
 https://www.twilio.com/blog/2017/05/calls-congress-node-js-twilio.html
 https://www.twilio.com/blog/2017/06/writing-a-node-module-in-typescript.html
+https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html
+https://www.twilio.com/blog/2017/08/js-hardware-getting-started-with-nodebots-and-johnny-five.html
+https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html
+https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html
 
 
 ######################################## Hackernoon ##############################################
@@ -307,6 +324,11 @@ https://hackernoon.com/how-to-mock-data-for-node-js-applications-using-faker-js-
 https://hackernoon.com/the-definitive-guide-for-monitoring-node-js-applications-404feeea5951
 https://hackernoon.com/build-a-node-js-blog-roll-app-in-4-steps-61e1a6d0c292
 https://hackernoon.com/build-a-serverless-twilio-sms-call-forwarding-bot-in-7-minutes-using-node-js-stdlib-411697c3cc1b
+https://hackernoon.com/how-to-build-a-collaborative-midi-app-with-express-js-socket-io-273663b63201
+https://hackernoon.com/an-easier-way-to-authenticate-users-in-e2e-tests-230d86071f48
+https://hackernoon.com/n-api-and-getting-started-with-writing-c-addons-for-node-js-cf061b3eae75
+https://hackernoon.com/build-a-serverless-stripe-store-in-5-minutes-with-node-js-and-stdlib-d90352c89227
+https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02
 
 
 ######################################## Thisdavej ##############################################
@@ -383,6 +405,9 @@ https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm
 https://nodesource.com/blog/configuring-your-npmrc-for-an-optimal-node-js-environment
 https://nodesource.com/blog/installing-node-js-8-tutorial-linux-via-package-manager
 https://nodesource.com/blog/getting-started-with-node-js-and-mongodb
+https://nodesource.com/blog/how-to-start-contributing-to-node-js
+https://nodesource.com/blog/cpu-profiling-node-js-applications-and-services-with-n-solid
+https://nodesource.com/blog/understanding-heap-in-node-js-applications-and-services-with-n-solid/
 
 
 ######################################## Bandwidth ##############################################
@@ -419,4 +444,13 @@ http://thecodebarbarian.com/server-side-rendering-with-preact-and-firebase.html
 http://thecodebarbarian.com/basic-functional-programming-with-async-await.html
 http://thecodebarbarian.com/building-a-nextjs-app-with-mongodb.html
 http://thecodebarbarian.com/standalone-express-apis-binaries-with-pkg.html
+http://thecodebarbarian.com/introducing-monogram-the-anti-odm-for-mongodb-nodejs.html
+http://thecodebarbarian.com/80-20-guide-to-express-error-handling.html
 
+
+######################################## Codeburst ##############################################
+https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e
+https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d
+https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b
+https://codeburst.io/4-ways-for-making-http-s-requests-with-node-js-c524f999942d
+https://codeburst.io/an-introduction-to-web-scraping-with-node-js-1045b55c63f7
