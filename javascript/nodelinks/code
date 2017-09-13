@@ -428,5 +428,32 @@ https://github.com/joelgriffith/navalia - Not your father's web driver
 https://github.com/vadimdemedes/ink - React for interactive command-line apps
 https://github.com/elmasse/nextein - A static site generator based in Next.js 
 https://github.com/typicode/please-upgrade-node - show a message to your users to upgrade Node instead of a stacktrace
-
+https://github.com/h2non/videoshow - node dependency trees as a service
+https://github.com/walmik/scribbletune - Generate musical patterns with JavaScript 
+https://github.com/pmq20/enclose-io - Cloud-based service that compiles your application into a single executable
+https://github.com/cauld/nextract/ - a Extract Transform Load (ETL) platform build on top of Node.js streams
+https://github.com/dthree/ad - Making Active Directory jQuery-easy
+https://github.com/cefjoeii/mern-crud  - A simple records system
+https://github.com/staltz/react-native-node - Run a separate Node.js process behind a React Native app
+https://github.com/alanbsmith/react-router-example - an example for deploying a React Router + NodeJS app to Heroku
+https://github.com/node-on-mobile/node-on-android - Make Node.JS apps for Android
+https://github.com/dthree/mailit - A tiny drop-in REST API to send emails
+https://github.com/nightwatchjs/nightwatch - Automated testing and continous integration framework
+https://github.com/smallwins/spacetime - A lightweight way to handle timezones in js
+https://github.com/spikenail/spikenail - A GraphQL API Framework for Node.js
+https://github.com/sergiodxa/grial - Node.js framework for creating GraphQL API servers 
+https://github.com/ai/nanoid - secure URL-friendly unique string ID generator for JavaScript
+https://github.com/zixia/node-facenet - Solve face verification, recognition and clustering problems
+https://github.com/stojanovic/scottyjs - Deploy static websites and single page apps to AWS S3 and CloudFront with a single command
+https://github.com/Nohmapp/npm-introspect - a command line tool to examine and visualize the quality of your project's dependencies.
+https://github.com/aksakalli/gtop - System monitoring dashboard for terminal
+https://github.com/esbenp/pdf-bot -  Node queue API for generating PDFs using headless Chrome
+https://github.com/jaredpalmer/razzle - Create server-rendered universal JavaScript applications with no configuration
+https://github.com/zeit/hazel - Lightweight update server for Electron apps 
+https://github.com/notifme/notifme-sdk - A Node.js library to send all kinds of transactional notifications.
+https://github.com/mustardamus/remount-router - A simple file-based router for Express.js
+https://github.com/lukechilds/cacheable-request - Wrap native HTTP requests with RFC compliant cache support
+https://github.com/jaredpalmer/backpack - Backpack is a minimalistic build system for Node.js projects.
+https://github.com/lukechilds/keyv - Simple key-value store with support for multiple backends
+https://github.com/allegro/node-worker-nodes - A node.js library to run cpu-intensive tasks
 
