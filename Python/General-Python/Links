@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=ZP_QV4ccFHQ - Introducing Type Annotations for P
 https://www.youtube.com/watch?v=sAsi9QRgWuI - Adding text & shapes with the Google Slides API
 https://www.youtube.com/watch?v=M-UcUs7IMIM - Get to grips with asyncio in Python 3
 https://www.youtube.com/watch?v=Ma6lVy6x3Mg - A Pythonic Tour of Neo4j and the Cypher Query Language
-
-
+https://www.youtube.com/watch?v=js_0wjzuMfc - The Fun of Reinvention
+https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow
 
 
 ## Playlists & Channels
@@ -37,7 +37,10 @@ https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ - Pytho
 https://www.youtube.com/user/APMonitorCom - APMonitor
 https://www.youtube.com/playlist?list=PLGVZCDnMOq0r0Fv-NM9e2JM_iPvsHTU96 - PyData Amsterdam 2017
 https://www.youtube.com/playlist?list=PLGVZCDnMOq0pAwbVAb1kUN3lV7ukhLL2k - PyData London 2017
-
+https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/ - PyCon 2017
+https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So - Beginner Introduction to Neural Networks
+https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf - SciPy 2017
+https://www.youtube.com/playlist?list=PLGVZCDnMOq0rxoq9Nx0B4tqtr891vaCn7 - PyData Seattle 2017
 
 
 ##Courses - 
@@ -94,6 +97,15 @@ https://talkpython.fm/episodes/show/109/mongodb-applied-design-patterns
 https://talkpython.fm/episodes/show/110/data-democratization-with-redash
 https://talkpython.fm/episodes/show/111/pythonic-career-advice-and-more
 https://talkpython.fm/episodes/show/112/geeking-out-in-the-golden-years
+https://talkpython.fm/episodes/show/113/dedicated-ai-chips-and-running-old-python-faster-at-intel
+https://talkpython.fm/episodes/show/114/empowering-developers-at-the-hidden-genius-project
+https://talkpython.fm/episodes/show/115/python-for-humans-projects
+https://talkpython.fm/episodes/show/116/10-top-talks-of-pycon-2017-reviewed
+https://talkpython.fm/episodes/show/117/functional-python-with-coconut
+https://talkpython.fm/episodes/show/118/serverless-software
+https://talkpython.fm/episodes/show/119/python-in-engineering
+https://talkpython.fm/episodes/show/120/python-in-finance
+https://talkpython.fm/episodes/show/121/microservices-in-python
 
 
 ##PodcastInit
@@ -123,6 +135,15 @@ https://www.podcastinit.com/episode-106-yt-project-with-nathan-goldbaum-and-john
 https://www.podcastinit.com/episode-107-scapy-with-guillaume-valadon/
 https://www.podcastinit.com/episode-108-python-goes-to-the-movies-with-dhruv-govil/
 https://www.podcastinit.com/episode-109-lbry-with-jeremy-kauffman/
+https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/
+https://www.podcastinit.com/episode-111-cauldron-notebook-with-scott-ernst/
+https://www.podcastinit.com/episode-112-coconut-with-evan-hubinger/
+https://www.podcastinit.com/episode-113-jedi-code-completion-with-david-halter/
+https://www.podcastinit.com/episode-114-industrial-automation-with-jonas-neubert/
+https://www.podcastinit.com/episode-115-nuclear-engineering-with-katy-huff/
+https://www.podcastinit.com/automat-state-machines-with-glyph-lefkowitz-episode-116/
+https://www.podcastinit.com/napalm-with-david-barosso-and-mircea-ulinic-episode-117/
+https://www.podcastinit.com/zulip-chat-with-tim-abbott-episode-118/
 
 
 ##Links -
@@ -132,6 +153,7 @@ http://www.weeklypython.chat - Weekly live video chats about Python, teaching, o
 http://www.labri.fr/perso/nrougier/from-python-to-numpy/ - Free ebook
 https://talkpython.fm - Podcast Mp3
 http://pythonpodcast.com - Podcast show
+http://python.apichecklist.com - Checklist for Python libraries APIs
 http://mongoframes.com
 https://www.pythonsheets.com - Python cheatsheet
 http://pendulum.eustace.io
