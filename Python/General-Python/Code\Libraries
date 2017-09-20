@@ -353,5 +353,51 @@ https://github.com/vesche/scanless - online port scan scraper
 https://github.com/openai/roboschool - Open-source software for robot simulation
 https://github.com/bitlang/flexicon - A lightweight, regex-based lexer framework for Python
 https://github.com/Ekultek/Dagon - Advanced Hash Manipulation
-
+https://github.com/codingo/Reconnoitre - A security tool for multithreaded information gathering 
+https://github.com/dunbarcyber/cyphon - Open source incident management and response platform.
+https://github.com/scikit-garden/scikit-garden - A garden for scikit-learn compatible trees
+https://github.com/MisterBianco/BoopSuite - A Suite of Tools written in Python for wireless auditing and security testing.
+https://github.com/Chaosthebot/Chaos - A social coding experiment that updates its own code democratically.
+https://github.com/saulpw/visidata - A console spreadsheet tool for discovering and arranging data
+https://github.com/reiinakano/xcessiv - A web-based application for quick, scalable, and automated hyperparameter tuning
+https://github.com/datascienceinc/Skater - Python Library for Model Agnostic Interpretation
+https://github.com/postmarketOS/pmbootstrap - Sophisticated chroot/build/flash tool to develop and install postmarketOS
+https://github.com/micropython/micropython-unicorn - MicroPython on Unicorn
+https://github.com/tensorflow/cleverhans - An adversarial example library for constructing attacks
+https://github.com/vesche/basicRAT - python remote access trojan
+https://github.com/samuelcolvin/pydantic/ - Data validation using Python 3.6 type hinting 
+https://github.com/paulknysh/blackbox - A Python module for parallel optimization of expensive black-box functions
+https://github.com/cjhutto/vaderSentiment - a lexicon and rule-based sentiment analysis tool 
+https://github.com/ianmiell/shutit - Automation framework for programmers
+https://github.com/SlapBot/sounder - An intent recognizing algorithm to predict the intent of a given text. 
+https://github.com/scikit-video/scikit-video - Video Processing in Python
+https://github.com/runfalk/spans - Spans is a pure Python implementation of PostgreSQL's range types
+https://github.com/plotly/dash - Interactive, Reactive Web Apps for Python
+https://github.com/kovidgoyal/html5-parser - Fast C based HTML 5 parsing for python
+https://github.com/kendricktan/iffse - Facial Feature Search Engine for Some Photo Sharing Website
+https://github.com/iadgov/goSecure - An easy to use and portable Virtual Private Network (VPN) system 
+https://github.com/datitran/object_detector_app - Real-Time Object Recognition App with Tensorflow and OpenCV
+https://github.com/ethereum/pyethereum - Next generation cryptocurrency network
+https://github.com/joarleymoraes/lousy_bitcoins  - Utility to try crack bitcoins private keys generated from weak passphrases
+https://github.com/strizhechenko/netutils-linux - A suite of utilities simplilfying linux networking stack performance 
+https://github.com/bokeh/datashader - Turns even the largest data into images, accurately
+https://github.com/cloudnativelabs/kube-shell - An integrated shell for working with the Kubernetes CLI
+https://github.com/ant4g0nist/Susanoo - A REST API security testing framework.
+https://github.com/google/ssl_logger - Decrypts and logs a process's SSL traffic.
+https://github.com/jd/daiquiri - Python library to easily setup basic logging functionality
+https://github.com/DutchGraa/crackcoin - Very basic blockchain-free cryptocurrency PoC in Python
+https://github.com/0x4D31/honeyLambda - a simple, serverless application designed to create and monitor URL tokens
+https://github.com/iogf/crocs - Write regex using pure python class/function syntax
+https://github.com/vividvilla/csvtotable - command-line utility to convert CSV files to searchable and sortable HTML table.
+https://github.com/the4thdoctor/pg_chameleon - MySQL to PostgreSQL replication system
+https://github.com/tensorflow/nmt - TensorFlow Neural Machine Translation Tutorial
+https://github.com/Cisco-Talos/pyrebox - Python scriptable Reverse Engineering Sandbox, 
+https://github.com/ueg1990/faker-schema - Generate fake data using joke2k's faker and your own schema
+https://github.com/cprogrammer1994/ModernGL - Modern OpenGL binding for python 
+https://github.com/cranklin/crankycoin - Cranky Coin is a simple blockchain, cryptocurrency, wallet implementation
+https://github.com/kragniz/anyprint - Use any language's print statements in Python
+https://github.com/kensho-technologies/graphql-compiler - Turn complex GraphQL queries into optimized database queries.
+https://github.com/kylebebak/Requester - Powerful, modern HTTP/REST client built on top of the Requests library
+https://github.com/securestate/king-phisher - Phishing Campaign Toolkit
+https://github.com/airbnb/binaryalert - BinaryAlert: Serverless, Real-time & Retroactive Malware Detection 
 
