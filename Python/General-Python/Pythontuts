@@ -32,6 +32,7 @@ https://medium.com/@hoppy/how-to-test-or-scrape-javascript-rendered-websites-wit
 https://medium.com/instamojo-matters/become-a-pdb-power-user-e3fc4e2774b2#.joq1d7ypj
 https://medium.com/hockey-stick/tl-dr-bayesian-a-b-testing-with-python-c495d375db4d#.fpv1y5gny
 https://medium.com/python-pandemonium/embedding-a-python-application-in-macos-d866adfcaf94
+https://medium.freecodecamp.com/the-python-desktop-application-3a66b4a128d3
 https://medium.com/@ssola/building-microservices-with-python-part-i-5240a8dcc2fb
 https://medium.com/@ssola/building-microservices-with-python-part-2-9f951199094a
 https://medium.com/google-cloud/building-a-serverless-python-app-in-minutes-with-gcp-5184d21a012f
@@ -43,6 +44,16 @@ https://medium.com/@sourleangchhean/how-to-use-the-python-debugger-43a05a826f82
 https://medium.com/wassa/modern-face-detection-based-on-deep-learning-using-python-and-mxnet-5e6377f22674
 https://medium.com/towards-data-science/train-test-split-and-cross-validation-in-python-80b61beca4b6
 https://medium.com/@happymishra66/lambda-map-and-filter-in-python-4935f248593
+https://medium.com/k-folds/scraping-for-data-a-practical-guide-67cc397450b2
+https://medium.com/practo-engineering/blue-green-deployment-on-amazon-aws-38b820518411
+https://medium.com/towards-data-science/tutorial-asynchronous-speech-recognition-in-python-b1215d501c64
+https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b
+https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a
+https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
+https://medium.com/capital-one-developers/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989
+https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d
+https://medium.com/datalogue/attention-in-keras-1892773a4f22
+https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503
 
 
 ####################################### Python Library ###########################################################
@@ -69,6 +80,7 @@ http://eli.thegreenplace.net/2016/drawing-animated-gifs-with-matplotlib/
 http://eli.thegreenplace.net/2016/basics-of-using-the-readline-library/
 http://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/
 http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/
+http://eli.thegreenplace.net/2017/interacting-with-a-long-running-child-process-in-python/
 
 
 ####################################### Scraping Hub ###########################################################
@@ -88,6 +100,11 @@ https://dbader.org/blog/python-assert-tutorial
 https://dbader.org/blog/python-lambda-functions
 https://dbader.org/blog/python-first-class-functions
 https://dbader.org/blog/python-decorators
+https://dbader.org/blog/meaning-of-underscores-in-python
+https://dbader.org/blog/records-structs-and-data-transfer-objects-in-python
+https://dbader.org/blog/understanding-asynchronous-programming-in-python
+https://dbader.org/blog/python-linked-list
+https://dbader.org/blog/python-check-if-file-exists
 
 
 ####################################### Dataquest ###########################################################
@@ -99,6 +116,7 @@ https://www.dataquest.io/blog/using-json-data-in-pandas/
 https://www.dataquest.io/blog/streaming-data-python/
 https://www.dataquest.io/blog/web-scraping-tutorial-python/
 https://www.dataquest.io/blog/data-pipelines-tutorial/
+https://www.dataquest.io/blog/settingwithcopywarning/
 
 
 ####################################### Yhat ###########################################################
@@ -185,6 +203,8 @@ https://hackernoon.com/timing-tests-in-python-for-fun-and-profit-1663144571#.pcb
 https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32#.1elevmbpq
 https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e#.ylspk9yp4
 https://hackernoon.com/understanding-the-underscore-of-python-309d1a029edc#.g01hyryp1
+https://hackernoon.com/building-a-botnet-on-pypi-be1ad280b8d6
+https://hackernoon.com/fat-python-the-next-chapter-in-python-optimization-69dc974bcca2
 
 
 ####################################### Bernardblog ###########################################################
@@ -218,4 +238,24 @@ http://pbpython.com/amortization-model.html
 http://pbpython.com/python-word-template.html
 http://pbpython.com/prophet-overview.html
 http://pbpython.com/pandas_transform.html
+http://pbpython.com/market-basket-analysis.html
 
+
+####################################### Pyimagesearch ###########################################################
+http://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/
+http://www.pyimagesearch.com/2017/02/13/recognizing-digits-with-opencv-and-python/
+http://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+http://www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/
+http://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/
+http://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
+
+
+####################################### Twilio ###########################################################
+https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
+https://www.twilio.com/blog/2017/02/stripe-sms-notifications-via-twilio-heroku-and-python.html
+https://www.twilio.com/blog/2017/04/wedding-at-scale-how-i-used-twilio-python-and-google-to-automate-my-wedding.html
+https://www.twilio.com/blog/2017/04/texting-robots-on-mars-using-python-flask-nasa-apis-and-twilio-mms.html
+https://www.twilio.com/blog/2017/06/check-daily-spending-sms-python-plaid-twilio.html
+https://www.twilio.com/blog/2017/06/birth-announcements-busy-father-python-flask-twilio-sms.html
+https://www.twilio.com/blog/2017/06/hacked-my-universitys-registration-system-python-twilio.html
+https://www.twilio.com/blog/2017/06/reading-excel-with-python-flask-and-openpyxl.html
