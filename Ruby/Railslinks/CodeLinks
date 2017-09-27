@@ -341,3 +341,33 @@ https://github.com/bkuhlmann/git-cop - Enforces consistent Git commits.
 https://github.com/ankane/dexter - The automatic indexer for Postgres
 https://github.com/athityakumar/colorls - A Ruby gem that beautifies the terminal's ls command
 https://github.com/netguru/callio - Answer your phone calls in the browser through Slack
+https://github.com/msievers/zstandard-ruby - provides FFI based Ruby bindings for the zstd (Zstandard) compression library.
+https://github.com/coup-mobility/activesupport-current_attributes - Provides a thread-isolated attributes singleton for Rails applications
+https://github.com/k0kubun/llrb - LLVM-based JIT Compiler for Ruby
+https://github.com/westonganger/spreadsheet_architect - turn any activerecord relation or ruby object collection into a spreadsheet
+https://github.com/kbsecret/kbsecret - A secret manager backed by Keybase and KBFS. 
+https://github.com/pmq20/enclose-io - compiles your application into a single executable with auto-update.
+https://github.com/travisliu/traim - Resource-oriented microframework for RESTful API
+https://github.com/janko-m/down - Your companion for file downloads in Ruby
+https://github.com/markets/maily - Rails Engine to preview emails in the browser
+https://github.com/jannishuebl/orchparty - Write your own orchestration config with a Ruby DSL
+https://github.com/exAspArk/graphql-guard - Simple authorization gem for GraphQL
+https://github.com/JonMidhir/ruby-knn - Simple kNN Classifier written in Ruby
+https://github.com/kickstarter/rack-attack - Rack middleware for blocking & throttling
+https://github.com/adamcooke/staytus - An open source solution for publishing the status of your services
+https://github.com/evilsocket/bettercap - A complete, modular, portable and easily extensible MITM framework
+https://github.com/alexreisner/geocoder - Complete Ruby geocoding solution.
+https://github.com/adamliesko/tlsh - TLSH (Trend Micro Locality Sensitive Hash) library for Ruby
+https://github.com/basecamp/marginalia - Attach comments to ActiveRecord's SQL queries
+https://github.com/zammad/zammad - Zammad is a web based open source helpdesk/customer support system
+https://github.com/socketry/async - Composable asynchronous I/O for Ruby.
+https://github.com/zverok/yard-junk - Get rid of the junk in your YARD docs
+https://github.com/brunofacca/zen-rails-base-app - Base application for Ruby on Rails 5 projects
+https://github.com/exAspArk/batch-loader -  Powerful tool to avoid N+1 DB or HTTP queries
+https://github.com/jcupitt/ruby-vips - Ruby extension for the libvips image processing library.
+https://github.com/mgleon08/slack_neuralyzer - Ruby gem for clean up messages and files on Slack.
+https://github.com/rails/jbuilder - generate JSON objects with a Builder-style DSL
+https://github.com/piotrmurach/tty-progressbar - A flexible progress bar drawing in terminal emulators 
+https://github.com/ankane/strong_migrations - Catch unsafe migrations at dev time
+https://github.com/zverok/did_you - Ruby version-agnostic wrapper for did_you_mean gem
+https://github.com/learnetto/reactchat - A chat app built with React.js and ActionCable in Ruby on Rails 5.1
