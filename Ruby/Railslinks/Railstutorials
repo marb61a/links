@@ -76,8 +76,17 @@ https://medium.com/casper-crafted/postgres-json-column-rails-casper-8795fbece133
 https://medium.com/finc-engineering/setup-windows-10-to-run-ruby-on-rails-using-the-new-improved-wsl-c6894d1ae2ae
 https://medium.com/@wintermeyer/https-medium-com-wintermeyer-fragment-caching-with-rails-26476fc2a985
 https://medium.com/@joshsaintjacque/the-template-method-pattern-558f3e16879f
+https://medium.com/rubyinside/asynchronous-elasticsearch-bulk-reindexing-with-rails-searchkick-and-sidekiq-26f2f9aa8513
 https://medium.com/carwow-product-engineering/using-grep-in-ruby-4062164acc89
-https://medium.com/carwow-product-engineering/using-grep-in-ruby-4062164acc89
+https://medium.com/airbnb-engineering/accelerating-services-at-airbnb-by-building-a-blazing-fast-thrift-binding-for-ruby-8f63044ba149?new=1
+https://medium.com/@kirill_shevch/lint-your-ruby-code-with-overcommit-and-static-analysis-tools-bd36d3147d2e
+https://medium.com/appaloosa-store-engineering/tips-to-improve-speed-of-your-test-suite-8418b485205c
+https://medium.com/rubyinside/a-deep-dive-into-csrf-protection-in-rails-19fa0a42c0ef
+https://medium.com/rubyinside/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app-7f77382cfb5
+https://medium.com/rubyinside/everything-in-its-right-place-keeping-your-specs-up-with-the-times-6f3d358c842a
+https://medium.com/@mikeycgto/understanding-the-secret-key-base-in-ruby-on-rails-ce2f6f9968a1
+https://medium.com/magnetis-backstage/how-to-write-your-first-cli-with-thor-9da6636bf744
+https://medium.com/@Learn2Code/rails-best-practice-persisting-addresses-in-postgresql-e81329d3db7b
 
 
 ###################################### Justin Weiss ####################################################
@@ -110,6 +119,9 @@ https://semaphoreci.com/blog/2017/05/09/faster-rails-is-your-database-properly-i
 https://semaphoreci.com/community/tutorials/creating-a-heroku-like-deployment-solution-with-docker
 https://semaphoreci.com/blog/2017/06/08/speeding-up-rails-pages-with-render-async.html
 http://semaphoreci.com/blog/2017/06/21/faster-rails-indexing-large-database-tables.html
+http://semaphoreci.com/blog/2017/08/03/tips-on-treating-flakiness-in-your-test-suite.html
+https://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-n-plus-one-queries.html
+https://semaphoreci.com/blog/2017/08/16/polymorphic-associations-in-rails.html?
 
 
 ###################################### Jake Yesbeck ####################################################
@@ -131,6 +143,7 @@ http://jakeyesbeck.com/2016/03/20/how-to-build-a-ruby-on-rails-engine/
 http://jakeyesbeck.com/2016/04/03/how-to-deal-with-timezones-the-active-support-way/
 http://jakeyesbeck.com/2016/04/10/things-to-consider-when-metaprogramming-in-ruby/
 http://jakeyesbeck.com/2016/04/17/how-to-diagnose-ruby-on-rails-n-plus-1-query-problems/
+http://jakeyesbeck.com/2017/07/12/a-few-rspec-helpful-hints/
 
 
 ###################################### Codeship ####################################################
@@ -192,6 +205,11 @@ https://blog.codeship.com/principles-of-effective-testing-with-capybara/
 https://blog.codeship.com/using-react-inside-your-rails-apps/
 https://blog.codeship.com/server-rendering-react-on-rails/
 https://blog.codeship.com/graphing-benchmark-results-in-ruby/
+https://blog.codeship.com/realtime-with-react-and-rails/
+https://blog.codeship.com/build-minimal-docker-container-ruby-apps/
+https://blog.codeship.com/advanced-enumeration-with-ruby/
+https://blog.codeship.com/4-ways-to-secure-your-authentication-system-in-rails/
+https://blog.codeship.com/modeling-has_many-relationships-with-dynamodb/
 
 
 ###################################### Rossta ####################################################
@@ -210,19 +228,21 @@ https://rossta.net/blog/testing-rails-generators.html
 https://rossta.net/blog/make-your-rails-app-a-progressive-web-app.html
 
 
-###################################### JamisBuck ####################################################
-http://weblog.jamisbuck.org/2015/9/12/little-things-heredocs.html
-http://weblog.jamisbuck.org/2015/9/19/default-scopes-anti-pattern.html
-http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html
-http://weblog.jamisbuck.org/2016/3/26/introducing-query-composer.html
+###################################### Thomas Copeland ####################################################
+https://thomasleecopeland.com/2016/09/20/programs-that-rewrite-ruby-programs.html
+https://thomasleecopeland.com/2016/11/17/rewriting-ruby-with-synvert.html
+https://thomasleecopeland.com/2017/04/05/tracepoint-and-array-size.html
+https://thomasleecopeland.com/2017/04/20/shadowing-bug-in-the-wild.html
+https://thomasleecopeland.com/2017/06/08/gemspec-files-survey.html
+https://thomasleecopeland.com/2017/08/15/automating-redirectto-flash-cleanup.html
 
 
-###################################### Nate Berkopec ####################################################
-http://www.nateberkopec.com/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
-http://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html
-http://www.nateberkopec.com/2015/08/05/rack-mini-profiler-the-secret-weapon.html
-http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html
-https://www.nateberkopec.com/2016/01/07/what-http2-means-for-ruby-developers.html
+###################################### Runtime Revolution ####################################################
+https://revs.runtime-revolution.com/extending-git-with-ruby-874fddffd069#.bprosj42d
+https://revs.runtime-revolution.com/how-to-build-a-ruby-slackbot-bc7115b4eeaf
+https://revs.runtime-revolution.com/working-with-facebook-using-devise-omniauth-koala-and-rails-5-cde5d032de02
+https://revs.runtime-revolution.com/are-you-spying-on-me-a-quick-overview-of-spies-in-rspec-c5bc7669b897
+https://revs.runtime-revolution.com/integrating-a-third-party-api-with-rails-5-134f960ddbba
 
 
 ###################################### Iljia Eftimov ####################################################
@@ -245,11 +265,14 @@ https://www.twilio.com/blog/2017/03/create-a-landing-page-with-sinatra-google-sp
 https://www.twilio.com/blog/2017/06/validate-ruby-objects-with-active-model-validations.html
 
 
-###################################### Gavin Miller ####################################################
-http://gavinmiller.io/2016/creating-a-secure-sanitization-function/
-http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/
-http://gavinmiller.io/2015/fixing-file-access-vulnerabilities-in-ruby-and-rails/
-http://gavinmiller.io/2016/the-safesty-way-to-constantize/
+###################################### Red Panthers ####################################################
+https://blog.redpanthers.co/materialized-views-caching-database-query/
+https://blog.redpanthers.co/create-json-response-using-postgresql-instead-rails/
+https://blog.redpanthers.co/rack-middleware/
+https://blog.redpanthers.co/time-date-datetime/
+https://blog.redpanthers.co/odyssey-in-rails/
+https://blog.redpanthers.co/managing-threads-queue-sizedqueue/
+https://blog.redpanthers.co/made-rspec-test-suite-run-2x-faster/
 
 
 ###################################### Carlos Ramirez ############################################
@@ -260,10 +283,14 @@ http://www.carlosramireziii.com/why-isnt-server-generated-javascript-more-popula
 http://www.carlosramireziii.com/how-to-add-active-admin-to-a-rails-5-api-application.html
 
 
-###################################### Chaps.io ####################################################
-http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html
-http://blog.chaps.io/2015/11/13/role-based-authorization-in-rails.html
-http://blog.chaps.io/2016/02/01/running-concurrent-workflows-in-ruby.html
+###################################### Rubyblog ####################################################
+http://rubyblog.pro/2017/03/specification-pattern-example
+http://rubyblog.pro/2017/05/facade-pattern
+http://rubyblog.pro/2017/07/solid-interface-segregation-principle
+http://rubyblog.pro/2017/07/implementing-inheritance-with-params
+http://rubyblog.pro/2017/07/solid-dependency-inversion-principle
+http://rubyblog.pro/2017/08/inversion-of-control-wtih-dry-container-for-hanami-events
+http://rubyblog.pro/2017/09/pass-by-value-or-pass-by-reference
 
 
 ###################################### Blackbytes ####################################################
@@ -286,11 +313,13 @@ http://www.blackbytes.info/2017/04/memory-layout-of-an-object/
 http://www.blackbytes.info/2017/06/costs-of-metaprogramming/
 
 
-###################################### Wyeworks ####################################################
-https://wyeworks.com/blog/2016/1/12/improvements-to-error-responses-in-rails-5-api-mode/
-https://wyeworks.com/blog/2015/12/1/immutable-strings-in-ruby-2-dot-3
-https://wyeworks.com/blog/2016/1/26/upgrading-to-ruby-on-rails-5-0/
-https://wyeworks.com/blog/2016/6/22/behavior-changes-in-ruby-2.4/
+###################################### Practical AI ####################################################
+https://www.practicalai.io/implementing-linear-regression-using-ruby/
+https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/
+https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/
+https://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/
+https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/
+https://www.practicalai.io/teaching-a-neural-network-to-play-a-game-with-q-learning/
 
 
 ###################################### BigBinary ####################################################
@@ -310,6 +339,9 @@ http://blog.bigbinary.com/2017/04/04/ruby-2-4-has-default-basename-for-tempfile-
 http://blog.bigbinary.com/2017/04/18/binding-irb.html
 https://blog.bigbinary.com/2017/05/09/rails-5-1-introduced-assert_changes-and-assert_no_changes.html
 http://blog.bigbinary.com/2017/05/16/rails-5-1-does-not-share-thread-mattr-accessor-variable-with-sub-class.html
+http://blog.bigbinary.com/2017/07/25/deploying-rails-applications-using-kubernetes-with-zero-downtime.html
+https://blog.bigbinary.com/2017/08/01/avoid-exceptions-for-dup-on-interger-and-similar-cases.html
+http://blog.bigbinary.com/2017/08/24/graceful-shutdown-of-sidekiq-processes-on-k8s.html
 
 
 ###################################### Performance Book ####################################################
@@ -339,6 +371,12 @@ http://blog.arkency.com/2017/03/prototypes-in-ruby/
 http://blog.arkency.com/2017/06/testing-cookies-in-rails/
 http://blog.arkency.com/2017/06/acceptance-testing-ruby-using-actors-personas/
 http://blog.arkency.com/2017/06/what-i-learnt-today-from-reading-gems-code/
+http://blog.arkency.com/2017/07/using-influxdb-with-ruby/
+http://blog.arkency.com/2017/07/how-to-safely-store-api-keys-in-rails-apps/
+http://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/
+http://blog.arkency.com/that-one-time-i-used-recursion-to-solve-a-problem/
+http://blog.arkency.com/the-equals-equals-equals-case-equality-operator-in-ruby/
+http://blog.arkency.com/a-word-about-spreadsheet-architect/
 
 
 ###################################### Tutsplus ####################################################
@@ -363,12 +401,15 @@ http://www.rubypigeon.com/posts/fizzbuzz-in-too-much-detail/
 http://www.rubypigeon.com/posts/how-to-make-a-dsl-hygienically/
 http://www.rubypigeon.com/posts/result-objects-errors-without-exceptions/
 http://www.rubypigeon.com/posts/refactoring-inheritance-composition-data/
+https://www.rubypigeon.com/posts/super-secret-methods/
 
 
-###################################### MixandGo ####################################################
-http://mixandgo.com/blog/how-to-write-a-cucumber-test-for-google-maps
-http://mixandgo.com/blog/understanding-and-extending-rails-form-helpers
-http://mixandgo.com/blog/how-to-test-a-function-that-yields-a-block-with-minitest-and-rspec
+###################################### Toptal ####################################################
+http://www.toptal.com/ruby/tips-and-practices
+http://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds
+https://www.toptal.com/ruby-on-rails/decoupling-rails-components
+https://www.toptal.com/ruby/how-to-set-up-a-microservices-architecture
+https://www.toptal.com/ruby/ruby-dsl-metaprogramming-guide
 
 
 ###################################### Brandon Hilkert ####################################################
@@ -419,6 +460,7 @@ http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room
 http://www.akitaonrails.com/2016/10/03/sharing-models-between-rails-apps-part-1
 http://www.akitaonrails.com/2016/10/31/ruby-on-rails-implementation-of-a-proper-ranking-popularity-system
 http://www.akitaonrails.com/2017/06/28/rails-5-1-heroku-deployment-checklist-for-heroku
+http://www.akitaonrails.com/2017/07/07/upcoming-built-in-upload-solution-for-rails-5-2-activestorage
 
 
 ###################################### Ombulabs ####################################################
@@ -433,6 +475,7 @@ http://blog.carbonfive.com/2016/07/06/rails-meet-phoenix-add-phoenix-to-your-rai
 http://blog.carbonfive.com/2016/11/01/bring-clarity-to-your-monolith-with-bounded-contexts/
 http://blog.carbonfive.com/2016/10/04/ubiquitous-language-the-joy-of-naming/
 http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/
+https://blog.carbonfive.com/2017/07/18/evented-rails-decoupling-complex-domains-in-rails-with-domain-events/
 
 
 ###################################### Appsignal ####################################################
@@ -445,6 +488,7 @@ http://blog.appsignal.com/2016/12/21/ruby-magic-escaping-in-ruby.html
 http://blog.appsignal.com/2017/01/24/ruby-magic-building-a-ruby-http-server-part-2-running-a-rails-app.html
 http://blog.appsignal.com/2017/03/07/ruby-magic-concurrency-processes.html
 https://blog.appsignal.com/2017/06/06/ruby-magic-concurrency-event-loop.html
+https://blog.appsignal.com/2017/08/01/ruby-magic-code-interpretation.html
 
 
 ###################################### Schneems ####################################################
@@ -461,6 +505,9 @@ https://www.schneems.com/2017/05/01/the-fastest-way-to-generate-a-heap-dump-on-h
 https://www.schneems.com/2017/05/17/ruby-backend-performance-getting-started-guide/
 https://www.schneems.com/2017/06/14/meditations-on-writing-a-queue/
 https://www.schneems.com/2017/06/28/how-to-write-a-lock-free-queue/
+https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/
+https://schneems.com/2017/08/01/is-webrick-webscale/
+https://www.schneems.com/2017/08/15/sending-massive-emails-considered-harmful/
 
 
 ###################################### Hackernoon ####################################################
@@ -474,3 +521,4 @@ https://hackernoon.com/27-gems-i-use-in-almost-every-project-832986551df8
 https://hackernoon.com/the-giving-ruby-the-strange-case-of-user-enumeration-on-heroku-not-fixed-1a8296067318
 https://hackernoon.com/as-rails-developers-it-is-imperative-that-we-be-comfortable-and-productive-in-the-console-7a72a78d97d3
 https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2
+https://hackernoon.com/rails-web-scale-is-expensive-b86facc11381
