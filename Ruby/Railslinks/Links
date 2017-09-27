@@ -43,7 +43,8 @@ https://www.youtube.com/watch?v=WbO2FEpNPvQ - Writing a Gameboy emulator in Ruby
 https://www.youtube.com/watch?v=uB7m9T7ymn8 - How to Write Better Code Using Mutation Testing
 https://www.youtube.com/watch?v=nq1nNx8-fNQ - Helix: Build Native Ruby Extensions Without Fear
 https://www.youtube.com/watch?v=Q_MpGRfnY5s - Perusing the Rails Source Code - A Beginners Guide
-https://www.youtube.com/watch?v=j2V-A8vvLP0 - How does Bundler work anyway?
+https://www.youtube.com/watch?v=j2V-A8vvLP0 - How does Bundler work anyway
+https://www.youtube.com/watch?v=GC-XIchAcqM - What I Learned to Love About Ruby When I Switched to Python 
 
 
 
@@ -75,6 +76,12 @@ https://www.driftingruby.com/episodes/drag-and-drop-with-interact-js
 https://www.driftingruby.com/episodes/rails-engines
 https://www.driftingruby.com/episodes/routing-partials
 https://www.driftingruby.com/episodes/virtual-columns-in-mysql
+https://www.driftingruby.com/episodes/virtual-columns-with-json-data-types
+https://www.driftingruby.com/episodes/creating-custom-ruby-on-rails-generators
+https://www.driftingruby.com/episodes/benchmarking-and-refactoring-the-content_for-view-helper
+https://www.driftingruby.com/episodes/custom-error-pages-with-slack-notification
+https://www.driftingruby.com/episodes/recurring-events-with-ice_cube
+https://www.driftingruby.com/episodes/auditing-with-paper-trail
 
 
 ## Go Rails
@@ -85,6 +92,9 @@ https://gorails.com/episodes/using-vuejs-for-nested-forms-part-1
 https://gorails.com/episodes/migrating-from-jquery-to-vanilla-javascript
 https://gorails.com/episodes/global-autocomplete-search
 https://gorails.com/episodes/charts-with-chartkick-and-groupdate
+https://gorails.com/episodes/debugging-how-to-interpret-a-stacktrace
+https://gorails.com/episodes/testing-emails-with-mailcatcher
+https://gorails.com/episodes/bootsnap
 
 
 ## Ruby Tapas
@@ -107,8 +117,7 @@ https://idiosyncratic-ruby.com/ - Documenting All Ruby Specialities
 https://rubygems.org/gems
 http://opalphaser.com/ - Opal wrapper for the phaser framework
 https://isitvulnerable.com/
-https://developer.amazon.com/blogs/alexa/post/105df30e-9890-4a8c-9caf-5de1c8ff86cb/makers-academy-s-alexa-series-how-to-build-a-hello-world-skill-with-ruby
-http://rom-rb.org
+http://rom-rb.org -  an open-source persistence and mapping toolkit
 https://ruby-rbot.org/ - The Ruby IRC Bot
 https://www.fedux.org/articles.html
 https://www.ruby-toolbox.com
@@ -125,7 +134,6 @@ https://brakemanpro.com/blog/announcement/2015/11/18/brakeman-pro-is-available/
 http://solidus.io
 https://toshi.io/
 http://6ftdan.com/allyourdev/2016/01/13/101-ruby-code-factoids/
-http://rom-rb.org/blog/2016/01/06/rom-1-0-0-released/
 http://rubyfu.net/
 http://zachcapalbo.com/projects/flammarion.html
 http://necula01.github.io/bond/tutorial.html
