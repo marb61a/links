@@ -13,52 +13,123 @@ https://blogs.msdn.microsoft.com/visualstudio/2017/03/08/optimize-your-productiv
 https://blogs.msdn.microsoft.com/cesardelatorre/2017/03/26/using-resilient-entity-framework-core-sql-connections-and-transactions-retries-with-exponential-backoff/
 https://blogs.msdn.microsoft.com/webdev/2017/04/06/jwt-validation-and-authorization-in-asp-net-core/
 https://blogs.msdn.microsoft.com/dotnet/2017/05/25/using-net-and-docker-together/
+https://blogs.msdn.microsoft.com/azuredev/2017/06/21/cqrs-in-azure-part-4/
+https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
+https://blogs.msdn.microsoft.com/tsmatsuz/2017/07/04/azure-cosmos-db-gremlin-graph-tutorial/
+https://blogs.msdn.microsoft.com/dotnet/2017/07/26/the-new-net-application-architecture-guidance
+https://blogs.msdn.microsoft.com/dotnet/2017/07/27/introducing-support-for-brotli-compression/
+https://blogs.msdn.microsoft.com/visualstudio/2017/08/21/why-you-should-care-about-serverless-computing/
+https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/09/06/azure-functions-prepare-for-continuous-delivery/
+https://blogs.msdn.microsoft.com/webdev/2017/09/07/getting-started-with-windows-containers/
+https://blogs.msdn.microsoft.com/webdev/2017/09/07/getting-started-with-windows-containers/
 https://msdn.microsoft.com/magazine/mt797650 - Modernizing Traditional .NET Apps with Docker
 https://msdn.microsoft.com/magazine/mt763233 - Feature Slices for ASP.NET Core MVC 
 https://msdn.microsoft.com/en-us/magazine/mt797654.aspx - Understanding C# foreach Internals and Custom Iterators with yield
 https://msdn.microsoft.com/magazine/mt797652 - Develop Hosted Web Apps for UWP
 https://msdn.microsoft.com/magazine/mt767699 - Real-World ASP.NET Core MVC Filters
 https://msdn.microsoft.com/magazine/mt808499 - Cross-Platform Code Generation with Roslyn and .NET Core
+https://msdn.microsoft.com/magazine/mt809116 - Use Azure IoT Suite to Boost IoT Development
+https://msdn.microsoft.com/magazine/mt784659 - Finding the Cheese in ASP.NET Core
+https://msdn.microsoft.com/magazine/mt784665 - ASP.NET Core with Angular, Web API and Azure DocumentDB
+https://msdn.microsoft.com/en-us/magazine/mt842506 - Demystifying .NET Core and .NET Standard
+https://msdn.microsoft.com/magazine/mt842494 - Write .NET Apps How and Where You Want
+https://msdn.microsoft.com/magazine/mt842504 - Getting Started with ASP.NET Core 2.0
 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/websockets
 https://docs.microsoft.com/en-us/teamblog/announcing-unified-dotnet-experience-on-docs
+https://docs.microsoft.com/en-us/aspnet/core/migration/proper-to-2x/
 https://visualstudiomagazine.com/articles/2017/04/01/http-triggered-functions.aspx
 https://andrewlock.net/what-is-the-microsoft-aspnetcore-metapackage/
 https://andrewlock.net/deconstructors-for-non-tuple-types-in-c-7-0/
+https://andrewlock.net/four-ways-to-dispose-idisposables-in-asp-net-core/
+https://andrewlock.net/introduction-to-the-apiexplorer-in-asp-net-core/
 https://weblog.west-wind.com/posts/2017/Mar/16/More-on-ASPNET-Core-Running-under-IIS
 http://www.infoworld.com/article/3180478/development-tools/net-framework-or-net-core-when-to-use-which.html
 https://www.twilio.com/blog/2017/03/google-spreadsheets-and-net-core.html
 https://www.twilio.com/blog/2017/05/build-a-magic-the-gathering-sms-price-checker-with-twilio-and-net-core.html
+https://www.twilio.com/blog/2017/07/sharing-my-sons-birth-with-twilio-dropbox-and-asp-net.html
+https://www.twilio.com/blog/2017/08/porting-a-twilio-app-to-net-core-with-visual-studio-code.html
 https://nikolalukovic.com/programming/NET-Dynamically-generating-classes-in-runtime.html
 http://www.dotnetcurry.com/aspnet/1354/elastic-search-kibana-in-docker-dotnet-core-app
 http://www.dotnetcurry.com/dotnet/1317/dotnet-standard-cross-platform-development
 http://www.dotnetcurry.com/reactjs/1356/redux-pattern-tutorial
 http://www.dotnetcurry.com/xamarin/1336/ci-cd-xamarin-app-using-vsts-bitrise-hockeyapp
 https://www.hanselman.com/blog/CommandLineUsingDotnetWatchTestForContinuousTestingWithNETCore10AndXUnitnet.aspx
+https://www.hanselman.com/blog/ExploringCQRSWithinTheBrighterNETOpenSourceProject.aspx
+https://www.hanselman.com/blog/URLsAreUI.aspx
+https://www.hanselman.com/blog/PeachpieOpenSourcePHPCompilerToNETAndWordPressUnderASPNETCore.aspx
+https://www.hanselman.com/blog/NETAndWebAssemblyIsThisTheFutureOfTheFrontend.aspx
+https://www.hanselman.com/blog/AProperTerminalForVisualStudio.aspx
+https://www.hanselman.com/blog/ReferencingNETStandardAssembliesFromBothNETCoreAndNETFramework.aspx
 https://www.nexmo.com/blog/2017/03/31/recieve-sms-messages-with-asp-net-mvc-framework-dr/
 http://tattoocoder.com/dont-lose-your-swagger-with-dotnet-build/
 https://www.stevejgordon.co.uk/asp-net-core-mvc-anatomy-addmvccore
 https://www.stevejgordon.co.uk/asp-net-core-anatomy-part-2-addmvc
 https://www.stevejgordon.co.uk/asp-net-core-anatomy-part-3-addmvc
 https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
+https://medium.com/@dmitryzaets/legacy-net-applications-configuration-management-net-framework-4-5-1-68220335d9d8
 https://www.tpeczek.com/2017/04/reconfiguring-cors-policy-in-aspnet.html
+https://www.tpeczek.com/2017/09/server-sent-events-or-websockets.html?
 https://jeremybytes.blogspot.ie/2017/04/tdding-into-fibonacci-sequence-in-c.html
 http://rion.io/2017/04/28/contributing-to-net-for-dummies/
 https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/
 http://www.ryansouthgate.com/2017/05/22/entity-framework-core-custom-migrations/
 https://dotnetcoretutorials.com/2017/05/17/csrf-tokens-asp-net-core/
 http://markheath.net/post/priority-queues-with-azure-service-bus
-https://medium.com/@dmitryzaets/legacy-net-applications-configuration-management-net-framework-4-5-1-68220335d9d8
 https://www.devtrends.co.uk/blog/handling-errors-in-asp.net-core-web-api
+https://www.devtrends.co.uk/blog/creating-your-first-shared-library-in-.net-core
+https://www.devtrends.co.uk/blog/create-a-free-private-nuget-server-with-continuous-deployment-using-vsts
+https://www.devtrends.co.uk/blog/hashing-encryption-and-random-in-asp.net-core
+https://www.devtrends.co.uk/blog/custom-response-caching-in-asp.net-core-with-cache-invalidation
 https://blog.openbloc.fr/webassembly-first-steps/
 https://hackernoon.com/running-tests-for-net-and-node-js-on-travis-ci-8704ea3a5512
-https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/
-https://www.devtrends.co.uk/blog/creating-your-first-shared-library-in-.net-core
 http://crbtech.in/Dot-Net-Training/important-interview-questions-answers-asp-net-mvc/
 http://foreverframe.net/documenting-asp-net-core-api-with-swagger/
 https://blog.pusher.com/build-public-anonymous-chat-app-using-net-pusher/
 http://mattwarren.org/2017/06/15/How-the-.NET-Rutime-loads-a-Type/
 http://piotrgankiewicz.com/2017/06/19/building-net-core-apps-with-bitbucket-pipelines-and-docker/
+http://piotrgankiewicz.com/2017/07/09/hosting-docker-images-on-azure-container-registry/
 http://www.binaryintellect.net/articles/a7d9edfd-1f86-45f8-a668-64cc86d8e248.aspx
 https://www.codeproject.com/Articles/1190475/Porting-a-NET-Framework-library-to-NET-Core
-https://www.devtrends.co.uk/blog/create-a-free-private-nuget-server-with-continuous-deployment-using-vsts
-
+https://www.codeproject.com/Articles/1192403/Architecting-Web-API-Project-With-Repository-Layer
+http://dontcodetired.com/blog/post/Testing-ASPNET-Core-MVC-Controllers-Getting-Started
+http://dontcodetired.com/blog/post/Testing-ASPNET-Core-Controllers-in-Isolation-with-Mock-Objects-and-Moq
+https://stackify.com/csharp-async-await-task-performance 
+http://www.blinkingcaret.com/2017/06/21/keeping-secrets-in-asp-net-core/
+http://codingsight.com/entity-framework-improving-performance-when-saving-data-to-database/
+http://codingsight.com/swashbuckle-swagger-configuration-for-webapi/
+http://agirlamonggeeks.com/2017/06/07/ctrl-e-e-the-best-visual-studio-shortcut-ive-seen-so-far
+https://www.daedtech.com/computing-technical-debt-ndepend/
+https://www.daedtech.com/choosing-acceptance-test-framwork/
+https://www.daedtech.com/what-problems-do-microservices-solve/
+http://adamsitnik.com/Value-Types-vs-Reference-Types/
+https://www.strathweb.com/2017/06/using-messagepack-with-asp-net-core-mvc/
+https://jeremylindsayni.wordpress.com/2017/06/25/measure-code-performance-during-development-with-benchmarkdotnet-part-2-methods-with-data-transfer-object-parameters/
+https://jeremylindsayni.wordpress.com/2017/07/03/automating-net-core-2-deployments-to-different-platforms-with-cake/
+https://jeremylindsayni.wordpress.com/2017/07/17/calling-a-custom-executable-from-cake-using-startprocess-and-processsettings/
+https://jeremylindsayni.wordpress.com/2017/07/24/deploy-a-uwp-application-to-a-windows-10-device-from-the-command-line-with-cake/
+https://jeremylindsayni.wordpress.com/2017/07/31/using-net-core-2-to-read-serial-data-from-an-arduino-uno-over-usb/
+http://josephwoodward.co.uk/2017/07/dotnet-core-solution-management-via-command-line-interface
+https://www.exceptionnotfound.net/asp-net-core-demystified-routing-in-mvc/
+http://gunnarpeipman.com/2017/07/local-functions/
+http://gunnarpeipman.com/2017/08/aspnet-core-bearer-token/
+http://www.nimaara.com/2017/07/01/practical-parallelization-with-map-reduce-in-c/
+https://stu.ratcliffe.io/2017/07/20/vuejs-serverside-rendering-with-aspnet-core
+https://blog.sixeyed.com/shh-secrets-are-coming-to-windows-in-docker-17-06/
+https://blogs.windows.com/buildingapps/2017/07/18/working-brushes-content-xaml-visual-layer-interop-part-one/
+https://montemagno.com/c-sharp-developers-stop-calling-dot-result/
+https://codingblast.com/asp-net-core-tag-helpers/
+https://www.recaffeinate.co/post/serialize-errors-as-json-in-aspnetcore/
+https://buildazure.com/2017/08/15/scaling-azure-functions-with-durable-functions/
+https://dustinewers.com/4-tips-for-blazing-fast-asp-net-core-applications/
+http://tooslowexception.com/zero-garbage-collector-for-net-core/
+https://codeblog.jonskeet.uk/2017/08/19/diagnosing-a-single-slow-test/
+https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-coco-framework-for-enterprise-blockchain-networks/
+http://www.techcartnow.com/new-c-sharp-7-features-in-action-deconstruction-in-c-sharp-7/
+https://formulahendry.wordpress.com/2017/08/13/net-core-test-explorer-for-visual-studio-code/
+https://digitalmccullough.com/posts/aspnetcore-auth-system-demystified.html
+http://thomasardal.com/lean-startup-on-elmah-io-split-testing/
+http://thomasardal.com/lean-startup-on-elmah-io-minimum-viable-product/
+https://www.stevejgordon.co.uk/upgrading-to-asp-net-core-2-0
+http://techxposer.com/2017/08/21/calling-rest-api-service-from-sql-server-using-c-sql-clr/
+http://techxposer.com/2017/09/25/centralizing-configuration-net-application/
+http://techxposer.com/2017/09/04/what-is-aar-application-request-routing-affinity/
