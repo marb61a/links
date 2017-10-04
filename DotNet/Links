@@ -11,20 +11,44 @@ https://www.udemy.com/csharp-memory-tricks-learn-how-to-master-the-garbage-colle
 https://www.udemy.com/how-to-write-multi-threaded-csharp-code/
 https://www.udemy.com/csharp-performance-tricks-how-to-radically-optimize-your-code/
 
+### Tutorials
+https://tech.io/playgrounds/213/using-c-linq---a-practical-overview/welcome
+https://tech.io/playgrounds/2290/demystifying-c-generics/introduction
+https://tech.io/playgrounds/3002/the-difference-between-string-and-stringbuilder-in-c/introduction
+https://tech.io/playgrounds/4145/how-to-dump-object-properties-in-c
+https://tech.io/playgrounds/4240/your-ultimate-async-await-tutorial-in-c/introduction
+https://tech.io/playgrounds/5099/using-structuremap-with-asp-net-core
+https://tech.io/playgrounds/5518/multi-tenant-asp-net-core-5---implementing-database-per-tenant-strategy
+
+
 
 ###Videos
 https://www.youtube.com/user/cyborgmagus / http://cyborgmaguscsharpedge.com/cinema.html
 https://www.syncfusion.com/blogs/post/video-review-getting-started-with-asp-net-core-by-ugo-lattanzi.aspx
-https://channel9.msdn.com/Blogs/Seth-Juarez/Building-Single-Page-Applications-with-ASPNET-Core
-https://channel9.msdn.com/Shows/Code-Conversations/Creating-your-own-Tag-Helpers?
 https://mva.microsoft.com/en-US/training-courses/mastering-azure-app-service-part-4-building-azure-mobile-apps-16836
 https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-core-with-visual-studio-2017-16841
 https://mva.microsoft.com/en-US/training-courses/top-10-javascript-questions-17356?l=BCvhsGIgD_4505494542
 https://www.youtube.com/watch?v=m1jnG1zIvTo - An introduction to Azure Analysis Services
+https://www.youtube.com/watch?v=APthTzwWSSo - Comparing Windows 10 to Linux Mint 18.1!
+
+
+###Channel9
+https://channel9.msdn.com/Blogs/Seth-Juarez/Building-Single-Page-Applications-with-ASPNET-Core
+https://channel9.msdn.com/Shows/Code-Conversations/Creating-your-own-Tag-Helpers
+https://channel9.msdn.com/Blogs/dotnet/NET-Core-20-Released
+https://channel9.msdn.com/Shows/Code-Conversations/Sayed-Hashimi-on-Open-Source-NET-Core-Project-Templates
+https://channel9.msdn.com/Events/Visual-Studio/Live-2017/T09
+https://channel9.msdn.com/Events/dotnetConf/2017
 
 
 ###Playlists
 https://www.youtube.com/playlist?list=PLYMOUCVo86jFPCV6_u2m8P2NE2LSijvLN - ASP.NET MVC Beginner Tutorials
+https://www.youtube.com/playlist?list=PL03Lrmd9CiGewi0lbnahxEpisoP5WZocX - NDC Oslo 2017
+https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M - WPF UI Programming (C#)
+
+
+###One Minute Dev
+https://channel9.msdn.com/Blogs/One-Dev-Minute/Using-Narrator-and-Dev-Mode
 
 
 ### Pusher
@@ -37,4 +61,6 @@ https://pusher.com/sessions/meetup/dot-net-north/thinking-functionally
 https://pusher.com/sessions/meetup/dot-net-north/azure-functions
 https://pusher.com/sessions/meetup/dotnetsheff/ddd-a-la-carte - 
 https://pusher.com/sessions/meetup/dotnetsheff/aspnet-nodejs-javascript-services
-
+https://pusher.com/sessions/meetup/dot-net-south-west/rider-taking-resharper-out-of-process
+https://pusher.com/sessions/meetup/dot-net-north/building-appsgames-for-xbox-one-using-uwp-build-once-and-target-many
+https://pusher.com/sessions/meetup/dot-net-north/net-core
