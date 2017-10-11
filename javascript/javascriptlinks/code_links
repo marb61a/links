@@ -372,4 +372,41 @@ https://github.com/arguiot/DisplayJS/ - A simple JavaScript framework for buildi
 https://github.com/ream/ream - Framework for building universal Vue.js app
 https://github.com/Mitranim/posterus - Composable async primitives (futures) with true cancelation
 https://github.com/ai/nanoid - A tiny, secure URL-friendly unique string ID generator for JavaScript
+https://github.com/google/songbird - Spatial Audio Encoding on the Web
+https://github.com/frdnrdb/bubb - Euphemism for a JS tooltip 
+https://github.com/rtfeldman/seamless-immutable - Immutable data structures for JavaScript 
+https://github.com/text-mask/text-mask - Input mask for React, Angular, Ember, Vue, & plain JavaScript 
+https://github.com/anychart/graphicsjs - A lightweight JavaScript graphics library with the intuitive API
+https://github.com/farzher/fuzzysort - Fast SublimeText-like fuzzy search for JavaScript
+https://github.com/mikeal/r2 - HTTP client. Spiritual successor to request.
+https://github.com/ApoorvSaxena/lozad.js - Highly performant, light ~0.5kb and configurable lazy loader in pure JS
+https://github.com/Nickersoft/push.js - The world's most versatile desktop notifications framework
+https://github.com/stasm/innerself -  A tiny view + state management solution using innerHTML
+https://github.com/fastify/fastify - Fast and low overhead web framework, for Node.js 
+https://github.com/appleple/lookforward - A small library that helps you to create smooth transitions between pages 
+https://github.com/WeiChiaChang/vue-accordion-menu - Simple accordion menu component in Vue 2
+https://github.com/Okazari/Rythm.js - A javascript library that makes your page dance.
+https://github.com/JorgeBucaran/classwrap - JavaScript utility for conditionally concatenating class names.
+https://github.com/sindresorhus/p-progress - Create a promise that reports progress
+https://github.com/finnfiddle/words-to-numbers - JS library to convert textual words to numbers
+https://github.com/melenaos/jquery-punchcard - Github punchcard inspired jQuery plugin
+https://github.com/naver/billboard.js - Re-usable, easy interface JavaScript chart library based on D3 v4
+https://github.com/vuetifyjs/vuetify - Material Component Framework for Vue.js 2
+https://github.com/dfahlander/Dexie.js - A Minimalistic Wrapper for IndexedDB
+https://github.com/saintedlama/mongoist - Mongodb driver inspired by mongojs built with async/await in mind
+https://github.com/anvaka/ngraph.path - Path finding in a graph
+https://github.com/captbaritone/winamp2-js - A reimplementation of Winamp 2.9 in HTML5 and Javascript
+https://github.com/ai/nanoevents - Simple and tiny (119 bytes) event emitter library for JavaScript
+https://github.com/jeromeetienne/AR.js - Efficient Augmented Reality for the Web
+https://github.com/elbywan/bosket - Collection of tree view components for front-end frameworks
+https://github.com/elbywan/wretch - A tiny wrapper built around fetch with an intuitive syntax.
+https://github.com/xem/sheet - a tiny Excel clone
+https://github.com/cerebral/cerebral - Declarative state and side effects management for popular JavaScript frameworks 
+https://github.com/Shopify/draggable - The JavaScript Drag & Drop library your grandparents warned you about
+https://github.com/cherow/cherow - A fast, Typescript-based ECMAScript parser
+https://github.com/IBM/vue-a11y-calendar - Accessible, internationalized Vue calendar
+https://github.com/egeozcan/ppipe - https://github.com/egeozcan/ppipe
+https://github.com/nickpisacane/CsvBuilder - Easily encode complex JSON objects to CSV
+https://github.com/edenspiekermann/a11y-dialog - A very lightweight and flexible accessible modal dialog.
+https://github.com/akxcv/vuera - Vue in React, React in Vue. Seamless integration of the two.
 
