@@ -69,6 +69,11 @@ https://www.youtube.com/watch?v=z6hQqgvGI4Y - Vue.js 2.0 In 60 Minutes
 https://www.youtube.com/watch?v=rn97hCNQsKI - Code splitting patterns in Vue.js
 https://www.youtube.com/watch?v=D-juPGb7EKY - JavaScript riddles for fun and profit
 https://www.youtube.com/watch?v=8UqHCrGdxOM - Reverse engineering obfuscated JavaScript
+https://www.youtube.com/watch?v=zFoBYfMLUCM - Totally Tooling Tips: Webpack Tips
+https://www.youtube.com/watch?v=f57IHEeDNcA - Async/Await in JavaScript
+https://www.youtube.com/watch?v=568g8hxJJp4 - async / await in JavaScript - What, Why and How
+https://www.youtube.com/watch?v=6YBV1cKRqzU - Advanced Dependency Injection without classes
+
 
 
 ##Pusher
@@ -87,6 +92,12 @@ https://egghead.io/lessons/javascript-use-es6-proxies
 https://egghead.io/lessons/javascript-format-console-log-with-css-and-string-template-tags
 https://egghead.io/lessons/javascript-use-test-driven-development
 https://egghead.io/courses/up-and-running-with-preact
+
+
+##Tyler McGinnis
+https://tylermcginnis.com/videos/ecmascript/
+https://tylermcginnis.com/videos/compiling-polyfills/
+https://tylermcginnis.com/videos/default-parameters/
 
 
 ##Channels & Playlists
@@ -118,12 +129,12 @@ https://popper.js.org -  CREATE POPPERS IN WEB APPLICATIONS
 http://facebook.github.io/jest/ - Painless JavaScript Testing
 http://www.javascriptkit.com/javatutors/
 https://golden-layout.com/ - a multi-screen layout manager for webapps (tutorials available)
-http://substance.io/
+http://substance.io/ - A JavaScript library for web-based content editing
 http://www.react.express - Guide to React application development
 https://stormpath.com/blog/secure-single-page-app-problem/
 https://github.com/wbinnssmith/awesome-promises
 http://www.cerebraljs.com/ - The cerebral project
-http://xregexp.com
+http://xregexp.com - JavaScript regular expression library
 http://turfjs.org - Advanced geospatial analysis for browsers and node
 http://d3indepth.com - D3 information to bridge the gap between tutorials and documenttation
 http://www.chartjs.org/
@@ -147,6 +158,7 @@ http://angularjs.blogspot.ie/2015/11/highlights-from-angularconnect-2015.html
 https://community.algolia.com/instantsearch.js/
 http://mojs.io/
 http://responsifyjs.space/
+https://github.com/mbeaudru/modern-js-cheatsheet - ES6 Cheet Sheet
 https://es6cheatsheet.com/ -interactive ES6 cheatsheet
 http://imagesloaded.desandro.com
 http://allegrojs.net/
