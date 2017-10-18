@@ -198,4 +198,49 @@ https://github.com/rofrischmann/react-controlled-form - Flexible, Modular & Cont
 https://github.com/25th-floor/revalidation - Higher Order Component for Validating Forms in React 
 https://github.com/vadimdemedes/ink - React for interactive command-line apps
 https://github.com/Centroida/CentroUI - CentroUI is a library for building user interfaces for WebVR
+https://github.com/alanbsmith/react-router-example - an example for deploying a React Router + NodeJS app to Heroku
+https://github.com/adrienjt/redux-data-structures - Reducer factory functions for common data structures
+https://github.com/jxnblk/react-x-ray - React CSS Layout Debugger 
+https://github.com/paypal/downshift - build simple, flexible, WAI-ARIA compliant enhanced input React components 
+https://github.com/staltz/react-native-node - Run a separate Node.js process behind a React Native app
+https://github.com/palerdot/react-d3-speedometer - React Speedometer component using d3.js 
+https://github.com/thejameskyle/react-loadable - A higher order component for loading components with promises.
+https://github.com/nitin42/terminal-in-react -  A component that renders a terminal
+https://github.com/Pau1fitz/react-slidez - React Slideshow Component 
+https://github.com/madou/yubaba - Orchestrated page transitions made easy (experimental) 
+https://github.com/zcreativelabs/react-simple-maps - An svg map component built with and for React 
+https://github.com/myheritage/UiZoo.js - Dynamic React components library
+https://github.com/atlassian/react-beautiful-dnd - Beautiful, accessible drag and drop for lists with React.js
+https://github.com/floating/restore - A predictable & observable state container for React apps
+https://github.com/FormidableLabs/electron-webpack-dashboard - Electron Desktop GUI for Webpack Dashboard
+https://github.com/graphcool/graphql-config - Easiest way to configure your development environment with your GraphQL schema
+https://github.com/navjobs/validify - Simple-as-possible React form validation
+https://github.com/neoclide/vim-jsx-improve - Syntax and indent plugin for React jsx.
+https://github.com/ReactVT/react-vt - Data-driven visual testing library for React developers 
+https://github.com/Bloomca/redux-tiles - Composable way to create less verbose Redux code 
+https://github.com/UdiliaInc/create-react-library - React NPM library starter kit based on Facebook's create react app
+https://github.com/swipesapp/react-delegate - React delegate pattern for better callbacks
+https://github.com/nitin42/redocx - Create word documents with React
+https://github.com/JumboInteractiveLimited/redux-cache - Client side TTL caching strategy for redux applications
+https://github.com/chrisbolin/react-detect-offline - Offline and Online components for React
+https://github.com/ralusek/reselectie - Memoized selector library for any immutable data structure 
+https://github.com/joshwcomeau/new-component -  CLI utility for quickly creating new React components.
+https://github.com/uber/react-map-gl - React friendly API wrapper around MapboxGL JS
+https://github.com/airbnb/react-dates - mobile-friendly datepicker library for the web
+https://github.com/Thinkmill/react-markings - Markdown** in <Components/>, <Components/> in **Markdown
+https://github.com/nitin42/react-imgpro - Image Processing Component for React
+https://github.com/navjobs/validify - Simple-as-possible React form validation
+https://github.com/ReactTraining/react-idle - Notifies your app when the user is idle.
+https://github.com/wojtekmaj/react-pdf - Easily display PDF files in your React application.
+https://github.com/nitin42/react-imgpro - Image Processing Component for React
+https://github.com/learnetto/reactchat - A chat app built with React.js and ActionCable in Ruby on Rails 5.1
+https://github.com/LINKIWI/react-offline-hoc - React higher-order component for detecting network offline state
+https://github.com/recharts/recharts - Redefined chart library built with React and D3 
+https://github.com/reacttraining/react-network - Notifies your app when the network goes offline and back online.
+https://github.com/jamesknelson/react-cx - Combine styles from CSS Modules with a `cx` prop
+https://github.com/adam-hanna/react-responsive-tables - A react component for responsive tables
+https://github.com/nicolasdelfino/react-metro - Tiny configurable wrapper for animating dom elements as they mount or unmount
+https://github.com/nitin42/Making-a-custom-React-renderer - Tutorial on how to make a custom React renderer
+https://github.com/unroll-io/react-email-editor - Drag-n-Drop Email Editor Component for React.js 
+https://github.com/coryhouse/react-slingshot - React + Redux starter kit / boilerplate with Babel
 
