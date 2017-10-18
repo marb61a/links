@@ -45,6 +45,9 @@ https://medium.com/the-react-native-log/comparing-the-performance-between-native
 https://medium.com/santiment/the-mobile-terminal-making-react-native-the-hardware-back-button-cooperate-65fe0ec27489
 https://medium.com/handlebar-labs/getting-started-with-react-native-navigation-v1-7a16afdeadcd
 https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae
+https://medium.com/dailyjs/youve-got-react-native-all-wrong-3b268eca99f4
+https://medium.com/react-native-development/easily-build-forms-in-react-native-9006fcd2a73b
+https://medium.com/dailyjs/network-layer-in-react-native-eec841f11861
 
 
 ###################################### Tutsplus ##################################################################
@@ -78,13 +81,14 @@ https://blog.redradix.com/6-essential-libraries-to-use-on-your-next-react-native
 https://onsen.io/blog/building-a-calculator-app-with-redux-and-onsenui/
 https://blog.callstack.io/login-users-with-facebook-in-react-native-4b230b847899#.zex5dlfme
 https://docs.google.com/document/d/1PU51njrUweehKFgSu69C7OAEdyp6rHmsvQ7KIcLaHqw/edit
+https://blog.nativebase.io/react-native-flat-app-theme-be18c869c47e#.o419riz1y
 https://blog.nativebase.io/the-caveats-of-using-navigator-in-react-native-9547d99172ce#.jcm2cf7bd
 http://blog.cloudoki.com/going-native/
 https://auth0.com/blog/2016/06/15/adding-authentication-to-react-native-using-jwt/
 https://discord.engineering/using-react-native-one-year-later-91fd5e949933#.na9z8o2rg
 https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3#.h24dddh0i
+https://shift.infinite.red/react-navigation-drawer-tutorial-a802fc3ee6dc
 http://blog.mojotech.com/fabric-integration-for-react-native-on-android/
-https://blog.nativebase.io/react-native-flat-app-theme-be18c869c47e#.o419riz1y
 http://thefullstack.xyz/react-native/
 http://jefflau.net/what-ive-learnt-in-week-3-of-react-native/
 https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d#.9xy1bnk2n
@@ -110,6 +114,14 @@ https://blog.uncommon.is/a-simple-introduction-to-state-management-with-mobx-in-
 https://engineering.salesforce.com/experiments-with-high-performance-animation-in-react-native-80a0cb7052b0
 http://artsy.github.io/blog/2017/07/06/React-Native-for-iOS-devs/
 https://blog.brainsandbeards.com/logging-in-react-native-3bc4e69a4c21
+https://blog.home.ht/how-to-do-end-to-end-testing-on-react-native-with-detox-2b7f404e7713
+https://medium.com/react-native-training/react-animations-in-depth-433e2b3f0e8e
+https://blog.pusher.com/creating-ride-booking-app-react-native-pusher/
+https://codeburst.io/todo-app-with-react-native-f889e97e398e
+https://goshakkk.name/auth-in-react-native-apps/
+https://blog.reactnativecoach.com/creating-an-asynchronous-loading-image-component-in-react-native-part-i-1b087d0ded62
+https://carloscuesta.me/blog/shipping-react-native-apps-with-fastlane/
+https://maziar.io/blog/react-native-development-tips/
 
 
 ##### Code #####
@@ -148,7 +160,9 @@ https://github.com/wix/react-native-calendars - React Native Calendar Components
 https://github.com/R1ZZU/react-native-webview-messaging - Send/Receive data between React Native app and WebView
 https://github.com/facebook/metro-bundler - The JavaScript bundler for React Native
 https://github.com/akveo/kittenTricks - A react native mobile starter kit with over 40 screens
-
+https://github.com/NadiKuts/react-native-pull-refresh - Custom pull to refresh component for Android
+https://github.com/gitpoint/git-point - Github in your pocket
+https://github.com/invertase/react-native-firebase - Feature rich Firebase implementation for React Native
 
 
 ##### Videos ######
@@ -160,9 +174,14 @@ https://www.youtube.com/watch?v=E3nB8pI8gac - Using React Native & Meteor to Qui
 https://www.youtube.com/watch?v=iwEdEMOtpCg - Build React Native apps faster with Storybook
 https://www.youtube.com/watch?v=3msLwu25SQY&list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5 - Getting Started with React Native and Redux
 https://www.youtube.com/watch?v=OmiXlJ4ZzAo - Performance Limitations of React Native and How to Overcome Them
+https://www.youtube.com/watch?v=OrIIPNEjQfs - How to bridge native modules and UI components in React Native
+https://www.youtube.com/watch?v=YnRALIjnRM4 - Composable Native APIs
+
 https://codecookbook.co/post/how-to-share-text-from-your-react-native-app/
 https://devchat.tv/react-native-radio/41-react-native-for-windows-with-eric-rozell-of-microsoft - React Native Radio
 https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html
+https://pusher.com/sessions/meetup/react-native-london/cavy-a-new-end-to-end-testing-framework-for-react-native
+
 
 
 ### Links ###
