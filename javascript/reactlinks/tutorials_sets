@@ -23,6 +23,12 @@ https://www.sitepoint.com/building-a-full-sphere-3d-image-gallery-with-react-vr/
 https://www.sitepoint.com/crud-app-react-redux-feathersjs/
 https://www.sitepoint.com/switching-from-react-to-cycle-js/
 https://www.sitepoint.com/reddit-clone-react-firebase/
+https://www.sitepoint.com/work-with-forms-in-react/
+https://www.sitepoint.com/react-rails-5-1/
+https://www.sitepoint.com/organize-large-react-application/
+https://www.sitepoint.com/asynchronous-apis-server-rendered-react/
+https://www.sitepoint.com/building-a-react-universal-blog-app-implementing-flux/
+https://www.sitepoint.com/using-preact-react-alternative/
 
 
 ###################################### Scotch.io ################################################################## 
@@ -153,11 +159,18 @@ https://medium.com/storybookjs/announcing-storybook-3-0-329748b8f4cd
 https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71
 https://medium.com/coding-artist/how-pure-css-images-helped-me-understand-react-components-3ad7b05051b0
 https://medium.com/styled-components/announcing-v2-f01ef3766ac2
-https://medium.com/faceyspacey/how-to-use-webpacks-new-magic-comment-feature-with-react-universal-component-ssr-a38fd3e296a
-https://medium.com/faceyspacey/pre-release-redux-first-router-a-step-beyond-redux-little-router-cd2716576aea
-https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262
+https://medium.com/styled-components/component-folder-pattern-ee42df37ec68
 https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd
 https://medium.com/front-end-hacking/using-immutable-js-with-redux-ba89025e45e2
+https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d
+https://medium.appbase.io/how-to-build-a-github-search-ui-in-60-minutes-295109211c70
+https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1
+https://medium.com/progressive-web-apps/react-progressive-web-apps-part-1-1cf381421672
+https://medium.com/@romarioraff/testing-react-apps-with-jest-and-chai-enzyme-for-beginners-baa5f57cec0b
+https://medium.com/@guptagaruda/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455
+https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299
+https://medium.com/gitconnected/optimize-react-performance-c1a491ed9c36
+https://medium.com/tandemly/im-breaking-up-with-higher-order-components-44b0df2db052
 
 
 ###################################### Raja Rao ##################################################################
@@ -179,6 +192,22 @@ https://voice.kadira.io/let-s-compose-some-react-containers-3b91b6d9b7c8#.4j0ejb
 https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql-e0802695648c#.g20mw1nvn
 https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.k6ur7ru9q
 https://voice.kadira.io/say-hello-to-react-cdk-97cff692e798#.rn4zwgx56
+
+
+###################################### James Gilmore ##################################################################
+https://medium.com/faceyspacey/how-to-use-webpacks-new-magic-comment-feature-with-react-universal-component-ssr-a38fd3e296a
+https://medium.com/faceyspacey/pre-release-redux-first-router-a-step-beyond-redux-little-router-cd2716576aea
+https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262
+https://medium.com/faceyspacey/announcing-react-universal-component-2-0-babel-plugin-universal-import-5702d59ec1f4
+https://medium.com/faceyspacey/server-render-like-a-pro-w-redux-first-router-in-10-steps-b27dd93859de
+
+
+###################################### Robin Wieruch ##################################################################
+http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/
+http://www.robinwieruch.de/mobx-react/
+http://www.robinwieruch.de/redux-mobx-confusion/
+https://www.robinwieruch.de/learn-react-before-using-redux/
+https://www.robinwieruch.de/react-svg-patterns/
 
 
 ###################################### Hacker Noon ##################################################################
@@ -209,6 +238,12 @@ https://hackernoon.com/building-a-react-component-library-part-1-d8a1e248fe6c
 https://hackernoon.com/how-to-deploy-a-live-reactjs-redux-website-in-under-10-minutes-cadf73cfc75a
 https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a
 https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-1-b8a200bb7091
+https://hackernoon.com/evil-things-you-do-with-redux-dispatch-in-updating-lifecycle-methods-ad116de882d4
+https://hackernoon.com/shape-your-redux-store-like-your-database-98faa4754fd5
+https://hackernoon.com/repatch-the-simplified-redux-2c4aa5c25fa9
+https://hackernoon.com/how-to-combine-a-nodejs-back-end-with-a-reactjs-front-end-app-ea9b24715032
+https://hackernoon.com/react-js-with-wordpress-as-a-backend-wp-rest-api-example-127639a6cc41
+https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed
 
 
 ###################################### Freecodecamp ##################################################################
@@ -228,6 +263,7 @@ https://medium.freecodecamp.com/how-to-build-react-apps-on-top-of-the-wordpress-
 https://medium.freecodecamp.com/how-to-make-your-react-app-fully-functional-fully-reactive-and-able-to-handle-all-those-crazy-e5da8e7dac10
 https://medium.freecodecamp.org/understanding-higher-order-components-6ce359d761b
 https://medium.freecodecamp.org/an-introduction-to-the-redux-first-routing-model-98926ebf53cb
+https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594
 
 
 ###################################### Javascript Inside ##################################################################
@@ -250,6 +286,9 @@ http://jamesknelson.com/state-react-1-stateless-react-app/
 http://jamesknelson.com/5-types-react-application-state/
 http://jamesknelson.com/even-need-routing-library/
 http://jamesknelson.com/created-junctions-js/
+https://reactarmory.com/answers/how-should-i-separate-components
+https://reactarmory.com/answers/how-can-i-use-css-in-js-securely
+https://reactarmory.com/guides/lifecycle-simulators
 
 
 ###################################### Swizec ################################################################
@@ -288,6 +327,7 @@ https://daveceddia.com/watch-out-for-undefined-state/
 https://daveceddia.com/random-numbers-in-redux/
 https://daveceddia.com/react-project-structure/
 https://daveceddia.com/create-react-app-express-production/
+https://daveceddia.com/multiple-environments-with-react/
 
 
 ###################################### Stormpath ##################################################################
@@ -306,4 +346,14 @@ https://tylermcginnis.com/react-aha-moments/
 https://tylermcginnis.com/build-your-own-react-router-v4/
 https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js/
 https://tylermcginnis.com/react-elements-vs-react-components/
+https://tylermcginnis.com/imperative-vs-declarative-programming/
+https://tylermcginnis.com/podcast/kentcdodds/
 
+
+###################################### Goshakk ##################################################################
+http://goshakkk.name/react-custom-renderers/
+http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/
+https://goshakkk.name/should-i-put-form-state-into-redux/
+https://goshakkk.name/instant-form-fields-validation-react/
+https://goshakkk.name/array-form-inputs/
+https://goshakkk.name/y-no-field-level-validations/
