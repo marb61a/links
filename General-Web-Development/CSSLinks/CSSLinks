@@ -39,7 +39,17 @@ https://www.youtube.com/watch?v=rr3c62Wnaeo - How to Label Shadow DOM
 https://www.youtube.com/watch?v=_HIlZdZ4NWw - Evergreen websites for Evergreen browsers
 https://www.youtube.com/watch?v=OBxNw5S9LcU - Core Concepts of Webpack
 https://www.youtube.com/watch?v=tO01ul1WNW8 - Crafting Webfont Fallbacks
+https://www.youtube.com/watch?v=551nfxay-M4 - Designing for Great Performance
+https://www.youtube.com/watch?v=E4KAWf_fKbM - Running a performance profile on the YouTube search box
+https://www.youtube.com/watch?v=0mJC0A72Fnw - JavaScript Speech Recognition
+https://www.youtube.com/watch?v=DJ-oSy0tN_U - Building fluid interfaces with React and WebGL 
+https://www.youtube.com/watch?v=_1GlhO1RxRg - Bringing back the 1990s: The revenge of JavaScript Style Sheets 
 
+
+##An Event Apart
+https://aneventapart.com/news/post/real-art-direction-on-the-web-by-jen-simmons-an-event-apart
+https://aneventapart.com/news/post/css-grid-layout-by-rachel-andrewan-event-apart-video
+https://aneventapart.com/news/post/compassionate-design-by-eric-meyeran-event-apart-video
 
 
 ##Pusher
@@ -56,26 +66,35 @@ https://vimeo.com/177216958 - CSS for Software Engineers
 https://vimeo.com/177103832 - Peter van der Zee | < IFRAME > | HTML Special, CSS Day
 https://vimeo.com/226736126 - Alice in Web Animations API 
 
+##Channel 9
+https://channel9.msdn.com/Blogs/msedgedev/nolanlaw-web-perf-crisis
+https://channel9.msdn.com/Blogs/msedgedev/The-Progress-of-Web-Apps
+
+https://channel9.msdn.com/Blogs/One-Dev-Minute/Getting-Started-with-CSS-Animations
+https://channel9.msdn.com/Blogs/One-Dev-Minute/Using-the-Payments-Request-API
+https://channel9.msdn.com/Blogs/One-Dev-Minute/Adding-a-Content-Script-to-your-EdgeExtension
+
 
 ##Playlists & Channels
 https://www.youtube.com/watch?v=paBou8Fy25k&list=UUJ0_R6U3ZClQDGpVJNjuPAQ - Rachel Andrew CSS Video Playlist
 https://www.youtube.com/playlist?list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE - Chrome and Web at Google I/O 2017
+https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017
 
 
 ##Codepen -
 https://codepen.io/MadeByMike/pen/ZOrEmr - CSS only scroll indicator
-http://codepen.io/AllThingsSmitty/pen/cHjIC/ - CSS-Only Olympic Rings
-http://codepen.io/davidkpiano/pen/kkpGWj - Meshi the CSS Dog
+https://codepen.io/AllThingsSmitty/pen/cHjIC/ - CSS-Only Olympic Rings
+https://codepen.io/davidkpiano/pen/kkpGWj - Meshi the CSS Dog
 https://codepen.io/jonneal/pen/PzGYEE - Decorative Text Underline
-http://codepen.io/rgg/full/QbRyOq/ - Pure CSS Progress
-http://codepen.io/bali_balo/pen/BLJONk - Pure CSS minesweeper
-http://codepen.io/kizu/pen/PzGadO - Coloring emoji using CSS
-http://codepen.io/rachel_web/pen/rOLRvM/ -The Lego Movie's Emmet in Pure CSS
-http://codepen.io/davidkpiano/pen/wMqXea - Alex the CSS Husky
+https://codepen.io/rgg/full/QbRyOq/ - Pure CSS Progress
+https://codepen.io/bali_balo/pen/BLJONk - Pure CSS minesweeper
+https://codepen.io/kizu/pen/PzGadO - Coloring emoji using CSS
+https://codepen.io/rachel_web/pen/rOLRvM/ -The Lego Movie's Emmet in Pure CSS
+https://codepen.io/davidkpiano/pen/wMqXea - Alex the CSS Husky
 https://codepen.io/callmenick/pen/yVJger - box-decoration-break demos
-http://codepen.io/shshaw/pen/akXzzE - CSS-only Sliding Panels using transform
-http://codepen.io/ge1doot/full/GgOYoy/ - apparently transparent
-http://codepen.io/airnan/details/NRaOZb/ - Franchise - Animography Text Editor
+https://codepen.io/shshaw/pen/akXzzE - CSS-only Sliding Panels using transform
+https://codepen.io/ge1doot/full/GgOYoy/ - apparently transparent
+https://codepen.io/airnan/details/NRaOZb/ - Franchise - Animography Text Editor
 https://codepen.io/adrianroworth/pen/OpeyZq - Pure CSS crossword - CSS Grid
 https://codepen.io/sdras/full/gWWQgb/ - React Animated Page Transitions
 https://codepen.io/dudleystorey/pen/QvvEYQ - SVG Text Mask w/ Video Fill
@@ -84,9 +103,14 @@ https://codepen.io/stefanweck/pen/Vbgeax - Waterdroplet WebGL Shader
 https://codepen.io/Trinca/pen/dWejMB - Interactive dynamic depth of field
 https://codepen.io/hakimel/pen/BpKNPg - Progress Nav
 https://codepen.io/damianmuti/pen/OgBWej - CSS-only image slider using SVG patterns
+https://codepen.io/giana/pen/YZWjQy - CSS-only directionally aware hovereo Series
 https://codepen.io/andreacrawford/pen/NvqJXW - Pure CSS 5-Star Rating
 https://codepen.io/shshaw/full/LVKEdv - Transparent PNG with JPEG Compression
 https://codepen.io/giana/pen/YZWjQy - CSS-only directionally aware hover
+https://codepen.io/mxbck/pen/ayYGGO/ - Offline Form
+https://codepen.io/rrenula/pen/LzLXYJ - Comic book style layout with CSS Grid
+https://codepen.io/winkerVSbecks/pen/RLyNEE - amoeba
+https://codepen.io/yemon/pen/BwOOWZ - Netflix style text animation with CSS
 
 
 ##Links -
@@ -94,45 +118,46 @@ http://webdevchecklist.com/ - Web Developer Checklist
 http://accessibility.voxmedia.com/ - Accessibility guidelines
 https://google.github.io/styleguide/htmlcssguide.xml - Html5 & CSS style guide
 https://typeanything.io/ - a simple tool to create great font combinations
-http://dbushell.com/2016/03/04/css-only-responsive-tables/
-http://gridbyexample.com/video/ - Learn Grid Layout Vidhttps://codepen.io/giana/pen/YZWjQy - CSS-only directionally aware hovereo Series
+http://solid.buzzfeed.com/
 http://www.heropatterns.com/ - A collection of repeatable SVG background patterns for you to use on your digital projects.
 http://www.colinkeany.com/blend/ - Create and customize beautiful CSS3 gradients.
 http://cssreference.io/ - A free visual guide to CSS
-https://www.jpeg.io/ - Convert any major image format into a highly optimized JPEG
+http://voxelcss.com/
 http://vrcollab.com/2015/08/10/what-is-metaroom-markup.html
 https://18f.gsa.gov/2016/01/11/introducing-the-css-coding-style-guide/
-http://www.thecssninja.com
 http://trydesignlab.com/blog/ultimate-guide-getting-started-sketch-cheat-sheet/ - 99 Point Cheat Sheet
 https://resilientwebdesign.com/ - Free online book
 https://csstriggers.com/ - List of CSS triggers
 http://ayre.jacksleight.com/
 https://skilled.co/resources/html-canvas-cheat-sheet/ - Cheat Sheet
-https://win2k.brod.io/
+https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521 - Cheet Sheet
+http://dbushell.com/2016/03/04/css-only-responsive-tables/
 http://doximity.github.io/vital/get-started/
-http://primercss.io
+http://primercss.io - The design system that powers GitHub
 http://yusugomori.com/projects/css-sans/
-http://solid.buzzfeed.com/
-http://css-cursor.techstream.org/
+https://mozilladevelopers.github.io/playground/ - INTRODUCTION TO CSS GRID LAYOUT
+https://www.jpeg.io/ - Convert any major image format into a highly optimized JPEG
+http://flag-colors.com/
+http://css-cursor.techstream.org/ - CSS cursor showcase. 
+http://bennettfeely.com/image-effects/ - Image Effects with CSS
 https://ghinda.net/css-toggle-switch/
-http://swissincss.com/
+http://gridbyexample.com/video/ - Learn Grid Layout Vid
 https://www.campaignmonitor.com/css/
 http://www.bypeople.com/css-apple-keyboard/
-http://voxelcss.com/
-http://www.gradient-animator.com/
-http://flag-colors.com/
+http://www.gradient-animator.com/ - CSS GRADIENT ANIMATOR
 http://kushagragour.in/lab/hint/
 http://www.testmycss.com/
 http://pixelart-to-css-react.herokuapp.com/
-http://codepen.io/wesbos/pen/adQjoY?editors=0110
 http://nativeformelements.com/
 https://design.google.com/articles/introducing-resizer/
 https://descartes.io/
 https://1000ch.github.io/grd/
+http://brandmark.io/logo-crunch/ - Logo Crunch is a multi-resolution logo maker,
+http://www.csspurge.com/ - SAVING THE WEB 1KB AT A TIME
 https://nexts.github.io/Multiple.js/
-http://howtocenterincss.com/
-http://www.csspurge.com/
+https://images.guide - We should all be automating our image compression.
+http://howtocenterincss.com/ - Centering in CSS
 https://ausi.github.io/respimagelint/ - Linter for responsive images
 http://bulma.io/ - A modern CSS framework based on Flexbox
-http://cssspecificity.com/
-http://www.cssfontstack.com/
+http://cssspecificity.com/ - with icons inspired by "The Shining"
+http://www.cssfontstack.com/ - A complete collection of web safe CSS font stacks
