@@ -28,6 +28,14 @@ https://www.sitepoint.com/poka-yoke-saving-projects-with-hyper-defensive-program
 https://www.sitepoint.com/how-to-analyze-tweet-sentiments-with-php-machine-learning/
 https://www.sitepoint.com/add-real-time-notifications-laravel-pusher/
 https://www.sitepoint.com/write-javascript-style-test-watchers-php/
+https://www.sitepoint.com/booking-cookery-classes-with-acuity-scheduling-and-lumen/
+https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/
+https://www.sitepoint.com/phpbot-can-php-bot-help-look-documentation-faster/
+https://www.sitepoint.com/master-api-workflow-postman/
+https://www.sitepoint.com/rapid-enterprise-app-development-zend-expressive/
+https://www.sitepoint.com/reactjs-php-writing-compilers-easy-fun/
+https://www.sitepoint.com/rapid-development-zend-expressive-modules/
+https://www.sitepoint.com/game-development-with-reactjs-and-php-how-compatible-are-they/
 
 
 ################################################## Medium #################################################################
@@ -37,6 +45,9 @@ https://medium.com/weebly-engineering/phpunit-mocking-the-file-system-using-vfss
 https://medium.com/@taylorotwell/free-wildcard-ssl-using-forge-cloudflare-ab0ebfbf129f
 https://medium.com/@paulredmond/using-guzzle-6-middleware-in-a-laravel-application-7fbd6d966235
 https://medium.com/appstract/make-your-laravel-app-fly-with-php-opcache-9948db2a5f93
+https://medium.com/@jeffochoa/understanding-laravel-pipelines-a7191f75c351
+https://medium.com/towards-data-science/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
+https://medium.com/@dragosholban/symfony-oauth-authentication-for-your-mobile-application-b13de7202df7
 
 
 ################################################## Tutsplus ###############################################################
@@ -67,6 +78,10 @@ https://code.tutsplus.com/tutorials/dynamic-page-templates-in-wordpress-part-2--
 https://code.tutsplus.com/tutorials/dynamic-page-templates-in-wordpress-part-3--cms-28514
 https://code.tutsplus.com/tutorials/codeigniter-form-validation-from-start-to-finish--cms-28768
 https://code.tutsplus.com/tutorials/understand-the-basics-of-laravel-middleware--cms-29147
+https://code.tutsplus.com/tutorials/pagination-in-codeigniter-the-complete-guide--cms-29030
+https://code.tutsplus.com/tutorials/making-things-faster-with-gearman-and-supervisor--cms-29337
+https://code.tutsplus.com/tutorials/how-codeigniter-hook-system-works--cms-29301
+https://code.tutsplus.com/courses/wordpress-coding-basics-your-first-plugin
 
 
 ################################################## Masterzendframework ###################################################
@@ -92,6 +107,7 @@ https://www.startutorial.com/articles/view/your-first-graphql-api-introduction
 https://www.startutorial.com/articles/view/your-first-graphql-api-pagination
 https://www.startutorial.com/articles/view/your-first-graphql-api-sorting
 https://www.startutorial.com/articles/view/your-first-graphql-api-search
+https://www.startutorial.com/articles/view/data-structure-and-algorithm-bubble-sort
 
 
 ################################################## Zend ###################################################################
@@ -103,6 +119,9 @@ https://framework.zend.com/blog/2017-04-11-expressive-tooling.html
 https://framework.zend.com/blog/2017-04-20-config-aggregator.html
 https://framework.zend.com/blog/2017-06-08-zend-filter.html
 https://framework.zend.com/blog/2017-06-21-zend-hydrator.html
+https://framework.zend.com/blog/2017-08-17-php72-argon2-hash-password.html
+https://framework.zend.com/blog/2017-08-24-diactoros-responses.html
+https://framework.zend.com/blog/2017-09-12-zend-log.html
 
 
 ################################################## Laravel News #############################################################
@@ -121,6 +140,15 @@ https://laravel-news.com/invisible-recaptcha-integration-with-laravel
 https://laravel-news.com/prioritize-application-errors
 https://laravel-news.com/laravel-5-5-pivot-casting
 https://laravel-news.com/spatie-laravel-image-optimizer
+https://laravel-news.com/eloquent-eager-loading
+https://laravel-news.com/laravel-auditing-package
+https://laravel-news.com/new-laravel-string-helpers
+https://laravel-news.com/laravel-inbound-email
+https://laravel-news.com/quickly-edit-phpstorm-theme
+https://laravel-news.com/bash-aliases
+https://laravel-news.com/laravel-homestead-aliases
+https://laravel-news.com/clean-code-php-guide
+https://laravel-news.com/laravel-tinker
 
 
 ################################################## Delicious Brains ########################################################
@@ -132,6 +160,11 @@ https://deliciousbrains.com/php-curl-how-wordpress-makes-http-requests/
 https://deliciousbrains.com/microcaching-wordpress-nginx-improve-server-requests-2400/
 https://deliciousbrains.com/https-locally-without-browser-privacy-errors/
 https://deliciousbrains.com/wordpress-rest-api-vs-custom-request-handlers/
+https://deliciousbrains.com/xdebug-advanced-php-debugging/
+https://deliciousbrains.com/difference-between-wp-migrate-db-and-mergebot/
+https://deliciousbrains.com/how-were-automating-acceptance-testing/
+https://deliciousbrains.com/running-wordpress-kubernetes-cluster/
+https://deliciousbrains.com/scaling-wordpress-dedicated-database-server/
 
 
 ################################################## Matthias Noback  ########################################################
@@ -143,6 +176,9 @@ https://php-and-symfony.matthiasnoback.nl/2017/04/docker-build-patterns/
 https://matthiasnoback.nl/2017/06/how-to-make-sculpin-skip-certain-sources/
 https://matthiasnoback.nl/2017/06/making-a-docker-image-ready-for-swarm-secrets/
 https://matthiasnoback.nl/2017/07/designing-a-json-serializer/
+https://matthiasnoback.nl/2017/07/layers-ports-and-adapters-part-1-introduction/
+https://matthiasnoback.nl/2017/08/layers-ports-and-adapters-part-2-layers/
+https://matthiasnoback.nl/2017/08/layers-ports-and-adapters-part-3-ports-and-adapters/
 
 
 #################################################### Qafoo ##############################################################
@@ -167,6 +203,8 @@ https://www.phpclasses.org/blog/post/539-Macroslike-in-PHP-72-using-Arrow-Functi
 https://www.phpclasses.org/blog/post/284-Create-a-Google-Maps-alternative-with-PHP-and-MySQL-using-the-Leaflet-library.html
 https://www.phpclasses.org/blog/post/576-PHP-Hybrid-VM-to-Make-Small-PHP-Benchmarks-15-Faster--3-Minutes-Lately-in-PHP-podcast-episode-84.html
 https://www.phpclasses.org/blog/post/589-Improving-PHP-Extensions-Mixing-PHP-and-C-code-using-PCS--4-Minutes-Lately-in-PHP-podcast-episode-85.html
+https://www.phpclasses.org/blog/package/10411/post/1-How-to-Implement-a-Year-2038-Problem-Fix-in-PHP-Applications-that-Are-Using-Unix-Timestamps.html
+https://www.phpclasses.org/blog/post/599-Definite-CSRF-Attack-Protection-in-PHP-with-Same-Site-Cookies-Support--3-Minutes-Lately-in-PHP-podcast-episode-86.html
 
 
 #################################################### Murze ##############################################################
@@ -175,3 +213,5 @@ https://murze.be/2017/01/artisan-command-easily-test-mailables/
 https://murze.be/2017/03/easy-way-validate-front-end-forms-using-back-end-logic/
 https://murze.be/2017/07/easily-covert-webpages-to-images-using-php/
 https://murze.be/2017/07/easily-optimize-images-using-php-binaries/
+https://murze.be/2017/08/tool-automatically-rerun-phpunit-tests-source-code-changes/
+
