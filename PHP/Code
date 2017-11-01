@@ -180,4 +180,65 @@ https://github.com/piwik/device-detector - will parse any User Agent and detect 
 https://github.com/awesomite/chariot - Just another routing library
 https://github.com/wikimedia/mediawiki - The collaborative editing software that runs Wikipedia.
 https://github.com/bearframework/bearframework - An open-sourced PHP framework. Incredibly lightweight. Powerful enough.
-
+https://github.com/awesomite/error-dumper - Debugger integrated with PhpStorm
+https://github.com/senselogic/PHOENIX - Lightweight language that compiles to PHP.
+https://github.com/speedtracker/speedtracker - Visualisation layer and data store for SpeedTracker
+https://github.com/lucatume/wp-browser - A WordPress specific set of extensions for Codeception
+https://github.com/soberwp/controller - Composer package to enable a controller when using Blade with Sage 9
+https://github.com/Toxantron/scrumonline - PHP web app for planning poker
+https://github.com/InvoicePlane/InvoicePlane - A free and open source invoicing application
+https://github.com/BOINC/boinc - Open-source software for volunteer computing and grid computing.
+https://github.com/Roave/BetterReflection - a reflection API that aims to improve PHP's built-in reflection API.
+https://github.com/platformsh/platformsh-cli -  unified tool for managing your Platform.sh services from the command line.
+https://github.com/DOMjudge/domjudge - DOMjudge programming contest jury system 
+https://github.com/eventespresso/event-espresso-core - Core plugin for Event Espresso 4
+https://github.com/pods-framework/pods - Content Development Framework for WordPress
+https://github.com/phpMussel/phpMussel - PHP-based anti-virus anti-trojan anti-malware solution.
+https://github.com/i-MSCP/imscp - i-MSCP Main Repository
+https://github.com/apioo/psx - PHP REST API Framework
+https://github.com/lucatume/wp-browser - A WordPress specific set of extensions for Codeception
+https://github.com/GenisysPro/GenisysPro - Feature-rich server software for Minecraft PE and Windows 10 Edition 
+https://github.com/Automattic/jetpack - Increase your traffic, view your stats, speed up your site
+https://github.com/sbpp/sourcebans-pp - Admin, ban, and comms management system for the Source engine
+https://github.com/nelmio/alice - Expressive fixtures generator
+https://github.com/clivern/Imap - Access Mailbox Using PHP IMAP
+https://github.com/propelorm/Propel2 - open-source high-performance Object-Relational Mapping 
+https://github.com/widmogrod/php-functional - Functors, Applicative Functors and Monads in PHP
+https://github.com/RhubarbPHP/Rhubarb - The tasty PHP framework.
+https://github.com/sciactive/nymph - Data Objects for JavaScript and PHP
+https://github.com/roots/bedrock - WordPress boilerplate with modern development tools
+https://github.com/phpspec/prophecy - Highly opinionated mocking framework for PHP 5.3+
+https://github.com/c9s/Pux - Pux is a fast PHP Router and includes out-of-box controller tools
+https://github.com/phacility/libphutil - A collection of PHP utility classes
+https://github.com/tacnoman/dephpugger - Php Debugger to run in terminal to debug your code easily.
+https://github.com/tightenco/ziggy - Use your Laravel named routes in JavaScript
+https://github.com/yriveiro/php-fslock - A simple lock implementation using flock.
+https://github.com/PHPBoost/PHPBoost - Create your own website.
+https://github.com/YetiForceCompany/YetiForceCRM - innovative CRM systems that supports mainly business processes
+https://github.com/markhuot/craftql - A drop-in GraphQL server for Craft CMS
+https://github.com/barbushin/dater - PHP library to work with date and time in different timezones & formats
+https://github.com/infection/infection - AST based PHP Mutation Testing Framework 
+https://github.com/PufferPanel/PufferPanel - open source game server management panel
+https://github.com/jupeter/clean-code-php - Clean Code concepts adapted for PHP
+https://github.com/cakephp/bake - The Bake Command Plugin
+https://github.com/jstanden/cerb -  bot powered email management and workflow automation
+https://github.com/uiot/raise - internet of things open middleware 
+https://github.com/rollbar/rollbar-php - Error tracking and logging from PHP to Rollbar
+https://github.com/apiato/apiato - framework for building scalable and testable API-Centric Apps
+https://github.com/dmitry-ivanov/laravel-helper-functions - Provides Laravel-specific and pure PHP helper functions
+https://github.com/keenlabs/KeenClient-PHP - Official PHP client for the Keen IO API.
+https://github.com/jasonmunro/cypht - Lightweight Open Source webmail written in PHP and JavaScript  
+https://github.com/atlasphp/Atlas.Orm - A data mapper implementation for your persistence model in PHP.
+https://github.com/Wixel/GUMP - PHP input validation class that allows you to validate any data
+https://github.com/dg/dibi - dibi - smart database abstraction layer
+https://github.com/BadChoice/handesk - A Powerful Laravel Help Desk and Lead Management App 
+https://github.com/emoncms/emoncms - Web-app for processing, logging and visualising energy,
+https://github.com/M165437/laravel-blueprint-docs - API Blueprint Renderer for Laravel, customizable via Blade templates
+https://github.com/Admidio/admidio - free open source user management system
+https://github.com/conekta/conekta-php - PHP Bindings for Conekta's API
+https://github.com/woohoolabs/yin - The efficient and elegant JSON:API server library for PHP
+https://github.com/joeldg/bowhead - PHP trading bot framework
+https://github.com/Azure/autorest - OpenAPI (f.k.a Swagger) Specification code generator
+https://github.com/vimeo/psalm - A static analysis tool for finding errors in PHP applications 
+https://github.com/librenms/librenms - Community-based GPL-licensed network monitoring system 
+https://github.com/stevebauman/purify - An HTML Purifier / Sanitizer for Laravel
