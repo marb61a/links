@@ -12,15 +12,20 @@ https://phptownhall.com/episode-51-good-riddance/
 https://phptownhall.com/what-do-we-do-now/
 https://phptownhall.com/dev-rel-travel-bedbugs/
 
+
 ## Nomad PHP
 https://nomadphp.com/transparent-session-management-sessionz/
 https://nomadphp.com/install-vagrant-via-composer-homestead/
+https://nomadphp.com/practical-introduction-snapshot-testing/
+https://nomadphp.com/considering-effectiveness-test-automation/
+
 
 ## Zend Bites
 https://www.briefs.fm/zend-framework-bites/23
 https://www.briefs.fm/zend-framework-bites/24
 https://www.briefs.fm/zend-framework-bites/25
 https://www.briefs.fm/zend-framework-bites/26 - ReflectionBasedAbstractFactory Overview
+
 
 ## Laravel News Podcast
 https://laravel-news.com/podcast/30 - Laravel 5.4 with Taylor Otwell
@@ -32,6 +37,10 @@ https://laravel-news.com/podcast/35 - Interview with Mohamed Said, Laravel's Fir
 https://laravel-news.com/podcast/36 - Laravel Macros, frontend presets, and Jigsaw
 https://laravel-news.com/podcast/40 - 
 https://laravel-news.com/podcast/41 - Laracon Sessions with Michele and Mathias Hansen
+https://laravel-news.com/podcast/43 - Laracon US 2017 wrap, Laravel Horizon
+https://laravel-news.com/podcast/44 - Laracon EU, incoming mail, and API resources
+https://laravel-news.com/podcast/45 - Laravel and Lumen 5.5, shareable models, and chat bots
+
 
 ## PHPUgly
 https://phpugly.com/blog/44upgrayedd
@@ -60,6 +69,10 @@ http://www.phpugly.com/episodes/1bf4951e/66-execute-order-66
 http://www.phpugly.com/episodes/e60da97a/67-block-chain-heads
 http://www.phpugly.com/episodes/d9cd235b/68-trunk-based-outrage
 http://www.phpugly.com/episodes/df758698/69-eric-gets-fired
+http://www.phpugly.com/70 - The Triumphant Return
+http://www.phpugly.com/71 - The weekly postmortem
+http://www.phpugly.com/episodes/1e3244ef/72-a-wave-of-confusion
+
 
 ## Magetalk
 https://magetalk.com/magetalk-episode-115-fancy-your-schmancy/
@@ -81,12 +94,20 @@ https://magetalk.com/magetalk-episode-133-the-gartner-report/
 https://magetalk.com/magetalk-episode-134-getting-an-mba-in-mbi-with-bob-moore-of-magento/
 https://magetalk.com/magetalk-episode-135-the-great-end-of-life-debate-of-2017/
 https://magetalk.com/magetalk-episode-137-hard-brexit-thanks-obama/
+https://magetalk.com/magetalk-episode-138-kalen-zero-to-sixty-in-the-podcast-jordan/
+https://magetalk.com/magetalk-episode-139-he-was-totally-hot-he-lent-me-his-library-card/
+https://magetalk.com/magetalk-episode-140-im-gonna-skenaegel-it/
+https://magetalk.com/magetalk-episode-141-a-trial-balloon-for-a-magento-ipo/
+https://magetalk.com/magetalk-episode-142-magento-2-solution-specialist-exam-review-w-ben-robie/
+
 
 ## Laravelpodcast
 http://www.laravelpodcast.com/episodes/53433-episode-50-turkey-day-touch-bar
 http://www.laravelpodcast.com/episodes/55797-episode-51-dusky-christmas
 http://www.laravelpodcast.com/episodes/59891-episode-52-doug-pro
 http://www.laravelpodcast.com/episodes/68236-episode-53-bigger-better
+http://www.laravelpodcast.com/episodes/e2631bb6/season-3-teaser
+
 
 ## PHPRoundtable
 https://www.phproundtable.com/episode/php-7-1
@@ -97,3 +118,8 @@ https://www.phproundtable.com/episode/dependency-injection-and-psr-11
 https://www.phproundtable.com/episode/all-things-laravel
 https://www.phproundtable.com/episode/php-7-internals-scanning-parsing-ast-and-engine
 https://www.phproundtable.com/episode/php-test-fest-2017
+https://www.phproundtable.com/episode/my-transition-from-vagrant-to-docker
+
+
+## PHPArch
+https://www.phparch.com/podcast/episode-1-goes/
