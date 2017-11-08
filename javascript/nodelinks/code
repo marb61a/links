@@ -456,4 +456,41 @@ https://github.com/lukechilds/cacheable-request - Wrap native HTTP requests with
 https://github.com/jaredpalmer/backpack - Backpack is a minimalistic build system for Node.js projects.
 https://github.com/lukechilds/keyv - Simple key-value store with support for multiple backends
 https://github.com/allegro/node-worker-nodes - A node.js library to run cpu-intensive tasks
+https://github.com/takeoff-env/takeoff - A rapid development environment using docker for convenience
+https://github.com/hiproxy/hiproxy -  lightweight proxy tool for Front-End developers based on Node.js
+https://github.com/mplewis/src2png - Turn your source code into beautiful syntax-highlighted images.
+https://github.com/toniov/gcal-cli - Google Calendar command line tool for Node.js
+https://github.com/saintedlama/mongoist - Mongodb driver inspired by mongojs built with async/await in mind
+https://github.com/oncletom/crx - A node.js command line app for packing Google Chrome extensions.
+https://github.com/finnfiddle/words-to-numbers - JS library to convert textual words to numbers 
+https://github.com/saintedlama/microq - Micro job queue built on mongo
+https://github.com/dynsdjs/dynsdjs - Dead-simple DNS Server Daemon written in NodeJS
+https://github.com/Kinsi55/node_saved - Backup and restore native Arrays and Objects to/from Redis in realtime
+https://github.com/cronvel/terminal-kit - Terminal utilities for node.js
+https://github.com/cherow/cherow - Fast, standard-compliant ECMAScript parser
+https://github.com/microapps/MoonMail - Shoot billions of emails using AWS - SES - Lambda
+https://github.com/GroaJS/groa - Expressive gRPC middleware framework for Node.js
+https://github.com/pemrouz/fero - light, fast, scalable, streaming microservices made easy
+https://github.com/railsware/upterm - A terminal emulator for the 21st century.
+https://github.com/kodie/npm-gif - Replace NPM install's progress bar with a GIF!
+https://github.com/laoqiren/yohe - powerful static blog generator
+https://github.com/talyssonoc/node-api-boilerplate - DDD/Clean Architecture inspired boilerplate for Node web APIs 
+https://github.com/clintonwoo/hackernews-react-graphql - Hacker News clone rewritten with universal JavaScript
+https://github.com/azuqua/clusterluck - A library for writing distributed systems
+https://github.com/mkozjak/node-telnet-client - A simple telnet client for node.js
+https://github.com/gka/schnack - Simple node app for Disqus-like drop-in commenting on static websites
+https://github.com/dollarshaveclub/es-check - Checks the version of ES in JavaScript files with simple shell commands
+https://github.com/ip-num/ip-num - A TypeScript library for working with ASN, IPv4, and IPv6 numbers
+https://github.com/Microsoft/napajs - Napa.js: a multi-threaded JavaScript runtime
+https://github.com/alexpusch/queuelite.js - Super simple Node.js message queue for fun and prototyping
+https://github.com/resin-io/etcher - Flash OS images to SD cards & USB drives, safely and easily. 
+https://github.com/strapi/strapi - Node.js Content Management Framework (headless-CMS)
+https://github.com/Requarks/wiki - A modern, lightweight and powerful wiki app built on NodeJS
+https://github.com/githubsaturn/captainduckduck/ - Automated Scalable Ready Webserver Package
+https://github.com/franciscop/server -  Simple and powerful server for Node.js 
+https://github.com/vitalets/websocket-as-promised - A Promise-based API for WebSockets
+https://blogs.msdn.microsoft.com/commandline/2017/10/27/running-node-js-on-wsl-from-visual-studio-code/
+https://github.com/o1lab/xmysql - One command to generate REST APIs for any MySql Database
+https://github.com/laoqiren/mlhelper - Algorithms and utils for Machine Learning in JavaScript.
+https://github.com/SparkPost/heml - open source markup language for building responsive email.
 
