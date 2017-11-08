@@ -15,7 +15,6 @@ https://vimeo.com/136965797 - Joao Parreira - Scaling Node.js to 500 million Use
 https://www.youtube.com/watch?v=u2XCdkL4bWI
 https://www.youtube.com/channel/UC7z0nOE8ITfrGnXJgNzYaEQ
 https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg
-https://www.youtube.com/playlist?list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2#nodeconflondon2016 - Node Conf London 2016
 https://www.youtube.com/watch?v=B90OabhYJpA - Yunong Xiao - Slaying Monoliths with Docker and Node.js, a Netflix Original
 https://www.youtube.com/watch?v=nvHxA7dYw0w - Instrumenting Node.js in Production
 https://www.youtube.com/watch?v=UeYOcxHmol4 - CLI Love: How to Write Better CLI Tools with Node.js
@@ -62,6 +61,14 @@ https://www.youtube.com/watch?v=EN6Dx22cPRI - Using MySQL With Node.js
 https://www.youtube.com/watch?v=sYF_pJI93tc - Numeric Computing with Node.js 
 https://www.youtube.com/watch?v=291i04TfGb0 - Build a GraphQL Server with Node.js and MongoDB
 https://www.youtube.com/watch?v=_Zwqn7FV6ms - Build a GraphQL Server with Node.js and Redis
+https://www.youtube.com/watch?v=Xb_0awoShR8 - Debugging in 2017 with Node.js
+https://www.youtube.com/watch?v=lAJWHHUz8_8 - GraphQL Basics
+https://www.youtube.com/watch?v=tSW72IlTJGw - Creating RESTful Web Services the Easy Way with Node.js
+https://www.youtube.com/watch?v=gx9ZNY9DNBs - A Brief History of Streams
+https://www.youtube.com/watch?v=H48KuESn2sk - Keeping JavaScript Safe: Security & the npm Registry
+https://www.youtube.com/watch?v=502AJeXln18 - One Week in the Life of Node.js
+https://www.youtube.com/watch?v=7rx9fSUG8H0 - V8 Today and in the Future
+https://www.youtube.com/watch?v=Fbhhc4jtGW4 - Node.js Performance and Highly Scalable Micro-Services
 
 
 ##Pusher Videos
@@ -76,9 +83,11 @@ https://pusher.com/sessions/meetup/dotnetsheff/aspnet-nodejs-javascript-services
 https://pusher.com/sessions/meetup/london-node-user-group/speeding-up-ci-with-node-and-docker
 https://pusher.com/sessions/meetup/london-node-user-group/trading-cryptocurrencies-forex-commodities-stocks-and-more-using-nodejs
 https://pusher.com/sessions/meetup/london-node-user-group/knock-knock-whos-there-file-compression
+https://pusher.com/sessions/meetup/the-js-roundabout/nodejs-on-serverless
 
 
 ##Playlists & Channels
+https://www.youtube.com/playlist?list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2 - Node Conf London 2016
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp - Net Ninja NodeJS for Beginners
 https://www.youtube.com/playlist?list=PLO7dK6dlKmdtggUsLtswlQB1KKSRvzLRN - Full Stack React & Node JS Project
 https://www.youtube.com/playlist?list=PLz6xH_GrBpquZgdVzEX4Bix0oxHQlZfwm - NodeConfAR 2016
@@ -96,23 +105,21 @@ http://www.slideshare.net/sergimansilla/architecting-large-nodejs-applications-1
 
 
 ##Important Links -
-https://nodejs.org
 http://www.electrode.io/index.html - UNIVERSAL REACT/NODE APPLICATION PLATFORM
 https://hyperdev.com/about/ - developer playground for building full-stack web apps, fast
-http://node-machine.org
+http://node-machine.org - is an open standard for Javascript functions
 https://opbeat.com/community/ -  share great resources like recorded conference talks, meetup videos
 https://getkap.co - An open-source screen recorder built with web technology
-https://parall.ax/vtop
+https://parall.ax/vtop - A Terminal Activity Monitor in Node.js
 https://www.tjson.org - Tagged JSON with Rich Types
 http://wallabyjs.com/docs/intro/get-started-sublime.html
 http://perkframework.com/ - A node framework built on three core tenets: documentation, stability and balance
 https://iojs.org/en/index.html
 http://markojs.com/ - A high performance templating engine 
-https://modulus.io
 https://medium.com/@c2c/my-7-node-js-mantras-edd6c148e8dc
-http://bookshelfjs.org
-http://blog.tonicdev.com/2015/09/30/embedded-tonic?
-http://adonisjs.com/
+http://bookshelfjs.org -  a JavaScript ORM for Node.js, built on the Knex SQL query builder
+http://blog.tonicdev.com/2015/09/30/embedded-tonic
+http://adonisjs.com/ - a Node.js web framework
 http://nodeframework.com/index.html#home
 http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story
 http://www.manifoldjs.com
@@ -133,7 +140,7 @@ http://www.nodebb.org/
 https://thorinjs.com/ - Thorin.js is the Node.js framework that you can use to easily
 http://lorenzopicoli.github.io/Sark/
 https://hyperterm.org/ - JS/HTML/CSS Terminal
-http://keystonejs.com/ 
+http://keystonejs.com/ - Node.js CMS & Web Application Platform 
 http://everythingstays.com/ - Immutable & Distributed NodeJS Modules With IPFS
 http://feathersjs.com/ - A minimalist real-time framework for tomorrow's apps.
 https://zeit.co/now - Realtime Node Deployments (Free Tier available)
