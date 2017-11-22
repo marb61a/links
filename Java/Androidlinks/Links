@@ -47,7 +47,12 @@ https://www.youtube.com/watch?v=RQHYVj2k3NM - ExoPlayer 2.0 & Brushing Up on Lin
 https://www.youtube.com/watch?v=0XSf7sX2rCQ - Advanced RxJava and Conductor
 https://www.youtube.com/watch?v=osVpqz10UP8 - Top Tips for Terrible Tech Talks
 https://www.youtube.com/watch?v=hjHZkZr3GZw - Understanding Dagger 2 on Android
-
+https://www.youtube.com/watch?v=7kD0ZYzJbYo - What's New in Android Oreo for Developers
+https://www.youtube.com/watch?v=BH33_MhxDOY - EmojiCompat
+https://www.youtube.com/watch?v=HxRv_w5DcxM - Introduction to Android Things
+https://www.youtube.com/watch?v=PuaYhnGmeEk - Enroll in Google Play App Signing to Secure Your App Keys
+https://www.youtube.com/watch?v=seggpIKeiSw - RxJava with Sarah Lensing
+https://www.youtube.com/watch?v=3TENdS9Qqcc - Improving Android Studio Performance on Memory-Constrained Machines
 
 
 ## Playlists & Channels
@@ -73,7 +78,7 @@ https://www.youtube.com/playlist?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy - Googl
 ## Realm.io
 https://realm.io/news/kau-felipe-lima-adopting-rxjava-airbnb-android/
 https://realm.io/news/donn-felker-reactive-android-ui-programming-with-rxbinding/
-https://realm.io/news/360andev-richa-khandelwal-effective-android-architecture-patterns-java/ - Effective Android Architecture
+https://realm.io/news/360andev-richa-khandelwal-effective-android-architecture-patterns-java/ 
 https://realm.io/news/intro-to-rxjava/ - Intro to Java
 https://realm.io/news/360andev-jake-wharton-java-hidden-costs-android/
 https://realm.io/news/360andev-margaret-maynard-reid-making-android-apps-with-intelligence/
@@ -94,6 +99,10 @@ https://academy.realm.io/posts/postmates-michael-soares-torrey-atcitty-building-
 https://academy.realm.io/posts/android-studio-tips-droidcon-boston-2017-scheel/
 https://academy.realm.io/posts/understanding-android-views-and-gestures-android-meetup-chang-2017/
 https://academy.realm.io/posts/through-the-looking-glass-eyes-of-an-android-droidcon-2017/
+https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components/
+https://academy.realm.io/posts/360-andev-2017-mercedes-wyss-java-8-features-android/
+https://academy.realm.io/posts/360-andev-2017-namrata-bandekar-video-processing-on-android/
+https://academy.realm.io/posts/360-andev-2017-kasra-rahjerdi-making-your-app-instant/
 
 
 ## Caster.io
@@ -142,6 +151,8 @@ http://fragmentedpodcast.com/episodes/92/ - Learning Kotlin – dealing with sta
 http://fragmentedpodcast.com/episodes/93/ - RxJava intervention with Dan Lew
 http://fragmentedpodcast.com/episodes/94/ - Design Patternitis – 5 Tips to Help You
 http://fragmentedpodcast.com/episodes/95/ - Room Databases with Florina Muntenescu
+http://fragmentedpodcast.com/episodes/96/ - Romain Guy on Displays, CPU’s, GPU’s and Color
+http://fragmentedpodcast.com/episodes/97/ - Android Architecture Paging Library with Florina Muntenescu
 
 
 ##Links - 
