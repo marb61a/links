@@ -87,6 +87,7 @@ https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f25
 https://inthecheesefactory.com/blog/how-to-share-access-to-file-with-fileprovider-on-android-nougat/
 https://zeroturnaround.com/rebellabs/using-build-cache-in-android-studio-makes-gradle-build-faster/
 https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/
+https://zeroturnaround.com/rebellabs/using-buildsrc-for-custom-logic-in-gradle-builds/
 http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html
 https://blog.hypertrack.io/2016/12/01/scheduling-tasks-in-android-made-easy/
 http://www.survivingwithandroid.com/2016/09/android-firebase-push-notification.html
@@ -132,12 +133,11 @@ http://handstandsam.com/2017/05/04/identifying-an-android-device/
 http://blog.israelferrer.com/post/160777825719/android-app-architecture-reloaded
 http://blog.blundellapps.co.uk/android-architecture-components-meets-androidthings/
 http://blog.blundellapps.co.uk/tut-android-things-leds-gpio-on-the-rainbow-hat/
+http://blog.blundellapps.co.uk/tut-android-things-piezzo-transducer-pwm-on-the-rainbow-hat/
 https://robinhood.engineering/beautiful-animations-using-android-constraintlayout-eee5b72ecae3
+https://tech.buzzfeed.com/from-westinghouse-to-android-instant-apps-60fbfaca4ebe
 http://blog.octo.com/en/android-themes-styles-a-real-architecture/
 https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps
-https://proandroiddev.com/android-things-analog-i-o-and-pwm-spi-i²c-tutorial-with-the-raspberry-pi-5bbc957099da
-https://tech.buzzfeed.com/from-westinghouse-to-android-instant-apps-60fbfaca4ebe
-https://proandroiddev.com/itemdecoration-in-android-e18a0692d848
 https://www.twilio.com/blog/2017/06/build-a-smart-doorbell-with-twilio-and-android-things.html
 https://engineering.tumblr.com/post/161546559631/introducing-graywater-for-android
 https://techblog.badoo.com/blog/2017/06/07/reactive-selfies-with-camera2-api-on-android-part-1/
@@ -157,7 +157,22 @@ http://blog.danlew.net/2017/08/02/why-not-rxlifecycle/
 https://bytes.blueapron.com/marinator-delicious-dependency-injection-8a15d2a4adfe
 http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers/
 https://www.whatsthatlambda.com/android/android-cardview-101-everything-you-should-know
+https://www.whatsthatlambda.com/android/android-dev-101-things-every-beginner-must-know
 https://rongi.github.io/kotlin-blog/rxjava/rx/2017/08/01/error-handling-in-rxjava.html
 https://blog.aritraroy.in/30-bite-sized-pro-tips-to-become-a-better-android-developer-b311fd641089
 https://overflow.buffer.com/2017/08/18/exploring-test-driven-development-android-ui-tests/
+http://johnpetitto.com/validator
+https://engineering.21buttons.com/how-to-test-fragments-in-isolation-a7435a4cdc92
+https://blog.chizobaogbonna.me/device-to-device-push-notification-using-cloud-functions-for-firebase-5e607d74d7a2
+http://shikherverma.com/blog/Source-Code-Diving
+https://code.facebook.com/posts/1537144479682247/finding-inter-procedural-bugs-at-scale-with-infer-static-analyzer
+https://www.captechconsulting.com/blogs/building-a-google-assistant-controlled-android-things-device
+https://novicedock.com/learn/computer-science/android-development
+https://open.nytimes.com/register-better-in-app-billing-testing-on-android-73af5fcc36dc
+https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e
+https://engineering.instagram.com/beautiful-performant-android-ui-62ce61ca748c
+https://haptic.al/getting-started-with-daydream-development-d9fb92cca652
+https://androiduipatterns.com/toolbar-delight-8c5e4500b899
+https://www.plightofbyte.com/android/2017/09/03/genymotion-vs-android-emulator/
+http://androidkt.com/paging-library/
 
