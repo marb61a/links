@@ -123,6 +123,15 @@ https://medium.com/devnibbles/rxjava-the-first-3-patterns-4c112a85b689
 https://medium.com/@kiwiandroiddev/distraction-free-reading-for-your-android-app-part-i-242f77466175
 https://medium.com/@romain.rochegude/fsm-on-android-how-to-reach-app-modularity-f62d0a0054a
 https://medium.com/@zeyad.gasser/rxredux-9dcfa3f35934
+https://medium.com/car2godevs/99-9-crash-free-sessions-bd2205262103
+https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c
+https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa
+https://medium.com/exploring-android/android-architecture-components-testing-your-viewmodel-livedata-70177af89c6e
+https://medium.com/@hitherejoe/building-a-guitar-chord-tutor-for-actions-on-google-part-two-9e0786dfa108
+https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9
+https://medium.com/citerus/lifecycle-fragments-backstack-f32e34f012d5
+https://medium.com/groupon-eng/from-fragments-to-activity-the-lambda-way-32c768c72aa9
+https://medium.com/@alahammad/database-with-room-using-rxjava-764ee6124974
 
 
 ######################################## Android Developers Blog ##############################################
@@ -136,6 +145,9 @@ https://android-developers.googleblog.com/2016/12/important-best-practices-to-im
 https://android-developers.googleblog.com/2017/02/build-flexible-layouts-with.html
 https://android-developers.googleblog.com/2017/05/android-and-architecture.html
 https://android-developers.googleblog.com/2017/07/shut-hal-up.html
+https://android-developers.googleblog.com/2017/08/how-to-improve-app-design-for-wear-20.html
+https://android-developers.googleblog.com/2017/08/understanding-performance-benefits-of.html
+https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html
 
 
 ######################################## Sebs Top Tips ##############################################
@@ -158,6 +170,7 @@ https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-
 https://medium.freecodecamp.com/android-app-optimization-using-arraymap-and-sparsearray-f2b4e2e3dc47#.w0xnfvu0u
 https://medium.freecodecamp.com/android-development-best-practices-83c94b027fd3#.fqy2njfo3
 https://medium.freecodecamp.com/material-design-and-the-mystery-meat-navigation-problem-65425fb5b52e#.vvdzlr1q5
+https://medium.freecodecamp.org/want-to-optimize-network-usage-check-out-local-storage-and-rxjava-backpressure-8b91b1db298a
 
 
 ######################################## Ray Wenderlich ##############################################
@@ -184,6 +197,13 @@ https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation
 https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd
 https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-2-6eaf60965df7
 https://proandroiddev.com/solid-android-analytics-with-rxjava2-6270ce8c26f9
+https://proandroiddev.com/android-things-analog-i-o-and-pwm-spi-i²c-tutorial-with-the-raspberry-pi-5bbc957099da
+https://proandroiddev.com/itemdecoration-in-android-e18a0692d848
+https://proandroiddev.com/android-architecture-components-mvvm-part-1-1bd138959535
+https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce
+https://proandroiddev.com/hide-your-crashes-gracefully-and-still-report-them-9b1c85b25875
+https://proandroiddev.com/taming-state-and-side-effects-on-android-d4749a8a50bc
+https://proandroiddev.com/making-the-most-out-of-the-android-studio-debugger-61713131d065
 
 
 ######################################## Google Developers ##############################################
@@ -217,6 +237,10 @@ https://medium.com/google-developer-experts/using-firebase-as-a-real-time-system
 https://aiyprojects.withgoogle.com/voice/
 https://medium.com/google-developers/room-rxjava-acb0cd4f3757
 https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090
+https://developers.google.com/android/guides/opensource
+https://medium.com/google-developers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54
+https://medium.com/google-developers/large-database-queries-on-android-cb043ae626e8
+https://medium.com/google-developers/troubleshooting-proguard-issues-on-android-bce9de4f8a74
 
 
 ######################################## Tutsplus ##############################################
@@ -231,6 +255,7 @@ https://code.tutsplus.com/tutorials/getting-started-with-retrofit-2--cms-27792
 https://code.tutsplus.com/tutorials/how-to-make-calls-and-use-sms-in-android-apps--cms-28168
 https://code.tutsplus.com/tutorials/android-o-phone-number-verification-with-sms-token--cms-29141
 https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749
+https://code.tutsplus.com/tutorials/concurrency-in-rxjava-2--cms-29288
 
 
 ######################################## UXPlanet ##############################################
@@ -322,6 +347,11 @@ https://blog.stylingandroid.com/architecture-components-summary/
 https://blog.stylingandroid.com/the-trouble-with-clickablespan/
 https://blog.stylingandroid.com/time-for-non-time-lords-part-1/
 https://blog.stylingandroid.com/time-for-non-time-lords-part-2/
+https://blog.stylingandroid.com/time-for-non-time-lords-part-3/
+https://blog.stylingandroid.com/time-for-non-time-lords-part-4/
+https://blog.stylingandroid.com/time-for-non-time-lords-part-5/
+https://blog.stylingandroid.com/midipad-introduction/
+https://blog.stylingandroid.com/midipad-tricks-with-kotlin-and-architecture-components/
 
 
 ######################################## Nimbledroid ##############################################
@@ -360,7 +390,9 @@ http://hannesdorfmann.com/android/mosby3-mvi-3
 http://hannesdorfmann.com/android/mosby3-mvi-4
 http://hannesdorfmann.com/android/mosby3-mvi-5
 http://hannesdorfmann.com/android/mosby3-mvi-6
+http://hannesdorfmann.com/android/mosby3-mvi-7
 http://hannesdorfmann.com/android/arch-components-purist
+
 
 
 ######################################## Artemzin ##############################################
@@ -378,6 +410,7 @@ https://realm.io/news/eric-maxwell-mvc-mvp-and-mvvm-on-android/
 https://realm.io/news/mobilization-hugo-visser-rxjava-for-rest-of-us/
 https://realm.io/news/mobilization-eric-kok-functional-android-lambdas-rx-streams-app
 http://news.realm.io/news/layoutinflater-droid-kaigi-2017-jenx
+https://academy.realm.io/posts/creating-a-reactive-data-layer-with-realm-and-rxjava2/
 
 
 ######################################## Rebecca Franks ##############################################
@@ -393,6 +426,7 @@ https://riggaroo.co.za/android-architecture-components-looking-room-livedata-par
 https://riggaroo.co.za/android-architecture-components-looking-viewmodels-part-2/
 https://riggaroo.co.za/android-architecture-components-looking-lifecycles-part-3/
 https://riggaroo.co.za/resources-getting-started-android-development/
+https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/
 
 
 ######################################## Philisophical Hacker ##############################################
@@ -449,6 +483,8 @@ https://hackernoon.com/object-oriented-tricks-4-starter-pattern-android-edition-
 https://hackernoon.com/hello-flax-a-reactive-architecture-for-android-8e56af9c575a
 https://hackernoon.com/object-oriented-tricks-6-slap-your-functions-a13d25a7d994
 https://hackernoon.com/musing-on-architectural-components-and-realm-and-room-and-a-look-at-reactive-clean-architecture-880c8df55abf
+https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514
+https://hackernoon.com/five-things-to-consider-before-going-indie-2e4c92b0b80b
 
 
 ######################################## Raphael Toledo ##############################################
@@ -479,6 +515,17 @@ https://android.jlelse.eu/knowledge-boost-for-junior-android-developers-part-i-b
 https://android.jlelse.eu/recyclerview-in-mvp-passive-views-approach-8dd74633158
 https://android.jlelse.eu/unity-and-android-connecting-the-dots-6368b31e86c5
 https://android.jlelse.eu/make-your-espresso-tests-more-fluent-1eae9429c92f
+https://android.jlelse.eu/open-source-your-android-code-a-complete-guide-bf0032e50f0e
+https://android.jlelse.eu/android-physics-based-animation-cf0cc125830f
+https://android.jlelse.eu/android-notifications-an-elegant-way-to-build-and-display-7771d65ba3a2
+https://android.jlelse.eu/fast-scrolling-with-recyclerview-2b89d4574688
+https://android.jlelse.eu/the-dark-side-of-fragments-ca0f871b1199
+https://android.jlelse.eu/downloadable-fonts-how-does-it-work-904b9d03e5b6
+https://android.jlelse.eu/how-to-use-asynclistutil-16b5175bb468
+https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc
+https://android.jlelse.eu/repository-layer-using-room-and-dagger-2-android-12d311830fd9
+https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9
+https://android.jlelse.eu/12-practices-every-android-beginner-should-know-cd43c3710027
 
 
 ######################################## Big Nerd Ranch ##############################################
