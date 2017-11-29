@@ -1,0 +1,21 @@
+###################################################### AWS #################################################################
+https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072
+https://medium.com/cognitoiq/low-hanging-fruit-cutting-your-rds-instance-costs-in-half-736b8b490a24
+https://medium.freecodecamp.org/going-serverless-how-to-run-your-first-aws-lambda-function-in-the-cloud-d866a9b51536
+https://hackernoon.com/how-did-i-hack-aws-lambda-to-run-docker-containers-7184dc47c09b
+http://blog.sqlizer.io/posts/facebook-on-aws/
+https://cloudonaut.io/aws-security-primer/
+https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold-starts-of-aws-lambda-a15e26d12c76
+https://node.university/blog/978472/aws-ecs-containers
+https://node.university/blog/992808/aws-ec2-wordpress
+https://hackernoon.com/creating-a-form-forwarding-service-for-aws-lambda-aec07af9f951
+https://www.lewagon.com/blog/how-to-migrate-your-heroku-postgres-database-to-amazon-rds
+https://aws.amazon.com/serverless/build-a-web-app/
+http://www.kennybastani.com/2017/07/microservices-to-service-blocks-spring-cloud-function-aws-lambda.html
+https://aws.amazon.com/blogs/aws/lambdaedge-intelligent-processing-of-http-requests-at-the-edge/
+https://medium.freecodecamp.org/how-i-cut-my-aws-bill-by-90-35c937596f0c
+https://hackernoon.com/run-your-own-aws-apis-on-openshift-d0acb876d5b6
+https://cloud.netapp.com/blog/amazon-s3-as-a-file-system
+https://medium.com/@devfire/deploying-the-elk-stack-on-amazon-ecs-dd97d671df06
+https://buoyant.io/2017/08/08/a-service-mesh-for-ecs/
+https://clevertap.com/blog/aws-infrastructure-setup-the-clevertap-way/
