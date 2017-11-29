@@ -1,0 +1,41 @@
+############################################### Tools & Software ##############################################################
+
+########## Code ##########
+##### AWS #####
+https://github.com/wallix/awless - A Mighty CLI for AWS
+https://github.com/jfaerman/aws-daleks - Iterate and exterminate an AWS Account
+https://github.com/awslabs/aws-serverless-java-container - Java wrapper to run Spring,Jersey, Spark other apps inside AWS Lambda
+https://github.com/aws/chalice - Python Serverless Microframework for AWS
+https://github.com/alexandres/poormanscdn -  a caching proxy to Amazon S3 with automatic HTTPS
+https://github.com/stojanovic/scottyjs - Deploy static websites and single page apps to AWS S3 and CloudFront
+
+
+##### Docker #####
+https://github.com/dollarshaveclub/furan - Scale out Docker builds
+https://github.com/GoogleCloudPlatform/distroless -  Language focused docker images, minus the operating system.
+
+
+###### Kubernetes #####
+https://github.com/bjhaid/pam_hook - Pam based webhook authentication for Kubernetes
+https://github.com/garethr/kubeval - Validate your Kubernetes configuration files
+https://github.com/kelseyhightower/kubernetes-initializer-tutorial - Tutorial for building and deploying Kubernetes Initializers
+https://github.com/Shopify/kubernetes-deploy -  command-line tool that helps you ship changes to a Kubernetes namespace
+https://github.com/heptio/sonobuoy  - a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster
+
+
+###### Miscellaneous #####
+https://github.com/pch/welder - Set up your Linux server with plain shell scripts
+https://github.com/lafikl/liblb - A golang library that implements load balancing algorithms
+https://github.com/sc0tfree/netbyte - a Netcat-style tool that facilitates probing proprietary TCP and UDP services.
+https://github.com/gp187/nginx-builder - A bash script & GUI interface to make adding modules and building nginx easy
+https://github.com/lipp/login-with - Stateless login-with microservice for OAuth
+https://github.com/shieldfy/API-Security-Checklist - Security Checklist
+https://github.com/jessfraz/binctr - Fully static, unprivileged, self-contained, containers as executable binaries
+https://github.com/paragonie/sapient - Secure API Toolkit 
+https://github.com/lavabit/magma - an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN
+https://github.com/firehol/netdata - Get control of your servers. Simple. Effective. Awesome
+https://github.com/dthree/addict - Get a full Active Directory REST API in 30 seconds
+https://github.com/dthree/mailit - A tiny drop-in REST API to send emails
+
+
+
