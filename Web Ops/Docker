@@ -1,0 +1,15 @@
+################################################# Docker #####################################################################
+https://semaphoreci.com/community/tutorials/creating-a-heroku-like-deployment-solution-with-docker
+https://dev.to/kellyjandrews/using-docker-compose-for-php-development
+https://labs.spotify.com/2017/06/22/improving-critical-infrastructure-rollouts/
+https://medium.com/@mswehli/overengineering-the-deployment-of-static-html-with-ci-cd-docker-and-kubernetes-ac0441b754ca
+https://blog.codeship.com/docker-guis/
+https://medium.com/bitnami-perspectives/building-docker-images-without-docker-c619061b13a9
+https://jeremyeder.com/2017/07/25/docker-operations-slowing-down-on-aws-this-time-its-not-dns/
+https://mesosphere.com/blog/docker-vs-kubernetes-vs-apache-mesos/
+https://thenewstack.io/sql-server-linux-will-fit-devops-flow/
+https://hackernoon.com/how-docker-cut-down-my-deployment-time-from-1-5-hours-to-5-minutes-35e4f9701504
+https://thenewstack.io/docker-station-part-one-essential-docker-concepts-tools-terminology/
+http://atodorov.org/blog/2017/08/07/faster-travis-ci-tests-with-docker-cache/
+https://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes
+
