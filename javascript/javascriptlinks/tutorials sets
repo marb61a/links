@@ -26,6 +26,7 @@ https://ponyfoo.com/articles/regular-expressions-post-es6
 https://ponyfoo.com/articles/pattern-matching-in-ecmascript
 https://ponyfoo.com/articles/null-propagation-operator
 https://ponyfoo.com/articles/investigating-performance-object-prototype-to-string-es2015
+https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8
 
 
 ####################################### Medium ###########################################################
@@ -68,6 +69,7 @@ https://medium.com/statuscode/cors-a-guided-tour-4e72230a8739
 https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
 https://medium.com/dailyjs/maybe-you-should-use-maybes-297f2c88c228
 https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775
+https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2
 https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a
 https://medium.com/@darrenjennings/data-driven-vue-js-53e84f16e28f
 https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358
@@ -87,6 +89,14 @@ https://medium.com/@zandaqo/javascript-c-modern-ways-to-use-c-in-javascript-proj
 https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720
 https://medium.com/datafire-io/es6-promises-patterns-and-anti-patterns-bbb21a5d0918
 https://medium.com/@netczuk/even-faster-code-formatting-using-eslint-22b80d061461
+https://medium.com/@urish/reactive-brain-waves-af07864bb7d4
+https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d
+https://medium.com/@gajus/ode-to-flow-runtime-ed78b2e10ec8
+https://medium.cobeisfresh.com/how-redux-can-make-you-a-better-developer-30a094d5e3ec
+https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
+https://medium.com/front-end-hacking/javascript-symbols-generators-and-streams-1f6ef0fb1fdc
+https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a
+https://medium.com/@jdolle/babel-7-beta-instructions-aed5cf17048b
 
 
 ###################################### Eric Elliot ###########################################################
@@ -99,6 +109,7 @@ https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-tim
 https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c
 https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
 https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
+https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
 
 
 ###################################### Freecodecamp ###########################################################
@@ -117,6 +128,9 @@ https://medium.freecodecamp.org/how-to-get-the-most-out-of-the-javascript-consol
 https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49
 https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99
 https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34
+https://medium.freecodecamp.org/arrow-functions-in-javascript-2f8bf7df5077
+https://medium.freecodecamp.org/why-could-es7-be-called-es2-4c5f094ccef7
+https://medium.freecodecamp.org/why-robots-should-format-our-code-159fd06d17f7
 
 
 ####################################### Telerik ###########################################################
@@ -139,6 +153,7 @@ http://developer.telerik.com/featured/fetch-modern-async-server-calls/
 https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/
 https://developer.telerik.com/products/kendo-ui/u-go-hue-go-controlling-philips-hue-lights-with-angular-and-kendo-ui/
 https://developer.telerik.com/topics/web-development/what-is-this-in-javascript/
+https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/
 
 
 ####################################### 2Ality ###########################################################
@@ -189,6 +204,12 @@ http://2ality.com/2017/08/type-right.html
 http://2ality.com/2017/08/optional-catch-binding.html
 http://2ality.com/2017/08/typing-import-statements.html
 http://2ality.com/2017/09/native-esm-node.html
+http://2ality.com/2017/11/proxy-method-calls.html
+http://2ality.com/2017/11/import-meta.html
+http://2ality.com/2017/11/currying-in-js.html
+http://2ality.com/2017/11/about-reasonml.html
+http://2ality.com/2017/12/alternate-this.html
+http://2ality.com/2017/12/for-await-of-sync-iterables.html
 
 
 ####################################### Mozilla ###########################################################
@@ -246,7 +267,9 @@ https://auth0.com/blog/2016/04/05/quicktip-use-jhipster/
 https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them
 https://auth0.com/blog/aurelia-1.0-how-to-build-a-simple-secured-application/
 https://auth0.com/blog/understanding-reactive-programming-and-rxjs/
-https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-1/#
+https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-1/
+https://auth0.com/blog/developing-real-time-apps-with-meteor/
+https://auth0.com/blog/webpack-a-gentle-introduction/
 
 
 ####################################### Marius Schultz ###########################################################
@@ -306,6 +329,10 @@ https://css-tricks.com/now-ever-might-not-need-jquery/
 https://css-tricks.com/using-es2017-async-functions/
 https://css-tricks.com/javascript-scope-closures/
 https://css-tricks.com/html-templates-via-javascript-template-literals/
+https://css-tricks.com/writing-smarter-animation-code/
+https://css-tricks.com/emulating-css-timing-functions-javascript/
+https://css-tricks.com/creating-star-heart-animation-svg-vanilla-javascript/
+https://css-tricks.com/front-end-developers-guide-graphql/
 
 
 ####################################### Wes Bos ###########################################################
@@ -339,3 +366,32 @@ https://blog.pusher.com/how-to-build-an-android-app-using-cordova-and-vue-js/
 https://blog.pusher.com/build-realtime-chart-with-vuejs-pusher/
 https://blog.pusher.com/build-simple-real-time-app-with-vue-js-2-0-and-pusher/
 https://blog.pusher.com/build-secure-chat-web-app-javascript-auth0-pusher/
+
+
+####################################### Twilio ###########################################################
+https://www.twilio.com/blog/2016/03/getting-started-with-the-twilio-video-javascript-sdk.html
+https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html
+https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html
+https://www.twilio.com/blog/2017/09/fax-machine-adafruit-tessel-javascript-twilio.html
+https://www.twilio.com/blog/2017/10/screen-capture-in-google-chrome.html
+https://www.twilio.com/blog/2017/10/screen-capture-in-firefox.html
+
+
+####################################### VueJS Developers ###########################################################
+https://vuejsdevelopers.com/2017/08/20/vue-js-brunch/
+https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/
+https://vuejsdevelopers.com/2017/10/16/vue-js-firestore/
+https://vuejsdevelopers.com/2017/10/23/vue-js-tree-menu-recursive-components/
+https://vuejsdevelopers.com/2017/10/30/vue-js-dynamic-imports-lazy-load/
+
+
+####################################### Codeburst ###########################################################
+https://codeburst.io/building-a-realtime-dashboard-powered-by-laravel-and-vue-2017-edition-7dc1d4954f71
+https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea
+https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4
+https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db
+https://codeburst.io/easy-i18n-in-10-lines-of-javascript-poc-eb9e5444d71e
+https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65
+https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc
+https://codeburst.io/learn-how-to-handle-javascript-errors-with-try-throw-catch-finally-83b4f9ef8c6f
+https://codeburst.io/how-i-created-a-heatmap-of-my-location-history-with-javascript-google-maps-972a2d1be240
