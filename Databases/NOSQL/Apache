@@ -1,0 +1,44 @@
+###################################################### APACHE #################################################################
+https://blog.sqreen.io/amazon-emr-spark/
+http://blog.cloudera.com/blog/2017/05/hail-scalable-genomics-analysis-with-spark/
+http://blog.cloudera.com/blog/2017/05/reading-data-securely-from-apache-kafka-to-apache-spark/
+http://blog.cloudera.com/blog/2017/05/hdfs-maintenance-state/
+http://blog.cloudera.com/blog/2017/05/bi-temporal-data-modeling-with-envelope/
+http://blog.cloudera.com/blog/2017/06/introducing-apache-hbase-medium-object-storage-mob-compaction-partition-policies/
+http://blog.cloudera.com/blog/2017/06/offset-management-for-apache-kafka-with-apache-spark-streaming/
+http://blog.cloudera.com/blog/2017/06/deep-learning-on-apache-spark-and-hadoop-with-deeplearning4j/
+https://dzone.com/articles/how-to-maximize-availability-using-apache-cassandr
+https://www.datacamp.com/community/tutorials/apache-spark-python
+https://medium.com/ibm-watson-data-lab/simple-data-visualization-in-apache-couchdb-dd1e44dc05d4
+https://medium.com/ibm-watson-data-lab/choosing-a-cloudant-library-d14c06f3d714
+https://developer.ibm.com/dwblog/2017/replicator-apache-couchdb-cloudant/
+https://developer.ibm.com/hadoop/2017/06/30/deep-dive-yarn-cgroups/
+https://www.hugopicado.com/2017/05/14/cassandra-the-tale-of-a-lonely-node.html
+https://www.hugopicado.com/2017/05/16/cassandra-the-fellowship-of-the-ring.html
+http://abiasforaction.net/apache-cassandra-cluster-docker/
+https://mapr.com/blog/churn-prediction-sparkml/
+https://mapr.com/blog/performance-tuning-kafka-spark-streaming-telecom/
+https://databricks.com/blog/2017/06/02/integrating-apache-spark-cucumber-behavioral-driven-development.html
+https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html
+https://databricks.com/blog/2017/06/23/parallelizing-large-simulations-apache-sparkr-databricks.html
+https://www.toptal.com/apache/apache-spark-streaming-twitter
+https://yokota.blog/2017/07/12/hbase-application-archetypes-redux/
+
+
+
+### Code/Projects ###
+https://github.com/apache/metron - Integrates a variety of open source big data technologies 
+https://github.com/spotify/spydra - Ephemeral Hadoop clusters using Google Compute Platform
+https://github.com/MikeBild/excel-couchdb-import - Import Excel Sheets to CouchDB/PouchDB
+https://github.com/lovoo/goka - A compact yet powerful distributed stream processing library for Apache Kafka
+https://github.com/Cobliteam/cassandra-migrate - Simple Cassandra schema migration tool written in Python
+https://github.com/ringling/couchex - Elixir wrapper around the couchbeam Erlang CouchDB client
+https://github.com/glynnbird/cloudantlite - A super lightweight CouchDB/Cloudant library for Node.js
+https://github.com/databricks/spark-deep-learning - Deep Learning Pipelines for Apache Spark 
+https://github.com/dsquier/couchit - A database iterator that includes a set of tools to help manage documents in a CouchDB 
+https://github.com/IBM/pino-couch - Load pino logs into CouchDB
+https://github.com/ibm-watson-data-lab/sqltomango - SQL to Mango (Cloudant Query) JSON converter library
+
+
+### Videos ###
+https://www.youtube.com/watch?v=UqQZ1bAGHdk - Apache CouchDB: A Tale of Community, Cooperation and Code 
