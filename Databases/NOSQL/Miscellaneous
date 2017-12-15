@@ -1,0 +1,64 @@
+################################################### Miscellaneous #############################################################
+### Rethink DB ### 
+https://focus.parabol.co/developing-a-production-realtime-application-on-rethinkdb-b7d759180edc
+
+
+### Redis ###
+https://dmitrypol.github.io/redis/2017/05/13/redis-search.html
+https://medium.com/concerning-pharo/quick-write-me-a-redis-client-5fbe4ddfb13d
+https://medium.com/@eric.wu.sh/remove-the-spinners-on-your-page-with-websocket-scala-play-akka-and-redis-203683063832
+
+
+### Couchbase ###
+https://blog.couchbase.com/couchbase-lite-with-ios-app-extensions/
+https://blog.couchbase.com/conflict-resolution-couchbase-mobile/
+https://blog.couchbase.com/using-docker-develop-couchbase/
+https://blog.couchbase.com/build-photogallery-app-aws-rekognition-couchbase/
+https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html
+
+
+### AWS ###
+https://aws.amazon.com/blogs/database/z-order-indexing-for-multifaceted-queries-in-amazon-dynamodb-part-1/
+https://aws.amazon.com/blogs/big-data/build-a-healthcare-data-warehouse-using-amazon-emr-amazon-redshift-aws-lambda-and-omop/
+https://aws.amazon.com/blogs/big-data/seven-tips-for-using-s3distcp-on-amazon-emr-to-move-data-efficiently-between-hdfs-and-amazon-s3/
+https://aws.amazon.com/blogs/big-data/analysis-of-top-n-dynamodb-objects-using-amazon-athena-and-amazon-quicksight/
+
+
+### Miscellaneous ###
+https://databricks.com/blog/2017/05/09/detecting-abuse-scale-locality-sensitive-hashing-uber-engineering.html
+https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html
+https://databricks.com/blog/2017/05/31/transactional-writes-cloud-storage.html
+https://jqassistant.org/shadows-of-the-past-analysis-of-git-repositories/
+https://dzone.com/articles/what-to-expect-when-youre-expecting-data-4-valuabl
+https://blog.figma.com/an-alternative-approach-to-rate-limiting-f8a06cf7c94c
+http://www.east5th.co/blog/2017/06/12/graphql-nosql-injection-through-json-types/
+https://medium.com/@Vadim.Popov/tarantool-in-memory-dbms-and-application-server-64d60ffa1d6e
+https://blog.georgejose.com/visualizing-transit-vehicle-locations-on-a-map-in-real-time-67a97c77cbe3
+https://griddb.net/en/docs/NoSQL_Database_Architectural_Comparison.pdf
+http://prestodb.rocks/code/simd/
+
+
+###### Code ######
+https://github.com/paxos-bankchain/subconscious - Redis-backed (in memory) db for python3 that is asyncio compatible
+https://github.com/go-kivik/kivik - Provides a common interface to CouchDB or CouchDB-like databases for Go and GopherJS
+https://github.com/dsukhoroslov/bagri - XML/Document DB on top of distributed cache
+https://github.com/glynnbird/couchdiff - CouchDB/Cloudant diff tool 
+https://github.com/CorfuDB/CorfuDB - A cluster consistency platform
+https://github.com/Hyperparticle/graph-nlu -  natural language understanding tool that leverages the power of graph databases
+https://github.com/phenopolis/pheno4j - Pheno4j: a graph based HPO to NGS database
+https://github.com/rickyhan/autocompletex - low-latency redis autocomplete tool
+https://github.com/dgraph-io/badger - Fast key-value DB in Go.
+https://github.com/BaseSecrete/redis_dashboard - Sinatra app to monitor Redis servers.
+https://github.com/aviggiano/redis-roaring - Roaring Bitmaps for Redis
+https://github.com/RedisLabsModules/rebloom - Bloom Filter Datatype for Redis
+
+
+###### Videos ######
+https://www.youtube.com/watch?v=vQB8Xs8hJ6o - Containerize a Node.js Application that Communicates with Couchbase Server
+https://blog.couchbase.com/deploying-containerized-couchbase-nosql-database-cluster-docker-video-tutorial/
+
+
+## Playlists ##
+https://www.youtube.com/playlist?list=PL83Wfqi-zYZF1MDKLr5djmLYUI0woy1wi - RedisConf 2017
+https://www.youtube.com/playlist?list=PLQ-KRsI-e9bBoDjQV_pe7L9171r2Sddsr - DataWorks Summit San Jose 2017
+
