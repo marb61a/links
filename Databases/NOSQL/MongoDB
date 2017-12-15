@@ -1,0 +1,25 @@
+###################################################### MongoDB ################################################################
+https://blog.exploratory.io/measuring-user-engagement-with-dau-mau-ratio-with-mongodb-data-2c2fb5aa27e5
+http://thecodebarbarian.com/building-a-nextjs-app-with-mongodb.html
+https://engineering.mongodb.com/post/breaking-the-wiredtiger-logjam-the-write-ahead-log-1-2
+https://engineering.mongodb.com/post/breaking-the-wiredtiger-logjam-the-wait-free-solution-2-2
+https://www.compose.com/articles/avoid-storing-data-inside-admin-when-using-mongodb/
+https://www.mongodb.com/blog/post/launching-mongodb-atlas-databases-in-the-cloud
+https://www.mongodb.com/blog/post/integrating-mongodb-atlas-twilio-and-aws-simple-email-service-with-aws-step-functions-part-2
+https://www.mongodb.com/blog/post/getting-started-with-mongodb-nodejs-and-restify
+https://www.mongodb.com/blog/post/importing-your-mongodb-data-to-aws-with-mongodb-atlas
+https://webassets.mongodb.com/_com_assets/collateral/mongodb_blockchain.pdf
+https://engineering.universe.com/mongo-aggregations-in-5-minutes-b8e1d9c274bb
+https://blog.mlab.com/2017/05/mongodb-connection-pooling-for-express-applications/
+https://www.mongodb.com/blog/post/how-to-configure-LDAP-authentication-for-mongodb
+https://codeburst.io/fawn-transactions-in-mongodb-988d8646e564
+
+
+### Code ###
+https://github.com/indatawetrust/mongo-to-elastic - Elasticsearch transfer tool for MongoDB database
+https://github.com/indatawetrust/mongo-to-rethink - RethinkDB transfer tool for MongoDB database
+https://github.com/e-oj/Fawn - Transactions for MongoDB 
+https://github.com/Isithelo/Fraternate -  A standalone copy of the GitHub organization and user interaction framework.
+https://github.com/SRoddis/Mongo.Migration - On-the-fly migrations with MongoDB C# Driver
+https://github.com/fresheneesz/mongo-parse - A parser for mongo db queries and projections.
+https://github.com/AMCN41R/harness - MongoDB Integration Test Framework
