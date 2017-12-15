@@ -1,0 +1,36 @@
+###################################################### NEO4J #################################################################
+http://www.lyonwj.com/2017/04/27/mattermark-api-graphql-neo4j-startup-funding/
+https://neo4j.com/blog/detecting-fake-news-neo4j-keylines/
+https://neo4j.com/blog/relevant-search-knowledge-graphs-neo4j/
+https://streamsets.com/blog/visualizing-analyzing-salesforce-data-neo4j/
+http://hecodes.com/2017/05/event-sourcing-in-node-js-add-git-like-functionality-to-your-application/
+https://maxdemarzi.com/2017/05/24/flight-search-with-neo4j/
+https://neo4j.com/blog/graphql-neo4j-graph-database-integration/
+http://blog.jpcert.or.jp/2017/07/clustering-malw-5a14.html
+
+
+####### Videos #######
+https://www.youtube.com/watch?v=ATkB-LQR0eY - Learning Chinese with Neo4j
+https://www.youtube.com/watch?v=Ma6lVy6x3Mg - A Pythonic Tour of Neo4j and the Cypher Query Language
+https://www.youtube.com/watch?v=6uTggNtrRY4 - Planning your next hike with Neo4j
+https://www.youtube.com/watch?v=H0CynPXVvvk - Graphs & the Police, How Law Enforcement Analyze Connected Data at Scale
+https://www.youtube.com/watch?v=-IAalFGuty0 - Visualizing and Analyzing Salesforce Data with StreamSets and Neo4j
+https://www.youtube.com/watch?v=8C6RWlsMC5c - Chatbot and Conversational Experiences with Amazon Alexa, Neo4j and GraphAware NLP
+https://www.youtube.com/watch?v=YdIWjNXSELM - Building an Object Graph Mapper for Node.js
+https://www.youtube.com/watch?v=NSaYAPiJc-M - Using Neo4j to import and analyze the bitcoin blockchain
+
+
+## Playlists ##
+https://www.youtube.com/watch?v=wbI5JwIFYEM&list=PLYXrHS_RtDZ2fbH6Ml9K5DxYBATYGeCgN - Building a Real-time Recommendation Engine With Neo4j
+
+
+###### Code ######
+https://github.com/mostafa/grest - Build REST APIs with Neo4j and Flask, as quickly as possible!
+https://github.com/in3rsha/bitcoin-to-neo4j - Import the Bitcoin blockchain in to a Neo4j graph database.
+https://github.com/technige/n4 - Interactive Cypher console for Neo4j
+https://github.com/rubin55/silver - Tool for loading relational/dependency information from rdbms into Neo4j
+https://github.com/fiatjaf/boardthreads - code that once powered https://boardthreads.com/
+https://github.com/h-omer/neo4j-versioner-core - Entity-State model managed by Neo4j Procedures
+https://github.com/LucianoPAlmeida/OGMNeo - Neo4j nodeJS OGM(object-graph mapping) abstraction layer
+https://github.com/neo4j-contrib/neo4j-graph-algorithms - Efficient Graph Algorithms for Neo4j 
+
