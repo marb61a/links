@@ -8,11 +8,12 @@ mobile development. The main sets or resources will cover
 - NodeJs
 - ReactJs
 - Ruby
-- Java
 - Android
-- Html5\Css3
-- Phonegap\Cordova
-- Ionic
+- PHP
+- Wordpress
+- .NET
+- Databases (Both SQL and No SQL)
+- Dev Ops
 
 I will also try to put together some resources for security and reverse engineering purposes.
 
