@@ -371,3 +371,21 @@ https://github.com/piotrmurach/tty-progressbar - A flexible progress bar drawing
 https://github.com/ankane/strong_migrations - Catch unsafe migrations at dev time
 https://github.com/zverok/did_you - Ruby version-agnostic wrapper for did_you_mean gem
 https://github.com/learnetto/reactchat - A chat app built with React.js and ActionCable in Ruby on Rails 5.1
+https://github.com/TENDIGI/ezpaas-cli - A miniature Heroku clone for easy in-house deployments
+https://github.com/naitoh/py2rb - A code translator using AST from Python to Ruby.
+https://github.com/ankane/searchkick - Intelligent search made easy with Rails and Elasticsearch
+https://github.com/soutaro/steep - Gradual Typing for Ruby
+https://github.com/danielwestendorf/get_schwifty - Render portions of your Rails view in a background job queue.
+https://github.com/renderedtext/render_async - render_async lets you include pages asynchronously with AJAX
+https://github.com/zinenko/virtualearth - bing maps api wrapper
+https://github.com/tombenner/reports_kit - Beautiful, interactive charts and tables for Ruby on Rails 
+https://github.com/rkrage/pg_party - ActiveRecord PostgreSQL Partitioning
+https://github.com/postwill/postwill - Posting to the most popular social media from Ruby
+https://github.com/kaminari/kaminari - clean, powerful, customizable and sophisticated paginator for Ruby webapps
+https://github.com/mwpastore/rack-session-smart_cookie - Slightly smarter session cookies for Rack 2 apps
+https://github.com/serradura/request_via - A Functional HTTP Client That Wraps Net::HTTP
+https://github.com/ankane/multiverse - Multiple databases for Rails
+https://github.com/jvillarejo/arbolito - A currency conversion api for the minimalist developer
+https://github.com/palkan/wsdirector - All the world's a server, and all the men and women merely clients
+
+
