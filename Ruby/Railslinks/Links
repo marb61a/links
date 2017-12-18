@@ -45,7 +45,9 @@ https://www.youtube.com/watch?v=nq1nNx8-fNQ - Helix: Build Native Ruby Extension
 https://www.youtube.com/watch?v=Q_MpGRfnY5s - Perusing the Rails Source Code - A Beginners Guide
 https://www.youtube.com/watch?v=j2V-A8vvLP0 - How does Bundler work anyway
 https://www.youtube.com/watch?v=GC-XIchAcqM - What I Learned to Love About Ruby When I Switched to Python 
-
+https://www.youtube.com/watch?v=Z2sq1Fwadh4 - Ruby to Go - What to expect when you switch
+https://www.youtube.com/watch?v=lKMOETQAdzs - How to Load 1m Lines of Ruby in 5s
+https://www.youtube.com/watch?v=3aJI1ABdjQk - Let's build a blockchain! — A mini-cryptocurrency in Ruby
 
 
 ## Playlists & Channels
@@ -60,6 +62,7 @@ https://www.youtube.com/channel/UChGs1td4ViQFqT0jlvkyUJg - EuRuKo 2016
 https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg
 https://www.youtube.com/user/JakeDayWilliams/playlists
 https://www.youtube.com/playlist?list=PL9_jjLrTYxc3hxsmj3AnPFf3RD4f3zfUl - RubyConf AU 2017
+https://www.youtube.com/playlist?list=PLbFmgWm555yaJalSEHY17E96ChjY-kF2D#rubykaigi2017 - RubyKaigi 2017
 
 
 ## Drifting Ruby
@@ -82,6 +85,10 @@ https://www.driftingruby.com/episodes/benchmarking-and-refactoring-the-content_f
 https://www.driftingruby.com/episodes/custom-error-pages-with-slack-notification
 https://www.driftingruby.com/episodes/recurring-events-with-ice_cube
 https://www.driftingruby.com/episodes/auditing-with-paper-trail
+https://www.driftingruby.com/episodes/creating-a-basic-gem
+https://www.driftingruby.com/episodes/basic-testing-introduction-in-rails
+https://www.driftingruby.com/episodes/feature-testing-with-capybara
+https://www.driftingruby.com/episodes/speeding-up-tests
 
 
 ## Go Rails
@@ -95,11 +102,15 @@ https://gorails.com/episodes/charts-with-chartkick-and-groupdate
 https://gorails.com/episodes/debugging-how-to-interpret-a-stacktrace
 https://gorails.com/episodes/testing-emails-with-mailcatcher
 https://gorails.com/episodes/bootsnap
+https://gorails.com/episodes/digital-ocean-spaces-with-rails
 
 
 ## Ruby Tapas
 https://www.rubytapas.com/2017/02/28/write-expressive-tests-mastering-rspec-matchers/
 https://www.rubytapas.com/2017/04/11/skinny-controller-domain-model-events/
+
+## Ruby Guides
+http://www.rubyguides.com/2017/10/array-zip-method/
 
 
 ## Links
