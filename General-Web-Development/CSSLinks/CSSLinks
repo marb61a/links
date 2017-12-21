@@ -44,6 +44,12 @@ https://www.youtube.com/watch?v=E4KAWf_fKbM - Running a performance profile on t
 https://www.youtube.com/watch?v=0mJC0A72Fnw - JavaScript Speech Recognition
 https://www.youtube.com/watch?v=DJ-oSy0tN_U - Building fluid interfaces with React and WebGL 
 https://www.youtube.com/watch?v=_1GlhO1RxRg - Bringing back the 1990s: The revenge of JavaScript Style Sheets 
+https://www.youtube.com/watch?v=_srJ7eHS3IM - Fast By Default: Modern Loading Best Practices
+https://www.youtube.com/watch?v=WRSEJCKu7zA - Building a Modern Media Experience
+https://www.youtube.com/watch?v=DKyHVGh666s - The Future of Loading on the Web
+https://www.youtube.com/watch?v=56zCnwj58e4 - Accessibility Testing
+https://www.youtube.com/watch?v=xuifyagAeu4 - Rendering performance from the ground up
+https://www.youtube.com/watch?v=ADXX4fmWHbo - SVG can do that?
 
 
 ##An Event Apart
@@ -65,6 +71,9 @@ https://pusher.com/sessions/meetup/js-monthly-london/building-a-better-login-wit
 https://vimeo.com/177216958 - CSS for Software Engineers 
 https://vimeo.com/177103832 - Peter van der Zee | < IFRAME > | HTML Special, CSS Day
 https://vimeo.com/226736126 - Alice in Web Animations API 
+https://vimeo.com/239782886 - Mark Boulton | Designing Grids
+https://vimeo.com/242890906 - Tab Atkins | The (Far) Future of CSS
+
 
 ##Channel 9
 https://channel9.msdn.com/Blogs/msedgedev/nolanlaw-web-perf-crisis
@@ -79,6 +88,7 @@ https://channel9.msdn.com/Blogs/One-Dev-Minute/Adding-a-Content-Script-to-your-E
 https://www.youtube.com/watch?v=paBou8Fy25k&list=UUJ0_R6U3ZClQDGpVJNjuPAQ - Rachel Andrew CSS Video Playlist
 https://www.youtube.com/playlist?list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE - Chrome and Web at Google I/O 2017
 https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017
+https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr - Supercharged with Surma
 
 
 ##Codepen -
@@ -111,6 +121,9 @@ https://codepen.io/mxbck/pen/ayYGGO/ - Offline Form
 https://codepen.io/rrenula/pen/LzLXYJ - Comic book style layout with CSS Grid
 https://codepen.io/winkerVSbecks/pen/RLyNEE - amoeba
 https://codepen.io/yemon/pen/BwOOWZ - Netflix style text animation with CSS
+https://codepen.io/johnnycopes/pen/yzQyMp - Monopoly board
+https://codepen.io/AllThingsSmitty/pen/MOYNBO - A Better Focus
+https://codepen.io/chrisgannon/pen/ZaPmKp/ - Bauble Toggle
 
 
 ##Links -
@@ -118,7 +131,9 @@ http://webdevchecklist.com/ - Web Developer Checklist
 http://accessibility.voxmedia.com/ - Accessibility guidelines
 https://google.github.io/styleguide/htmlcssguide.xml - Html5 & CSS style guide
 https://typeanything.io/ - a simple tool to create great font combinations
+https://frontendchecklist.io/ -  perfect for modern websites and meticulous developers
 http://solid.buzzfeed.com/
+https://www.axis-praxis.org/specimens/__DEFAULT__ - a website for playing with OpenType Variable Fonts
 http://www.heropatterns.com/ - A collection of repeatable SVG background patterns for you to use on your digital projects.
 http://www.colinkeany.com/blend/ - Create and customize beautiful CSS3 gradients.
 http://cssreference.io/ - A free visual guide to CSS
