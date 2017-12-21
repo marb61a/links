@@ -175,6 +175,14 @@ https://www.smashingmagazine.com/2017/09/vibrant-colors-apps-websites/
 https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/
 https://www.smashingmagazine.com/2017/10/service-worker-single-page-application-wordpress-sites/
 https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/
+https://www.smashingmagazine.com/2017/11/understanding-vary-header/
+https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/
+https://www.smashingmagazine.com/2017/11/comprehensive-guide-web-design/
+https://www.smashingmagazine.com/2017/11/building-accessible-menu-systems/
+https://www.smashingmagazine.com/2017/11/designing-for-a-browserless-web/
+https://www.smashingmagazine.com/2017/12/grid-inspector/
+https://www.smashingmagazine.com/2017/12/iterating-content-driven-websites/
+https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -193,6 +201,9 @@ https://hacks.mozilla.org/2017/06/introducing-humblenet-a-cross-platform-network
 https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/
 https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/
 https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/
+https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
+https://blog.mozilla.org/blog/2017/11/13/webassembly-in-browsers/
+https://hacks.mozilla.org/2017/11/go-beyond-console-log-with-the-firefox-debugger/
 
 
 ############################################## Google ########################################################## 
@@ -207,6 +218,9 @@ https://developers.google.com/web/updates/2016/12/performant-parallaxing
 https://developers.google.com/web/tools/setup/setup-workflow
 https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai
 https://developers.google.com/web/fundamentals/architecture/building-components/customelements
+https://developers.google.com/web/updates/2017/10/animated-blur
+https://developers.google.com/web/fundamentals/primers/service-workers/high-performance-loading
+https://developers.google.com/web/updates/2017/11/overscroll-behavior
 
 
 ############################################## Medium ##########################################################
@@ -234,13 +248,6 @@ https://medium.com/statuscode/make-your-pull-requests-visual-for-front-end-chang
 https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92
 https://medium.com/statuscode/filtering-images-using-web-audio-api-276555cca6ad
 https://medium.com/bitmatica-lab/svg-line-animation-for-the-uninitiated-5a65d91c6044#.xd14l2rdx
-https://medium.com/dev-channel/css-containment-in-chrome-52-f04a30bdc92a#.v3u8azu4f
-https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439#.ul2o7zzei
-https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34
-https://medium.com/dev-channel/testing-service-workers-318d7b016b19
-https://medium.com/dev-channel/css-hex-colors-demystified-51c712179982
-https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15
-https://medium.com/dev-channel/the-future-of-accessibility-for-custom-elements-291cfb3ffabe
 https://medium.com/@SylvainPV/css-grid-layout-and-postcss-now-kiss-5e35f61a6f00
 https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab
 https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660
@@ -257,6 +264,17 @@ https://medium.com/mr-frontend-community/how-to-write-better-css-with-bem-40f492
 https://medium.com/@mciastek/s-css-best-practices-that-you-have-not-yet-known-ba2f6329b5dd
 
 
+############################################## Dev Channel ##########################################################
+https://medium.com/dev-channel/css-containment-in-chrome-52-f04a30bdc92a#.v3u8azu4f
+https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439#.ul2o7zzei
+https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34
+https://medium.com/dev-channel/testing-service-workers-318d7b016b19
+https://medium.com/dev-channel/css-hex-colors-demystified-51c712179982
+https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15
+https://medium.com/dev-channel/the-future-of-accessibility-for-custom-elements-291cfb3ffabe
+https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
+
+
 ############################################## FreeCodeCamp ##########################################################
 https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.rat7qsav4
 https://medium.freecodecamp.com/leveling-up-css-44b5045a2667#.i276joe6l
@@ -270,6 +288,9 @@ https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-t
 https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41
 https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b
 https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676
+https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c
+https://medium.freecodecamp.org/text-input-highlight-tripadvisor-style-2a44477de1b2
+https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431
 
 
 ############################################## Tutsplus ##########################################################
@@ -286,6 +307,8 @@ https://webdesign.tutsplus.com/tutorials/how-to-use-css-variables-for-animation-
 https://webdesign.tutsplus.com/tutorials/solve-your-specificity-headaches-with-css-modules--cms-28973
 https://webdesign.tutsplus.com/tutorials/things-you-didnt-know-about-firefox-dev-tools--cms-26331
 https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499
+https://webdesign.tutsplus.com/articles/the-current-state-of-element-queries--cms-29690
+https://webdesign.tutsplus.com/tutorials/how-to-use-gradients-on-the-web--cms-29922
 
 
 ############################################## CSS Wizadry ##########################################################
@@ -334,6 +357,8 @@ http://alistapart.com/article/using-css-mod-queries-with-range-selectors
 http://alistapart.com/article/webfonts-on-the-prairie
 http://alistapart.com/article/javascript-for-web-designers
 https://alistapart.com/article/yes-that-web-project-should-be-a-pwa
+https://alistapart.com/article/the-story-of-css-grid-from-its-creators
+https://alistapart.com/article/web-typography-tables
 
 
 ############################################## CSS Animation ########################################################## 
@@ -383,6 +408,7 @@ https://jakearchibald.com/2017/lazy-async-svg/
 
 
 ############################################## Bits Of Code ########################################################## 
+https://bitsofco.de/2015/how-floating-works/
 https://bitsofco.de/holy-grail-layout-css-grid/
 https://bitsofco.de/3-new-css-features-to-learn-in-2017/
 https://bitsofco.de/alternative-text-and-images/
@@ -393,6 +419,7 @@ https://bitsofco.de/css-animations-vs-the-web-animations-api/
 https://bitsofco.de/how-the-minmax-function-works/
 https://bitsofco.de/collapsible-margins/
 https://bitsofco.de/pa11y/
+https://bitsofco.de/the-accessibility-cheatsheet/
 
 
 ############################################## Hackernoon ########################################################## 
@@ -407,6 +434,7 @@ https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f
 https://hackernoon.com/using-viewport-units-to-scale-fixed-layouts-869638bb91f9?ref=hackingui
 https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae
 https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a
+https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c
 
 
 ############################################## Rachel Andrew ########################################################## 
