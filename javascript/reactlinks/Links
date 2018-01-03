@@ -45,6 +45,15 @@ https://www.youtube.com/watch?v=F38nRMktS9Q - React @ProductHunt - Radoslav Stan
 https://www.youtube.com/watch?v=lLNJsuXB4CI - Static and Dynamic Next.js
 https://www.youtube.com/watch?v=oeE2tuspdHg - bitcoin price chart with vx
 https://www.youtube.com/watch?v=aCMbSyngXB4 - Production Progressive Web Apps With JavaScript Frameworks
+https://www.youtube.com/watch?v=lAJWHHUz8_8 - GraphQL Basics - Fun Fun Function
+https://www.youtube.com/watch?v=DJ-oSy0tN_U - Building fluid interface swith React and WebGL
+https://www.youtube.com/watch?v=cvS5o86wRfE - How to return multiple elements the right way in React 16 
+https://www.youtube.com/watch?v=pPABOtgEk-0 - Redux Wizardry Using RxJS Observables
+https://www.youtube.com/watch?v=V8oTJ8OZ5S0 - Performance Signup in React & Transactional Apps with Redux
+https://www.youtube.com/watch?v=G39lKaONAlA - The Melting Pot of JavaScript
+https://www.youtube.com/watch?v=rIEjqrQZPTs - ReactJS Girls
+https://www.youtube.com/watch?v=BncMF2aTL0w - 8 Tips For Getting Better At React
+https://www.youtube.com/watch?v=j5mlMUzpE5g - The Why and How of ReasonML
 
 
 
@@ -58,6 +67,7 @@ https://www.youtube.com/watch?v=7HSd1sk07uU&list=PLb0IAmt7-GS0kj3saZuh4vzfldxEdH
 https://www.youtube.com/watch?v=CtVo3z_o9Rw&list=PLb0IAmt7-GS1_fTtjoeSbiIXeia9aYxB1 - React Conf 2017 - Day 2
 https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw/videos - ReactRally
 https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/videos - React Amsterdam
+https://www.youtube.com/watch?v=NQyL-Dm7Kig&list=PLNBNS7NRGKMHxfm0CcYNuINLdRw7r4a9M - React Amsterdam 2017 Conference
 
 
 
@@ -92,9 +102,13 @@ https://vimeo.com/168648012 - Scaling React.js Applications
 http://codepen.io/anthonydugois/pen/yabwBw - React Melody Composer
 
 
+#Speakerdeck -
+https://speakerdeck.com/michelebertoli/setstate-ftw
+
+
 ##Links -
 https://reactjs.co - ReactJS: Mastering Best Practices for Beginners and Advanced Developers
-http://www.overreact.io/
+https://www.chartkick.com/react - Create beautiful JavaScript charts with one line of React
 http://madewithreact.com
 http://www.telescopeapp.org/blog/introducing-nova-a-new-kind-of-back-end-for-react-apps/
 http://jamesknelson.com/wp-content/uploads/2016/01/react-with-babel-cheatsheet.pdf
@@ -115,8 +129,7 @@ http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react
 http://reactcheatsheet.com
 https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
 http://jxnblk.com/rebass/
-http://reactcompose.com
-https://www.draft-js-plugins.com
+https://www.draft-js-plugins.com - High quality plugins with great UX
 https://github.com/dimaip/server-side-rendering - Interactive guide to server-side rendering with Webpack, React, React Transmit, CSS modules and more
 
 
