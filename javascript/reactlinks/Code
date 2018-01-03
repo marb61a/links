@@ -37,7 +37,7 @@ https://github.com/alanbsmith/react-electron-starter - an example React + Electr
 https://github.com/davezuko/react-reformed - Make React forms simple again
 https://github.com/flipace/lovli.js - A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server.
 https://github.com/Katochimoto/xblocks - HTML custom elements on the basis React and X-Tag
-https://github.com/koistya/demos/tree/master/declarative-react-routes - demonstrates how to implement declarative routes in React applications where the list of routes can be represented in YAML or JSON format
+https://github.com/koistya/demos/tree/master/declarative-react-routes - demonstrates how to implement declarative routes in React applications
 https://github.com/Adphorus/react-date-range - A React component for choosing dates and date ranges
 https://github.com/Semantic-Org/Semantic-UI-React - The official Semantic-UI-React integration
 https://github.com/stefanmirck/create-reducers - A tiny utility to create reducer maps for Redux
@@ -243,4 +243,32 @@ https://github.com/nicolasdelfino/react-metro - Tiny configurable wrapper for an
 https://github.com/nitin42/Making-a-custom-React-renderer - Tutorial on how to make a custom React renderer
 https://github.com/unroll-io/react-email-editor - Drag-n-Drop Email Editor Component for React.js 
 https://github.com/coryhouse/react-slingshot - React + Redux starter kit / boilerplate with Babel
+https://github.com/rnosov/react-reveal - Easily add reveal on scroll animations to your React app
+https://github.com/React-Sight/React-Sight - Visualization tool for React, with support for Fiber, Router (v4), and Redux
+https://github.com/clintonwoo/hackernews-react-graphql - Hacker News clone rewritten with universal JavaScript, using React and GraphQL
+https://github.com/akxcv/vuera - Vue in React, React in Vue. Seamless integration of the two.
+https://github.com/FormidableLabs/nuka-carousel - Pure React Carousel Component 
+https://github.com/springload/react-accessible-accordion - Accessible Accordion component for React
+https://github.com/palantir/react-mosaic - A React tiling window manager 
+https://github.com/pupper/pupper-react - React components for Pupper 
+https://github.com/rafrex/react-interactive - Inline styles for hover/active/focus interactive states
+https://github.com/Raathigesh/wiretap - A desktop app for inspecting mobx and mobx state tree apps 
+https://github.com/stereobooster/react-snap - A zero-configuration static pre-renderer for SPA
+https://github.com/atulmy/fullstack-graphql -  Simple Fullstack GraphQL App
+https://github.com/gitpoint/git-point - GitHub in your pocket 
+https://github.com/njosefbeck/gatsby-source-stripe - Gatsby source plugin for building websites using Stripe as a data source
+https://github.com/lukehorvat/react-osx-dock - React component that is magnifiable like the Mac OS X dock.
+https://github.com/diegomura/react-log - React for the Console
+https://github.com/nitin42/Making-a-custom-React-renderer - Tutorial on how to make a custom React renderer
+https://github.com/andrerpena/react-mde - React Markdown Editor
+https://github.com/nfl/react-metrics - An analytics module for React
+https://github.com/vaheqelyan/react-awesome-popover - A smart popover component with animation support for ReactJS
+https://github.com/ganderzz/react-scroll-to - Scroll to a position in React
+https://github.com/jaredpalmer/react-fns - Browser API's turned into declarative React components 
+https://github.com/ankane/react-chartkick - Create beautiful JavaScript charts with one line of React 
+https://github.com/ReactPrimer/ReactPrimer - React component prototyping tool
+https://github.com/Pau1fitz/react-spotify - A Spotify client built with React / Redux
+https://github.com/souporserious/react-aria - Utility components to help compose React ARIA components
+https://github.com/paypal/downshift - build simple, flexible, WAI-ARIA compliant enhanced input React components
+https://github.com/rmfisher/react-measurements - A component for measuring & annotating images.
 
