@@ -45,6 +45,9 @@ https://medium.com/the-react-native-log/comparing-the-performance-between-native
 https://medium.com/santiment/the-mobile-terminal-making-react-native-the-hardware-back-button-cooperate-65fe0ec27489
 https://medium.com/handlebar-labs/getting-started-with-react-native-navigation-v1-7a16afdeadcd
 https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae
+https://medium.com/handlebar-labs/graphql-authentication-with-react-native-apollo-part-1-2-9613aacd80b3
+https://medium.com/handlebar-labs/navigating-navigation-in-react-native-26c7e4690f94
+https://medium.com/react-native-training/setup-continuous-integration-with-react-native-50ad2f6145f4
 https://medium.com/dailyjs/youve-got-react-native-all-wrong-3b268eca99f4
 https://medium.com/react-native-development/easily-build-forms-in-react-native-9006fcd2a73b
 https://medium.com/dailyjs/network-layer-in-react-native-eec841f11861
@@ -122,6 +125,13 @@ https://goshakkk.name/auth-in-react-native-apps/
 https://blog.reactnativecoach.com/creating-an-asynchronous-loading-image-component-in-react-native-part-i-1b087d0ded62
 https://carloscuesta.me/blog/shipping-react-native-apps-with-fastlane/
 https://maziar.io/blog/react-native-development-tips/
+https://blog.blazingedge.io/essential-react-native-setup/
+https://dev.to/damcosset/connecting-a-meteor-back-end-to-a-react-native-application-dbm
+https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f
+https://ademcan.net/blog/2017/11/24/uploaddownload-images-tofrom-aws-s3-in-react-native-a-step-by-step-guide/
+https://www.simform.com/react-native-app-performance/
+https://blog.invertase.io/getting-started-with-firebase-authentication-on-react-native-a1ed3d2d6d91
+https://dev.to/swyx/flutter-for-react-native-devs-in-30-seconds-78g
 
 
 ##### Code #####
@@ -163,6 +173,11 @@ https://github.com/akveo/kittenTricks - A react native mobile starter kit with o
 https://github.com/NadiKuts/react-native-pull-refresh - Custom pull to refresh component for Android
 https://github.com/gitpoint/git-point - Github in your pocket
 https://github.com/invertase/react-native-firebase - Feature rich Firebase implementation for React Native
+https://github.com/nanohop/sketch-to-react-native - Convert Sketch files into React Native components
+https://github.com/JetBrains/create-react-kotlin-app - Create React apps using Kotlin with no build configuration 
+https://github.com/billmalarky/react-native-image-cache-hoc - adds advanced caching functionality to the react native Image component.
+https://github.com/amsul/react-translated - dead simple way to add complex translations (i18n) in a React (DOM/Native) project
+https://github.com/hectahertz/react-native-typography - Pixel–perfect, native–looking typographic styles for React Native
 
 
 ##### Videos ######
@@ -172,15 +187,22 @@ https://www.youtube.com/watch?v=FIq45_Jveg8 - Hooking up Redux to React Native
 https://www.youtube.com/watch?v=CcdlOLobZ4w - The Impact of React Native - Crater Conf Mobile
 https://www.youtube.com/watch?v=E3nB8pI8gac - Using React Native & Meteor to Quickly Build Cross Platform Apps
 https://www.youtube.com/watch?v=iwEdEMOtpCg - Build React Native apps faster with Storybook
-https://www.youtube.com/watch?v=3msLwu25SQY&list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5 - Getting Started with React Native and Redux
+https://www.youtube.com/watch?v=3msLwu25SQY& - Getting Started with React Native and Redux
 https://www.youtube.com/watch?v=OmiXlJ4ZzAo - Performance Limitations of React Native and How to Overcome Them
 https://www.youtube.com/watch?v=OrIIPNEjQfs - How to bridge native modules and UI components in React Native
 https://www.youtube.com/watch?v=YnRALIjnRM4 - Composable Native APIs
+https://www.youtube.com/watch?v=p3smdLQauW8 - Cavy: Testing React Native apps
+https://www.youtube.com/watch?v=zoOAor88sVo - In-depth introduction to React-Native
+
 
 https://codecookbook.co/post/how-to-share-text-from-your-react-native-app/
 https://devchat.tv/react-native-radio/41-react-native-for-windows-with-eric-rozell-of-microsoft - React Native Radio
 https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html
 https://pusher.com/sessions/meetup/react-native-london/cavy-a-new-end-to-end-testing-framework-for-react-native
+
+
+###Playlists###
+https://www.youtube.com/playlist?list=PLM5nyCrpk9vaYCZRjGg1TEU4cQZMYZqvy - Building Video/Voice Call App
 
 
 
