@@ -242,3 +242,56 @@ https://github.com/Azure/autorest - OpenAPI (f.k.a Swagger) Specification code g
 https://github.com/vimeo/psalm - A static analysis tool for finding errors in PHP applications 
 https://github.com/librenms/librenms - Community-based GPL-licensed network monitoring system 
 https://github.com/stevebauman/purify - An HTML Purifier / Sanitizer for Laravel
+https://github.com/dg/composer-cleaner - removes unnecessary files from vendor directory
+https://github.com/Spomky-Labs/jose - JSON Object Signing and Encryption Framework 
+https://github.com/nextras/orm - Lightweight and high-performance ORM with clean object design
+https://github.com/phacility/phabricator - Open software engineering platform and fun adventure game
+https://github.com/apioo/psx - PHP REST API Framework
+https://github.com/rollbar/rollbar-php - Error tracking and logging from PHP to Rollbar
+https://github.com/yabacon/paystack-php - A PHP Wrapper for Paystack API 
+https://github.com/microweber/microweber - Drag and Drop CMS and online shop
+https://github.com/Automattic/jetpack - Increase your traffic, view your stats
+https://github.com/Brightcookie/lxHive - A lightweight Experience API Learning Record Store
+https://github.com/delight-im/PHP-Auth - Authentication for PHP. Simple, lightweight and secure.
+https://github.com/alexdebril/feed-io - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
+https://github.com/lulco/phoenix - Database migrations in PHP
+https://github.com/phpList/phplist3 - Fully functional Open Source email marketing manager 
+https://github.com/Microsoft/tolerant-php-parser - An early-stage PHP parser designed for IDE usage scenarios
+https://github.com/brick/money - A money and currency library for PHP
+https://github.com/Admidio/admidio - a free open source user management system
+https://github.com/googleapis/gax-php - Google API Extensions for PHP
+https://github.com/helpscout/specter-php - JSON Mocking and Testing for PHP
+https://github.com/akaunting/akaunting - Free and Online Accounting Software
+https://github.com/AsgardCms/Platform - A modular multilingual CMS built with Laravel 5
+https://github.com/php-censor/php-censor - an open source self-hosted continuous integration server for PHP projects
+https://github.com/causefx/Organizr - HTPC/Homelab Services Organizer 
+https://github.com/movim/movim - Movim - Kickass Social Network 
+https://github.com/pinepain/php-v8 - PHP extension for V8 JavaScript engine
+https://github.com/amphp/amp - A non-blocking concurrency framework for PHP applications.
+https://github.com/partkeepr/PartKeepr -  an inventory management software, 
+https://github.com/sendgrid/sendgrid-php - Official Community Led PHP API Library 
+https://github.com/bludit/bludit - Simple, Fast and Flexible CMS
+https://github.com/yclas/yclas - a powerful script that can transform any domain into a fully customizable classifieds site
+https://github.com/DOMjudge/domjudge - DOMjudge programming contest jury system
+https://github.com/apiato/apiato - A flawless framework for building scalable and testable API-Centric Apps
+https://github.com/vimeo/psalm - A static analysis tool for finding errors in PHP applications
+https://github.com/amphp/artax - An async HTTP/1.1 client for PHP based on Amp. 
+https://github.com/inhere/php-console - a php console library, provide console argument parse
+https://github.com/amphp/aerys - A non-blocking HTTP application
+https://github.com/appzcoder/crud-generator - Laravel CRUD Generator
+https://github.com/PHPJasper/phpjasper - A PHP report generator
+https://github.com/thephpleague/csv/tree/master - CSV data manipulation made easy in PHP 
+https://github.com/GetStream/stream-php/tree/master - Build Activity Feeds & Streams with GetStream.io
+https://github.com/voryx/Thruway/tree/master - PHP Client and Router Library for Autobahn and WAMP
+https://github.com/kahlan/kahlan - PHP Test Framework for Freedom, Truth, and Justice
+https://github.com/dshorthouse/SimpleMappr - MapServer and PHP-MapScript application to create publication-quality maps
+https://github.com/ccxt/ccxt - A JavaScript / Python / PHP cryptocurrency trading library
+https://github.com/census-instrumentation/opencensus-php - A stats collection and distributed tracing framework
+https://github.com/phansible/phansible - Phansible - generate Vagrant + Ansible dev environments for PHP 
+https://github.com/filp/whoops - PHP errors for cool kids 
+https://github.com/jenssegers/agent - A PHP desktop/mobile user agent parser with support for Laravel
+https://github.com/recurly/recurly-client-php/tree/master - Recurly PHP Client
+https://github.com/sebastianfeldmann/phpbu/tree/master - Creates and encrypts database and file backups,
+https://github.com/theodorejb/peachy-sql/tree/master - A small, speedy database abstraction layer for PHP
+https://github.com/mlively/Phake/tree/master - PHP Mocking Framework
+https://github.com/oscarotero/Embed/tree/master - Get info from any web service or page
