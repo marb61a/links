@@ -36,6 +36,8 @@ https://www.sitepoint.com/rapid-enterprise-app-development-zend-expressive/
 https://www.sitepoint.com/reactjs-php-writing-compilers-easy-fun/
 https://www.sitepoint.com/rapid-development-zend-expressive-modules/
 https://www.sitepoint.com/game-development-with-reactjs-and-php-how-compatible-are-they/
+https://www.sitepoint.com/procedurally-generated-game-terrain-reactjs-php-websockets/
+https://www.sitepoint.com/optimize-mysql-indexes-slow-queries-configuration/
 
 
 ################################################## Medium #################################################################
@@ -48,6 +50,7 @@ https://medium.com/appstract/make-your-laravel-app-fly-with-php-opcache-9948db2a
 https://medium.com/@jeffochoa/understanding-laravel-pipelines-a7191f75c351
 https://medium.com/towards-data-science/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
 https://medium.com/@dragosholban/symfony-oauth-authentication-for-your-mobile-application-b13de7202df7
+https://medium.com/@codebyjeff/the-keys-are-the-key-in-laravel-multiple-field-sortby-60cd5bf3f78b
 
 
 ################################################## Tutsplus ###############################################################
@@ -82,6 +85,9 @@ https://code.tutsplus.com/tutorials/pagination-in-codeigniter-the-complete-guide
 https://code.tutsplus.com/tutorials/making-things-faster-with-gearman-and-supervisor--cms-29337
 https://code.tutsplus.com/tutorials/how-codeigniter-hook-system-works--cms-29301
 https://code.tutsplus.com/courses/wordpress-coding-basics-your-first-plugin
+https://code.tutsplus.com/tutorials/build-a-react-app-with-laravel-restful-backend-part-1-laravel-5-api--cms-29442
+https://code.tutsplus.com/tutorials/build-a-react-app-with-laravel-backend-part-2-react--cms-29443
+https://code.tutsplus.com/tutorials/how-to-deploy-with-deployer--cms-29719
 
 
 ################################################## Masterzendframework ###################################################
@@ -108,6 +114,9 @@ https://www.startutorial.com/articles/view/your-first-graphql-api-pagination
 https://www.startutorial.com/articles/view/your-first-graphql-api-sorting
 https://www.startutorial.com/articles/view/your-first-graphql-api-search
 https://www.startutorial.com/articles/view/data-structure-and-algorithm-bubble-sort
+https://www.startutorial.com/articles/view/data-structure-and-algorithm-insertion-sort
+https://www.startutorial.com/articles/view/data-structure-and-algorithm-merge-sort
+https://www.startutorial.com/articles/view/data-structure-and-algorithm-quick-sort
 
 
 ################################################## Zend ###################################################################
@@ -149,6 +158,10 @@ https://laravel-news.com/bash-aliases
 https://laravel-news.com/laravel-homestead-aliases
 https://laravel-news.com/clean-code-php-guide
 https://laravel-news.com/laravel-tinker
+https://laravel-news.com/testing-with-phpspec
+https://laravel-news.com/measure-anything-laravel-statsd
+https://laravel-news.com/testing-laravel-middleware
+https://laravel-news.com/laravel-tinx
 
 
 ################################################## Delicious Brains ########################################################
@@ -165,6 +178,7 @@ https://deliciousbrains.com/difference-between-wp-migrate-db-and-mergebot/
 https://deliciousbrains.com/how-were-automating-acceptance-testing/
 https://deliciousbrains.com/running-wordpress-kubernetes-cluster/
 https://deliciousbrains.com/scaling-wordpress-dedicated-database-server/
+https://deliciousbrains.com/xampp-mamp-local-dev/
 
 
 ################################################## Matthias Noback  ########################################################
@@ -190,6 +204,8 @@ https://qafoo.com/blog/101_branch_by_abstraction.html
 https://qafoo.com/blog/102_testing_the_untestable.html
 https://qafoo.com/blog/105_five_tips_improve_unit_testing.html
 https://qafoo.com/blog/107_refactoring_singletons_testability.html
+https://qafoo.com/blog/110_checklist_for_a_reliable_load_test.html
+https://qafoo.com/blog/111_injectables_newables.html
 
 
 #################################################### PHPClasses ##############################################################
@@ -205,6 +221,8 @@ https://www.phpclasses.org/blog/post/576-PHP-Hybrid-VM-to-Make-Small-PHP-Benchma
 https://www.phpclasses.org/blog/post/589-Improving-PHP-Extensions-Mixing-PHP-and-C-code-using-PCS--4-Minutes-Lately-in-PHP-podcast-episode-85.html
 https://www.phpclasses.org/blog/package/10411/post/1-How-to-Implement-a-Year-2038-Problem-Fix-in-PHP-Applications-that-Are-Using-Unix-Timestamps.html
 https://www.phpclasses.org/blog/post/599-Definite-CSRF-Attack-Protection-in-PHP-with-Same-Site-Cookies-Support--3-Minutes-Lately-in-PHP-podcast-episode-86.html
+https://www.phpclasses.org/blog/package/10553/post/1-Benefiting-from-HTTP2-Server-Push-and-other-HTTP-2-Performance-Advantages-in-PHP.html
+https://www.phpclasses.org/blog/package/10291/post/1-How-to-use-YouTube-to-MP3-API-Class.html
 
 
 #################################################### Murze ##############################################################
@@ -214,4 +232,35 @@ https://murze.be/2017/03/easy-way-validate-front-end-forms-using-back-end-logic/
 https://murze.be/2017/07/easily-covert-webpages-to-images-using-php/
 https://murze.be/2017/07/easily-optimize-images-using-php-binaries/
 https://murze.be/2017/08/tool-automatically-rerun-phpunit-tests-source-code-changes/
+https://murze.be/handling-stripe-webhooks-in-a-laravel-application
+https://murze.be/a-laravel-package-to-log-http-requests
 
+
+################################################### Gonzalo Ayuso ###########################################################
+https://gonzalo123.com/2017/04/03/control-humidity-with-a-raspberry-pi-and-iot-devices/
+https://gonzalo123.com/2017/02/20/playing-with-rabbitmq-php-and-node/
+https://gonzalo123.com/2017/03/13/playing-with-rabbitmq-part-2-now-with-python/
+https://gonzalo123.com/2017/08/07/controlling-bedside-lamp-with-the-tvs-remote-using-arduino-and-ir-receiver/
+https://gonzalo123.com/2017/09/18/real-time-iot-in-the-cloud-with-saps-scp-cloud-foundry-and-websockets/
+https://gonzalo123.com/2017/09/25/php-application-in-sap-cloud-platform-with-postgresql-redis-and-cloud-foundry/
+https://gonzalo123.com/2017/10/23/playing-with-iot-mqtt-arduino-and-raspberry-pi-building-a-dashboard-with-openui5/
+
+
+#################################################### Akrabat ############################################################
+https://akrabat.com/simple-way-to-add-a-filter-to-zend-inputfilter/
+https://akrabat.com/adding-a-user-to-your-bluemix-space/
+https://akrabat.com/getting-started-with-serverless-php/
+https://akrabat.com/deploying-a-php-application-to-cloud-foundry/
+https://akrabat.com/using-postgresql-with-php-in-cloud-foundry/
+https://akrabat.com/custom-urls-for-a-cloud-foundry-application/
+https://akrabat.com/pretty-print-curl-i/
+https://akrabat.com/customising-whoops-in-expressive/
+
+
+#################################################### Cloudways ############################################################
+https://www.cloudways.com/blog/laravel-contact-form/
+https://www.cloudways.com/blog/laravel-notification-system-on-slack-and-email/
+https://www.cloudways.com/blog/sublime-text-editor-for-github-on-wordpress/
+https://www.cloudways.com/blog/how-to-pass-data-in-codeigniter/
+https://www.cloudways.com/blog/using-eloquent-orm-with-slim/
+https://www.cloudways.com/blog/integrate-cdn-in-laravel/
