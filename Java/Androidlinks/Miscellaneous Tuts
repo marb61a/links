@@ -71,6 +71,10 @@ https://jabknowsnothing.wordpress.com/2015/11/05/activitytestrule-espressos-test
 http://www.stkent.com/2016/10/07/proguardfiles-a-cautionary-tale.html
 https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view
 https://pspdfkit.com/blog/2016/android-animations-powered-by-rx-java/
+https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-1.html
+https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-2.html
+https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-3_29.html
+https://firebase.googleblog.com/2017/12/using-android-architecture-components.html
 https://upday.github.io/blog/model-view-presenter/
 https://upday.github.io/blog/reactive_frustrations_1/
 http://saulmm.github.io/vcs-android-studio
@@ -105,6 +109,7 @@ https://www.androidthings.rocks/2017/01/08/your-first-blinking-led/
 https://androidthings.rocks/2017/05/20/how-to-build-a-high-five-machine-with-android-things-and-firebase/
 http://futurice.com/blog/the-next-step-for-reactive-android-programming
 http://www.donnfelker.com/tdd-your-ui-layer/
+http://www.donnfelker.com/android-mvvm-with-databinding-removing-logic-from-your-views-with-bindingadapters/
 http://www.uwanttolearn.com/android/constraint-layout-animations-dynamic-constraints-ui-java-hell/
 http://www.uwanttolearn.com/android/pull-vs-push-imperative-vs-reactive-reactive-programming-android-rxjava2-hell-part2/
 https://afterecho.uk/blog/your-unit-tests-might-not-be-as-reliable-as-you-thought.html
@@ -125,6 +130,7 @@ https://josiassena.com/testing-mvp-using-espresso-and-mockito/
 https://pspdfkit.com/blog/2017/writing-concise-code-with-kotlin-and-rxjava/
 https://eng.uber.com/deep-scope-hierarchies/
 https://eng.uber.com/immutable-collections/
+https://eng.uber.com/nullaway/
 http://nilhcem.com/android-things/external-displays
 https://tech.instacart.com/lce-modeling-data-loading-in-rxjava-b798ac98d80
 https://yalantis.com/blog/how-we-created-bubblepicker-a-colourful-animation-for-android/
@@ -134,6 +140,7 @@ http://blog.israelferrer.com/post/160777825719/android-app-architecture-reloaded
 http://blog.blundellapps.co.uk/android-architecture-components-meets-androidthings/
 http://blog.blundellapps.co.uk/tut-android-things-leds-gpio-on-the-rainbow-hat/
 http://blog.blundellapps.co.uk/tut-android-things-piezzo-transducer-pwm-on-the-rainbow-hat/
+http://blog.blundellapps.co.uk/tut-android-things-using-the-ads1015-analog-to-digital-converter-driver-library/
 https://robinhood.engineering/beautiful-animations-using-android-constraintlayout-eee5b72ecae3
 https://tech.buzzfeed.com/from-westinghouse-to-android-instant-apps-60fbfaca4ebe
 http://blog.octo.com/en/android-themes-styles-a-real-architecture/
@@ -161,6 +168,8 @@ https://www.whatsthatlambda.com/android/android-dev-101-things-every-beginner-mu
 https://rongi.github.io/kotlin-blog/rxjava/rx/2017/08/01/error-handling-in-rxjava.html
 https://blog.aritraroy.in/30-bite-sized-pro-tips-to-become-a-better-android-developer-b311fd641089
 https://overflow.buffer.com/2017/08/18/exploring-test-driven-development-android-ui-tests/
+https://overflow.buffer.com/2016/09/26/android-rethinking-package-structure/
+https://overflow.buffer.com/2017/10/13/package-feature-modularised-android-projects/
 http://johnpetitto.com/validator
 https://engineering.21buttons.com/how-to-test-fragments-in-isolation-a7435a4cdc92
 https://blog.chizobaogbonna.me/device-to-device-push-notification-using-cloud-functions-for-firebase-5e607d74d7a2
@@ -171,8 +180,26 @@ https://novicedock.com/learn/computer-science/android-development
 https://open.nytimes.com/register-better-in-app-billing-testing-on-android-73af5fcc36dc
 https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e
 https://engineering.instagram.com/beautiful-performant-android-ui-62ce61ca748c
+https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898
 https://haptic.al/getting-started-with-daydream-development-d9fb92cca652
 https://androiduipatterns.com/toolbar-delight-8c5e4500b899
 https://www.plightofbyte.com/android/2017/09/03/genymotion-vs-android-emulator/
 http://androidkt.com/paging-library/
+https://fractalwrench.co.uk/posts/playing-apk-golf-how-low-can-an-android-app-go/
+https://techbeacon.com/missing-rxjava-2-guide-supercharge-your-android-development
+https://code.facebook.com/posts/293371094514305
+https://therubberduckdev.wordpress.com/2017/10/24/android-recyclerview-drag-and-drop-and-swipe-to-dismiss/
+https://chatbotsmagazine.com/your-first-google-assistant-skill-883cf6c21545
+http://www.androidpolice.com/2017/10/25/oreos-color-profiles-work-pixel-2-2-xl/
+https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596
+http://alexfu.github.io/android/2017/11/07/experimenting-with-gradle-dependencies.html
+https://journals.apptivitylab.com/beginners-guide-to-gradle-for-android-developers-7972bfdf0668
+https://commonsware.com/blog/2017/11/13/storage-situation-internal-storage.html
+http://helw.net/2017/11/09/runtime-generics-in-an-erasure-world/
+https://medium.com/googleplaydev/shrinking-apks-growing-installs-5d3fcba23ce2
+https://www.runtastic.com/blog/en/tech/rxjava-2-migration-learnings/
+https://www.runtastic.com/blog/en/tech/kotlin-collections-inside-part-1/
+https://blog.undabot.com/the-art-of-android-devops-fa29396bc9ee
+https://blog.gojekengineering.com/multi-threading-like-a-boss-in-android-with-rxjava-2-b8b7cf6eb5e2
+
 
