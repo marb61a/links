@@ -264,8 +264,36 @@ https://github.com/loopeer/shadow - Android custom shadow view, can replace your
 https://github.com/santalu/diagonal-imageview - A simple imageview which allows you to create diagonal cut views easily
 https://github.com/iammert/ScalingLayout - With Scaling Layout scale your layout on user interaction.
 https://github.com/cesarferreira/purrge -  Quickly purrge android apps from your phone
-
-
-
+https://github.com/dvoiss/literallytoast - The missing toast library for Android
+https://github.com/tylersuehr7/chips-input-layout - A highly customizable Android ViewGroup for displaying Chips
+https://github.com/armcha/Ribble - Simple Dribbble Client using Dribbble API
+https://github.com/scana/ok-gradle - Android Studio plugin for searching artifacts ids of popular Java libraries
+https://github.com/EnricSala/RxSSE - Server-Sent Events client for Android and Java applications
+https://github.com/anthonycr/Mezzanine - An annotation processor that reads files at compile time
+https://github.com/kizitonwose/Time - Type-safe time calculations in Kotlin, powered by generics
+https://github.com/groupon/grox - Grox helps to maintain the state of Java / Android apps.
+https://github.com/blundell/ads1015 - AndroidThings Analog to Digital Converter Driver
+https://github.com/uber/RIBs - Uber's cross-platform mobile architecture framework
+https://github.com/qhutch/BottomSheetLayout - Simple bottom sheet view for Android
+https://github.com/FrangSierra/Rx2Firebase - Rxjava 2.0 wrapper on Google's Android Firebase library.
+https://github.com/Ramotion/circle-menu-android - a simple, elegant UI menu with a circular layout 
+https://github.com/chrisbanes/tivi - TV show tracking Android app, which connects to Trakt.tv.
+https://github.com/Zuluft/AutoAdapter - This Repository simplifies working with RecyclerView Adapter
+https://github.com/platan/idea-gradle-dependencies-formatter - Gradle dependencies formatter for IntelliJ IDEA
+https://github.com/twitter/Serial - Light-weight, fast framework for object serialization in Java, with Android support
+https://github.com/KingsMentor/Droid-Snippet - Android Utils Live Code Template for Android Studio
+https://github.com/robohorse/RoboPOJOGenerator - Json to Java and Kotlin POJO
+https://github.com/alexjlockwood/avdo - Vector Drawable & Animated Vector Drawable optimization tool
+https://github.com/dev-labs-bg/transitioner - A library for dynamic view-to-view transitions
+https://github.com/jeppeman/HighLite - An SQLite ORM for Android with automatic database migrations
+https://github.com/kizitonwose/android-disposebag - Automatically dispose RxJava 2 streams on Android using Lifecycle events
+https://github.com/MaksTuev/EasyAdapter - simple approach for implementation complex lists
+https://github.com/AnkitKiet/CounterView - An Android library for Counter View.
+https://github.com/dvdciri/daggraph - Dagger dependency graph generator for Android Developers
+https://github.com/MEiDIK/Cipher.so - A simple way to encrypt your secure data like passwords into a native .so library.
+https://github.com/SchibstedSpain/Barista - The guy who serves a great Espresso 
+https://github.com/uber/artist - a Gradle plugin that codegens a base set of Android Views.
+https://github.com/po10cio/TimeLineView - demonstrates the power of ConstraintLayout and RecyclerView
+https://github.com/ansman/kotshi - An annotations processor that generates Moshi adapters
 
 
