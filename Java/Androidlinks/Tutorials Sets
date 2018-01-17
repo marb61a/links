@@ -15,15 +15,14 @@ https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850#.uclrnsgh
 https://medium.com/@kurtisnusbaum/rxandroid-basics-part-2-6e877af352#.1us78526e
 https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.ydzx9coco
 https://medium.com/@seebrock3r/analyse-a-stack-trace-android-studio-protips-2-7d452056223a#.gm5dxj5ez
-https://medium.com/@p.tournaris/rxjava-rxreplayingshare-emit-only-once-b19acd61b469#.ieamwu29k
 https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.451mvxwyg
+https://medium.com/@p.tournaris/rxjava-rxreplayingshare-emit-only-once-b19acd61b469#.ieamwu29k
 https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675#.pq5hba5dc
 https://medium.com/@sergii/using-kotlin-for-tests-in-android-6d4a0c818776#.4z3swtrv9
 https://medium.com/@krzychukosobudzki/repository-design-pattern-bc490b256006#.rkuxd740q
 https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-part-1-e0f51fc1a8b3#.vrkd94fcs
 https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1#.utufa0dr2
 https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df503343c0#.561m4c3ns
-https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.cvz97j6e3
 https://medium.com/@shelajev/looking-at-jrebel-for-android-and-instant-run-how-to-update-code-and-resources-in-android-89b5fc69a98a#.mxnqatvq5
 https://medium.com/@shelajev/getting-started-with-jrebel-for-android-426633cde736#.8as871kpb
 https://medium.com/@_tiwiz/bonjour-android-its-zeroconf-8e3d3fde760e#.mou1d340l
@@ -66,6 +65,7 @@ https://medium.com/@aitorvs/android-fingerprint-authentication-44c047179d9a#.5dk
 https://medium.com/@aitorvs/android-shared-element-transitions-for-all-b90e9361507d#.z0uns5hap
 https://medium.com/square-corner-blog/android-leak-pattern-subscriptions-in-views-18f0860aa74c#.yubh9iur6
 https://medium.com/square-corner-blog/no-cause-for-concern-rxjava-and-retrofit-throwing-a-tantrum-96c9e4ba8a6c#.jvpjwilc1
+https://medium.com/square-corner-blog/keeping-the-daggers-sharp-️-230b3191c3f
 https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-application-7e248b5f615e#.jhbwru4ym
 https://medium.com/@nikita.kozlov/get-access-to-raw-profiling-results-with-plugins-for-pury-f9a7cc5e8345#.yadcrs78v
 https://medium.com/@nikita.kozlov/how-modularisation-affects-build-time-of-an-android-application-43a984ce9968#.3in9uou9m
@@ -111,27 +111,34 @@ https://medium.com/@yonatanvlevin/offline-support-try-again-later-no-more-afc33e
 https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf
 https://medium.com/@Zhuinden/retaining-dagger-components-across-configuration-change-using-service-tree-3709c78bf6d2
 https://medium.com/fueled-android/how-to-be-a-mock-star-fc00714d8c2f
-https://medium.com/proandroiddev/how-to-create-a-bubble-selection-animation-on-android-627044da4854
 https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2
 https://medium.com/@andrey_cheptsov/making-java-code-easier-to-read-without-changing-it-adeebd5c36de
-https://medium.com/exploring-android/braillebox-building-a-braille-news-reader-with-android-things-f848fe6de596
 https://medium.com/contentsquare-engineering-blog/make-or-break-with-gradle-dac2e858868d
 https://medium.com/@calren24/android-parcelables-made-easy-acb742bcf96b
-https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23
 https://medium.com/vimeo-engineering-blog/vimeo-android-instant-apps-2f8b1e94760c
 https://medium.com/devnibbles/rxjava-the-first-3-patterns-4c112a85b689
 https://medium.com/@kiwiandroiddev/distraction-free-reading-for-your-android-app-part-i-242f77466175
 https://medium.com/@romain.rochegude/fsm-on-android-how-to-reach-app-modularity-f62d0a0054a
 https://medium.com/@zeyad.gasser/rxredux-9dcfa3f35934
 https://medium.com/car2godevs/99-9-crash-free-sessions-bd2205262103
-https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c
-https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa
-https://medium.com/exploring-android/android-architecture-components-testing-your-viewmodel-livedata-70177af89c6e
-https://medium.com/@hitherejoe/building-a-guitar-chord-tutor-for-actions-on-google-part-two-9e0786dfa108
 https://medium.com/@saulmm2/from-design-to-android-part-2-2a6c141547d9
 https://medium.com/citerus/lifecycle-fragments-backstack-f32e34f012d5
 https://medium.com/groupon-eng/from-fragments-to-activity-the-lambda-way-32c768c72aa9
+https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696
+https://medium.com/groupon-eng/how-i-learned-to-love-unit-testing-with-toothpick-13ad305b35d
 https://medium.com/@alahammad/database-with-room-using-rxjava-764ee6124974
+https://medium.com/@BladeCoder/architecture-components-pitfalls-part-1-9300dd969808
+https://medium.com/@d.khmelenko/rxjava-library-has-already-become-a-standard-in-android-development-f825fed8c6e4
+https://medium.com/@petrakeas/alias-free-resize-with-renderscript-5bf15a86ce3
+https://medium.com/bleeding-edge/the-art-of-staging-a-rollout-8e203b337b75
+https://medium.com/mercari-engineering/android-device-farm-at-mercari-3197237df0e1
+https://medium.com/google-design/android-color-management-what-developers-and-designers-need-to-know-4fdd8054557e
+https://medium.com/google-design/the-android-developers-guide-to-better-typography-97e11bb0e261
+https://medium.com/googleplaydev/shrinking-apks-growing-installs-5d3fcba23ce2
+https://medium.com/rocket-travel-engineering/kotlin-on-the-backend-at-rocket-travel-31da239888db
+https://medium.com/lalafo-engineering/tuning-your-sqlite-with-sqldelight-sqlbrite-part-1-9568543fe9af
+https://medium.com/lalafo-engineering/tuning-your-sqlite-with-sqldelight-sqlbrite-part-2-11e59c5a3442
+https://medium.com/s23nyc-tech/mvp-lifecycles-dispatchers-oh-my-19eda37a1a52
 
 
 ######################################## Android Developers Blog ##############################################
@@ -148,6 +155,7 @@ https://android-developers.googleblog.com/2017/07/shut-hal-up.html
 https://android-developers.googleblog.com/2017/08/how-to-improve-app-design-for-wear-20.html
 https://android-developers.googleblog.com/2017/08/understanding-performance-benefits-of.html
 https://android-developers.googleblog.com/2017/09/optimize-your-android-apps-for.html
+https://android-developers.googleblog.com/2017/11/getting-your-android-app-ready-for.html
 
 
 ######################################## Sebs Top Tips ##############################################
@@ -182,16 +190,21 @@ https://www.raywenderlich.com/161318/beginning-android-development-part-one-inst
 https://www.raywenderlich.com/154676/android-studio-tutorial-introduction
 
 
-######################################## Firebase Blog ##############################################
-https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-1.html
-https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-2.html
-https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-3_29.html
+######################################## Exploring Android ##############################################
+https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5#.cvz97j6e3
+https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23
+https://medium.com/exploring-android/android-architecture-components-testing-your-room-dao-classes-e06e1c9a1535
+https://medium.com/exploring-android/braillebox-building-a-braille-news-reader-with-android-things-f848fe6de596
+https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c
+https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa
+https://medium.com/exploring-android/android-architecture-components-testing-your-viewmodel-livedata-70177af89c6e
 
 
 ######################################## ProAndroidDev ##############################################
 https://proandroiddev.com/intentservice-and-resultreceiver-70de71e5e40a
 https://proandroiddev.com/dagger-2-android-modules-e168821cfc57
 https://proandroiddev.com/zen-android-mvvm-160c26f3203c
+https://medium.com/proandroiddev/how-to-create-a-bubble-selection-animation-on-android-627044da4854
 https://proandroiddev.com/dagger-2-part-ii-custom-scopes-component-dependencies-subcomponents-697c1fa1cfc
 https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-2-grids-688829b1d29b
 https://proandroiddev.com/how-to-android-dagger-2-10-2-11-butterknife-mvp-part-1-eb0f6b970fd
@@ -204,6 +217,16 @@ https://proandroiddev.com/where-to-unbind-the-presenter-e50ce343d4ce
 https://proandroiddev.com/hide-your-crashes-gracefully-and-still-report-them-9b1c85b25875
 https://proandroiddev.com/taming-state-and-side-effects-on-android-d4749a8a50bc
 https://proandroiddev.com/making-the-most-out-of-the-android-studio-debugger-61713131d065
+https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f
+https://proandroiddev.com/modular-architecture-for-faster-build-time-d58397cb7bfe
+https://proandroiddev.com/reactive-mythology-interrupt-patterns-e244979b865a
+https://proandroiddev.com/testing-concurrency-in-rxjava-831804a9e526
+https://proandroiddev.com/rx2firebase-firebase-rxjava-android-bde8158fb4cf
+https://proandroiddev.com/migrating-crashlytics-to-the-firebase-console-5e05b6ff8c12
+https://proandroiddev.com/secure-data-in-android-encryption-in-android-part-2-991a89e55a23
+https://proandroiddev.com/building-a-distributed-midi-controller-with-android-things-and-nearby-api-7011f1f3189c
+https://proandroiddev.com/the-contract-of-the-model-view-intent-architecture-777f95706c1e
+https://proandroiddev.com/secure-data-in-android-encrypting-large-data-dda256a55b36 
 
 
 ######################################## Google Developers ##############################################
@@ -352,6 +375,10 @@ https://blog.stylingandroid.com/time-for-non-time-lords-part-4/
 https://blog.stylingandroid.com/time-for-non-time-lords-part-5/
 https://blog.stylingandroid.com/midipad-introduction/
 https://blog.stylingandroid.com/midipad-tricks-with-kotlin-and-architecture-components/
+https://blog.stylingandroid.com/radialgradient-layers/
+https://blog.stylingandroid.com/radialgradient-gradients/
+https://blog.stylingandroid.com/oreo-notifications-channels-part-1/
+https://blog.stylingandroid.com/task-stack/
 
 
 ######################################## Nimbledroid ##############################################
@@ -375,7 +402,9 @@ http://ryanharter.com/blog/2016/05/16/autovalue-extensions/
 https://medium.com/@hitherejoe/android-n-introducing-picture-in-picture-for-android-tv-35f2392fb609#.4ehiuwftm
 https://medium.com/@hitherejoe/android-n-introducing-upgraded-notifications-d4dd98a7ca92#.96qdgxu89
 https://medium.com/@hitherejoe/exploring-firebase-on-android-ios-remote-config-3e1407b088f6#.kotylc1fu
-https://overflow.buffer.com/2016/09/26/android-rethinking-package-structure/
+https://medium.com/@hitherejoe/building-a-guitar-chord-tutor-for-actions-on-google-part-two-9e0786dfa108
+https://medium.com/@hitherejoe/exploring-dialogflow-understanding-agent-interaction-8f3323e3b738
+https://medium.com/@hitherejoe/exploring-firebase-predictions-fa22d093f98d
 
 
 ######################################## Hannes Dorfmann ##############################################
@@ -427,6 +456,7 @@ https://riggaroo.co.za/android-architecture-components-looking-viewmodels-part-2
 https://riggaroo.co.za/android-architecture-components-looking-lifecycles-part-3/
 https://riggaroo.co.za/resources-getting-started-android-development/
 https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/
+https://riggaroo.co.za/android-accessibility-switch-access/
 
 
 ######################################## Philisophical Hacker ##############################################
@@ -467,6 +497,8 @@ https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/
 https://www.novoda.com/blog/android-wear-packaging/
 https://www.novoda.com/blog/testing-views-in-isolation-with-espresso/
 https://www.novoda.com/blog/take-control-of-your-backend-with-firebase-cloud-functions/
+https://www.novoda.com/blog/android-things-iot-proof-of-concept-devices/
+https://www.novoda.com/blog/onboard-your-users-with-lottie-of-spritz/
 
 
 ######################################## Hackernoon ##############################################
@@ -526,6 +558,12 @@ https://android.jlelse.eu/is-your-android-library-lifecycle-aware-127629d32dcc
 https://android.jlelse.eu/repository-layer-using-room-and-dagger-2-android-12d311830fd9
 https://android.jlelse.eu/default-methods-lambdas-less-code-aa0e63d6c5d9
 https://android.jlelse.eu/12-practices-every-android-beginner-should-know-cd43c3710027
+https://android.jlelse.eu/thoughts-on-clean-architecture-b8449d9d02df
+https://android.jlelse.eu/why-we-are-not-cross-platform-developers-fd7ef70e976d
+https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-development-e8c61d80cddb
+https://android.jlelse.eu/canvas-the-real-play-ground-android-c0faa4b79943
+https://android.jlelse.eu/android-architecture-components-room-relationships-bf473510c14a
+https://android.jlelse.eu/android-architecture-components-room-migration-1a269e1aeef7
 
 
 ######################################## Big Nerd Ranch ##############################################
@@ -546,3 +584,5 @@ https://www.thedroidsonroids.com/blog/android/springanimation-examples/
 https://www.thedroidsonroids.com/blog/android/android-gradle-configurations/
 https://www.thedroidsonroids.com/blog/android/rxjava-production-line/
 https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes/
+https://www.thedroidsonroids.com/blog/testing-android-apps-pseudolocalization
+
