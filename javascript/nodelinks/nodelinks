@@ -69,6 +69,11 @@ https://www.youtube.com/watch?v=H48KuESn2sk - Keeping JavaScript Safe: Security 
 https://www.youtube.com/watch?v=502AJeXln18 - One Week in the Life of Node.js
 https://www.youtube.com/watch?v=7rx9fSUG8H0 - V8 Today and in the Future
 https://www.youtube.com/watch?v=Fbhhc4jtGW4 - Node.js Performance and Highly Scalable Micro-Services
+https://www.youtube.com/watch?v=hVfQ8KtRptM - Node.js: What's Next? - James Snell
+https://www.youtube.com/watch?v=ZM5_wj6wkA8 - Keynote Demo: Visual Studio Code with Azure - Connect(); 2017
+https://www.youtube.com/watch?v=P4UQ-jTTJJ4 - TDD with Wallaby.js Part 1
+https://www.youtube.com/watch?v=IkOVe40Sy0U - Next.js Crash Course - Server Side React
+https://www.youtube.com/watch?v=FeEsyDZugPc - How I Became a Web Developer in 2 Months
 
 
 ##Pusher Videos
@@ -94,7 +99,7 @@ https://www.youtube.com/playlist?list=PLz6xH_GrBpquZgdVzEX4Bix0oxHQlZfwm - NodeC
 https://www.youtube.com/playlist?list=PLs2PzMqLzi7WkEKE9-DeVODZI63P4g6vk - Create a Node.js GraphQL Server
 https://www.youtube.com/playlist?list=PLL1UEcDHVPjkGjqM4mvAb2z9meV7jWmbd - NodeJS: FileSystem
 https://www.youtube.com/playlist?list=PLSpJkDDmpFZ7GowbJE-mvX09zY9zfYatI - API Authentication With Node
-
+https://www.youtube.com/playlist?list=PL0CdgOSSGlBaxNkrUIHrhd1f3ch45f66_ - NodeConfEU 2017
 
 
 ##Slides
@@ -109,29 +114,30 @@ http://www.electrode.io/index.html - UNIVERSAL REACT/NODE APPLICATION PLATFORM
 https://hyperdev.com/about/ - developer playground for building full-stack web apps, fast
 http://node-machine.org - is an open standard for Javascript functions
 https://opbeat.com/community/ -  share great resources like recorded conference talks, meetup videos
-https://getkap.co - An open-source screen recorder built with web technology
-https://parall.ax/vtop - A Terminal Activity Monitor in Node.js
-https://www.tjson.org - Tagged JSON with Rich Types
-http://wallabyjs.com/docs/intro/get-started-sublime.html
-http://perkframework.com/ - A node framework built on three core tenets: documentation, stability and balance
-https://iojs.org/en/index.html
-http://markojs.com/ - A high performance templating engine 
 https://medium.com/@c2c/my-7-node-js-mantras-edd6c148e8dc
 http://bookshelfjs.org -  a JavaScript ORM for Node.js, built on the Knex SQL query builder
 http://blog.tonicdev.com/2015/09/30/embedded-tonic
 http://adonisjs.com/ - a Node.js web framework
 http://nodeframework.com/index.html#home
 http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story
-http://www.manifoldjs.com
+http://www.manifoldjs.com - Generate your Progressive Web App
 http://codecept.io/
+http://mongoosejs.com - elegant mongodb object modeling for node.js
 http://s-a.github.io/iron-node/
-http://strapi.io
-http://nodeontrain.xyz/
+https://www.graphile.org/postgraphile/ - Instant GraphQL API for PostgreSQL database
+http://strapi.io - Advanced open-source Content Management Framework 
+http://nodeontrain.xyz/ - The web's scaffolding tool for Full Stack Developer
 https://www.urbanairship.com/blog/introducing-frock-easy-fake-services-for-a-microservices-environment
 http://wordexpress.io/
 https://www.npmjs.com/package/scalable-blob-store
 http://www.actionherojs.com/
+https://parall.ax/vtop - A Terminal Activity Monitor in Node.js
+https://www.tjson.org - Tagged JSON with Rich Types
+http://wallabyjs.com/docs/intro/get-started-sublime.html
 http://graphql.nodaljs.com/
+https://getkap.co - An open-source screen recorder built with web technology
+http://perkframework.com/ - A node framework built on three core tenets: documentation, stability and balance
+http://markojs.com/ - A high performance templating engine 
 http://merencia.com/node-cron/
 https://nmotw.in/node-wifi-scanner/ - Node Module Of The Week
 http://veriacms.com/
