@@ -439,6 +439,42 @@ https://github.com/alanbsmith/react-router-example - an example for deploying a 
 https://github.com/node-on-mobile/node-on-android - Make Node.JS apps for Android
 https://github.com/dthree/mailit - A tiny drop-in REST API to send emails
 https://github.com/nightwatchjs/nightwatch - Automated testing and continous integration framework
+https://github.com/Nike-Inc/burnside - Fast and Reliable E2E Web Testing with only Javascript
+https://github.com/JorgeBucaran/getopts - Node.js CLI options parser.
+https://github.com/addyosmani/critical - Extract & Inline Critical-path CSS in HTML pages
+https://github.com/i0natan/nodebestpractices - The largest Node.JS best practices list.
+https://github.com/xxhomey19/nba-go - The finest NBA CLI.
+https://github.com/sunesimonsen/ukkonen - Ukkonen's Approximate String Matching algorithm
+https://github.com/tigercosmos/node-color-log - More powerful logger for NodeJS
+https://github.com/ronomon/reed-solomon - Reed-Solomon erasure coding in pure Javascript
+https://github.com/tj/node-prune - Remove unnecessary files from node_modules
+https://github.com/maxpert/raspchat - A chat server that can run on Raspberry Pi 
+https://github.com/croqaz/clean-mark - Convert an article into a clean text
+https://github.com/mikeal/bent - Functional HTTP client for Node.js w/ async/await.
+https://github.com/WeiChiaChang/stacks-cli - Analyze website stack from the terminal
+https://github.com/cdimascio/generator-express-no-stress - Yeoman generator for Express.js based 12-factor apps and apis
+https://github.com/EmilTholin/image-trace-loader - Loads images and exports traced outlines
+https://github.com/dest4/stream-audio-fingerprint - Audio landmark fingerprinting as a Node Stream module
+https://github.com/SBoudrias/Inquirer.js - A collection of common interactive command line user interfaces.
+https://github.com/ethanent/phin - The ultra-lightweight Node.js HTTP client
+https://github.com/simonepri/country-iso - Get the ISO 3166-1 alpha-3 country code from geographic coordinates.
+https://github.com/typicode/lowdb - a small local JSON database powered by Lodash
+https://github.com/bradleyboy/tuql - Automatically create a GraphQL server from a sqlite database
+https://github.com/githubsaturn/captainduckduck - Automated Scalable Ready Webserver Package 
+https://github.com/ethanent/Vaxic - The ultra-light superpower Node web framework
+https://github.com/Anstinus/lazy-linq - A full port of LINQ for javascript.
+https://github.com/SimulatedGREG/electron-vue - An Electron & Vue.js quick start boilerplate 
+https://github.com/jackfranklin/tweet-parser - Parsing tweets into lists of entities
+https://github.com/patrickjuchli/basic-ftp - FTP/FTPS client for NodeJS
+https://github.com/oliver-moran/jimp - An image processing library written entirely in JavaScript for Node
+https://github.com/Automattic/mongoose - MongoDB object modeling designed to work in an asynchronous environment.
+https://github.com/ashubham/webshot-factory - Web Screenshots at scale based on headless chrome
+https://github.com/lukeed/polka - A micro web server so fast, it'll make you dance
+https://github.com/developit/karmatic - Easy automatic (headless) browser testing.
+https://github.com/wearehive/project-guidelines - A set of best practices for JavaScript projects
+https://github.com/lorenzofox3/zora - less than 200 lines of code javascript test harness for nodejs and the browser
+https://github.com/fvgs/litetimer -  Command-line timer that's light as air
+https://github.com/skerit/json-dry - allows you to serialize & revive objects containing circular reference
 https://github.com/smallwins/spacetime - A lightweight way to handle timezones in js
 https://github.com/spikenail/spikenail - A GraphQL API Framework for Node.js
 https://github.com/sergiodxa/grial - Node.js framework for creating GraphQL API servers 
