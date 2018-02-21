@@ -387,5 +387,26 @@ https://github.com/serradura/request_via - A Functional HTTP Client That Wraps N
 https://github.com/ankane/multiverse - Multiple databases for Rails
 https://github.com/jvillarejo/arbolito - A currency conversion api for the minimalist developer
 https://github.com/palkan/wsdirector - All the world's a server, and all the men and women merely clients
+https://github.com/aderyabin/sniffer - Log and Analyze Outgoing HTTP Requests
+https://github.com/pacuna/frappe_charts - Frappé Charts Ruby gem for Rails.
+https://github.com/socketry/rackula - Generate a static site from any rack middleware
+https://github.com/iridakos/duckrails - A development tool to quickly & dynamically mock API endpoints
+https://github.com/hopsoft/model_probe - Schema introspection for ActiveModel
+https://github.com/comfy/comfortable-mexican-sofa - a powerful Ruby on Rails 5.2+ CMS (Content Management System) Engine
+https://github.com/shioyama/mobility - Pluggable Ruby translation framework
+https://github.com/mikker/passwordless -  Add authentication to your Rails app 
+https://github.com/zeisler/active_mocker - Generate mocks from ActiveRecord models for unit tests
+https://github.com/socketry/lightio - a userland implemented green thread library for ruby
+https://github.com/angelkar/pretty-diffs - Enable fancy colored diffs in your minitest assertions
+https://github.com/kirillshevch/logs - Mountable Rails Engine for viewing paginated logs from a browser
+https://github.com/TwilightCoders/active_record-mti - ActiveRecord support for PostgreSQL's native inherited tables
+https://github.com/stimulusjs/stimulus - A modest JavaScript framework for the HTML you already have 
+https://github.com/athityakumar/colorls - beautifies the terminal's ls command
+https://github.com/palkan/litecable - Lightweight Action Cable implementation
+https://github.com/dansbits/lurn - A ruby gem for elegant data science and machine learning
+https://github.com/rbspy/rbspy - Sampling profiler for Ruby
+https://github.com/lygaret/rack-params - `Rack::Request.params` validation and type coercion, on Rack.
+https://github.com/davydovanton/kan - Simple, light and functional authorization library
+https://github.com/piotrmurach/tty-markdown - Convert a markdown document or text into a terminal friendly output.
 
 
