@@ -1,4 +1,4 @@
-      ###################################### SitePoint ####################################################
+########################################### SitePoint #########################################################
 https://www.sitepoint.com/rails-authentication-with-authlogic/
 https://www.sitepoint.com/understanding-scope-in-ruby/
 https://www.sitepoint.com/how-to-solve-coding-anti-patterns-for-ruby-rookies/
@@ -83,3 +83,55 @@ https://www.sitepoint.com/react-rails-5-1/
 https://www.sitepoint.com/model-view-controller-mvc-architecture-rails/
 
 
+########################################### Evil Martians #########################################################
+https://evilmartians.com/chronicles/open-source-software-whats-in-a-poke
+https://evilmartians.com/chronicles/fighting-the-hydra-of-n-plus-one-queries
+https://evilmartians.com/chronicles/testprof-a-good-doctor-for-slow-ruby-tests
+https://evilmartians.com/chronicles/factories-or-fixtures
+https://evilmartians.com/chronicles/partition-and-conquer
+https://evilmartians.com/chronicles/spend-less-on-google-translate
+https://evilmartians.com/chronicles/zero-downtime-rebranding
+https://evilmartians.com/chronicles/evil-front-part-1
+https://evilmartians.com/chronicles/evil-front-part-2
+https://evilmartians.com/chronicles/evil-front-part-3
+
+
+########################################### Mike Penham #########################################################
+http://www.mikeperham.com/2015/07/16/sidekiq-and-upstart/
+http://www.mikeperham.com/2016/02/09/kill-your-dependencies/
+http://www.mikeperham.com/2016/05/17/commercial-gems/
+http://www.mikeperham.com/2016/08/05/debugging-stuck-ruby-processes/
+http://www.mikeperham.com/2017/11/13/getting-started-with-faktory/
+
+
+########################################### Speedshop #########################################################
+https://www.speedshop.co/2016/01/07/what-http2-means-for-ruby-developers.html
+https://www.speedshop.co/2017/03/09/a-guide-to-gc-stat.html
+https://www.speedshop.co/2017/05/25/railsconf-2017-the-performance-update.html
+https://www.speedshop.co/2017/07/11/is-ruby-too-slow-for-web-scale.html
+https://www.speedshop.co/2017/10/12/appserver.html
+https://www.speedshop.co/2017/12/04/malloc-doubles-ruby-memory.html
+
+
+########################################### Chris Kottom #########################################################
+http://chriskottom.com/blog/2015/11/testing-rails-background-workers/
+http://chriskottom.com/blog/2015/11/bulletproof-rails-background-jobs/
+http://chriskottom.com/blog/2016/10/stubbing-external-apis-with-webmock/
+http://chriskottom.com/blog/2016/11/keep-on-webmockin-in-the-real-world/
+https://chriskottom.com/blog/2017/04/versioning-a-rails-api/
+https://chriskottom.com/blog/2018/01/comparing-timestamps-in-rails/
+
+
+########################################### Andy Croll #########################################################
+https://andycroll.com/ruby/rescue-specific-errors-avoid-standarderror-do-not-rescue-exception/
+https://andycroll.com/ruby/use-simplecov/
+https://andycroll.com/ruby/choose-uuids-for-model-ids-in-rails/
+https://andycroll.com/ruby/extract-conditionals-into-well-named-methods/
+
+
+########################################### Tenderlovemaking #########################################################
+https://tenderlovemaking.com/2017/02/01/object-id-in-mri.html
+https://tenderlovemaking.com/2017/01/17/evented-gpio-on-raspberry-pi-with-ruby.html
+https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html
+https://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html
+https://tenderlovemaking.com/2018/01/23/reducing-memory-usage-in-ruby.html
