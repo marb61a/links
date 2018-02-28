@@ -450,3 +450,49 @@ https://github.com/haltu/muuri - Responsive, sortable, filterable and draggable 
 https://github.com/GoogleChromeLabs/jsvu - JavaScript (engine) Version Updater 
 https://github.com/developit/unistore -  650b state container with component actions for Preact
 https://github.com/typicode/lowdb - a small local JSON database powered by Lodash
+https://github.com/naver/billboard.js/ - Re-usable, easy interface JavaScript chart library based on D3 v4
+https://github.com/posthtml/posthtml - a tool to transform HTML/XML with JS plugins
+https://github.com/developit/microbundle -  Zero-configuration bundler for tiny modules.
+https://github.com/pd4d10/octohint - The missing IntelliSense hint feature for GitHub 
+https://github.com/ballercat/walt -  a JavaScript-like syntax for WebAssembly text format
+https://github.com/calirojas506/vue-inspector - Vue.js Inspector for Mobile Devices
+https://github.com/sindresorhus/emittery - Simple and modern async event emitter
+https://github.com/sindresorhus/on-change - Watch an object or array for changes
+https://github.com/sindresorhus/element-ready - Detect when an element is ready in the DOM
+https://github.com/jackfranklin/tweet-parser - Parsing tweets into lists of entities.
+https://github.com/danilowoz/react-content-loader -  SVG component to create placeholder loading
+https://github.com/planttheidea/unchanged - A tiny, fast, unopinionated handler for updating JS objects and arrays immutably
+https://github.com/transloadit/uppy - The next open source file uploader for web browsers
+https://github.com/cretz/asmble - Compile WebAssembly to JVM and other WASM tools
+https://github.com/sdras/object-explorer - help figure out what JavaScript object method would be best to use
+https://github.com/cowchimp/headless-devtools - Lets you perform Chrome DevTools actions from code 
+https://github.com/mweststrate/immer - Create the next immutable state by mutating the current one
+https://github.com/stimulusjs/stimulus - A modest JavaScript framework for the HTML you already have
+https://github.com/NervJS/nerv - A blazing fast React alternative, compatible with IE8 and React 16
+https://github.com/developit/workerize - Run a module in a Web Worker.
+https://github.com/nhnent/tui.editor -  Markdown WYSIWYG Editor. GFM Standard 
+https://github.com/naver/egjs-infinitegrid - A module used to arrange card elements
+https://github.com/ArthurClemens/polythene - Material Design component library for Mithril and React
+https://github.com/kentcdodds/match-sorter - Simple, expected, and deterministic best-match sorting of an array
+https://github.com/t4t5/sweetalert - A beautiful replacement for JavaScript's "alert"
+https://github.com/Khan/KaTeX - Fast math typesetting for the web.
+https://github.com/ashubham/webshot-factory - Web Screenshots at scale based on headless chrome
+https://github.com/zouhir/jarvis - A very intelligent browser based Webpack dashboard
+https://github.com/nullobject/bulb - A reactive programming library for JavaScript.
+https://github.com/skerit/json-dry -  JSON-dry allows you to serialize & revive objects
+https://github.com/skevy/wobble - A tiny (~1.7 KB gzipped) spring physics micro-library
+https://github.com/wearehive/project-guidelines - A set of best practices for JavaScript projects
+https://github.com/0x00A/scratches - A scratchpad. Read, Evaluate, Print, Loop, but with a nicer editor
+https://github.com/developit/greenlet -  Move an async function into its own thread
+https://github.com/bfirsh/jsnes - A JavaScript NES emulator. 
+https://github.com/jamiebuilds/glow - Make your Flow errors GLOW
+https://github.com/lukeed/sockette - The cutest little WebSocket wrapper
+https://github.com/lukejacksonn/ijk -  Transforms arrays into virtual dom trees; a terse alternative to JSX
+https://github.com/a-jie/Proton - A particle engine for javascript
+https://github.com/visionmedia/page.js - Micro client-side router inspired by the Express router
+https://github.com/sindresorhus/matcher - Simple wildcard matching
+https://github.com/sweetalert2/sweetalert2 - WAI-ARIA) replacement for JavaScript's popup boxes
+https://github.com/streamich/ass-js - Assembler.js - X86_64 and Ethereum
+https://github.com/vuetifyjs/vuetify - Material Component Framework for Vue.js 2 
+https://github.com/vincit/objection.js - An SQL-friendly ORM for Node.js
+
