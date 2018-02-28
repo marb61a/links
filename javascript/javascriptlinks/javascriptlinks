@@ -14,7 +14,7 @@ http://www.devbattles.com/en/sand/post-1742-How_to_play_with_setIterval_in_JavaS
 https://www.youtube.com/watch?v=edq4dt98Mpg - 5 Tips To Improve Your JS with ES6
 https://www.youtube.com/watch?v=QtgR94Q2pt4 - The rise of async JavaScript
 https://www.youtube.com/watch?v=zoo69lxnE-Y - 3 Splendid JavaScript Debugging Tips
-https://www.youtube.com/watch?v=qi_rLTcXers#t=1m49s - ES6 Modules Standard and Syntax - JavaScriptKC meetup recording
+https://www.youtube.com/watch?v=qi_rLTcXers - ES6 Modules Standard and Syntax - JavaScriptKC meetup recording
 https://www.youtube.com/watch?v=jJAxhVxaHMM - Build Your Own Curry Function in JavaScript
 https://www.youtube.com/watch?v=eZ5w5MYP3C0 - Currying Functions in JavaScript
 https://www.youtube.com/watch?v=e-5obm1G_FY - Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016
@@ -80,7 +80,13 @@ https://www.youtube.com/watch?v=1bZxs5J5n3M - High Performance JS in V8
 https://www.youtube.com/watch?v=yaX34x3OgQI - Getting Started With Aurelia JS
 https://www.youtube.com/watch?v=_5X2aB_mNp4 - JavaScript Metaprogramming - ES6 Proxy Use and Abuse
 https://www.youtube.com/watch?v=Wo0qiGPSV-s - Immutable data structures for functional JS
-
+https://www.youtube.com/watch?v=9YkUCxvaLEk - Wes Bos - Async + Await
+https://www.youtube.com/watch?v=Xd7huBu39qk - What You Need to Know to be a Front End Developer in 2018
+https://www.youtube.com/watch?v=P4UQ-jTTJJ4 - TDD with Wallaby.js Part 1
+https://www.youtube.com/watch?v=TubVp9nn32Q - TDD with Wallaby.js Part 2
+https://www.youtube.com/watch?v=afoxd5b0bJo - Modern Image Gallery With ES6 Vanilla JavaScript
+https://www.youtube.com/watch?v=qsNxdukPc2U - Tricky JavaScript Interview Questions and Answers
+https://www.youtube.com/watch?v=vY1vaVF1P5k - Destructuring in ES6
 
 
 ##Vimeo
@@ -94,6 +100,11 @@ https://pusher.com/sessions/meetup/london-node-user-group/ace-javascript-intervi
 https://pusher.com/sessions/meetup/hydrahack/making-desktop-apps-with-electron
 https://pusher.com/sessions/meetup/js-monthly-london/flow
 https://pusher.com/sessions/meetup/bristol-js/web-bluetooth-espruino-and-puckjs
+https://pusher.com/sessions/meetup/js-monthly-london/image-processing-and-manipulation-in-nodejs
+https://pusher.com/sessions/meetup/reactivate-london/a-pragmatists-guide-to-reasonml
+https://pusher.com/sessions/meetup/react-vienna/popperjs-positioning-libraries-integration-in-react
+https://pusher.com/sessions/meetup/hydrahack/making-desktop-apps-with-electron
+https://pusher.com/sessions/meetup/bristol-js/vuejs-the-progressive-javascript-framework
 
 
 ##Egghead
@@ -134,39 +145,37 @@ http://frontendhappyhour.com - A podcast featuring a panel of Software Engineers
 http://www.jeffreybiles.com/build-pacman - Online book you'll learn the basics of Javascript 
 http://fable.io - Fable is an F# to JavaScript compiler powered by Babel
 https://www.reshader.com - A micro, highly-customisable JavaScript library to get the shades of colors
+http://a-jie.github.io/Proton/ - javascript particle engine
 https://www.rtfmanual.io/d3garden/
 https://jcbrand.github.io/pluggable.js/ - lets you make your JS project extendable via plugins
 http://nickersoft.github.io/push.js/ - JAVASCRIPT NOTIFICATIONS FOR EVERY BROWSER
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
-http://substance.io/ - Web content editor (Open Source)
-https://popper.js.org -  CREATE POPPERS IN WEB APPLICATIONS
-http://facebook.github.io/jest/ - Painless JavaScript Testing
-http://www.javascriptkit.com/javatutors/
+http://www.javascriptkit.com/javatutors/ - JavaScript Tutorials
 https://golden-layout.com/ - a multi-screen layout manager for webapps (tutorials available)
 http://substance.io/ - A JavaScript library for web-based content editing
 http://www.react.express - Guide to React application development
-https://stormpath.com/blog/secure-single-page-app-problem/
-https://github.com/wbinnssmith/awesome-promises
 http://www.cerebraljs.com/ - The cerebral project
 http://xregexp.com - JavaScript regular expression library
 http://turfjs.org - Advanced geospatial analysis for browsers and node
 http://d3indepth.com - D3 information to bridge the gap between tutorials and documenttation
 http://www.chartjs.org/
 https://rumbleinc.github.io/rumble-js-charts/
+https://nerv.aotu.io - A blazing fast React alternative, compatible with IE8 and React 16.
 http://3d-transforms.webflow.com/
+https://nhnent.github.io/tui.editor/ - GFM Markdown WYSIWYG Editor
 http://www.javascriptkit.com
 https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
 http://nosir.github.io/cleave.js/ - Format your <input/> content when you are typing
-http://www.mancy-re.pl/ - A cross platform NodeJS REPL application based on Electron and React frameworks
-https://display.js.org - A simple JavaScript framework for building ambitious UIs
 http://www.javascriptoo.com - every javascript project you should be looking into
 http://izimodal.marcelodolce.com - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 http://echarts.baidu.com
+https://sweetalert.js.org - A beautiful replacement for various messages
 http://ottomanjs.com/
 http://careerjs.com - A podcast where three JavaScript developers discuss strategies and tips to help your career as a software developer.
 https://neokoenig.github.io/jQuery-gridmanager/
 http://www.nealjs.com/Home
-http://riotjs.com/
+http://www.hygen.io - The scalable code generator that saves you time.
+http://riotjs.com/ - Simple and elegant component-based UI library
 http://www.a1k0n.net/2015/11/09/javascript-ft2-player.html
 http://angularjs.blogspot.ie/2015/11/highlights-from-angularconnect-2015.html
 https://community.algolia.com/instantsearch.js/
@@ -176,9 +185,14 @@ https://github.com/mbeaudru/modern-js-cheatsheet - ES6 Cheet Sheet
 https://es6cheatsheet.com/ -interactive ES6 cheatsheet
 http://imagesloaded.desandro.com
 http://allegrojs.net/
+http://www.mancy-re.pl/ - A cross platform NodeJS REPL application based on Electron and React frameworks
+https://display.js.org - A simple JavaScript framework for building ambitious UIs
 https://esdiscuss.org
 https://plot.ly/javascript/open-source-announcement/
 https://www.javascripting.com
+http://substance.io/ - Web content editor (Open Source)
+https://popper.js.org -  CREATE POPPERS IN WEB APPLICATIONS
+http://facebook.github.io/jest/ - Painless JavaScript Testing
 http://sigmajs.org/
 http://riteshkr.com/embed.js/
 http://robert.kra.hn/projects/paredit-js
@@ -188,7 +202,6 @@ https://jaxgeller.com/tweezer.js/
 http://rse.github.io/extraction/
 https://ellisonleao.github.io/sharer.js/
 http://www.jspsych.org/
-http://cdmedia.github.io/cms.js/
 https://plot.ly/javascript/modularizing-monolithic-javascript-projects/
 http://js.cytoscape.org/
 http://loudlinks.rocks/
