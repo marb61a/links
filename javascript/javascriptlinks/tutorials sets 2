@@ -1,8 +1,7 @@
-                                  Javascript Tutorials from Sitepoint
+                                  Javascript Tutorials
                                   
 ####################################### Sitepoint ###########################################################
-
-                            ######################## ES 6  ############################
+######################## ES 6  ############################
 https://www.sitepoint.com/es6-now-template-strings/
 https://www.sitepoint.com/the-es6-conundrum/
 https://www.sitepoint.com/creating-next-generation-javascript-application-aurelia/
@@ -17,8 +16,8 @@ https://www.sitepoint.com/date-fns-javascript-date-library/
 https://www.sitepoint.com/hyperapp-1-kb-javascript-library/
 https://www.sitepoint.com/javascript-performance-optimization-tips-an-overview/
 
-                            
-                            ######################## JQuery  ############################
+                     
+######################## JQuery  ############################
 https://www.sitepoint.com/guide-vanilla-ajax-without-jquery/ 
 https://www.sitepoint.com/creating-a-scrud-system-using-jquery-json-and-datatables/
 https://www.sitepoint.com/comprehensive-jquery-selectors/
@@ -103,9 +102,8 @@ https://www.sitepoint.com/getting-started-with-codemods/
 https://www.sitepoint.com/mvc-design-pattern-javascript/
 https://www.sitepoint.com/javascript-functions-that-define-and-rewrite-themselves/
 https://www.sitepoint.com/hello-world-your-first-javascript-programs/
-
                             
-                            ######################## Graphics ############################
+######################## Graphics ############################
 https://www.sitepoint.com/creating-accessible-breakout-game-using-web-audio-svg/
 https://www.sitepoint.com/introducing-four-webgl-easier/
 https://www.sitepoint.com/voice-controlled-audio-player-web-speech-api/
@@ -117,9 +115,7 @@ https://www.sitepoint.com/building-a-game-reactjs-and-webgl/
 https://www.sitepoint.com/javascript-3d-minecraft-editor/
 https://www.sitepoint.com/introducing-graphicsjs-a-powerful-lightweight-graphics-library/
 
-                            
-                            
-                            ######################## Miscellaneous ############################
+######################## Miscellaneous ############################
 https://www.sitepoint.com/guide-to-npm-as-a-build-tool/
 https://www.sitepoint.com/full-screen-bootstrap-carousel-random-initial-image/
 https://www.sitepoint.com/multilingual-support-for-angularjs/
@@ -176,4 +172,45 @@ https://www.sitepoint.com/building-multiplayer-tictactoe-game-with-meteor/
 https://www.sitepoint.com/10-languages-compile-javascript/
 https://www.sitepoint.com/progressive-web-apps-a-crash-course/
 
+
+
+####################################################### Bocup ############################################################
+https://bocoup.com/weblog/test262-is-a-javascript-sideshow
+https://bocoup.com/weblog/javascript-developers-watch-your-language
+https://bocoup.com/blog/lets-define-my-favorite-test
+https://bocoup.com/blog/the-many-faces-of-functions-in-javascript
+https://bocoup.com/blog/i-slipped-on-javascripts-banana-peel
+
+
+################################################## Jake Archibald #########################################################
+https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
+https://jakearchibald.com/2016/streaming-template-literals/
+https://jakearchibald.com/2017/await-vs-return-vs-return-await/
+https://jakearchibald.com/2017/async-iterators-and-generators/
+https://jakearchibald.com/2017/arrays-symbols-realms/
+
+
+##################################################### Twilio ##############################################################
+https://www.twilio.com/blog/2016/03/getting-started-with-the-twilio-video-javascript-sdk.html
+https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html
+https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html
+https://www.twilio.com/blog/2017/09/fax-machine-adafruit-tessel-javascript-twilio.html
+https://www.twilio.com/blog/2017/10/screen-capture-in-google-chrome.html
+https://www.twilio.com/blog/2017/10/screen-capture-in-firefox.html
+
+
+##################################################### Dev.to ##############################################################
+https://dev.to/corgibytes/setting-up-a-minimal-yet-useful-javascript-dev-environment
+https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews
+https://dev.to/sarah_chima/an-introduction-to-es6-template-literals-94l
+https://dev.to/voodooattack/introducing-nexusjs-a-multi-threaded-javascript-run-time-3g6
+https://dev.to/aspittel/functional-programming-in-javascript-done-right-with-hyperapp-570f
+
+
+#################################################### Alligator #############################################################
+https://alligator.io/vuejs/e2e-testing-testcafe/
+https://alligator.io/js/sets-introduction/
+https://alligator.io/vuejs/vue-abstract-components/
+https://alligator.io/vuejs/vue-parceljs/
+https://alligator.io/vuejs/vue-modal-component/
 
