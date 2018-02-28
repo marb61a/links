@@ -70,10 +70,11 @@ https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
 https://medium.com/dailyjs/maybe-you-should-use-maybes-297f2c88c228
 https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775
 https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2
+https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
+https://medium.com/dailyjs/the-why-behind-the-wat-an-explanation-of-javascripts-weird-type-system-83b92879a8db
 https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a
 https://medium.com/@darrenjennings/data-driven-vue-js-53e84f16e28f
 https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358
-https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747
 https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7
 https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad
@@ -97,12 +98,18 @@ https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
 https://medium.com/front-end-hacking/javascript-symbols-generators-and-streams-1f6ef0fb1fdc
 https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a
 https://medium.com/@jdolle/babel-7-beta-instructions-aed5cf17048b
+https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e
+https://medium.com/@muehler.v/node-js-meets-opencvs-deep-neural-networks-fun-with-tensorflow-and-caffe-ff8d52a0f072
+https://medium.com/@alexandereardon/dragging-react-performance-forward-688b30d40a33
+https://medium.com/@baphemot/understanding-cors-18ad6b478e2b
+https://medium.com/hyperapp/hyperapp-for-redux-refugees-2507c9dd1ddc
 
 
 ###################################### Eric Elliot ###########################################################
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.vpo0l5z5q
 https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.6ambti44v
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
+https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0#.w9sxy5gxf
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.66l41ey8r
 https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75
@@ -110,6 +117,7 @@ https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5
 https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1
 https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
 https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
+https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340
 
 
 ###################################### Freecodecamp ###########################################################
@@ -131,6 +139,9 @@ https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-
 https://medium.freecodecamp.org/arrow-functions-in-javascript-2f8bf7df5077
 https://medium.freecodecamp.org/why-could-es7-be-called-es2-4c5f094ccef7
 https://medium.freecodecamp.org/why-robots-should-format-our-code-159fd06d17f7
+https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7
+https://medium.freecodecamp.org/running-untrusted-javascript-as-a-saas-is-hard-this-is-how-i-tamed-the-demons-973870f76e1c
+https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c
 
 
 ####################################### Telerik ###########################################################
@@ -210,6 +221,7 @@ http://2ality.com/2017/11/currying-in-js.html
 http://2ality.com/2017/11/about-reasonml.html
 http://2ality.com/2017/12/alternate-this.html
 http://2ality.com/2017/12/for-await-of-sync-iterables.html
+http://2ality.com/2018/02/string-prototype-matchall.html
 
 
 ####################################### Mozilla ###########################################################
@@ -226,6 +238,7 @@ https://hacks.mozilla.org/2017/06/introducing-filterbubbler-a-webextension-built
 https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/
 https://hacks.mozilla.org/2017/07/introducing-sphinx-js-a-better-way-to-document-large-javascript-projects/
 https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
+https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/
 
 
 ####################################### James K Nelson ###########################################################
@@ -255,6 +268,9 @@ https://www.smashingmagazine.com/2017/05/json-api-normalizer-redux/
 https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/
 https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/
 https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/
+https://www.smashingmagazine.com/2018/01/rise-state-machines/
+https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/
+https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/
 
 
 ####################################### Auth0 ###########################################################
@@ -311,6 +327,7 @@ https://davidwalsh.name/es6-features
 https://davidwalsh.name/spread-operator
 https://davidwalsh.name/functional-programming
 https://davidwalsh.name/wake-lock-shim
+https://davidwalsh.name/es7-es8-features
 
 
 ####################################### CSS Tricks ###########################################################
@@ -357,6 +374,8 @@ https://hackernoon.com/a-semi-quick-guide-to-reliable-stream-processing-with-rxj
 https://hackernoon.com/repatch-the-simplified-redux-2c4aa5c25fa9
 https://hackernoon.com/how-to-create-a-favorite-animation-with-anime-js-5f9ec02c80dd
 https://hackernoon.com/node8s-util-promisify-is-so-freakin-awesome-1d90c184bf44
+https://hackernoon.com/a-user-encounters-a-javascript-error-youll-never-guess-what-happens-next-dc1a6f725490
+https://hackernoon.com/surveyjs-an-open-source-javascript-survey-library-with-versions-for-angular-2-react-vue-2086d988b974
 
 
 ####################################### Pusher ###########################################################
@@ -366,15 +385,6 @@ https://blog.pusher.com/how-to-build-an-android-app-using-cordova-and-vue-js/
 https://blog.pusher.com/build-realtime-chart-with-vuejs-pusher/
 https://blog.pusher.com/build-simple-real-time-app-with-vue-js-2-0-and-pusher/
 https://blog.pusher.com/build-secure-chat-web-app-javascript-auth0-pusher/
-
-
-####################################### Twilio ###########################################################
-https://www.twilio.com/blog/2016/03/getting-started-with-the-twilio-video-javascript-sdk.html
-https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html
-https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html
-https://www.twilio.com/blog/2017/09/fax-machine-adafruit-tessel-javascript-twilio.html
-https://www.twilio.com/blog/2017/10/screen-capture-in-google-chrome.html
-https://www.twilio.com/blog/2017/10/screen-capture-in-firefox.html
 
 
 ####################################### VueJS Developers ###########################################################
@@ -395,3 +405,9 @@ https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad6
 https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc
 https://codeburst.io/learn-how-to-handle-javascript-errors-with-try-throw-catch-finally-83b4f9ef8c6f
 https://codeburst.io/how-i-created-a-heatmap-of-my-location-history-with-javascript-google-maps-972a2d1be240
+https://codeburst.io/javascript-map-vs-foreach-f38111822c0f
+https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921
+https://codeburst.io/how-to-handle-multipart-form-data-in-nodejs-file-uploading-in-nodejs-26c0cb88adcf
+https://codeburst.io/javascript-null-vs-undefined-20f955215a2
+
+
