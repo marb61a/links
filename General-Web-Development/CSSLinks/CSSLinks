@@ -1,6 +1,7 @@
 ##Courses -
 https://www.udemy.com/projects-in-css/
 https://www.udemy.com/mobi5-html5-and-css3-for-mobile-web-applications/
+https://scrimba.com/g/gflexbox - Learn Flexbox for free
 
 
 ## Youtube Videos
@@ -50,6 +51,14 @@ https://www.youtube.com/watch?v=DKyHVGh666s - The Future of Loading on the Web
 https://www.youtube.com/watch?v=56zCnwj58e4 - Accessibility Testing
 https://www.youtube.com/watch?v=xuifyagAeu4 - Rendering performance from the ground up
 https://www.youtube.com/watch?v=ADXX4fmWHbo - SVG can do that?
+https://www.youtube.com/watch?v=ojKbYz0iKQE - CSS Grid Explained in 7 Minutes
+https://www.youtube.com/watch?v=7kVeCqQCxlk - CSS Grid Changes EVERYTHING 
+https://www.youtube.com/watch?v=_XF69WYZOSs - BxJS - Recording video & audio in browser using Web Media API
+https://www.youtube.com/watch?v=EEOJZy_Gge4 - Flexibility & The Fold – new possibilities with CSS Grid
+https://www.youtube.com/watch?v=aDtPHXs9ze8 - Making a browser fast The story of Firefox Quantum
+https://www.youtube.com/watch?v=YfIjFeBLhyA - Whitespace on The Web!
+https://www.youtube.com/watch?v=OxrsO4aIjyc - CSS Grid like you are Jan Tschichold
+https://www.youtube.com/watch?v=ahPRvVyw9Eo - Modern Layouts with CSS Grid
 
 
 ##An Event Apart
@@ -73,6 +82,8 @@ https://vimeo.com/177103832 - Peter van der Zee | < IFRAME > | HTML Special, CSS
 https://vimeo.com/226736126 - Alice in Web Animations API 
 https://vimeo.com/239782886 - Mark Boulton | Designing Grids
 https://vimeo.com/242890906 - Tab Atkins | The (Far) Future of CSS
+https://vimeo.com/251516830 - New Adventures in Responsive Web Design
+https://vimeo.com/254679499 - INTO THE WEEDS OF CSS LAYOUT
 
 
 ##Channel 9
@@ -124,6 +135,7 @@ https://codepen.io/yemon/pen/BwOOWZ - Netflix style text animation with CSS
 https://codepen.io/johnnycopes/pen/yzQyMp - Monopoly board
 https://codepen.io/AllThingsSmitty/pen/MOYNBO - A Better Focus
 https://codepen.io/chrisgannon/pen/ZaPmKp/ - Bauble Toggle
+https://codepen.io/keithjgrant/pen/eyMMVL - dialog 
 
 
 ##Links -
@@ -132,12 +144,12 @@ http://accessibility.voxmedia.com/ - Accessibility guidelines
 https://google.github.io/styleguide/htmlcssguide.xml - Html5 & CSS style guide
 https://typeanything.io/ - a simple tool to create great font combinations
 https://frontendchecklist.io/ -  perfect for modern websites and meticulous developers
-http://solid.buzzfeed.com/
+http://solid.buzzfeed.com/ -  BuzzFeed's CSS style guide
 https://www.axis-praxis.org/specimens/__DEFAULT__ - a website for playing with OpenType Variable Fonts
 http://www.heropatterns.com/ - A collection of repeatable SVG background patterns for you to use on your digital projects.
 http://www.colinkeany.com/blend/ - Create and customize beautiful CSS3 gradients.
 http://cssreference.io/ - A free visual guide to CSS
-http://voxelcss.com/
+http://voxelcss.com/ - makes 3D rendering easy
 http://vrcollab.com/2015/08/10/what-is-metaroom-markup.html
 https://18f.gsa.gov/2016/01/11/introducing-the-css-coding-style-guide/
 http://trydesignlab.com/blog/ultimate-guide-getting-started-sketch-cheat-sheet/ - 99 Point Cheat Sheet
@@ -163,9 +175,11 @@ http://www.gradient-animator.com/ - CSS GRADIENT ANIMATOR
 http://kushagragour.in/lab/hint/
 http://www.testmycss.com/
 http://pixelart-to-css-react.herokuapp.com/
+http://www.heymeta.com - QUICKLY CHECK & BUILD YOUR META TAGS
 http://nativeformelements.com/
+https://atomiks.github.io/30-seconds-of-css/ - A curated collection of useful CSS snippets
 https://design.google.com/articles/introducing-resizer/
-https://descartes.io/
+https://descartes.io/ - Write CSS in JavaScript 
 https://1000ch.github.io/grd/
 http://brandmark.io/logo-crunch/ - Logo Crunch is a multi-resolution logo maker,
 http://www.csspurge.com/ - SAVING THE WEB 1KB AT A TIME
