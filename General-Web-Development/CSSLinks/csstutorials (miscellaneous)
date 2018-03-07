@@ -112,6 +112,8 @@ https://responsivedesign.is/articles/creating-the-periodic-table-with-grid-css
 https://www.stefanjudis.de/aria-selected-and-when-to-use-it.html
 https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.tbhcgjovo
 https://zellwk.com/blog/responsive-grid-system/
+https://zellwk.com/blog/responsive-vertical-rhythm/
+https://zellwk.com/blog/faux-subgrid/
 https://www.impressivewebs.com/fixing-styles-on-code-tags-nested-inside-links/
 https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/
 https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.dfkej43a8
@@ -132,6 +134,7 @@ https://aerotwist.com/blog/when-everything-is-important-nothing-is/
 https://www.viget.com/articles/css-typography-kerning-ligatures-swashes-small-caps
 https://www.viget.com/articles/ensuring-css-animations-run-and-stop-gracefully
 https://www.viget.com/articles/managing-css-js-http-2
+https://www.viget.com/articles/make-your-site-faster-with-preconnect-hints
 https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
 https://scotch.io/tutorials/a-look-at-bootstrap-4s-new-reset-rebootcss
 https://snook.ca/archives/html_and_css/mixed-content-responsive-images
@@ -182,6 +185,7 @@ http://mediatemple.net/blog/tips/full-page-background-video-styles/
 http://mediatemple.net/blog/tips/chris-coyier-future-web-development/
 https://meowni.ca/posts/web-components-with-otters/
 https://meowni.ca/posts/extensions/
+https://meowni.ca/posts/2017-puppeteer-tests/
 https://alligator.io/css/cropping-images-object-fit/
 https://stripe.com/blog/connect-front-end-experience
 https://alastairc.ac/2017/06/the-responsive-order-conflict/
@@ -193,6 +197,7 @@ https://axesslab.com/accessibility-according-to-pwd/
 https://philna.sh/blog/2017/07/04/experimenting-with-the-background-fetch-api/
 https://www.hanselman.com/blog/URLsAreUI.aspx
 https://meiert.com/en/blog/stop-using-resets/
+https://meiert.com/en/blog/maintainability-guide-2/
 https://deepstreamhub.com/tutorials/protocols/webrtc-intro/
 https://www.ascedia.com/blog/june-2017/responsive-typography
 https://alligator.io/css/clipping-with-clip-path/
@@ -206,6 +211,7 @@ https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/
 http://kizu.ru/en/blog/keyboard-only-focus/
 https://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html
 https://aerolab.co/blog/web-accessibility/
+https://aerolab.co/blog/flexbox-grids/
 https://blog.newrelic.com/2017/07/27/css-versioning-conflicts/
 https://pspdfkit.com/blog/2017/webassembly-a-new-hope/
 https://blog.algolia.com/performant-web-animations/
@@ -220,6 +226,8 @@ http://apoorvaj.io/exploring-bump-mapping-with-webgl.html
 http://jackhiston.com/2017/9/4/the-wonderful-world-of-webpack/
 https://tink.uk/accessible-svg-line-graphs/
 https://daverupert.com/2017/09/breaking-the-grid/
+https://daverupert.com/2017/11/happier-html5-forms/
+https://daverupert.com/2018/02/cheapass-parallax/
 https://www.heartinternet.uk/blog/discover-the-power-of-css-transforms/
 https://www.heartinternet.uk/blog/integrating-svg-site/
 https://www.heartinternet.uk/blog/fearless-guide-using-css-grid-today/
@@ -227,6 +235,7 @@ https://www.campaignmonitor.com/blog/email-marketing/2017/09/all-new-guide-css-s
 https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/
 https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/
 https://www.chenhuijing.com/blog/building-a-css-only-image-gallery/
+https://www.chenhuijing.com/blog/how-i-design-with-css-grid/
 http://tech.trivago.com/2017/09/26/accessibility-at-trivago/
 https://twilioinc.wpengine.com/2017/09/everything-you-ever-wanted-to-know-about-secure-html-forms.html
 https://www.twilio.com/blog/2017/10/screen-capture-in-google-chrome.html
@@ -240,6 +249,7 @@ http://gedd.ski/post/grid-inspector/
 https://jonathan-harrell.com/component-variants-scoped-css-variables/
 https://jonathan-harrell.com/unlocking-benefits-css-variables/
 https://jonathan-harrell.com/advanced-css-form-styling/
+https://jonathan-harrell.com/better-typography-font-variants/
 https://ayushgp.github.io/html-web-components-using-vanilla-js/
 http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html
 http://engineering.autotrader.co.uk/2017/10/27/building-fast-search-experience.html
@@ -253,10 +263,10 @@ https://blog.pragmatists.com/how-to-debug-front-end-console-3456e4ee5504
 https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/
 http://meyerweb.com/eric/thoughts/2017/11/14/declining-complexity-in-css/
 https://meyerweb.com/eric/thoughts/2017/11/27/generating-wireframe-boxes-with-css-and-html5/
-https://aerolab.co/blog/flexbox-grids/
 https://pineco.de/cross-origin-communication-postmessage/
 https://pineco.de/better-date-format-with-time-element/
 https://pineco.de/using-css-counters/
+https://pineco.de/using-initial-keyword-in-css/
 https://www.leejamesrobinson.com/blog/loading-placeholder-with-sass/
 https://www.tollmanz.com/content-security-policy-report-samples/
 https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007
@@ -271,11 +281,22 @@ https://24ways.org/2017/automating-your-accessibility-tests/
 https://24ways.org/2017/design-systems-and-css-grid/
 https://www.24a11y.com/2017/providing-alternate-content-screen-reader-users/
 https://seesparkbox.com/foundry/manageable_utility_systems_with_css_variables
-https://daverupert.com/2017/11/happier-html5-forms/
 https://calendar.perfplanet.com/2017/progressive-image-loading-using-intersection-observer-and-sqip/
 https://calendar.perfplanet.com/2017/clearing-cache-in-the-browser
 https://calendar.perfplanet.com/2017/mutating-web-content-using-dom-ranges/
 https://snook.ca/archives/html_and_css/calendar-css-grid
 http://blog.dynamicdrive.com/popular-css-button-hover-effects-explained/
+https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/
+https://keithjgrant.com/posts/2018/03/html5-sectioning-and-landmark-elements
+https://blogs.igalia.com/mrego/2018/01/11/display-contents-is-coming/
+https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae
+http://allthingssmitty.com/2018/01/29/phone-number-links-and-accessibility/
+https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
+https://blog.daftcode.pl/hyperapp-parcel-71823bd93f1c
+https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/
+https://litmus.com/blog/understanding-media-queries-in-html-email
+https://www.loxodrome.io/post/tab-state-service-workers/
+https://assortment.io/posts/handling-long-titles-with-truncation
+https://blog.rowan.website/2018/02/15/what-the-shit-is-the-shadow-dom-anyway/
 
 
