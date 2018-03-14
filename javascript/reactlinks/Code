@@ -271,4 +271,37 @@ https://github.com/Pau1fitz/react-spotify - A Spotify client built with React / 
 https://github.com/souporserious/react-aria - Utility components to help compose React ARIA components
 https://github.com/paypal/downshift - build simple, flexible, WAI-ARIA compliant enhanced input React components
 https://github.com/rmfisher/react-measurements - A component for measuring & annotating images.
+https://github.com/smooth-code/svgr - Transform SVG into React components
+https://github.com/ooade/next-apollo-auth - Authentication Boilerplate with Next.js and Apollo GraphQL
+https://github.com/ganderzz/react-scroll-to - Scroll to a position in React
+https://github.com/jiayihu/react-tiny-dom - A minimal implementation of react-dom using react-reconciler
+https://github.com/Alexloof/Soundize - A homemade server side rendering client made with React and Redux
+https://github.com/ctxhou/react-poppop - A mobile support and multi-directional modal for ReactJS
+https://github.com/aaronshaf/react-toggle - Elegant, accessible toggle component for React. 
+https://github.com/nitin42/react-perf-devtool  - Browser developer tool extension to inspect performance of React components.
+https://github.com/nem035/react-gridit - React grid using CSS Grid and styled-components
+https://github.com/Gigacore/React-Redux-Sass-Starter - Everything you need to get started with a basic React application 
+https://github.com/appbaseio/reactivesearch - A React and React Native UI components library
+https://github.com/LINKIWI/react-elemental - Modern, flat React UI component library 
+https://github.com/NervJS/nerv - A blazing fast React alternative, compatible with IE8 and React 16. 
+https://github.com/jaredpalmer/after.js - Next.js-like framework for server-rendered React apps built with React Router 4
+https://github.com/ctxhou/react-tabtab - Make your react tab dance
+https://github.com/Drawbotics/react-apollo-redux - Small wrapper to automatically dispatch actions in response to apollo mutations.
+https://github.com/lyft/react-javascript-to-typescript-transform - Convert React JavaScript code to TypeScript with proper typing
+https://github.com/developit/stockroom - Offload your store management to a worker easily
+https://github.com/zouhir/jarvis - A very intelligent browser based Webpack dashboard
+https://github.com/HenrikJoreteg/redux-bundler - Compose a redux store out of smaller bundles of functionality
+https://github.com/bcherny/undux - Dead simple state management for React
+https://github.com/NoamELB/react-hot-loader-loader - Webpack Loader to insert react-hot-loader automatically to your App
+https://github.com/planttheidea/remeasure - Get position and size attributes for any React Component
+https://github.com/drcmda/react-contextual - tiny (less than 1KB) helper around React 16s new context api
+https://github.com/geniusgordon/react-lumines - A classic block-dropping game rewritten in react
+https://github.com/berzniz/github_pr_tree - Add a file tree to GitHub's Pull Request 
+https://github.com/jamiebuilds/unstated - State so simple, it goes without saying
+https://github.com/nullobject/tetris - A clone of the popular game Tetris. 
+https://github.com/vaheqelyan/react-perftool - help you to inspect the performance of React Js components.
+https://github.com/nitish24p/react-worker-image - React component to fetch image resources via web workers
+https://github.com/awslabs/aws-mobile-react-sample - React Starter App that displays how web developers can integrate f/e with AWS
+https://github.com/yokyak/react-agent - Client and server-side state management library 
+
 
