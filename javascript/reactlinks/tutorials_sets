@@ -50,6 +50,7 @@ https://blog.risingstack.com/using-react-with-webpack-tutorial/
 https://blog.risingstack.com/react-js-best-practices-for-2016/
 https://blog.risingstack.com/handling-react-forms-with-mobx-observables/
 https://community.risingstack.com/handling-outside-events-with-the-redux-listener-pattern/
+https://blog.risingstack.com/introducing-react-easy-state/
 
 
 ###################################### ISquaredSoftware ################################################################## 
@@ -65,6 +66,9 @@ http://blog.isquaredsoftware.com/2017/01/practical-redux-part-8-form-draft-data-
 http://blog.isquaredsoftware.com/2017/01/idiomatic-redux-thoughts-on-thunks-sagas-abstraction-and-reusability/
 http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/
 http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/
+http://blog.isquaredsoftware.com/2017/07/practical-redux-part-9-managing-dependencies/
+http://blog.isquaredsoftware.com/2017/07/practical-redux-part-10-managing-modals/
+http://blog.isquaredsoftware.com/2018/01/practical-redux-part-11-nested-data-trees/
 
 
 ###################################### Medium ##################################################################
@@ -82,6 +86,9 @@ https://medium.com/tech-quizlet/smooth-game-animations-in-react-df43ece916c8#.f0
 https://medium.com/@sharifsbeat/learn-the-concepts-part-1-418952d968cb#.pa78i9jrh
 https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.yt1lly3o4
 https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.w2nhf67km
+https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d
+https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4
+https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70
 https://medium.com/the-redge-says/a-dead-simple-tutorial-on-how-to-use-react-js-for-those-who-know-html-css-and-some-javascript-9540426a67de#.v3wxf9miw
 https://medium.com/@lavrton/using-react-with-html5-canvas-871d07d8d753#.8bs2zptwl
 https://medium.com/modus-create-front-end-development/automatic-code-splitting-for-react-router-w-es6-imports-a0abdaa491e9#.6333zpkrs
@@ -162,14 +169,16 @@ https://medium.com/coding-artist/how-pure-css-images-helped-me-understand-react-
 https://medium.com/styled-components/announcing-v2-f01ef3766ac2
 https://medium.com/styled-components/component-folder-pattern-ee42df37ec68
 https://medium.com/styled-components/with-styled-components-into-the-future-d1d917e7c22c
+https://medium.com/styled-components/the-simple-guide-to-server-side-rendering-react-with-styled-components-d31c6b2b8fbf
 https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd
 https://medium.com/front-end-hacking/using-immutable-js-with-redux-ba89025e45e2
-https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d
-https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4
 https://medium.appbase.io/how-to-build-a-github-search-ui-in-60-minutes-295109211c70
 https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1
 https://medium.com/dailyjs/getting-high-progressive-web-app-score-on-react-material-ui-4a4a080643d6
 https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f
+https://medium.com/dailyjs/how-to-implement-material-design-motion-with-react-js-8bc561c9a94f
+https://medium.com/dailyjs/a-guide-to-building-a-react-component-for-npm-68f03b314753
+https://medium.com/dailyjs/reacts-️-new-context-api-70c9fe01596b
 https://medium.com/progressive-web-apps/react-progressive-web-apps-part-1-1cf381421672
 https://medium.com/@romarioraff/testing-react-apps-with-jest-and-chai-enzyme-for-beginners-baa5f57cec0b
 https://medium.com/@guptagaruda/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455
@@ -185,6 +194,12 @@ https://medium.appbase.io/securing-a-react-web-app-with-authorization-rules-2e43
 https://medium.com/capital-one-developers/how-to-work-with-forms-inputs-and-events-in-react-c337171b923b
 https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6
 https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403
+https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e
+https://medium.com/@Tetheta/lessons-learned-testing-react-redux-apps-with-jest-and-enzyme-eb581d6d167b
+https://medium.com/@admm/test-driven-development-in-react-is-easy-178c9c520f2f
+https://medium.com/@wonderboymusic/a-field-guide-to-css-in-js-f7cbd9ed79a7
+https://medium.com/bucharestjs/upgrading-a-create-react-app-project-to-a-ssr-code-splitting-setup-9da57df2040a
+https://medium.com/swinginc/bring-virtual-reality-to-your-browser-with-reactvr-fd9dc62aa8b1
 
 
 ###################################### Raja Rao ##################################################################
@@ -200,15 +215,25 @@ https://medium.com/@housecor/handling-state-in-react-four-immutable-approaches-t
 https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060
 
 
+############################################### Gitconnected  #############################################################
+https://levelup.gitconnected.com/debounce-react-and-redux-code-for-improved-performance-4b8d3c19e305
+https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459
+https://levelup.gitconnected.com/https-medium-com-zubairnahmed-react-ethereum-getting-started-with-the-minimum-toolset-required-part-1-of-4-9562efa23d18
+https://levelup.gitconnected.com/optimize-react-performance-c1a491ed9c36?ref=reddit
+https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459
+https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2
+https://levelup.gitconnected.com/learn-redux-by-building-redux-from-scratch-dcbcbd31b0d0
+https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4
 
-###################################### Kadira ##################################################################
+
+############################################# Kadira ##################################################################
 https://voice.kadira.io/let-s-compose-some-react-containers-3b91b6d9b7c8#.4j0ejbwya
 https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql-e0802695648c#.g20mw1nvn
 https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.k6ur7ru9q
 https://voice.kadira.io/say-hello-to-react-cdk-97cff692e798#.rn4zwgx56
 
 
-###################################### James Gilmore ##################################################################
+########################################### James Gilmore ################################################################
 https://medium.com/faceyspacey/how-to-use-webpacks-new-magic-comment-feature-with-react-universal-component-ssr-a38fd3e296a
 https://medium.com/faceyspacey/pre-release-redux-first-router-a-step-beyond-redux-little-router-cd2716576aea
 https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262
@@ -263,6 +288,11 @@ https://hackernoon.com/error-boundaries-in-react-16-32fb8e185a3
 https://hackernoon.com/why-we-use-styled-components-at-decisiv-a8ac6e1507ac
 https://hackernoon.com/debugging-react-like-a-champ-with-vscode-66281760037
 https://hackernoon.com/impress-your-friends-with-code-splitting-in-react-9f9a3ca2ae6e
+https://hackernoon.com/building-url-shortener-using-react-apollo-and-graphql-part-i-467aef8c64ce
+https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7
+https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-ii-79e7e8bed56c
+https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3
+https://hackernoon.com/do-more-with-less-using-render-props-de5bcdfbe74c
 
 
 ###################################### Freecodecamp ##################################################################
@@ -284,6 +314,10 @@ https://medium.freecodecamp.org/understanding-higher-order-components-6ce359d761
 https://medium.freecodecamp.org/an-introduction-to-the-redux-first-routing-model-98926ebf53cb
 https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594
 https://medium.freecodecamp.org/7-reasons-to-outlaw-reacts-functional-components-ff5b5ae09b7c
+https://medium.freecodecamp.org/setting-up-and-getting-used-to-gatsby-1fc27985ae8a
+https://medium.freecodecamp.org/how-to-model-the-behavior-of-redux-apps-using-statecharts-5e342aad8f66
+https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f
+
 
 
 ###################################### Javascript Inside ##################################################################
@@ -352,6 +386,7 @@ https://daveceddia.com/create-react-app-express-production/
 https://daveceddia.com/multiple-environments-with-react/
 https://daveceddia.com/what-does-redux-do/
 https://daveceddia.com/immutable-updates-react-redux/
+https://daveceddia.com/hot-reloading-create-react-app/
 
 
 ###################################### Stormpath ##################################################################
@@ -374,6 +409,12 @@ https://tylermcginnis.com/imperative-vs-declarative-programming/
 https://tylermcginnis.com/podcast/kentcdodds/
 https://tylermcginnis.com/react-elements-vs-react-components/
 https://tylermcginnis.com/react-router-protected-routes-authentication/
+https://tylermcginnis.com/build-your-own-react-router-v4/
+https://tylermcginnis.com/react-router-code-splitting/
+https://tylermcginnis.com/react-router-philosophy-introduction/
+https://tylermcginnis.com/react-router-handling-404-pages/
+https://tylermcginnis.com/react-router-programmatically-navigate/
+https://tylermcginnis.com/react-router-pass-props-to-components/
 
 
 ###################################### Goshakk ##################################################################
@@ -383,6 +424,7 @@ https://goshakkk.name/should-i-put-form-state-into-redux/
 https://goshakkk.name/instant-form-fields-validation-react/
 https://goshakkk.name/array-form-inputs/
 https://goshakkk.name/y-no-field-level-validations/
+https://goshakkk.name/tips-finally-learn-react/
 
 
 ######################################## Codeburst ##################################################################
@@ -393,3 +435,6 @@ https://codeburst.io/catching-exceptions-using-higher-order-components-in-react-
 https://codeburst.io/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-e462ef0c806c
 https://codeburst.io/performance-tuning-a-react-application-f480f46dc1a2
 https://codeburst.io/final-form-the-road-to-the-checkered-flag-cd9b75c25fe
+https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f
+https://codeburst.io/25-days-of-reasonml-a4b20a7e8c6
+
