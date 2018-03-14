@@ -154,6 +154,8 @@ http://jaysoo.ca/2016/02/28/organizing-redux-application/
 https://techblog.commercetools.com/advanced-data-tables-in-react-dbe33f8345ab#.w593z3nry
 https://blog.pusher.com/how-to-build-a-realtime-activity-feed-with-react-and-pusher/
 https://blog.pusher.com/building-a-realtime-react-vr-app/
+https://blog.pusher.com/online-text-rpg-entering-the-world-part-1/
+https://blog.pusher.com/online-text-rpg-exploring-the-world-part-2/
 https://www.netlify.com/blog/2016/11/10/3-of-the-most-common-errors-in-react/
 https://www.netlify.com/blog/2017/06/06/jamstack-vs-isomorphic-server-side-rendering/
 https://blog.sicara.com/a-starting-point-on-using-d3-with-react-869fdf3dfaf
@@ -210,6 +212,7 @@ https://www.bignerdranch.com/blog/destroy-all-classes-turn-react-components-insi
 https://blog.matters.tech/10-redux-tips-from-the-trenches-55e06ed1c0a8
 https://www.gatsbyjs.org/blog/2017-07-19-creating-a-blog-with-gatsby/
 https://paulgray.net/keys-in-react/
+https://paulgray.net/how-to-write-a-hoc/
 http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/
 https://blog.logrocket.com/introduction-to-preact-a-smaller-faster-react-alternative-ad5532eb6d79
 https://blog.dgraph.io/post/building-graphoverflow/
@@ -226,17 +229,14 @@ https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-compon
 https://blog.hichroma.com/introducing-chromatic-ui-testing-for-react-c5cc01a79aaa
 https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6
 http://nodewebapps.com/2017/09/27/a-simple-way-to-render-react-on-the-server-side/
-https://levelup.gitconnected.com/debounce-react-and-redux-code-for-improved-performance-4b8d3c19e305
-https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459
-https://levelup.gitconnected.com/https-medium-com-zubairnahmed-react-ethereum-getting-started-with-the-minimum-toolset-required-part-1-of-4-9562efa23d18
 https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578
 https://blog.eleven-labs.com/en/react-ssr/
 https://stanko.github.io/webpack-babel-react-revisited/
 http://arkwright.github.io/scaling-react-server-side-rendering.html
-https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459
 http://lucasmreis.github.io/blog/simple-react-patterns/
 https://about.sourcegraph.com/graphql/graphql-client-driven-development/
 https://engineering.opsgenie.com/i-wish-i-knew-these-before-diving-into-react-301e0ee2e488
+https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be
 https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546
 https://blog.prototypr.io/svg-illustrations-as-react-components-f0e7be304eb6
 https://blog.kentcdodds.com/how-to-give-rendering-control-to-users-with-prop-getters-549eaef76acf
@@ -254,6 +254,23 @@ https://building.calibreapp.com/debugging-react-performance-with-react-16-and-ch
 http://jsramblings.com/2017/11/27/using-styled-components-with-next-js.html
 https://docs.microsoft.com/en-us/azure/cosmos-db/tutorial-develop-mongodb-react
 http://blog.jakoblind.no/react-parcel/
-https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be
+https://cheesecakelabs.com/blog/atomic-design-react/
+http://jsmegatools.com/2017/12/09/creating-a-pagination-component-with-react-js/
+https://toddmotto.com/redux-typescript-store
+https://dev.to/dan_abramov/react-beginner-question-thread--1i5e
+https://www.halfelectronic.com/post/setting-up-gatsby-js-contentful-and-netlify/
+https://developers.redhat.com/blog/2017/11/15/best-practices-react-redux-web-application-development/
+https://develoger.com/how-to-obfuscate-css-class-names-with-react-and-webpack-20e2b5c49cda
+https://glcheetham.name/2016/05/20/killing-switch-statements-in-react-with-the-strategy-pattern/
+https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/
+https://blog.jmes.tech/react-fragment-and-semantic-html/
+http://blog.theodo.fr/2018/01/react-html-beware-traps/
+http://www.codecamps.com/a-quick-guide-to-styled-components-with-interactive-examples/
+https://formidable.com/blog/2018/introducing-urql/
+https://www.gatsbyjs.org/blog/2018-2-6-choosing-a-back-end/
+https://blog.lunarlogic.io/2018/slidedown-menu-in-react/
+https://react-etc.net/entry/formstate-type-safe-forms-for-react-js-with-typescript
+https://engineering.brigad.co/introducing-redux-rest-easy-6e9a91af4f59
+https://www.andreasreiterer.at/web-development/bind-callback-function-react/
 
 
