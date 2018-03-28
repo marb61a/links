@@ -1,0 +1,82 @@
+
+                                                ##Tutorials -
+                                                
+################################################# Netbasal #####################################################  
+https://netbasal.com/angular-clean-up-your-form-template-646faa164b1b
+https://netbasal.com/querying-a-normalized-state-with-rxjs-in-angular-71ecd7ca25b4
+https://netbasal.com/implementing-auth-guard-with-componentless-route-in-angular-b50a21f3bd77
+https://netbasal.com/create-the-tojson-operator-in-angular-adaac9356e21
+https://netbasal.com/the-power-of-selectors-in-angular-cd6947ce3bfd
+https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1
+https://netbasal.com/take-advantage-of-the-let-operator-in-angular-d351fd4bd1d9
+https://netbasal.com/automagically-unsubscribe-in-angular-4487e9853a88
+https://netbasal.com/implementing-event-modifiers-in-angular-87e1a07969ce
+https://netbasal.com/unit-test-your-ngrx-effects-in-angular-1bf2142dd459
+https://netbasal.com/leverage-structural-directives-to-create-powerful-components-in-angular-c95e3cfde789
+https://netbasal.com/optimizing-the-performance-of-your-angular-application-f222f1c16354
+https://netbasal.com/create-advanced-components-in-angular-e0655df5dde6
+https://netbasal.com/lets-talk-about-select-and-reselect-in-ngrx-store-177a2f6045a8
+https://netbasal.com/using-angular-components-with-third-party-libraries-522a1f33003
+https://netbasal.com/querying-for-the-closest-parent-element-in-angular-b2554d60c47e
+
+
+################################################# CSharp Corner #####################################################  
+https://www.c-sharpcorner.com/article/using-mvc-6-and-angularjs-2-with-net-core/
+https://www.c-sharpcorner.com/article/angularjs-facebook-user-authentication/
+https://www.c-sharpcorner.com/article/angular-4-authentication-with-auth0/
+https://www.c-sharpcorner.com/article/asp-net-mvc-warning-banner-using-bootstrap-and-angularui-bootstrap/
+https://www.c-sharpcorner.com/article/getting-started-with-angular-2-using-visual-studio-code/
+https://www.c-sharpcorner.com/article/routing-in-angular-with-typescript-and-visual-studio-2015/
+https://www.c-sharpcorner.com/article/how-to-work-with-multiple-module-in-angular-4/
+https://www.c-sharpcorner.com/blogs/aggrid-in-angular
+
+
+################################################# Gistia ##################################################### 
+http://www.gistia.com/angular2testing/
+http://www.gistia.com/understanding-types-typescript/
+http://www.gistia.com/getting-started-covalent-angular-2/
+http://www.gistia.com/guide-end-end-testing-angular-2/
+http://www.gistia.com/working-angular-2-router-part-1/
+http://www.gistia.com/working-angular-2-router-part-2/
+http://www.gistia.com/bind-data-view/
+http://www.gistia.com/mastering-promises/
+http://www.gistia.com/getting-started-angular-2-bootstrap/
+http://www.gistia.com/optimize-angular-2-applications/
+http://www.gistia.com/whats-new-angular-4/
+http://www.gistia.com/create-use-custom-components-angular-2/
+
+
+################################################# Hackernoon ##################################################### 
+https://hackernoon.com/build-an-angularjs-website-in-4-steps-afd2e83abe1#.7q0jxscpo
+https://hackernoon.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d
+https://hackernoon.com/hook-into-angular-initialization-process-add41a6b7e
+https://hackernoon.com/deploy-an-angularjs-ecommerce-app-in-4-steps-7fba760f22df
+https://hackernoon.com/the-state-of-angular-and-the-due-date-of-version-5-68374002267f
+https://hackernoon.com/how-to-build-a-portfolio-platform-app-using-angularjs-9a98e5a6b7de
+https://hackernoon.com/creating-interfaces-for-angular-services-1bb41fbbe47c
+https://hackernoon.com/best-practices-learnt-from-delivering-a-quality-angular4-application-2cd074ea53b3
+
+
+################################################# Codelord ##################################################### 
+http://www.codelord.net/2016/09/26/animating-transitions-in-2-minutes-with-nganimate-and-css/
+http://www.codelord.net/2017/03/23/the-performance-difference-between-ng-bind-and-%7B%7B%7D%7D/
+http://www.codelord.net/2017/06/04/the-magic-properties-of-angulars-ng-repeat/
+http://www.codelord.net/2017/06/11/fixing-angular-template-overuse/
+http://www.codelord.net/2017/08/06/advanced-ng-model-integration-for-bug-free-controls/
+http://www.codelord.net/2017/09/29/preferred-angularjs-communication-patterns/
+
+
+################################################# Victor Savkin ##################################################### 
+http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
+https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18#.55ofez2x2
+https://vsavkin.com/the-powerful-url-matching-engine-of-angular-router-775dad593b03#.g8zcl8e20
+https://vsavkin.com/angular-router-understanding-redirects-2826177761fc#.l5tc2rgpk
+https://vsavkin.com/angular-router-preloading-modules-ba3c75e424cb#.gn9veycee
+
+
+################################################# Malcoded ##################################################### 
+https://malcoded.com/posts/angular-fundamentals-routing
+https://malcoded.com/posts/get-started-typescript
+https://malcoded.com/posts/angular-service-worker
+https://malcoded.com/posts/angular-continuous-integration-vsts
+https://malcoded.com/posts/why-angular-not-works
