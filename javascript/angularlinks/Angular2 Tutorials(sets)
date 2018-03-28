@@ -6,6 +6,12 @@ http://www.sitepoint.com/creating-components-angular-2-typescript-es5/
 http://www.sitepoint.com/angular-2-mockbackend/
 https://www.sitepoint.com/chart-component-angular2-fusioncharts/
 https://www.sitepoint.com/angular-2-tutorial/
+https://www.sitepoint.com/understanding-component-architecture-angular/
+https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
+https://www.sitepoint.com/component-routing-angular-router/
+https://www.sitepoint.com/mean-stack-angular-2-angular-cli/
+https://www.sitepoint.com/component-routing-angular-router/
+https://www.sitepoint.com/angular-app-sign-in/
 
 
 ################################################# Syntax Success ##################################################### 
@@ -24,6 +30,12 @@ http://www.syntaxsuccess.com/viewarticle/combining-multiple-rxjs-streams-in-angu
 http://www.syntaxsuccess.com/viewarticle/optimizing-ngupgrade-bundle-sizes-in-angular-2
 http://www.syntaxsuccess.com/viewarticle/closure-compiler-and-http-requests
 http://www.syntaxsuccess.com/viewarticle/i18n-and-ahead-of-time-compilation-(aot)-in-angular
+http://www.syntaxsuccess.com/viewarticle/minimal-angular-application
+http://www.syntaxsuccess.com/viewarticle/ngupgrade-with-lazy-loading
+http://www.syntaxsuccess.com/viewarticle/angular-build-with-webpack-and-babili-
+http://www.syntaxsuccess.com/viewarticle/angular-aot-in-watch-mode
+http://www.syntaxsuccess.com/viewarticle/retrying-http-requests-with-rxjs
+http://www.syntaxsuccess.com/viewarticle/building-angular-applications-with-bazel
 
 
 ################################################# Medium ##################################################### 
@@ -48,6 +60,12 @@ https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0
 https://medium.com/@cnunciato/a-simple-mock-component-for-angular-2-d79bd58a7b31#.l0cknmayw
 https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6
 https://medium.com/@avatsaev/angular-2-and-ruby-on-rails-user-authentication-fde230ddaed8
+https://medium.com/claritydesignsystem/angular-testing-made-easy-4e11f6044129
+https://medium.com/dev-bits/programming-dynamic-drawings-animations-with-angular-js-and-two-js-9d2ec1ce2580
+https://medium.com/google-developer-experts/angular-applying-motion-principles-to-a-list-d5cdd35c899e
+https://medium.com/google-developer-experts/mix-and-match-angular-custom-elements-polymer-1aee0b3d63a1
+https://medium.com/@milosbejda/declarative-event-tracking-with-google-analytics-in-angular-c59f464680c6
+https://medium.com/poka-techblog/advice-i-wish-i-had-before-upgrading-from-angularjs-to-angular-2-91e0850e9088
 
 
 ################################################# Thoughtram ##################################################### 
@@ -65,6 +83,8 @@ http://blog.thoughtram.io/angular/2016/10/10/resolving-route-data-in-angular-2.h
 http://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html
 https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html
 https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html
+https://blog.thoughtram.io/angular/2017/11/13/easy-dialogs-with-angular-material.html
+https://blog.thoughtram.io/angular/2017/11/20/custom-overlays-with-angulars-cdk.html
 
 
 ################################################# Todd Motto ##################################################### 
@@ -83,6 +103,11 @@ https://toddmotto.com/reactive-formgroup-validation-angular-2
 https://toddmotto.com/angular-2-form-controls-patch-value-set-value
 https://toddmotto.com/building-tesla-range-calculator-angular-2-reactive-forms
 https://toddmotto.com/lazy-loading-angular-code-splitting-webpack
+https://toddmotto.com/angular-component-router
+https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook
+https://toddmotto.com/angular-dynamic-components-forms
+https://toddmotto.com/angular-ng-errors-form-validation
+https://toddmotto.com/angular-parent-routing-params
 
 
 ################################################# Auth0 ##################################################### 
@@ -99,9 +124,11 @@ https://auth0.com/blog/real-world-angular-series-part-6
 https://auth0.com/blog/real-world-angular-series-part-7/
 https://auth0.com/blog/real-world-angular-series-part-8/
 https://auth0.com/blog/angular-testing-in-depth-components/
+https://auth0.com/blog/rxjs-advanced-tutorial-with-angular-web-speech-part-1/
+https://auth0.com/blog/rxjs-advanced-tutorial-with-angular-web-speech-part-2/
 
 
-################################################# Scotch.IO ##################################################### 
+################################################# Scotch.io ##################################################### 
 https://scotch.io/tutorials/use-the-angular-cli-for-faster-angular-2-projects
 https://scotch.io/tutorials/how-to-build-nested-model-driven-forms-in-angular-2
 https://scotch.io/tutorials/3-ways-to-pass-async-data-to-angular-2-child-components
@@ -114,6 +141,12 @@ https://scotch.io/tutorials/angular-2-form-validation
 https://scotch.io/tutorials/angular-2-transclusion-using-ng-content
 https://scotch.io/tutorials/get-angular-1-features-in-angular-2
 https://scotch.io/tutorials/server-side-rendering-in-angular-2-with-angular-universal
+https://scotch.io/tutorials/create-scotch-like-image-cards-in-angular-2-with-cloudinary
+https://scotch.io/tutorials/5-features-to-watch-out-for-in-angular-4
+https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
+https://scotch.io/tutorials/handling-route-parameters-in-angular-v2
+https://scotch.io/tutorials/create-a-barebones-angular-app-with-the-minimal-flag
+https://scotch.io/tutorials/build-an-animated-angular-v2-dashboard
 
 
 ################################################# Ben Nadel ##################################################### 
@@ -133,6 +166,7 @@ https://www.bennadel.com/blog/3217-defining-function-and-callback-interfaces-in-
 https://www.bennadel.com/blog/3220-creating-an-animated-slack-inspired-reaction-emoticon-button-in-angular-2-4-4.htm
 https://www.bennadel.com/blog/3223-using-ngonchanges-collection-with-dot-notation-and-typescript-in-angular-2-4-4.htm
 https://www.bennadel.com/blog/3259-using-import-require-syntax-with-typescript-2-2-in-angular-2-4-9.htm
+https://www.bennadel.com/blog/3356-ngoninit-may-not-get-called-before-ngondestroy-is-called-in-angular-4-4-6.htm
 
 
 ################################################# Telerik ##################################################### 
@@ -143,14 +177,11 @@ http://developer.telerik.com/featured/quick-angular-2-hosting-angular-cli-github
 http://developer.telerik.com/featured/angular-2-patterns-angular-1-x-apps/
 http://www.telerik.com/blogs/cooking-with-aspnet-core-and-angular-2
 http://developer.telerik.com/products/nativescript/accept-signatures-nativescript-angular-mobile-application/
-
-
-################################################# Victor Savkin ##################################################### 
-http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2
-https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18#.55ofez2x2
-https://vsavkin.com/the-powerful-url-matching-engine-of-angular-router-775dad593b03#.g8zcl8e20
-https://vsavkin.com/angular-router-understanding-redirects-2826177761fc#.l5tc2rgpk
-https://vsavkin.com/angular-router-preloading-modules-ba3c75e424cb#.gn9veycee
+https://developer.telerik.com/topics/web-development/ng-controller-component-classes/
+https://developer.telerik.com/content-types/tutorials/step-step-guide-building-master-detail-user-interfaces-angular/
+https://developer.telerik.com/topics/web-development/using-pipes-angular-2/
+https://developer.telerik.com/products/nativescript/form-validation-nativescript-angular-mobile-application/
+https://www.telerik.com/blogs/defending-angular-applications-with-a-content-security-policy
 
 
 ################################################# Dzone ##################################################### 
@@ -164,15 +195,17 @@ https://dzone.com/articles/real-world-angular-series-part-1a-mean-setup-and-a
 https://dzone.com/articles/real-world-angular-series-part-2a-authentication-a
 https://dzone.com/articles/real-world-angular-series-part-6a-reactive-forms-a
 https://dzone.com/articles/real-world-angular-series-part-4b-access-managemen
+https://dzone.com/articles/the-modern-application-stack-part-4-building-a-cli-1
+https://dzone.com/articles/rapid-fire-protractor-quiz
+https://dzone.com/articles/managing-state-in-angular-with-ngrxstore
+https://dzone.com/articles/angular-2-change-detection-seeing-it-in-action
+https://dzone.com/articles/build-and-deploy-a-mongodb-angular-nodejs-app-usin
+https://dzone.com/articles/create-a-serverless-angular-app-with-azure-functio
+https://dzone.com/articles/firebase-authentication-using-angularjs
+https://dzone.com/articles/angular-4-the-butterfly-not-the-cocoon
+https://dzone.com/articles/using-angular-2-components
+https://dzone.com/articles/developing-async-microservices-architecture-using
+https://dzone.com/articles/angular-authentication-with-openid-connect-and-okt
+https://dzone.com/articles/developing-a-web-application-using-angular-part-3
 
-################################################# Gistia ##################################################### 
-http://www.gistia.com/angular2testing/
-http://www.gistia.com/understanding-types-typescript/
-http://www.gistia.com/getting-started-covalent-angular-2/
-http://www.gistia.com/guide-end-end-testing-angular-2/
-http://www.gistia.com/working-angular-2-router-part-1/
-http://www.gistia.com/working-angular-2-router-part-2/
-http://www.gistia.com/bind-data-view/
-http://www.gistia.com/mastering-promises/
-http://www.gistia.com/getting-started-angular-2-bootstrap/
-http://www.gistia.com/optimize-angular-2-applications/
+
