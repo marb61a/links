@@ -13,9 +13,7 @@ https://www.udemy.com/master-android-7-nougat-java-app-development-step-by-step/
 https://www.udemy.com/java-android-complete-guide/
 
 
-##Videos\Podcasts -
-https://vimeo.com/43612849 - Bob Martin Clean Architecture
-https://vimeo.com/190922794 - Learning Rx by example
+## Youtube Videos\Podcasts -
 https://www.youtube.com/watch?v=Hm37rWYdfv4 - Better Android Development with Kotlin and Gradle
 https://www.youtube.com/watch?v=gk2D7A8MjDo - Performance Testing Tools in Android
 https://www.youtube.com/watch?v=BxTfwT7mkB4 - StrictMode for enforcing best practices at runtime 
@@ -56,6 +54,11 @@ https://www.youtube.com/watch?v=3TENdS9Qqcc - Improving Android Studio Performan
 https://www.youtube.com/watch?v=M4GIr9V4QtM - Android Constraint Layout
 
 
+## Vimeo Videos\Podcasts -
+https://vimeo.com/43612849 - Bob Martin Clean Architecture
+https://vimeo.com/190922794 - Learning Rx by example
+
+
 ## Playlists & Channels
 https://www.youtube.com/watch?v=nBD4xhH5vIE&list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh - Derek Banas
 https://www.youtube.com/watch?v=SUOWNXGRc6g&list=PL2F07DBCDCC01493A - Thenewboston
@@ -79,6 +82,8 @@ https://www.youtube.com/playlist?list=PL2F9wFnfMLb2q09XTFNqGl2UUBmjbERta - Andro
 https://www.youtube.com/playlist?list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5 - KotlinConf 2017
 https://www.youtube.com/playlist?list=PLl-K7zZEsYLnt1-3lFiY89YtAFQzLZo-O - A/B Test Like a Pro
 https://www.youtube.com/playlist?list=PLYioXtkIMlS8wsv0jaA3ArxGtZ0RMLZR2 - droidcon SF 2017
+https://www.youtube.com/playlist?list=PLCH-unMwtd7brCsJQjUMVUAV2-ftirMIT - DevFest Baltics 2017 Talks
+https://www.youtube.com/channel/UCX-6ZA915qPixfAipb7zDzw/featured - Telegraph Engineering
 
 
 ## Realm.io
@@ -165,16 +170,24 @@ http://fragmentedpodcast.com/episodes/99/ - Design and Document for inheritance 
 http://fragmentedpodcast.com/episodes/100/ - 100 Listener questions
 http://fragmentedpodcast.com/episodes/101/ - Learning Kotlin – visibility modifiers, internal modifier, modules
 http://fragmentedpodcast.com/episodes/102/ - All Things Kotlin and notes from KotinConf
-http://fragmentedpodcast.com/episodes/103/ -  MVI pattern with Hannes Mosby Dorfmann
+http://fragmentedpodcast.com/episodes/103/ - MVI pattern with Hannes Mosby Dorfmann
 http://fragmentedpodcast.com/episodes/104/ - Conversations with GNOME/Mono/Xamarin creator Miguel 
 http://fragmentedpodcast.com/episodes/105/ - Jake Wharton on the Android Kotlin Guides
 http://fragmentedpodcast.com/episodes/106/ - The Reactive Workflow Pattern with Ray Ryan
 http://fragmentedpodcast.com/episodes/107/ - Shape shifting SVGs with Alex Lockwood
+http://fragmentedpodcast.com/episodes/108/ - State of React Native for Android with Ryan Salva
+http://fragmentedpodcast.com/episodes/109/ - Learning Kotlin – Sequences the new Iterables
+http://fragmentedpodcast.com/episodes/110/ - BuddyBuild and CI/CD services
+http://fragmentedpodcast.com/episodes/111/ - Effective Java v3 – Item #5 Prefer Dependency Injection to Hardwiring Resources
+http://fragmentedpodcast.com/episodes/112/ - Effective Java v3 – Item #9 – Prefer try with resources to try finally
+http://fragmentedpodcast.com/episodes/113/ - Chatting with Pinterest’s Christina Lee
+http://fragmentedpodcast.com/episodes/114/ - All About CI & CD on App Center w/ Patrick Nikoletich
+http://fragmentedpodcast.com/episodes/115/ - Architecture Components with Akshay Chordiya
 
 
 ##Links - 
 http://developer.android.com/index.html
-http://www.androidinterview.com/home/
+http://www.androidinterview.com/home/ - An Android tutorial blog
 http://www.android4devs.com
 http://6thsolution.github.io/EasyMVP/ - A powerful Model-View-Presenter framework for android
 http://www.exoguru.com/android
