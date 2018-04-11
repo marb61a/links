@@ -126,6 +126,7 @@ https://medium.com/citerus/lifecycle-fragments-backstack-f32e34f012d5
 https://medium.com/groupon-eng/from-fragments-to-activity-the-lambda-way-32c768c72aa9
 https://medium.com/groupon-eng/grox-the-art-of-the-state-b5223f48d696
 https://medium.com/groupon-eng/how-i-learned-to-love-unit-testing-with-toothpick-13ad305b35d
+https://medium.com/groupon-eng/developing-android-studio-plugins-with-gradle-7597d8825d76
 https://medium.com/@alahammad/database-with-room-using-rxjava-764ee6124974
 https://medium.com/@BladeCoder/architecture-components-pitfalls-part-1-9300dd969808
 https://medium.com/@d.khmelenko/rxjava-library-has-already-become-a-standard-in-android-development-f825fed8c6e4
@@ -134,11 +135,27 @@ https://medium.com/bleeding-edge/the-art-of-staging-a-rollout-8e203b337b75
 https://medium.com/mercari-engineering/android-device-farm-at-mercari-3197237df0e1
 https://medium.com/google-design/android-color-management-what-developers-and-designers-need-to-know-4fdd8054557e
 https://medium.com/google-design/the-android-developers-guide-to-better-typography-97e11bb0e261
-https://medium.com/googleplaydev/shrinking-apks-growing-installs-5d3fcba23ce2
 https://medium.com/rocket-travel-engineering/kotlin-on-the-backend-at-rocket-travel-31da239888db
 https://medium.com/lalafo-engineering/tuning-your-sqlite-with-sqldelight-sqlbrite-part-1-9568543fe9af
 https://medium.com/lalafo-engineering/tuning-your-sqlite-with-sqldelight-sqlbrite-part-2-11e59c5a3442
 https://medium.com/s23nyc-tech/mvp-lifecycles-dispatchers-oh-my-19eda37a1a52
+https://medium.com/googleplaydev/shrinking-apks-growing-installs-5d3fcba23ce2
+https://medium.com/googleplaydev/shrinking-apks-growing-installs-5d3fcba23ce2
+https://medium.com/googleplaydev/how-to-build-mobile-games-with-people-in-mind-cdc480967fcc
+https://medium.com/@nileshsingh/how-to-add-push-notification-capability-to-your-android-app-a3cac745e56e
+https://medium.com/@bherbst/the-rxjava2-default-error-handler-e50e0cab6f9f
+https://medium.com/@nileshsingh/understanding-recyclerview-part-1-the-basics-a7bd07cfae93
+https://medium.com/@StefMa/gradle-scripts-for-kotlin-lovers-1d04e2d0fc34
+https://medium.com/inloopx/using-android-fragments-in-2018-b9cf0b05b718
+https://medium.com/grand-parade/6-magic-sugars-that-can-make-your-kotlin-codebase-happier-part-3-6319a451cd5d
+https://medium.com/@krupalshah55/manipulating-shared-prefs-with-kotlin-just-two-lines-of-code-29af62440285
+https://medium.com/@hitherejoe/authenticating-users-with-actions-on-google-31083b12381a
+https://medium.com/the-telegraph-engineering/android-continuous-delivery-fb41da63176
+https://medium.com/rocknnull/exploring-kotlin-using-android-architecture-components-and-vice-versa-aa16e600041a
+https://medium.com/audhil/how-to-generate-xml-with-kotlin-extension-functions-and-lambdas-in-android-app-976229f1e4d8
+https://medium.com/bleeding-edge/testing-in-app-purchases-on-android-a6de74f78878
+https://medium.com/lifesum-healthy-living-simplified/how-we-migrated-from-rxjava1-to-rxjava2-bcf0c9eb1a6f
+https://medium.com/inloopx/service-locator-pattern-in-android-af3830924c69
 
 
 ######################################## Android Developers Blog ##############################################
@@ -179,15 +196,8 @@ https://medium.freecodecamp.com/android-app-optimization-using-arraymap-and-spar
 https://medium.freecodecamp.com/android-development-best-practices-83c94b027fd3#.fqy2njfo3
 https://medium.freecodecamp.com/material-design-and-the-mystery-meat-navigation-problem-65425fb5b52e#.vvdzlr1q5
 https://medium.freecodecamp.org/want-to-optimize-network-usage-check-out-local-storage-and-rxjava-backpressure-8b91b1db298a
-
-
-######################################## Ray Wenderlich ##############################################
-https://www.raywenderlich.com/141980/rxandroid-tutorial
-https://www.raywenderlich.com/149112/android-fragments-tutorial-introduction
-https://www.raywenderlich.com/146804/dependency-injection-dagger-2
-https://www.raywenderlich.com/109843/common-design-patterns-for-android
-https://www.raywenderlich.com/161318/beginning-android-development-part-one-installing-android-studio
-https://www.raywenderlich.com/154676/android-studio-tutorial-introduction
+https://medium.freecodecamp.org/my-favorite-examples-of-functional-programming-in-kotlin-e69217b39112
+https://medium.freecodecamp.org/functional-programming-for-android-developers-part-4-b7e1d436a62b
 
 
 ######################################## Exploring Android ##############################################
@@ -198,6 +208,7 @@ https://medium.com/exploring-android/braillebox-building-a-braille-news-reader-w
 https://medium.com/exploring-android/exploring-background-execution-limits-on-android-oreo-ab384762a66c
 https://medium.com/exploring-android/exploring-the-android-emoji-compatibility-library-1b9f3bb724aa
 https://medium.com/exploring-android/android-architecture-components-testing-your-viewmodel-livedata-70177af89c6e
+https://medium.com/exploring-android/exploring-the-play-billing-library-for-android-55321f282929
 
 
 ######################################## ProAndroidDev ##############################################
@@ -227,6 +238,17 @@ https://proandroiddev.com/secure-data-in-android-encryption-in-android-part-2-99
 https://proandroiddev.com/building-a-distributed-midi-controller-with-android-things-and-nearby-api-7011f1f3189c
 https://proandroiddev.com/the-contract-of-the-model-view-intent-architecture-777f95706c1e
 https://proandroiddev.com/secure-data-in-android-encrypting-large-data-dda256a55b36 
+https://proandroiddev.com/android-bring-life-to-your-custom-view-8604ab3967b3
+https://proandroiddev.com/building-a-distributed-midi-controller-with-android-things-and-nearby-api-2-b4b0531d645e
+https://proandroiddev.com/briefly-about-rxjava-logging-20308b013e6d
+https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-7616beaaade9
+https://proandroiddev.com/unit-testing-reactive-network-requests-using-restmock-181a5240c661
+https://proandroiddev.com/kotlin-syntax-part-ii-when-did-this-switch-happen-a95a78f37962
+https://proandroiddev.com/modern-android-development-with-kotlin-part-3-8721fb843d1b
+https://proandroiddev.com/building-an-autocompleting-edittext-using-rxjava-f69c5c3f5a40
+https://proandroiddev.com/testing-android-ui-with-pleasure-e7d795308821
+https://proandroiddev.com/custom-attributes-using-bindingadapters-in-kotlin-971ef8fcc259
+https://proandroiddev.com/parcelable-in-kotlin-here-comes-parcelize-b998d5a5fcac
 
 
 ######################################## Google Developers ##############################################
@@ -264,6 +286,10 @@ https://developers.google.com/android/guides/opensource
 https://medium.com/google-developers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54
 https://medium.com/google-developers/large-database-queries-on-android-cb043ae626e8
 https://medium.com/google-developers/troubleshooting-proguard-issues-on-android-bce9de4f8a74
+https://medium.com/google-developers/incrementally-migrate-from-sqlite-to-room-66c2f655b377
+https://medium.com/google-developers/playing-with-paths-3fbc679a6f77
+https://medium.com/google-developers/enabling-proguard-in-an-android-instant-app-fbd4fc014518
+https://medium.com/google-developers/get-your-android-app-ready-for-chromebooks-b4915426d021
 
 
 ######################################## Tutsplus ##############################################
@@ -379,6 +405,12 @@ https://blog.stylingandroid.com/radialgradient-layers/
 https://blog.stylingandroid.com/radialgradient-gradients/
 https://blog.stylingandroid.com/oreo-notifications-channels-part-1/
 https://blog.stylingandroid.com/task-stack/
+https://blog.stylingandroid.com/christmas-face-part-1/
+https://blog.stylingandroid.com/christmas-face-part-2/
+https://blog.stylingandroid.com/vectordrawable-gradients-part1-2/
+https://blog.stylingandroid.com/tool-time-part-1-2/
+https://blog.stylingandroid.com/tool-time-part-2/
+https://blog.stylingandroid.com/recyclerview-animations-add-remove-items/
 
 
 ######################################## Nimbledroid ##############################################
@@ -423,7 +455,6 @@ http://hannesdorfmann.com/android/mosby3-mvi-7
 http://hannesdorfmann.com/android/arch-components-purist
 
 
-
 ######################################## Artemzin ##############################################
 http://artemzin.com/blog/why-i-dont-want-to-use-kotlin-for-android-development-yet/
 http://artemzin.com/blog/certificate-pinning-notes-for-android-java/
@@ -457,6 +488,7 @@ https://riggaroo.co.za/android-architecture-components-looking-lifecycles-part-3
 https://riggaroo.co.za/resources-getting-started-android-development/
 https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/
 https://riggaroo.co.za/android-accessibility-switch-access/
+https://riggaroo.co.za/use-android-apk-analyzer-reduce-apk-size/
 
 
 ######################################## Philisophical Hacker ##############################################
@@ -475,30 +507,6 @@ https://www.philosophicalhacker.com/post/what-unit-tests-are-trying-to-tell-us-a
 https://www.philosophicalhacker.com/post/some-resources-for-learning-how-to-test-android-apps/
 https://www.philosophicalhacker.com/post/test-driving-away-coupling-in-activities/
 https://www.philosophicalhacker.com/post/setting-up-a-jenkins-pipeline-for-android-testing/
-
-
-######################################## Jeroen Mols ##############################################
-http://jeroenmols.com/blog/2016/05/06/methodcount/
-http://jeroenmols.com/blog/2016/02/05/wagongit/
-http://jeroenmols.com/blog/2016/09/01/coveragecost/
-http://jeroenmols.com/blog/2016/10/31/mockitomatchers/
-http://jeroenmols.com/blog/2017/02/16/unittests/
-http://jeroenmols.com/blog/2017/03/08/appcrash/
-https://jeroenmols.com/blog/2017/07/21/java8language/
-
-
-######################################## Novada ##############################################
-https://www.novoda.com/blog/better-class-naming/
-https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
-https://www.novoda.com/blog/new-jenkins-pipelines/
-https://www.novoda.com/blog/designing-something-solid/
-https://www.novoda.com/blog/layout-preview-101/
-https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/
-https://www.novoda.com/blog/android-wear-packaging/
-https://www.novoda.com/blog/testing-views-in-isolation-with-espresso/
-https://www.novoda.com/blog/take-control-of-your-backend-with-firebase-cloud-functions/
-https://www.novoda.com/blog/android-things-iot-proof-of-concept-devices/
-https://www.novoda.com/blog/onboard-your-users-with-lottie-of-spritz/
 
 
 ######################################## Hackernoon ##############################################
@@ -564,6 +572,15 @@ https://android.jlelse.eu/moving-from-dagger-to-koin-simplify-your-android-devel
 https://android.jlelse.eu/canvas-the-real-play-ground-android-c0faa4b79943
 https://android.jlelse.eu/android-architecture-components-room-relationships-bf473510c14a
 https://android.jlelse.eu/android-architecture-components-room-migration-1a269e1aeef7
+https://android.jlelse.eu/android-remote-logger-library-for-debugging-343443bd38b7
+https://android.jlelse.eu/android-architecture-components-livedata-with-data-binding-7bf85871bbd8
+https://android.jlelse.eu/perks-of-being-an-associate-android-developer-a63e1c831949
+https://android.jlelse.eu/sonarqube-code-coverage-for-kotlin-on-android-with-bitrise-71b2fee0b797
+https://android.jlelse.eu/mastering-shadows-in-android-e883ad2c9d5b
+https://android.jlelse.eu/become-an-android-painter-aadf91cec9d4
+https://android.jlelse.eu/polishing-ui-android-statelistanimator-7b74a06b85a5
+https://android.jlelse.eu/rxjava-schedulers-what-when-and-how-to-use-it-6cfc27293add
+https://android.jlelse.eu/reactive-architecture-deep-dive-90cbc1f2dfcb
 
 
 ######################################## Big Nerd Ranch ##############################################
@@ -574,15 +591,4 @@ https://www.bignerdranch.com/blog/perfecting-custom-typography-in-android/
 https://www.bignerdranch.com/blog/room-data-storage-for-everyone/
 https://www.bignerdranch.com/blog/bluetooth-low-energy-part-1/
 https://www.bignerdranch.com/blog/two-way-data-binding-on-android-observing-your-view-with-xml/
-
-
-######################################## Droids on Roids ##############################################
-https://www.thedroidsonroids.com/blog/android/workcation-app-part-1-fragments-custom-transition/
-https://www.thedroidsonroids.com/blog/workcation-app-part-2-animating-markers-with-mapoverlaylayout/
-https://www.thedroidsonroids.com/blog/workcation-app-part-3-recyclerview-interaction-with-animated-markers/
-https://www.thedroidsonroids.com/blog/android/springanimation-examples/
-https://www.thedroidsonroids.com/blog/android/android-gradle-configurations/
-https://www.thedroidsonroids.com/blog/android/rxjava-production-line/
-https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes/
-https://www.thedroidsonroids.com/blog/testing-android-apps-pseudolocalization
 
