@@ -1,0 +1,69 @@
+                                        Android Tutorials
+######################################## Ray Wenderlich ##############################################
+https://www.raywenderlich.com/141980/rxandroid-tutorial
+https://www.raywenderlich.com/149112/android-fragments-tutorial-introduction
+https://www.raywenderlich.com/146804/dependency-injection-dagger-2
+https://www.raywenderlich.com/109843/common-design-patterns-for-android
+https://www.raywenderlich.com/161318/beginning-android-development-part-one-installing-android-studio
+https://www.raywenderlich.com/154676/android-studio-tutorial-introduction
+https://www.raywenderlich.com/182100/android-accessibility-tutorial-getting-started?
+
+
+########################################## Buffer ##############################################
+https://overflow.buffer.com/2017/08/18/exploring-test-driven-development-android-ui-tests/
+https://overflow.buffer.com/2016/09/26/android-rethinking-package-structure/
+https://overflow.buffer.com/2017/10/13/package-feature-modularised-android-projects/
+https://overflow.buffer.com/2017/12/21/even-map-though-data-model-mapping-android-apps/
+
+
+########################################## Firebase ##############################################
+https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-1.html
+https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-2.html
+https://firebase.googleblog.com/2016/09/become-a-firebase-taskmaster-part-3_29.html
+https://firebase.googleblog.com/2017/12/using-android-architecture-components.html
+https://firebase.googleblog.com/2017/12/using-android-architecture-components_22.html
+
+
+######################################## Jeroen Mols ##############################################
+http://jeroenmols.com/blog/2016/05/06/methodcount/
+http://jeroenmols.com/blog/2016/02/05/wagongit/
+http://jeroenmols.com/blog/2016/09/01/coveragecost/
+http://jeroenmols.com/blog/2016/10/31/mockitomatchers/
+http://jeroenmols.com/blog/2017/02/16/unittests/
+http://jeroenmols.com/blog/2017/03/08/appcrash/
+https://jeroenmols.com/blog/2017/07/21/java8language/
+https://jeroenmols.com/blog/2017/12/18/fragmentback/
+
+
+######################################## Novada ##############################################
+https://www.novoda.com/blog/better-class-naming/
+https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
+https://www.novoda.com/blog/new-jenkins-pipelines/
+https://www.novoda.com/blog/designing-something-solid/
+https://www.novoda.com/blog/layout-preview-101/
+https://www.novoda.com/blog/writing-your-first-android-things-driver-p1/
+https://www.novoda.com/blog/android-wear-packaging/
+https://www.novoda.com/blog/testing-views-in-isolation-with-espresso/
+https://www.novoda.com/blog/take-control-of-your-backend-with-firebase-cloud-functions/
+https://www.novoda.com/blog/android-things-iot-proof-of-concept-devices/
+https://www.novoda.com/blog/onboard-your-users-with-lottie-of-spritz/
+
+
+######################################## BlundellApps ##############################################
+http://blog.blundellapps.co.uk/tut-programmatically-create-a-rippledrawable-of-any-color/
+http://blog.blundellapps.co.uk/android-architecture-components-meets-androidthings/
+http://blog.blundellapps.co.uk/tut-android-things-leds-gpio-on-the-rainbow-hat/
+http://blog.blundellapps.co.uk/tut-android-things-piezzo-transducer-pwm-on-the-rainbow-hat/
+http://blog.blundellapps.co.uk/tut-android-things-using-the-ads1015-analog-to-digital-converter-driver-library/
+
+
+######################################## Droids on Roids ##############################################
+https://www.thedroidsonroids.com/blog/android/workcation-app-part-1-fragments-custom-transition/
+https://www.thedroidsonroids.com/blog/workcation-app-part-2-animating-markers-with-mapoverlaylayout/
+https://www.thedroidsonroids.com/blog/workcation-app-part-3-recyclerview-interaction-with-animated-markers/
+https://www.thedroidsonroids.com/blog/android/springanimation-examples/
+https://www.thedroidsonroids.com/blog/android/android-gradle-configurations/
+https://www.thedroidsonroids.com/blog/android/rxjava-production-line/
+https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes/
+https://www.thedroidsonroids.com/blog/testing-android-apps-pseudolocalization
+https://www.thedroidsonroids.com/blog/android-strings-xml-tips-tricks
