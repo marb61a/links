@@ -232,7 +232,6 @@ https://github.com/FirzenYogesh/FileListerDialog - A simple file/ directory pick
 https://github.com/vberezkin/billing-android - RxJava wrapper for Android Play Billing Library
 https://github.com/Zeyad-37/RxRedux - A library that manages state using RxJava 2.
 https://github.com/srinurp/RoomRxJava - Room with Rxjava Example
-https://github.com/borisf/classyshark-bytecode-viewer - View your Kotlin generated classes as Java and bytecode format
 https://github.com/paramsen/noise - an Android wrapper for kissfft, a FFT implementation written in C.
 https://github.com/wirecube/android_additive_animations - Additive animations for Android!
 https://github.com/akaita/RxJava2Debug - RxJava 2.x extension to provide meaningful Stack Traces
@@ -270,7 +269,6 @@ https://github.com/armcha/Ribble - Simple Dribbble Client using Dribbble API
 https://github.com/scana/ok-gradle - Android Studio plugin for searching artifacts ids of popular Java libraries
 https://github.com/EnricSala/RxSSE - Server-Sent Events client for Android and Java applications
 https://github.com/anthonycr/Mezzanine - An annotation processor that reads files at compile time
-https://github.com/kizitonwose/Time - Type-safe time calculations in Kotlin, powered by generics
 https://github.com/groupon/grox - Grox helps to maintain the state of Java / Android apps.
 https://github.com/blundell/ads1015 - AndroidThings Analog to Digital Converter Driver
 https://github.com/uber/RIBs - Uber's cross-platform mobile architecture framework
@@ -295,5 +293,18 @@ https://github.com/SchibstedSpain/Barista - The guy who serves a great Espresso
 https://github.com/uber/artist - a Gradle plugin that codegens a base set of Android Views.
 https://github.com/po10cio/TimeLineView - demonstrates the power of ConstraintLayout and RecyclerView
 https://github.com/ansman/kotshi - An annotations processor that generates Moshi adapters
+https://github.com/pwittchen/ReactiveNetwork - listening network connection state and Internet connectivity with RxJava Observables
+https://github.com/hypertrack/hyperlog-android - Utility logger library for storing logs into database
+https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate - clean architecture boilerplate using the Model-View-Intent pattern
+https://github.com/evrencoskun/TableView - library for displaying complex data structures and rendering tabular data 
+https://github.com/andrzejchm/RESTMock - HTTP Server for Android Instrumentation tests 
+https://github.com/ehsunshine/colored-time-selector - A smart colored time selector.
+https://github.com/Shashank02051997/FancyToast-Android - Make your native android Toasts Fancy
+https://github.com/MEiDIK/CrepeCake - An compile-time aop engine like AspectJ 
+https://github.com/Karumi/Shot - Gradle plugin developed to facilitate screenshot testing for Android
+https://github.com/netguru/videochatguru-android - Open source library to create fast and beautiful video chats over WebRTC
+https://github.com/JakeWharton/SdkSearch - An Android app for searching the Android SDK documentation
+https://github.com/Kyson/AndroidGodEye - A performance monitor tool for Android
+https://github.com/infinum/Android-Goldfinger - Android library to simplify Fingerprint authentication implementation
 
 
