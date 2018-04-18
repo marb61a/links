@@ -1,0 +1,55 @@
+                                           ##Tutorials -
+
+######################################## Stormpath ##############################################
+https://stormpath.com/blog/heroku-stormpath-and-expressjs/
+https://stormpath.com/blog/angular-node-15-minutes/
+https://stormpath.com/blog/building-secure-apis-with-express/
+https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs/
+https://stormpath.com/blog/secure-password-hashing-in-node-with-argon2/
+https://stormpath.com/blog/migrating-parse-authentication/
+https://stormpath.com/blog/tutorial-build-rest-api-mobile-apps-using-node-js
+https://stormpath.com/blog/securely-storing-files-node-s3
+
+
+######################################## Gergely Nemeth ##############################################
+https://nemethgergely.com/puppeteer-browser-automation/
+https://nemethgergely.com/error-handling-express-async-await/
+https://nemethgergely.com/nodejs-healthcheck-graceful-shutdown/
+https://nemethgergely.com/building-secure-javascript-applications/
+https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
+https://nemethgergely.com/learning-go-as-a-nodejs-developer/
+https://nemethgergely.com/using-kubernetes-for-local-development/
+
+
+######################################## Codeship ##############################################
+https://blog.codeship.com/running-node-js-linux-systemd/
+https://blog.codeship.com/a-serverless-rest-api-in-minutes/
+https://blog.codeship.com/using-docker-compose-for-nodejs-development/
+https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/
+https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/
+
+
+######################################## Pusher ##############################################
+https://blog.pusher.com/how-to-build-a-realtime-activity-feed-with-react-and-pusher/
+https://blog.pusher.com/build-whos-typing-feature-android/
+https://blog.pusher.com/build-live-comments-feature-using-javascript
+https://blog.pusher.com/building-a-realtime-feed-with-node-js-and-amp/
+https://blog.pusher.com/getting-up-and-running-with-graphql/
+
+
+######################################## Couchbase ##############################################
+http://blog.couchbase.com/2015/october/adding-google-sign-in-with-node.js-to-a-couchbase-mobile-application
+https://blog.couchbase.com/deploy-node-js-couchbase-web-application-docker-containers/
+https://blog.couchbase.com/create-continuous-deployment-pipeline-nodejs-jenkins/
+https://blog.couchbase.com/continuously-deploying-nodejs-application-circleci/
+https://blog.couchbase.com/create-restful-api-node-js-hapi-couchbase-nosql/
+https://blog.couchbase.com/using-facets-couchbase-nosql-full-text-search-query/
+
+
+######################################## 2Ality ##############################################
+http://2ality.com/2017/04/setting-up-multi-platform-packages.html
+http://2ality.com/2017/05/util-promisify.html
+http://2ality.com/2017/07/npm-packages-via-babel.html
+http://2ality.com/2017/09/native-esm-node.html
+http://2ality.com/2017/12/for-await-of-sync-iterables.html
+http://2ality.com/2018/04/async-iter-nodejs.html
