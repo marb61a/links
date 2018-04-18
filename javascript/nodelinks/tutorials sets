@@ -46,6 +46,9 @@ https://www.sitepoint.com/using-node-mysql-javascript-client/
 https://www.sitepoint.com/headless-chrome-node-js/
 https://www.sitepoint.com/mean-stack-angular-2-angular-cli/
 https://www.sitepoint.com/how-to-deploy-node-applications-heroku-vs-now-sh/
+https://www.sitepoint.com/build-a-simple-web-server-with-node-js/
+https://www.sitepoint.com/passport-authentication-for-nodejs-applications/
+https://www.sitepoint.com/forms-file-uploads-security-node-express/
 
 
 ######################################## Scotch.io ##############################################
@@ -64,6 +67,7 @@ https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using
 https://scotch.io/tutorials/how-to-host-a-node-js-app-on-digital-ocean
 https://scotch.io/tutorials/create-a-custom-slack-slash-command-with-nodejs-and-express
 https://scotch.io/bar-talk/serverless-development-with-node-mongodb-atlas-and-aws-lambda
+https://scotch.io/tutorials/how-to-test-nodejs-apps-using-mocha-chai-and-sinonjs
 
 
 ######################################## Medium ##############################################
@@ -121,6 +125,7 @@ https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf
 https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2
 https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
 https://medium.com/dailyjs/getting-started-with-hapi-17-1e63ed625b2c
+https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2
 https://medium.com/@dashersw/microservices-made-easy-with-node-js-f41bb2be2d3c
 https://medium.com/@antoinegrandiere/build-a-moderation-system-with-sightengine-for-node-js-6600ac0668c8
 https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd309
@@ -148,6 +153,13 @@ https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-run
 https://medium.com/@Abazhenov/using-async-await-in-express-with-node-8-b8af872c0016
 https://medium.com/@giltayar/native-es-modules-in-nodejs-status-and-future-directions-part-i-ee5ea3001f71
 https://medium.com/blogfoster-engineering/how-we-simplified-our-tooling-setup-for-node-js-projects-80b423293b2c
+https://medium.com/strapi/testing-your-npm-package-before-releasing-it-using-verdaccio-ngrok-28e2832c850a
+https://medium.com/strapi/protected-routes-and-authentication-with-react-and-node-js-d31d234644cd
+https://medium.com/containers-on-aws/building-a-socket-io-chat-app-and-deploying-it-using-aws-fargate-86fd7cbce13f
+https://medium.com/@tomastrajan/how-to-speed-up-continuous-integration-build-with-new-npm-ci-and-package-lock-json-7647f91751a
+https://medium.com/stdlibhq/build-a-serverless-sms-hub-in-under-7-minutes-with-node-js-stdlib-and-messagebird-7d2d41ecaea6
+https://medium.com/stdlibhq/build-an-emergency-notification-slack-bot-in-10-minutes-with-messagebird-stdlib-and-node-js-7c78932ec6c4
+https://medium.com/intrinsic/creating-and-integrating-a-node-lambda-function-with-api-gateway-a0c8325b34f7
 
 
 ######################################## FreeCodeCamp ##############################################
@@ -161,6 +173,10 @@ https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-k
 https://medium.freecodecamp.org/how-to-write-beautiful-node-js-apis-using-async-await-and-the-firebase-database-befdf3a5ffee
 https://medium.freecodecamp.org/scaling-node-js-applications-8492bd8afadc
 https://medium.freecodecamp.org/how-to-write-reliable-browser-tests-using-selenium-and-node-js-c3fdafdca2a9
+https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8
+https://medium.freecodecamp.org/express-js-and-aws-lambda-a-serverless-love-story-7c77ba0eaa35
+https://medium.freecodecamp.org/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a
+https://medium.freecodecamp.org/how-to-write-powerful-schemas-in-javascript-490da6233d37
 
 
 ######################################## Risingstack ##############################################
@@ -242,6 +258,9 @@ https://medium.com/the-node-js-collection/what-you-should-know-to-really-underst
 https://medium.com/the-node-js-collection/why-and-how-to-use-eslint-in-your-project-742d0bc61ed7
 https://medium.com/the-node-js-collection/speed-up-your-node-js-app-with-native-addons-5e76a06f4a40
 https://medium.com/the-node-js-collection/how-i-ported-bcrypt-to-new-n-api-d0b8c9fe6136
+https://medium.com/the-node-js-collection/strategic-initiatives-coming-from-the-node-js-project-56a645d53c78
+https://medium.com/the-node-js-collection/nodejs-platform-hardening-71b212fcae6a
+https://medium.com/the-node-js-collection/node-js-can-http-2-push-b491894e1bb1
 
 
 ######################################## Tutsplus ##############################################
@@ -271,17 +290,6 @@ http://developer.telerik.com/featured/building-node-based-apis-loopback-framewor
 http://developer.telerik.com/content-types/tutorials/building-conversational-bot-javascript
 
 
-######################################## Stormpath ##############################################
-https://stormpath.com/blog/heroku-stormpath-and-expressjs/
-https://stormpath.com/blog/angular-node-15-minutes/
-https://stormpath.com/blog/building-secure-apis-with-express/
-https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs/
-https://stormpath.com/blog/secure-password-hashing-in-node-with-argon2/
-https://stormpath.com/blog/migrating-parse-authentication/
-https://stormpath.com/blog/tutorial-build-rest-api-mobile-apps-using-node-js
-https://stormpath.com/blog/securely-storing-files-node-s3
-
-
 ######################################## David Walsh ##############################################
 http://davidwalsh.name/nodejs-arguments-yargs
 http://davidwalsh.name/nock
@@ -297,6 +305,7 @@ https://davidwalsh.name/slimerjs-screenshots
 https://davidwalsh.name/stdlib
 https://davidwalsh.name/system-notifications-node
 https://davidwalsh.name/2fa
+https://davidwalsh.name/console-probe
 
 
 ######################################## Smashing Magazine ##############################################
@@ -311,6 +320,7 @@ https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/
 https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/
 https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/
 https://www.smashingmagazine.com/2017/11/creating-secure-password-resets-with-json-web-tokens/
+https://www.smashingmagazine.com/2018/04/analyzing-social-media-presence-ibm-watson-nodejs/
 
 
 ######################################## Nic Raboy ##############################################
@@ -379,6 +389,9 @@ https://hackernoon.com/know-node-repl-better-dbd15bca0af6
 https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47
 https://hackernoon.com/aws-lambda-go-vs-node-js-performance-benchmark-1c8898341982
 https://hackernoon.com/building-a-static-blog-using-gatsby-and-strapi-8b5acfc82ad8
+https://hackernoon.com/debugging-node-without-restarting-processes-bd5d5c98f200
+https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512
+https://hackernoon.com/efficiently-snapshotting-spas-with-puppeteer-c4c77aa2831b
 
 
 ######################################## Thisdavej ##############################################
@@ -387,6 +400,7 @@ http://thisdavej.com/creating-node-js-microservices-with-ease-using-stdlib/
 http://thisdavej.com/consuming-node-js-microservices-created-with-stdlib/
 http://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/
 http://thisdavej.com/using-ini-files-in-your-node-js-applications-for-health-and-profit/
+http://thisdavej.com/using-toml-config-files-in-node-js-applications/
 
 
 ######################################## Semaphoreci ##############################################
@@ -509,6 +523,12 @@ http://thecodebarbarian.com/introducing-monogram-the-anti-odm-for-mongodb-nodejs
 http://thecodebarbarian.com/80-20-guide-to-express-error-handling.html
 http://thecodebarbarian.com/managing-connections-with-the-mongodb-node-driver.html
 http://thecodebarbarian.com/whats-new-in-mongoose-5-improved-post-hooks.html
+http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-array-filters.html
+http://thecodebarbarian.com/using-promise-finally-in-node-js.html
+http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-lookup-expr.html
+http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-change-streams.html
+http://thecodebarbarian.com/getting-started-with-ibm-cloud-functions-and-mongodb.html
+http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html
 
 
 ######################################## Codeburst ##############################################
@@ -523,26 +543,3 @@ https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chro
 https://codeburst.io/deploy-angular-2-node-js-website-using-aws-1ac169d6bbf
 
 
-######################################## Pusher ##############################################
-https://blog.pusher.com/how-to-build-a-realtime-activity-feed-with-react-and-pusher/
-https://blog.pusher.com/build-whos-typing-feature-android/
-https://blog.pusher.com/build-live-comments-feature-using-javascript
-https://blog.pusher.com/building-a-realtime-feed-with-node-js-and-amp/
-https://blog.pusher.com/getting-up-and-running-with-graphql/
-
-
-######################################## Couchbase ##############################################
-http://blog.couchbase.com/2015/october/adding-google-sign-in-with-node.js-to-a-couchbase-mobile-application
-https://blog.couchbase.com/deploy-node-js-couchbase-web-application-docker-containers/
-https://blog.couchbase.com/create-continuous-deployment-pipeline-nodejs-jenkins/
-https://blog.couchbase.com/continuously-deploying-nodejs-application-circleci/
-https://blog.couchbase.com/create-restful-api-node-js-hapi-couchbase-nosql/
-https://blog.couchbase.com/using-facets-couchbase-nosql-full-text-search-query/
-
-
-######################################## 2Ality ##############################################
-http://2ality.com/2017/04/setting-up-multi-platform-packages.html
-http://2ality.com/2017/05/util-promisify.html
-http://2ality.com/2017/07/npm-packages-via-babel.html
-http://2ality.com/2017/09/native-esm-node.html
-http://2ality.com/2017/12/for-await-of-sync-iterables.html
