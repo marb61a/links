@@ -529,4 +529,74 @@ https://blogs.msdn.microsoft.com/commandline/2017/10/27/running-node-js-on-wsl-f
 https://github.com/o1lab/xmysql - One command to generate REST APIs for any MySql Database
 https://github.com/laoqiren/mlhelper - Algorithms and utils for Machine Learning in JavaScript.
 https://github.com/SparkPost/heml - open source markup language for building responsive email.
+https://github.com/antonmedv/fx - Command-line JSON processing tool
+https://github.com/thelounge/thelounge - Modern self-hosted web IRC client 
+https://github.com/developit/jsdom-worker - Use Web Workers in Jest / JSDOM
+https://github.com/mrvautin/expressCart - A fully functioning Node.js shopping cart
+https://github.com/drew-y/cliffy - Framework for Interactive CLIs - An alternative to Vorpal
+https://github.com/e-oj/Fawn - Transactions for MongoDB 
+https://github.com/jondot/hygen - fast, and scalable code generator that lives in your project
+https://github.com/automerge/automerge - JSON-like data structure that can be modified concurrently by different users
+https://github.com/rage8885/OpenSC2K - An Open Source remake of Sim City 2000 
+https://github.com/nodebox/opentype.js - Read and write OpenType fonts using JavaScript.
+https://github.com/ncthbrt/nact - nact ⇒ node.js + actors ⇒ your services have never been so µ 
+https://github.com/xxczaki/oji - Text Emoticons Maker
+https://github.com/59023g/docker-nginx-letsencrypt-upstream - docker-compose config for node and redis
+https://github.com/ojkelly/wedgetail - Time your functions in your tests
+https://github.com/FLIF-hub/node-flif - Node wrapper for the FLIF executable
+https://github.com/gnuns/fio -  Simple socket relay too
+https://github.com/dawnlabs/carbon - Create and share beautiful images of your source code 
+https://github.com/thedevs-network/kutt - Free Modern URL Shortener
+https://github.com/xojs/xo - JavaScript happiness style linter
+https://github.com/nebrius/request-inspector - A request timing diagnostic tool for Web and Node.js applications
+https://github.com/feross/thanks - Give thanks to the open source maintainers you depend on!
+https://github.com/axios/axios - Promise based HTTP client for the browser and node.js
+https://github.com/tigercosmos/date2json - Parse Date to Json in JavaScript
+https://github.com/hmontazeri/is-vegan -  helps you to find out which food ingredients are vegan / non-vegan
+https://github.com/fwouts/codetree - an ES6 library (written in TypeScript) that helps transform code easily.
+https://github.com/vincit/objection.js - An SQL-friendly ORM for Node.js
+https://github.com/Osedea/nodock - Docker Compose for Node projects
+https://github.com/midwayjs/pandora - Traceable Node.js Application Manager
+https://github.com/propelml/propel - Differential Programming in JavaScript
+https://github.com/sahilnarain/aws-api-gateway-log-parser - AWS API Gateway Log Parser
+https://github.com/assafg/osiris - Simple Event Sourcing for NodeJS
+https://github.com/ethanent/coroute - The awesome Node.js HTTP reverse-proxy server.
+https://github.com/skerit/janeway - Node.js console REPL with object inspection and many other features
+https://github.com/fabiomcosta/thebugger - debug a nodejs process without inspect flags.
+https://github.com/wooorm/franc - Natural language detection
+https://github.com/moleculerjs/moleculer - Fast & powerful microservices framework for Node.js
+https://github.com/terkelg/prompts - Lightweight, beautiful and user-friendly interactive prompts
+https://github.com/Isithelo/Fraternate - standalone copy of the GitHub organization and user interaction framework.
+https://github.com/mafintosh/turbo-net - Low level TCP library for Node.js
+https://github.com/bitjson/typescript-starter - Quickly create and configure a new library or Node.js project
+https://github.com/maticzav/emma-cli - Terminal assistant to find and install node packages.
+https://github.com/gribnoysup/wunderbar - Simple horizontal bar chart printer for your terminal
+https://github.com/hugmanrique/turbo-ws - Blazing fast low-level WebSocket server
+https://github.com/discordjs/discord.js - A powerful JavaScript library for interacting with the Discord API
+https://github.com/tapppi/async-exit-hook - Run some code when the process exits
+https://github.com/oclif/oclif - Node.js Open CLI Framework.
+https://github.com/JoshuaWise/better-sqlite3 - The fastest and simplest library for SQLite3 in Node.js.
+https://github.com/Cretezy/Noderize - Create a Node app in less than 30 seconds.
+https://github.com/sindresorhus/crypto-hash - Tiny hashing module that uses the native crypto API in Node.js and the browser
+https://github.com/simonepri/pidtree - Cross platform children list of a PID.
+https://github.com/marktext/marktext - Next generation markdown editor
+https://github.com/lukeed/dset - A tiny (135B) utility for safely writing deep Object values
+https://github.com/cmseaton42/task-easy - A simple, customizable, and lightweight priority queue for promises.
+https://github.com/simonepri/sympact -  Simple stupid CPU/MEM "Profiler" for your JS code
+https://github.com/d-band/better-xlsx - A better xlsx library.
+https://github.com/nodemailer/wildduck - Opinionated email server 
+https://github.com/vstirbu/fsm-as-promised - A finite state machine library using ES6 promises
+https://github.com/daniel-lundin/aboxd - ascii-charts from strings 
+https://github.com/avwo/whistle - HTTP, HTTPS, WebSocket debugging proxy 
+https://github.com/djadmin/passw0rd - securely checks a password to see if it has been previously exposed in a data breach
+https://github.com/sindresorhus/ink-gradient - Gradient color component for Ink
+https://github.com/yujiosaka/headless-chrome-crawler - Distributed crawler powered by Headless Chrome
+https://github.com/withspectrum/spectrum - Simple, powerful online communities.
+https://github.com/shanev/tempdb - Redis-backed ephemeral key-value store for Node
+https://github.com/Schniz/cuery - A composable SQL query builder using template literals
+https://github.com/davisjam/vuln-regex-detector - Detect vulnerable regexes in your project. 
+https://github.com/AsyncOptics/async-optics - A node asynchronous process and package monitor
+
+
+
 
