@@ -74,6 +74,18 @@ https://www.youtube.com/watch?v=ZM5_wj6wkA8 - Keynote Demo: Visual Studio Code w
 https://www.youtube.com/watch?v=P4UQ-jTTJJ4 - TDD with Wallaby.js Part 1
 https://www.youtube.com/watch?v=IkOVe40Sy0U - Next.js Crash Course - Server Side React
 https://www.youtube.com/watch?v=FeEsyDZugPc - How I Became a Web Developer in 2 Months
+https://www.youtube.com/watch?v=j9H3t3l1En0 - Wiring The Internet of Things With NODE RED
+https://www.youtube.com/watch?v=l4ghJ4uqpTE - Service: Setting up the dev environment - Flowtype, Prettier, Nodemon
+https://www.youtube.com/watch?v=G9Vkpe55Gu8 - My Node.JS Process Is On Fire 
+https://www.youtube.com/watch?v=2oFKNL7vYV8 - Getting started with Node.js debugging in VS Code
+https://www.youtube.com/watch?v=va-JzrmaiUM - Adding Storybook Style Guide to a Create React App
+https://www.youtube.com/watch?v=iumlHzoVlJM - Machine Learning From Scratch: The Perceptron Model
+https://www.youtube.com/watch?v=iGHjCM0ki78 - Create A Simple API With NodeJS & ExpressJS
+https://www.youtube.com/watch?v=lQzmfnvcmvc - Quick Start to ESLint
+https://www.youtube.com/watch?v=L3rHsE-nA78 - BDD with cucumber.js
+https://www.youtube.com/watch?v=eUYMiztBEdY - Web Scraping with Node.js
+https://www.youtube.com/watch?v=pKd0Rpw7O48 - Building RESTful APIs with Node and Express
+https://www.youtube.com/watch?v=mANP56aKIwM - Control Your Tesla with Profound.js
 
 
 ##Pusher Videos
@@ -130,7 +142,7 @@ http://nodeontrain.xyz/ - The web's scaffolding tool for Full Stack Developer
 https://www.urbanairship.com/blog/introducing-frock-easy-fake-services-for-a-microservices-environment
 http://wordexpress.io/
 https://www.npmjs.com/package/scalable-blob-store
-http://www.actionherojs.com/
+http://www.actionherojs.com/ - reusable, scalable, and quick node.js API serve
 https://parall.ax/vtop - A Terminal Activity Monitor in Node.js
 https://www.tjson.org - Tagged JSON with Rich Types
 http://wallabyjs.com/docs/intro/get-started-sublime.html
@@ -138,7 +150,7 @@ http://graphql.nodaljs.com/
 https://getkap.co - An open-source screen recorder built with web technology
 http://perkframework.com/ - A node framework built on three core tenets: documentation, stability and balance
 http://markojs.com/ - A high performance templating engine 
-http://merencia.com/node-cron/
+http://merencia.com/node-cron/ - A tiny task scheduler in pure JavaScript 
 https://nmotw.in/node-wifi-scanner/ - Node Module Of The Week
 http://veriacms.com/
 https://stdlib.com/ - The Standard Library of the Internet
