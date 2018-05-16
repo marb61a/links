@@ -12,6 +12,11 @@ https://www.sitepoint.com/component-routing-angular-router/
 https://www.sitepoint.com/mean-stack-angular-2-angular-cli/
 https://www.sitepoint.com/component-routing-angular-router/
 https://www.sitepoint.com/angular-app-sign-in/
+https://www.sitepoint.com/mean-stack-angular-2-angular-cli/
+https://www.sitepoint.com/user-authentication-mean-stack/
+https://www.sitepoint.com/angular-2-mockbackend/
+https://www.sitepoint.com/angular-testing-introduction/
+https://www.sitepoint.com/angular-wordpress-wp-api-angular/
 
 
 ################################################# Syntax Success ##################################################### 
@@ -36,6 +41,9 @@ http://www.syntaxsuccess.com/viewarticle/angular-build-with-webpack-and-babili-
 http://www.syntaxsuccess.com/viewarticle/angular-aot-in-watch-mode
 http://www.syntaxsuccess.com/viewarticle/retrying-http-requests-with-rxjs
 http://www.syntaxsuccess.com/viewarticle/building-angular-applications-with-bazel
+http://www.syntaxsuccess.com/viewarticle/comparing-angular-bundlers
+http://www.syntaxsuccess.com/viewarticle/building-angular-and-node-with-bazel
+http://www.syntaxsuccess.com/viewarticle/bazel-with-angular,-node-and-java
 
 
 ################################################# Medium ##################################################### 
@@ -66,6 +74,19 @@ https://medium.com/google-developer-experts/angular-applying-motion-principles-t
 https://medium.com/google-developer-experts/mix-and-match-angular-custom-elements-polymer-1aee0b3d63a1
 https://medium.com/@milosbejda/declarative-event-tracking-with-google-analytics-in-angular-c59f464680c6
 https://medium.com/poka-techblog/advice-i-wish-i-had-before-upgrading-from-angularjs-to-angular-2-91e0850e9088
+https://medium.com/@adrianfaciu/custom-preloading-strategy-for-angular-modules-b3b5c873681a
+https://medium.com/@tomastrajan/how-to-style-angular-application-loading-with-angular-cli-like-a-boss-cdd4f5358554
+https://medium.com/@nima_ap/creating-a-responsive-dashboard-in-angular-5-from-scratch-147f6a493d9e
+https://medium.com/@hamedbaatour/angular-5-server-side-rendering-with-firebase-step-by-step-guide-ec5f4d8ef38b
+https://medium.com/@amcdnl/organizing-your-angular-application-2694ff67d335
+https://medium.com/netscape/the-better-way-to-write-api-service-in-angular-4-c9178ecf7f48
+https://medium.com/@nioperas06/deploy-angular-apps-to-surge-7ee763db2235
+https://medium.com/@joantolos/angular-tutorial-extended-5632144f9b2e
+https://medium.com/@amcdnl/angular-component-design-anti-patterns-14ed34c538a7
+https://medium.com/ngconf/ultimate-prettier-angular-cheatsheet-777c9515f4fb
+https://medium.com/@tomastrajan/object-assign-vs-object-spread-in-angular-ngrx-reducers-3d62ecb4a4b0
+https://medium.com/@amcdnl/feature-toggling-with-angular-and-the-angular-cli-eccf38369b3f
+https://medium.com/@amcdnl/why-another-state-management-framework-for-angular-b4b4c19ef664
 
 
 ################################################# Thoughtram ##################################################### 
@@ -85,6 +106,7 @@ https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html
 https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html
 https://blog.thoughtram.io/angular/2017/11/13/easy-dialogs-with-angular-material.html
 https://blog.thoughtram.io/angular/2017/11/20/custom-overlays-with-angulars-cdk.html
+https://blog.thoughtram.io/angular/2017/11/27/custom-overlays-with-angulars-cdk-part-two.html
 
 
 ################################################# Todd Motto ##################################################### 
@@ -108,6 +130,7 @@ https://toddmotto.com/angular-constructor-ngoninit-lifecycle-hook
 https://toddmotto.com/angular-dynamic-components-forms
 https://toddmotto.com/angular-ng-errors-form-validation
 https://toddmotto.com/angular-parent-routing-params
+https://toddmotto.com/ng-class-angular-classes
 
 
 ################################################# Auth0 ##################################################### 
@@ -126,6 +149,10 @@ https://auth0.com/blog/real-world-angular-series-part-8/
 https://auth0.com/blog/angular-testing-in-depth-components/
 https://auth0.com/blog/rxjs-advanced-tutorial-with-angular-web-speech-part-1/
 https://auth0.com/blog/rxjs-advanced-tutorial-with-angular-web-speech-part-2/
+https://auth0.com/blog/angular-2-authentication/
+https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-apps-part-1/
+https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-web-apps-part-2/
+https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-web-apps-part-3/
 
 
 ################################################# Scotch.io ##################################################### 
@@ -147,6 +174,8 @@ https://scotch.io/tutorials/file-uploads-in-angular-with-a-node-and-hapi-backend
 https://scotch.io/tutorials/handling-route-parameters-in-angular-v2
 https://scotch.io/tutorials/create-a-barebones-angular-app-with-the-minimal-flag
 https://scotch.io/tutorials/build-an-animated-angular-v2-dashboard
+https://scotch.io/amp/tutorials/how-to-build-progressive-web-apps-with-angular
+https://scotch.io/tutorials/migrate-your-angularjs-services-to-angular-with-ngupgrade
 
 
 ################################################# Ben Nadel ##################################################### 
@@ -167,6 +196,7 @@ https://www.bennadel.com/blog/3220-creating-an-animated-slack-inspired-reaction-
 https://www.bennadel.com/blog/3223-using-ngonchanges-collection-with-dot-notation-and-typescript-in-angular-2-4-4.htm
 https://www.bennadel.com/blog/3259-using-import-require-syntax-with-typescript-2-2-in-angular-2-4-9.htm
 https://www.bennadel.com/blog/3356-ngoninit-may-not-get-called-before-ngondestroy-is-called-in-angular-4-4-6.htm
+https://www.bennadel.com/blog/3431-reporting-statsd-metrics-from-the-browser-in-angular-5-2-9.htm
 
 
 ################################################# Telerik ##################################################### 
@@ -207,5 +237,11 @@ https://dzone.com/articles/using-angular-2-components
 https://dzone.com/articles/developing-async-microservices-architecture-using
 https://dzone.com/articles/angular-authentication-with-openid-connect-and-okt
 https://dzone.com/articles/developing-a-web-application-using-angular-part-3
-
+https://dzone.com/articles/what-are-hostbinding-and-hostlistener-in-angular
+https://dzone.com/articles/build-a-basic-crud-app-with-angular-50-and-spring
+https://dzone.com/articles/observables-with-the-angular-5
+https://dzone.com/articles/net-core-20-with-angular-4-and-mysql-part-9-angula
+https://dzone.com/articles/articles-about-angular-and-aspnet-core
+https://dzone.com/articles/aspnet-core-crud-using-angular-5-and-entity-framew-1
+https://dzone.com/articles/how-to-deploy-an-angular-application-to-github
 
