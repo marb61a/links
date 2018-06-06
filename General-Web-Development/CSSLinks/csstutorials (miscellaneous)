@@ -137,6 +137,7 @@ https://www.viget.com/articles/managing-css-js-http-2
 https://www.viget.com/articles/make-your-site-faster-with-preconnect-hints
 https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
 https://scotch.io/tutorials/a-look-at-bootstrap-4s-new-reset-rebootcss
+https://scotch.io/tutorials/animating-elements-along-svg-paths-introducing-pathslider
 https://snook.ca/archives/html_and_css/mixed-content-responsive-images
 https://una.im/save-offline/
 https://una.im/local-css-vars/
@@ -186,11 +187,11 @@ http://mediatemple.net/blog/tips/chris-coyier-future-web-development/
 https://meowni.ca/posts/web-components-with-otters/
 https://meowni.ca/posts/extensions/
 https://meowni.ca/posts/2017-puppeteer-tests/
-https://alligator.io/css/cropping-images-object-fit/
 https://stripe.com/blog/connect-front-end-experience
 https://alastairc.ac/2017/06/the-responsive-order-conflict/
 https://www.bram.us/2017/06/16/aspect-ratios-in-css-are-a-hack/
 https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d
+https://uxplanet.org/designing-systematic-colors-b5d2605b15c
 https://www.zachleat.com/web/rename-font/
 https://www.zachleat.com/web/webfont-glossary/
 https://axesslab.com/accessibility-according-to-pwd/
@@ -200,8 +201,10 @@ https://meiert.com/en/blog/stop-using-resets/
 https://meiert.com/en/blog/maintainability-guide-2/
 https://deepstreamhub.com/tutorials/protocols/webrtc-intro/
 https://www.ascedia.com/blog/june-2017/responsive-typography
+https://alligator.io/css/cropping-images-object-fit/
 https://alligator.io/css/clipping-with-clip-path/
 https://alligator.io/css/collapsible/
+https://alligator.io/vuejs/file-reader-component/
 https://mxb.at/blog/youre-offline/
 http://valhead.com/2017/07/21/animating-with-css-variables/
 https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c
@@ -250,6 +253,7 @@ https://jonathan-harrell.com/component-variants-scoped-css-variables/
 https://jonathan-harrell.com/unlocking-benefits-css-variables/
 https://jonathan-harrell.com/advanced-css-form-styling/
 https://jonathan-harrell.com/better-typography-font-variants/
+https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/
 https://ayushgp.github.io/html-web-components-using-vanilla-js/
 http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html
 http://engineering.autotrader.co.uk/2017/10/27/building-fast-search-experience.html
@@ -267,6 +271,7 @@ https://pineco.de/cross-origin-communication-postmessage/
 https://pineco.de/better-date-format-with-time-element/
 https://pineco.de/using-css-counters/
 https://pineco.de/using-initial-keyword-in-css/
+https://pineco.de/security-and-performance-benefit-from-the-rel-noopener/
 https://www.leejamesrobinson.com/blog/loading-placeholder-with-sass/
 https://www.tollmanz.com/content-security-policy-report-samples/
 https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007
@@ -292,11 +297,32 @@ https://blogs.igalia.com/mrego/2018/01/11/display-contents-is-coming/
 https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae
 http://allthingssmitty.com/2018/01/29/phone-number-links-and-accessibility/
 https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
+https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
 https://blog.daftcode.pl/hyperapp-parcel-71823bd93f1c
 https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/
 https://litmus.com/blog/understanding-media-queries-in-html-email
 https://www.loxodrome.io/post/tab-state-service-workers/
 https://assortment.io/posts/handling-long-titles-with-truncation
 https://blog.rowan.website/2018/02/15/what-the-shit-is-the-shadow-dom-anyway/
+https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/
+https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/
+https://www.filamentgroup.com/lab/sizes-swap/
+https://ropig.com/blog/find-fix-brittle-css/
+https://www.joeforshaw.com/blog/css-the-bad-bits-and-how-to-avoid-them
+https://julian.is/article/css-grid-at-scale/
+https://techblog.commercetools.com/gss-grid-application-layout-in-production-f60c65a05cfa
+https://blog.prototypr.io/how-to-create-the-snake-highlight-animation-with-anime-js-bf9c6cb66434
+https://aftertheflood.com/projects/sparks/
+https://mobiforge.com/design-development/adding-favicons-in-a-multi-browser-multi-platform-world
+https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
+https://www.lucidchart.com/techblog/2018/03/13/the-critical-path-optimizing-load-times-with-the-chromedev-tools/
+https://stories.jotform.com/calling-all-web-developers-heres-why-you-should-be-using-firefox-983f012d4aec
+https://codepen.io/michellebarker/post/super-powered-layouts-with-css-variables-css-gr
+https://blog.formpl.us/a-simple-guide-to-taking-a-web-page-offline-using-service-workers-f4c42e7b4ada
+http://simurai.com/blog/2018/04/01/contextual-styling
+https://daverupert.com/2018/03/animated-svg-radial-progress-bars/
+https://www.netguru.co/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native
+https://inclusive-components.design/data-tables/
+https://www.theverge.com/2018/4/10/17215406/webauthn-support-chrome-firefox-edge-fido-password-free
 
 
