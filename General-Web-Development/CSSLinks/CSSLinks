@@ -59,6 +59,14 @@ https://www.youtube.com/watch?v=aDtPHXs9ze8 - Making a browser fast The story of
 https://www.youtube.com/watch?v=YfIjFeBLhyA - Whitespace on The Web!
 https://www.youtube.com/watch?v=OxrsO4aIjyc - CSS Grid like you are Jan Tschichold
 https://www.youtube.com/watch?v=ahPRvVyw9Eo - Modern Layouts with CSS Grid
+https://www.youtube.com/watch?v=R9wn99Xheq4 - WebAssembly: What and What Next
+https://www.youtube.com/watch?v=UOn0b5kn3jk - Using Chrome’s ‘Local Overrides’ to Test Performance Hypotheses
+https://www.youtube.com/watch?v=kSpIK6nx-XA#t=5m32s - CSS Variables A New Hope
+https://www.youtube.com/watch?v=yRrrL0Mg1pM - Improving page performance with Chrome DevTools
+https://www.youtube.com/watch?reload=9&v=LUMkgn_xtlg - The Future of Web Layout
+https://www.youtube.com/watch?v=af4ZQJ14yu8 - Why Inline SVG is Best SVG
+https://www.youtube.com/watch?v=_sgF8I-Q1Gs - Introduction to Viewport Units
+https://www.youtube.com/watch?v=5CZyxnCdXuk - Cropping images with Object Fit
 
 
 ##An Event Apart
@@ -136,6 +144,11 @@ https://codepen.io/johnnycopes/pen/yzQyMp - Monopoly board
 https://codepen.io/AllThingsSmitty/pen/MOYNBO - A Better Focus
 https://codepen.io/chrisgannon/pen/ZaPmKp/ - Bauble Toggle
 https://codepen.io/keithjgrant/pen/eyMMVL - dialog 
+https://codepen.io/anthonydugois/pen/RpYBmy - CSS Grid Template Builder
+
+
+##Gihub-Gist
+https://gist.github.com/tunguskha/0d82bfeb498567a4e19493925df529cb - Gradient shadow in pure CSS
 
 
 ##Links -
@@ -161,28 +174,45 @@ https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521 - Cheet S
 http://dbushell.com/2016/03/04/css-only-responsive-tables/
 http://doximity.github.io/vital/get-started/
 http://primercss.io - The design system that powers GitHub
+https://webkul.github.io/micron/ - microInteraction library built with CSS Animations
 http://yusugomori.com/projects/css-sans/
 https://mozilladevelopers.github.io/playground/ - INTRODUCTION TO CSS GRID LAYOUT
 https://www.jpeg.io/ - Convert any major image format into a highly optimized JPEG
 http://flag-colors.com/
 http://css-cursor.techstream.org/ - CSS cursor showcase. 
 http://bennettfeely.com/image-effects/ - Image Effects with CSS
+https://github.com/andrew--r/frontend-case-studies#readme - Frontend Case Studies
 https://ghinda.net/css-toggle-switch/
 http://gridbyexample.com/video/ - Learn Grid Layout Vid
+https://popmotion.io/pose/ - Declarative motion system for HTML, SVG, React & React Native
+http://palette.site - Get the essential colours from a website
 https://www.campaignmonitor.com/css/
+https://tabler.github.io - Premium and Open Source dashboard template
+https://glidejs.com - A dependency-free JavaScript ES6 slider and carousel. 
 http://www.bypeople.com/css-apple-keyboard/
+http://epic-spinners.epicmax.co/#/ - Css only. Easy to use. VueJS integration.
 http://www.gradient-animator.com/ - CSS GRADIENT ANIMATOR
 http://kushagragour.in/lab/hint/
+https://roughjs.com - Create graphics with a hand-drawn, sketchy, appearance
+http://ui.toast.com/tui-chart/ - Supports an easy way to draw various and essential charts 
+https://larsenwork.com/easing-gradients/ - Easing Gradients
 http://www.testmycss.com/
 http://pixelart-to-css-react.herokuapp.com/
 http://www.heymeta.com - QUICKLY CHECK & BUILD YOUR META TAGS
+https://svgontheweb.com - A Practical Guide
+https://www.svgbackgrounds.com - Customize and apply backgrounds fast
+https://cssgradient.io - free tool that lets you create a gradient background for websites
+https://bulma.io - an open source CSS framework based on Flexbox 
 http://nativeformelements.com/
 https://atomiks.github.io/30-seconds-of-css/ - A curated collection of useful CSS snippets
+http://www.joerezendes.com/projects/Woah.css/ - Animations for eccentric developers
 https://design.google.com/articles/introducing-resizer/
 https://descartes.io/ - Write CSS in JavaScript 
+https://q42.github.io/delighters/ - Add CSS animations to delight users as they scroll down
 https://1000ch.github.io/grd/
-http://brandmark.io/logo-crunch/ - Logo Crunch is a multi-resolution logo maker,
+http://brandmark.io/logo-crunch/ - Logo Crunch is a multi-resolution logo maker
 http://www.csspurge.com/ - SAVING THE WEB 1KB AT A TIME
+https://fontanello.oktavilla.se -  Browser extension that lets you display the basic typographic styles of a text
 https://nexts.github.io/Multiple.js/
 https://images.guide - We should all be automating our image compression.
 http://howtocenterincss.com/ - Centering in CSS
