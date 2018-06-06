@@ -198,6 +198,11 @@ https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/
 https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/
 https://www.smashingmagazine.com/2018/02/designing-a-perfect-responsive-configurator/
 https://www.smashingmagazine.com/2018/02/generated-content-grid-layout/
+https://www.smashingmagazine.com/2018/03/static-site-with-nunjucks/
+https://www.smashingmagazine.com/2018/03/web-midi-api/
+https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/
+https://www.smashingmagazine.com/2018/03/understanding-logical-properties-values/
+https://www.smashingmagazine.com/2018/04/art-directing-web-css-grid/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -223,6 +228,9 @@ https://hacks.mozilla.org/2018/01/new-flexbox-guides-on-mdn/
 https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/
 https://hacks.mozilla.org/2018/01/firefox-58-the-quantum-era-continues/
 https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler
+https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/
+https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/
+https://blog.mozilla.org/blog/2018/04/03/mozilla-brings-firefox-augmented-virtual-reality/
 
 
 ############################################## Google ########################################################## 
@@ -242,6 +250,10 @@ https://developers.google.com/web/fundamentals/primers/service-workers/high-perf
 https://developers.google.com/web/updates/2017/11/overscroll-behavior
 https://developers.google.com/web/updates/2018/01/paintapi
 https://developers.google.com/web/fundamentals/performance/webpack/
+https://developers.google.com/web/updates/2018/03/clipboardapi
+https://developers.google.com/web/updates/2018/03/cssom
+https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays
+https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/
 
 
 ############################################## Medium ##########################################################
@@ -289,6 +301,9 @@ https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe
 https://medium.com/swinginc/bring-virtual-reality-to-your-browser-with-reactvr-fd9dc62aa8b1
 https://medium.com/kpcc-labs/patterns-for-writing-manageable-css-without-a-framework-109779743c41
 https://medium.com/@kennethrohde/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8
+https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb
+https://medium.com/c2-group/creating-accessible-html-a-crash-course-in-aria-landmark-regions-40513850298b
+https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7
 
 
 ############################################## Dev Channel ##########################################################
@@ -323,6 +338,9 @@ https://medium.freecodecamp.org/introducing-css-gridish-helping-teams-to-adapt-c
 https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855
 https://medium.freecodecamp.org/things-you-need-to-know-about-working-with-svg-in-vs-code-63be593444dd
 https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f
+https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2
+https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f
+https://medium.freecodecamp.org/building-your-first-bootstrap-4-0-site-b54bbff6bc55
 
 
 ############################################## Tutsplus ##########################################################
@@ -343,6 +361,7 @@ https://webdesign.tutsplus.com/articles/the-current-state-of-element-queries--cm
 https://webdesign.tutsplus.com/tutorials/how-to-use-gradients-on-the-web--cms-29922
 https://webdesign.tutsplus.com/tutorials/how-to-scroll-snap-using-css--cms-30333
 https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368
+https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368
 
 
 ############################################## CSS Wizadry ##########################################################
@@ -356,6 +375,7 @@ https://csswizardry.com/2017/01/ack-for-css-developers/
 https://csswizardry.com/2017/02/code-smells-in-css-revisited/
 https://csswizardry.com/2017/02/base64-encoding-and-performance/
 https://csswizardry.com/2018/01/finding-dead-css/
+https://csswizardry.com/2018/03/measuring-the-hard-to-measure/
 
 
 ############################################## Telerik ########################################################## 
@@ -394,6 +414,8 @@ http://alistapart.com/article/javascript-for-web-designers
 https://alistapart.com/article/yes-that-web-project-should-be-a-pwa
 https://alistapart.com/article/the-story-of-css-grid-from-its-creators
 https://alistapart.com/article/web-typography-tables
+http://alistapart.com/article/we-write-css-like-we-did-in-the-90s-and-yes-its-silly
+http://alistapart.com/article/diy-web-accessibility-blueprint
 
 
 ############################################## CSS Animation ########################################################## 
@@ -422,6 +444,7 @@ https://tympanus.net/codrops/2017/05/23/on-scroll-morphing-background-shapes/
 https://tympanus.net/codrops/2017/06/28/organic-shape-animations-with-svg-clippath/
 https://tympanus.net/codrops/2018/01/10/decorative-letter-animations/
 https://tympanus.net/Development/SliceRevealer/
+https://tympanus.net/codrops/2018/03/28/grid-menu/
 
 
 ############################################## Webkit ########################################################## 
@@ -462,6 +485,7 @@ https://bitsofco.de/collapsible-margins/
 https://bitsofco.de/pa11y/
 https://bitsofco.de/the-accessibility-cheatsheet/
 https://bitsofco.de/github-contribution-graph-css-grid/
+https://bitsofco.de/how-display-contents-works/
 
 
 ############################################## Hackernoon ########################################################## 
@@ -488,4 +512,5 @@ https://rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explai
 https://rachelandrew.co.uk/archives/2017/07/01/you-do-not-need-a-css-grid-based-grid-system/
 https://www.rachelandrew.co.uk/archives/2017/07/04/is-it-really-safe-to-start-using-css-grid-layout/
 https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/
+https://rachelandrew.co.uk/archives/2018/03/07/css-grid-one-year-on/
 
