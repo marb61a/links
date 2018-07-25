@@ -87,10 +87,19 @@ https://www.youtube.com/watch?v=TubVp9nn32Q - TDD with Wallaby.js Part 2
 https://www.youtube.com/watch?v=afoxd5b0bJo - Modern Image Gallery With ES6 Vanilla JavaScript
 https://www.youtube.com/watch?v=qsNxdukPc2U - Tricky JavaScript Interview Questions and Answers
 https://www.youtube.com/watch?v=vY1vaVF1P5k - Destructuring in ES6
+https://www.youtube.com/watch?v=edXRi6z7zrE - State of JavaScript Frameworks & Libraries
+https://www.youtube.com/watch?v=R9wn99Xheq4 - WebAssembly: What and What Next?
+https://www.youtube.com/watch?v=aL6SouuO0_k - Structuring JavaScript projects for testability
+https://www.youtube.com/watch?v=pKd0Rpw7O48 - Building RESTful APIs with Node and Express
+https://www.youtube.com/watch?v=7lpemgMhi0k - 7 Secret Patterns Vue Consultants Don’t Want You to Know
+https://www.youtube.com/watch?v=PhggNGsSQyg - Learn RxJS in 60 Minutes for Beginners
 
 
 ##Vimeo
 https://vimeo.com/243148125 - PureScript: Tomorrow’s JavaScript Today
+
+##KnowThen
+https://knowthen.com/ramda/ - Ramda: A Functional Programming Library for JavaScript
 
 
 ##Pusher
@@ -142,52 +151,42 @@ https://softwareengineeringdaily.com/2017/03/31/webassembly-with-brendan-eich/
 
 ##Links -
 http://frontendhappyhour.com - A podcast featuring a panel of Software Engineers from Netflix, Evernote & LinkedIn 
-http://www.jeffreybiles.com/build-pacman - Online book you'll learn the basics of Javascript 
-http://fable.io - Fable is an F# to JavaScript compiler powered by Babel
-https://www.reshader.com - A micro, highly-customisable JavaScript library to get the shades of colors
-http://a-jie.github.io/Proton/ - javascript particle engine
-https://www.rtfmanual.io/d3garden/
 https://jcbrand.github.io/pluggable.js/ - lets you make your JS project extendable via plugins
 http://nickersoft.github.io/push.js/ - JAVASCRIPT NOTIFICATIONS FOR EVERY BROWSER
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
-http://www.javascriptkit.com/javatutors/ - JavaScript Tutorials
-https://golden-layout.com/ - a multi-screen layout manager for webapps (tutorials available)
-http://substance.io/ - A JavaScript library for web-based content editing
-http://www.react.express - Guide to React application development
-http://www.cerebraljs.com/ - The cerebral project
-http://xregexp.com - JavaScript regular expression library
-http://turfjs.org - Advanced geospatial analysis for browsers and node
 http://d3indepth.com - D3 information to bridge the gap between tutorials and documenttation
-http://www.chartjs.org/
+http://www.chartjs.org/ - Simple yet flexible JavaScript charting for designers & developers
 https://rumbleinc.github.io/rumble-js-charts/
 https://nerv.aotu.io - A blazing fast React alternative, compatible with IE8 and React 16.
 http://3d-transforms.webflow.com/
 https://nhnent.github.io/tui.editor/ - GFM Markdown WYSIWYG Editor
-http://www.javascriptkit.com
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-http://nosir.github.io/cleave.js/ - Format your <input/> content when you are typing
-http://www.javascriptoo.com - every javascript project you should be looking into
 http://izimodal.marcelodolce.com - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
-http://echarts.baidu.com
 https://sweetalert.js.org - A beautiful replacement for various messages
+https://pagedraw.io - The best UI builder for the web
+https://atomiks.github.io/tippyjs/ - A highly customizable vanilla JS tooltip & popover library
 http://ottomanjs.com/
 http://careerjs.com - A podcast where three JavaScript developers discuss strategies and tips to help your career as a software developer.
 https://neokoenig.github.io/jQuery-gridmanager/
+https://pqina.nl/filepond/ - A JavaScript library that can upload anything you throw at it
+https://slimerjs.org - A scriptable browser for Web developers
 http://www.nealjs.com/Home
 http://www.hygen.io - The scalable code generator that saves you time.
-http://riotjs.com/ - Simple and elegant component-based UI library
-http://www.a1k0n.net/2015/11/09/javascript-ft2-player.html
-http://angularjs.blogspot.ie/2015/11/highlights-from-angularconnect-2015.html
 https://community.algolia.com/instantsearch.js/
-http://mojs.io/
+http://mojs.io/ - Motion for the web
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+http://www.react.express - Guide to React application development
 http://responsifyjs.space/
 https://github.com/mbeaudru/modern-js-cheatsheet - ES6 Cheet Sheet
 https://es6cheatsheet.com/ -interactive ES6 cheatsheet
 http://imagesloaded.desandro.com
+http://wangchujiang.com/hotkeys/ - http://wangchujiang.com/hotkeys/
+http://www.javascriptkit.com/javatutors/ - JavaScript Tutorials
+https://golden-layout.com/ - a multi-screen layout manager for webapps (tutorials available)
+http://substance.io/ - A JavaScript library for web-based content editing
 http://allegrojs.net/
 http://www.mancy-re.pl/ - A cross platform NodeJS REPL application based on Electron and React frameworks
 https://display.js.org - A simple JavaScript framework for building ambitious UIs
 https://esdiscuss.org
+https://sailsjs.com - makes it easy to build custom, enterprise-grade Node.js apps.
 https://plot.ly/javascript/open-source-announcement/
 https://www.javascripting.com
 http://substance.io/ - Web content editor (Open Source)
@@ -195,39 +194,54 @@ https://popper.js.org -  CREATE POPPERS IN WEB APPLICATIONS
 http://facebook.github.io/jest/ - Painless JavaScript Testing
 http://sigmajs.org/
 http://riteshkr.com/embed.js/
+https://js.tensorflow.org - JavaScript library for training and deploying ML models
 http://robert.kra.hn/projects/paredit-js
 https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql-e0802695648c#.9yg9gpg3o
 http://xto6.js.org/
+http://nosir.github.io/cleave.js/ - Format your <input/> content when you are typing
+http://www.javascriptoo.com - every javascript project you should be looking into
 https://jaxgeller.com/tweezer.js/
 http://rse.github.io/extraction/
 https://ellisonleao.github.io/sharer.js/
 http://www.jspsych.org/
-https://plot.ly/javascript/modularizing-monolithic-javascript-projects/
+http://www.jeffreybiles.com/build-pacman - Online book you'll learn the basics of Javascript 
+http://fable.io - Fable is an F# to JavaScript compiler powered by Babel
 http://js.cytoscape.org/
+https://www.reshader.com - A micro, highly-customisable JavaScript library to get the shades of colors
+http://a-jie.github.io/Proton/ - javascript particle engine
+https://plot.ly/javascript/modularizing-monolithic-javascript-projects/
 http://loudlinks.rocks/
-http://spreadsheets.github.io/jQuery.sheet/
-http://felicegattuso.com/projects/datedropper/
-http://samsarajs.org/
-https://yabwe.github.io/medium-editor/
-https://www.dashingd3js.com/
-http://www.transcrypt.org/
-http://callmecavs.com/bricks.js/
-https://morr.cc/almightree/
-http://cesiumjs.org/ - An open-source JavaScript library for world-class 3D globes and maps
-http://algebra.js.org/
-http://papaparse.com - The powerful, in-browser CSV parser
-http://pressurejs.com/
-http://fusejs.io - Lightweight fuzzy-search library
-http://standardjs.com/
-https://skorokithakis.github.io/expounder/ - JS Library for hding text
-http://blog.wolksoftware.com/introducing-inversify-2
-http://kylebrumm.com/spotifyCurrentlyPlaying.js/
 http://www.gravmatt.com/force-js/ - Scroll and Animate pages
 http://dimplejs.org/ - An object-oriented API for business analytics powered by d3.
 https://psdtowp.net/learn-javascript.html - Tips for learning JS
+http://spreadsheets.github.io/jQuery.sheet/
+http://felicegattuso.com/projects/datedropper/
+http://samsarajs.org/
+http://riotjs.com/ - Simple and elegant component-based UI library
+http://www.a1k0n.net/2015/11/09/javascript-ft2-player.html
+http://angularjs.blogspot.ie/2015/11/highlights-from-angularconnect-2015.html
+https://yabwe.github.io/medium-editor/
+https://www.dashingd3js.com/
+https://glidejs.com - A dependency-free JavaScript ES6 slider and carousel. 
+http://cesiumjs.org/ - An open-source JavaScript library for world-class 3D globes and maps
+http://algebra.js.org/ - Build, display, and solve algebraic equations in JavaScrip
+http://papaparse.com - The powerful, in-browser CSV parser
+http://www.transcrypt.org/
+http://www.cerebraljs.com/ - The cerebral project
+http://xregexp.com - JavaScript regular expression library
+http://turfjs.org - Advanced geospatial analysis for browsers and node
+http://callmecavs.com/bricks.js/
+https://morr.cc/almightree/ - jQuery plugin for navigating large nested lists
+https://pressurejs.com - JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure
+http://fusejs.io - Lightweight fuzzy-search library
+https://skorokithakis.github.io/expounder/ - JS Library for hding text
+http://blog.wolksoftware.com/introducing-inversify-2
+http://kylebrumm.com/spotifyCurrentlyPlaying.js/
 http://interactjs.io/ - JavaScript drag and drop, resizing and multi-touch gestures
 http://jargon.js.org - Dictionary of JS jargon
-http://videojs.com/
-http://js-grid.com/ 
+http://videojs.com/ - The Player Framework
+http://standardjs.com/
+http://js.cytoscape.org - Graph theory / network library for analysis and visualisation
+http://js-grid.com/ - Lightweight Grid jQuery Plugin
 http://metricsgraphicsjs.org/ - MetricsGraphics.js is a library built on top of D3 
 
