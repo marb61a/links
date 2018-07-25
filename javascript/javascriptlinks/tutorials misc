@@ -15,7 +15,6 @@ https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines
 https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback
 http://blog.rangle.io/angular-gulp-bestpractices/
 http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/
-https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js
 https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays
 https://www.thinkful.com/learn/intro-to-jquery
 https://zyan.scripts.mit.edu/blog/backdooring-js/
@@ -25,6 +24,7 @@ http://heidloff.net/article/usage-of-swagger-in-nodejs-applications-to-document-
 http://dmitryfrank.com/articles/js_closures
 https://www.nczonline.net/blog/2015/10/ecmascript-6-destructuring-gotcha/
 https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/
+https://www.nczonline.net/blog/2018/02/the-inception-of-eslint/
 http://thecalvinchan.com/blog/2015/09/05/faster-than-v8/
 http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/
 http://appcues.com/blog/64-tooltip-plugins-made-with-jquery-css-javascript-or-more/
@@ -52,18 +52,22 @@ http://www.jstips.co/en/filtering-and-sorting-a-list-of-strings/
 https://thesocietea.org/2016/01/building-es6-javascript-for-the-browser-with-gulp-babel-and-more/
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
 https://developers.google.com/web/updates/2016/02/es2015-proxies
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/
+https://developers.google.com/web/updates/2018/03/cssom
 http://www.lessmilk.com/game-design-1/
 http://www.adityaravishankar.com/2016/01/commandos-bel-html5-recreating-the-classic-2-5d-real-time-tactics-game-in-the-browser/
 http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/
 http://andrejgajdos.com/setting-up-webpack-for-es6-react-sass-and-bootstrap/
 http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960
 http://code.tutsplus.com/tutorials/introduction-to-p5js--cms-25665
+https://code.tutsplus.com/tutorials/introduction-to-stimulus-framework--cms-30563
 https://stormpath.com/blog/token-auth-spa/
 https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/
 http://rosenfeld.herokuapp.com/en/articles/2016-02-29-getting-an-spa-to-load-the-fastest-possible-way-and-how-webpack-can-help-you
 https://www.toptal.com/javascript/writing-testable-code-in-javascript
 https://www.toptal.com/front-end/webpack-browserify-gulp-which-is-better
 https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial
+https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns
 http://nickmeldrum.com/blog/decorators-in-javascript-using-monkey-patching-closures-prototypes-proxies-and-middleware
 https://engineering.mongodb.com/post/code-generating-away-the-boilerplate-in-our-migration-back-to-spidermonkey/
 https://www.mongodb.com/blog/post/the-modern-application-stack-part-5-using-reactjs-es6-and-jsx-to-build-a-ui-the-rise-of-mern
@@ -97,6 +101,7 @@ https://rainsoft.io/gentle-explanation-of-this-in-javascript/
 https://rainsoft.io/how-three-dots-changed-javascript/
 http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchronous-javascript
 http://elijahmanor.com/npm-precommit-scripts/
+http://elijahmanor.com/js-copypaste-detect/
 http://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/
 http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd/
 http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad
@@ -109,6 +114,7 @@ http://www.appcues.com/blog/67-open-source-modal-window-plugins-made-with-jquery
 http://devbryce.com/use-cases-for-es6-proxies/
 https://vsavkin.com/functional-typescript-316f0e003dc6#.6mx2x6adf
 https://blog.sqreen.io/embedding-javascript-into-python/
+https://blog.sqreen.io/authentication-best-practices-vue/
 http://mike-ward.net/2016/08/01/exploring-mithril-a-javascript-framework-for-building-brilliant-applications/
 https://bethallchurch.github.io/JavaScript-and-Functional-Programming/
 http://blog.yanivkessler.com/2016/08/07/consuming-a-dynamodb-stream-in-the-browser/
@@ -120,6 +126,7 @@ https://philipwalton.com/articles/loading-polyfills-only-when-needed/
 https://philipwalton.com/articles/deploying-es2015-code-in-production-today/
 https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/
 https://nolanlawson.com/2017/01/09/how-to-write-a-javascript-package-for-both-node-and-the-browser/
+https://nolanlawson.com/2018/03/20/smaller-lodash-bundles-with-webpack-and-babel/
 http://x-team.com/2016/08/beginners-guide-ionic-2-mobile-applications/
 https://madebymike.com.au//writing/service-workers/
 https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
@@ -200,6 +207,7 @@ https://zellwk.com/blog/js-in-dom/
 https://zellwk.com/blog/es6/
 https://zellwk.com/blog/callbacks/
 https://zellwk.com/blog/this/
+https://zellwk.com/blog/dom-traversals/
 http://raganwald.com/2017/04/30/transducers.html
 https://tympanus.net/codrops/2017/05/09/infinite-tubes-with-three-js/
 http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/
@@ -219,6 +227,7 @@ https://performancejs.com/post/ewffd34/Introducing:-Lazy-arrays-in-JavaScript
 https://blog.meteor.com/vulcanjs-an-open-source-project-to-meteorize-graphql-ba48925bc41f
 https://www.codementor.io/vuejsdevelopers/7-ways-to-define-a-component-template-in-vue-js-8wxxhmxo6
 https://www.codementor.io/christiannwamba/how-to-build-an-electronic-realtime-poll-in-5-steps-es41iluc9
+https://www.codementor.io/billsourour897/elegant-patterns-in-modern-javascript-roro-hn217atuu
 https://philna.sh/blog/2017/07/04/experimenting-with-the-background-fetch-api/ 
 https://pattern-matching-with-typescript.alabor.me
 https://www.alexkras.com/reverse-engineering-one-line-of-javascript/
@@ -235,6 +244,7 @@ https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/
 https://blog.patricktriest.com/what-is-async-await-why-should-you-care/
 https://blog.logrocket.com/introduction-to-preact-a-smaller-faster-react-alternative-ad5532eb6d79
 https://blog.logrocket.com/an-imperative-guide-to-forms-in-vue-js-7536bfa374e0
+https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2
 https://www.linkedin.com/pulse/folding-promises-javascript-vladimír-gorej
 https://pawelgrzybek.com/the-observer-pattern-in-javascript-explained/
 https://gyandeeps.com/console-stubbing/
@@ -281,8 +291,8 @@ https://remysharp.com/2017/10/25/es6-default-arguments
 https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795
 http://codersblock.com/blog/javascript-physics-with-matter-js/
 https://hughfdjackson.com/javascript/does-curry-help/
-https://scotch.io/tutorials/build-a-server-side-rendered-vue-app-with-nuxtjs
 https://thenewstack.io/fat-arrow-points-way-easy-es6-goodies-busy-js-devs/
+https://thenewstack.io/talking-wasm-paul-milham-webassembly-may-reinvent-write-ship-code-web/
 https://nemethgergely.com/puppeteer-browser-automation/
 https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
 https://www.codedread.com/blog/archives/2017/10/19/web-workers-can-be-es6-modules-too/
@@ -317,4 +327,25 @@ https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/
 https://www.twilio.com/blog/2018/02/creating-and-publishing-web-components-with-stencil.html
 https://blog.machinebox.io/face-verify-js-monitoring-who-is-looking-at-a-website-for-additional-security-1d6025a8fedd
 https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code/
+http://thecodebarbarian.com/using-promise-finally-in-node-js.html
+http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html
+http://stackabuse.com/single-page-apps-with-vue-js-and-flask-state-management-with-vuex/
+https://www.dalejefferson.com/async-await-promise-all-array-destructuring/
+http://www.olioapps.com/blog/the-lost-art-of-the-makefile/
+https://aws.amazon.com/blogs/mobile/building-a-serverless-real-time-chat-application-with-aws-appsync/
+https://circleci.com/blog/preserve-build-integrity-prevent-problems-deterministic-builds/
+https://blog.cloudflare.com/cloudflare-workers-unleashed/
+https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3
+http://www.sheshbabu.com/posts/tips-for-using-eslint-in-a-legacy-codebase/
+https://www.stefanjudis.com/today-i-learned/the-complicated-syntax-of-lookaheads-in-javascript-regular-expressions/
+https://towardsdatascience.com/gpu-accelerated-neural-networks-in-javascript-195d6f8e69ef
+https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/
+https://anderspitman.net/blog/static-react-rust-webapp/
+https://blog.formpl.us/a-simple-guide-to-taking-a-web-page-offline-using-service-workers-f4c42e7b4ada
+https://forestry.io/blog/write-better-javascript-with-webpack/
+https://fly.io/articles/fly-edge-applications-global-javascript/#jsweekly
+https://mcluck90.github.io/abusing-proxies-for-dsls/
+https://blog.revillweb.com/extending-native-dom-elements-with-web-components-233350c8e86a
+https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations
+
 
