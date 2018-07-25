@@ -41,6 +41,7 @@ http://ditrospecta.com/node/javascript/arduino/2015/11/29/introduction-arduino-n
 http://zpalexander.com/blog/javascript-promises-node-js/
 http://digitaljunky.io/make-your-own-data-platform-for-the-internet-of-things-using-node-js-and-express-js/
 http://spin.atomicobject.com/2015/09/25/debug-node-js/
+https://spin.atomicobject.com/2018/06/18/windows-node-js/
 https://moroccojs.org/tutorials/npm-based-front-end-workflow/
 http://sagivo.com/post/130207525903/nodejs-addons
 http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/
@@ -48,7 +49,6 @@ http://www.capitalone.io/blog/contrasting-enterprise-nodejs-frameworks/
 https://www.codementor.io/nodejs/tutorial/how-to-implement-twitter-sign-expressjs-oauth
 http://ditrospecta.com/javascript/plugin/hubot/2015/10/03/hubot-plugin-choose-place-to-drink-coffee.html
 http://engineering.widen.com/blog/future-of-the-web-react-falcor/
-http://www.2ality.com/2015/10/google-analytics-api.html
 http://spanningcloudapps.github.io/2015/10/12/Long-running-Node-processes/
 http://dwcares.com/realchess/
 http://radek.io/2015/10/27/nodegit/
@@ -240,11 +240,6 @@ https://kamilmysliwiec.com/nest-final-release-is-here-node-js-framework-built-to
 https://samkirkiles.svbtle.com/webstorm-node-js-debugging-with-nodemon
 https://segment.com/blog/perceptual-diffing-with-niffy/
 https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/
-https://auth0.com/blog/load-balancing-nodejs-applications-with-nginx-and-docker/
-https://auth0.com/blog/integrating-node-dot-js-build-tools-with-maven/
-https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express/
-https://auth0.com/blog/developing-real-time-apps-with-meteor/
-https://auth0.com/blog/building-real-time-web-applications-using-wolkenkit/#
 https://www.mongodb.com/blog/post/getting-started-with-mongodb-nodejs-and-restify
 https://www.mongodb.com/blog/post/part-2-introducing-mongoose-to-your-nodejs-and-restify-api
 https://www.mongodb.com/blog/post/building-a-nodejs-app-with-mongodb-atlas-and-aws-elastic-container-service-part-1
@@ -265,6 +260,7 @@ http://blog.bitfinex.com/tutorial/bitfinex-loves-microservices-grenache/
 https://robertwpearce.com/blog/node-js-geocoding-proxy-with-paperplane.html
 http://nodewebapps.com/2017/06/18/how-do-nodejs-sessions-work/
 https://www.robinwieruch.de/react-express-stripe-payment/
+https://www.robinwieruch.de/postgres-express-setup-tutorial/
 https://www.xarg.org/2017/06/a-pure-javascript-dhcp-implementation/
 http://codingsans.com/blog/mongoose-models-using-typescript-classes
 https://www.valentinog.com/blog/memory-usage-node-js/
@@ -274,10 +270,6 @@ http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/
 https://codeforgeek.com/2017/07/building-live-webcam-face-detector-node-js-opencv/
 https://scalegrid.io/blog/using-redis-with-node-js-and-socket-io/
 https://thomashunter.name/blog/refactoring-a-nodejs-codebase-using-async-await/
-https://dev.to/dkundel/writing-a-nodejs-module-in-typescript
-https://dev.to/kepta/promising-promise-tips--c8f
-https://dev.to/abiodunjames/build-a-todo-app-with-nodejs-expressjs-mongodb-and-vuejs--part-1--29n7
-https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad
 https://www.nodebeginner.org/blog/post/nodejs-tutorial-optimizing-code-performance-using-async/
 https://alligator.io/nodejs/uploading-files-multer-express/
 https://developer.ibm.com/node/2017/07/24/capturing-diagnostic-dumps-node-js-applications-bluemix-container-service/
@@ -292,6 +284,8 @@ http://rafaelsorto.com/nodejs/2017/how-to-configure-nodejs-with-nginx-and-phussi
 http://pages.sencha.com/extreact-add-the-infinite-data-grid-to-react-web-apps-cp.html
 https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/
 https://www.nearform.com/blog/architecting-electron-applications-for-60fps/
+https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/
+https://www.nearform.com/blog/the-future-of-native-modules-in-node-js/
 https://tutorialzine.com/2017/08/automating-google-chrome-with-node-js
 https://boneskull.com/diy-object-recognition/
 https://qbox.io/blog/integrating-elasticsearch-into-node-js-application
@@ -319,7 +313,6 @@ https://svelte.technology/blog/sapper-towards-the-ideal-web-app-framework
 https://blog.sourcerer.io/a-crash-course-on-typescript-with-node-js-2c376285afe1
 http://seenaburns.com/debugging-electron-memory-usage/
 https://blog.kentcdodds.com/spelunking-in-node-modules-bf165af19968
-https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/
 https://codingthesmartway.com/creating-a-graphql-server-with-node-js-and-express/
 https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4
 https://meowni.ca/posts/2017-puppeteer-tests/
@@ -331,11 +324,9 @@ http://ranjithnair.github.io/2018/01/30/Oauth-Express.html
 https://blog.solutotlv.com/graphql-to-mongodb-or-how-i-learned-to-stop-worrying-and-love-generated-query-apis/
 https://www.zeolearn.com/magazine/designing-a-rest-api-with-nodejs-and-mongodb-atlas
 https://slack.engineering/interops-labyrinth-sharing-code-between-web-electron-apps-f9474d62eccc
-https://itnext.io/building-a-node-js-websocket-chat-app-with-socket-io-and-react-473a0686d1e1
-https://itnext.io/node-js-integration-testing-with-pact-js-1a2ea8aa3116
-https://itnext.io/call-graphql-api-with-native-node-modules-5e4d088ca969
-https://itnext.io/using-async-await-to-write-cleaner-route-handlers-7fc1d91b220b
 https://godaddy.github.io/2018/02/22/announcing-terminus/
+https://godaddy.github.io/2018/05/02/kubernetes-introduction-for-developers/
+https://godaddy.github.io/2018/06/12/announcing-winston-3/
 https://dev-blog.apollodata.com/securing-your-graphql-api-from-malicious-queries-16130a324a6b
 https://dev-blog.apollodata.com/caching-graphql-results-in-your-cdn-54299832b8e2
 https://dev-blog.apollodata.com/graphql-over-rest-with-node-heroku-and-apollo-engine-fb8581f8d77f
@@ -348,6 +339,18 @@ http://www.sheshbabu.com/posts/tips-for-using-eslint-in-a-legacy-codebase/
 https://knolleary.net/2018/03/16/getting-node-red-to-one-million-downloads/
 https://x-team.com/blog/slack-app-step-by-step/
 https://www.nan-labs.com/blog/native-extensions-for-nodejs/
-
-
+https://vuejsdevelopers.com/2018/04/16/video-vue-node-cloudinary/
+https://timber.io/blog/creating-a-real-world-cli-app-with-node/
+https://insidemysql.com/mysql-document-store-crud-quick-start/
+https://www.djamware.com/post/58bd823080aca7585c808ebf/nodejs-expressjs-mongoosejs-and-passportjs-authentication
+https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-gateway-and-aws-lambda-d254729d6992
+https://blog.sourcerer.io/building-rest-services-with-serverless-framework-in-node-js-aws-lambda-and-dynamodb-765beada2c57
+http://thisdavej.com/how-to-watch-for-files-changes-in-node-js/
+https://mixmax.com/blog/to-yarn-and-back-again-npm
+https://intoli.com/blog/youtube-mp3-downloader/
+https://blog.maartenballiauw.be/post/2018/05/29/remote-debugging-node-js-azure-app-service-webstorm.html
+https://blog.sicara.com/feature-flags-nodejs-continuous-delivery-c245264b52b4
+https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/
+https://quantizd.com/building-facebook-messenger-bot-with-nodejs/
+https://codewithhugo.com/how-to-make-beautiful-simple-cli-apps-with-node/
 
