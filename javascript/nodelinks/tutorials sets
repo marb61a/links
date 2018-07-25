@@ -49,6 +49,9 @@ https://www.sitepoint.com/how-to-deploy-node-applications-heroku-vs-now-sh/
 https://www.sitepoint.com/build-a-simple-web-server-with-node-js/
 https://www.sitepoint.com/passport-authentication-for-nodejs-applications/
 https://www.sitepoint.com/forms-file-uploads-security-node-express/
+https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/
+https://www.sitepoint.com/build-simple-beginner-app-node-bootstrap-mongodb/
+https://www.sitepoint.com/an-introduction-to-sails-js/
 
 
 ######################################## Scotch.io ##############################################
@@ -121,11 +124,6 @@ https://medium.com/@graeme_boy/how-to-optimize-cpu-intensive-work-in-node-js-cdc
 https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358
 https://medium.com/@_lrlna/garbage-collection-in-v8-an-illustrated-guide-d24a952ee3b8
 https://medium.com/@peterhanssens/how-to-build-a-node-js-api-using-postgres-lambda-and-api-gateway-3211a4570cea
-https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297
-https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2
-https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
-https://medium.com/dailyjs/getting-started-with-hapi-17-1e63ed625b2c
-https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2
 https://medium.com/@dashersw/microservices-made-easy-with-node-js-f41bb2be2d3c
 https://medium.com/@antoinegrandiere/build-a-moderation-system-with-sightengine-for-node-js-6600ac0668c8
 https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd309
@@ -160,6 +158,19 @@ https://medium.com/@tomastrajan/how-to-speed-up-continuous-integration-build-wit
 https://medium.com/stdlibhq/build-a-serverless-sms-hub-in-under-7-minutes-with-node-js-stdlib-and-messagebird-7d2d41ecaea6
 https://medium.com/stdlibhq/build-an-emergency-notification-slack-bot-in-10-minutes-with-messagebird-stdlib-and-node-js-7c78932ec6c4
 https://medium.com/intrinsic/creating-and-integrating-a-node-lambda-function-with-api-gateway-a0c8325b34f7
+https://medium.com/containerum/how-to-setup-ci-cd-workflow-for-node-js-apps-with-jenkins-and-kubernetes-360fd0499556
+https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a
+https://medium.com/@anephenix/end-to-end-testing-single-page-apps-and-node-js-apis-with-cucumber-js-and-puppeteer-ad5a519ace0
+
+
+######################################## DailyJS ##############################################
+https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297
+https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2
+https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
+https://medium.com/dailyjs/getting-started-with-hapi-17-1e63ed625b2c
+https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2
+https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017
+https://medium.com/dailyjs/async-generators-as-an-alternative-to-state-management-f9871390ffca
 
 
 ######################################## FreeCodeCamp ##############################################
@@ -177,6 +188,8 @@ https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-
 https://medium.freecodecamp.org/express-js-and-aws-lambda-a-serverless-love-story-7c77ba0eaa35
 https://medium.freecodecamp.org/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a
 https://medium.freecodecamp.org/how-to-write-powerful-schemas-in-javascript-490da6233d37
+https://medium.freecodecamp.org/a-crash-course-on-securing-serverless-apis-with-json-web-tokens-ff657ab2f5a5
+https://medium.freecodecamp.org/build-a-node-js-command-line-chat-application-with-chatkit-8d0c4546085e
 
 
 ######################################## Risingstack ##############################################
@@ -261,6 +274,7 @@ https://medium.com/the-node-js-collection/how-i-ported-bcrypt-to-new-n-api-d0b8c
 https://medium.com/the-node-js-collection/strategic-initiatives-coming-from-the-node-js-project-56a645d53c78
 https://medium.com/the-node-js-collection/nodejs-platform-hardening-71b212fcae6a
 https://medium.com/the-node-js-collection/node-js-can-http-2-push-b491894e1bb1
+https://medium.com/the-node-js-collection/switching-from-cluster-module-to-pm2-rabbitmq-in-node-js-d0cce5eb96f4
 
 
 ######################################## Tutsplus ##############################################
@@ -321,22 +335,7 @@ https://www.smashingmagazine.com/2017/03/interactive-command-line-application-no
 https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/
 https://www.smashingmagazine.com/2017/11/creating-secure-password-resets-with-json-web-tokens/
 https://www.smashingmagazine.com/2018/04/analyzing-social-media-presence-ibm-watson-nodejs/
-
-
-######################################## Nic Raboy ##############################################
-https://blog.nraboy.com/2015/11/using-passportjs-in-your-node-js-couchbase-web-application/
-https://blog.nraboy.com/2015/10/create-a-simple-restful-api-with-node-js/
-https://blog.nraboy.com/2015/10/create-a-full-stack-app-using-node-js-couchbase-server/
-https://www.thepolyglotdeveloper.com/2016/02/upload-files-to-node-js-using-angular-2/
-https://www.thepolyglotdeveloper.com/2017/12/convert-nodejs-restful-api-serverless-openwhisk/
-
-
-######################################## Stack Abuse ##############################################
-http://stackabuse.com/how-to-write-express-js-middleware/
-http://stackabuse.com/setting-up-a-node-js-cluster/
-http://stackabuse.com/bookshelf-js-a-node-js-orm/
-http://stackabuse.com/avoiding-callback-hell-in-node-js/
-http://stackabuse.com/getting-started-with-aws-lambda-and-node-js/
+https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/
 
 
 ######################################## Twilio ##############################################
@@ -483,31 +482,13 @@ https://nodesource.com/blog/node-js-performance-monitoring-part-2-monitoring-the
 https://nodesource.com/blog/node-js-performance-monitoring-part-3-debugging-the-event-loop
 https://nodesource.com/blog/how-massive-companies-use-node-js-at-scale
 https://nodesource.com/blog/cover-your-apps-while-still-using-npm
-
-
-######################################## Bandwidth ##############################################
-http://blog.bandwidth.com/creating-a-webrtc-app-with-typescript-and-bandwidth
-http://blog.bandwidth.com/building-a-sms-weather-and-image-bot
-http://blog.bandwidth.com/express-es5-to-koa-es7/
-http://blog.bandwidth.com/intro-to-simple-docker-with-node-koa/
-
-
-######################################## Compose ##############################################
-https://www.compose.com/articles/getting-started-with-elasticsearch-and-node/
-https://www.compose.com/articles/power-prototyping-with-mongodb-and-node-red-2/
-https://www.compose.com/articles/building-javascript-microservices-with-senecajs-and-compose/
-https://www.compose.com/articles/authenticating-node-red-with-jsonwebtoken/
-https://www.compose.com/articles/document-validation-in-mongodb-by-example/
-https://www.compose.com/articles/mysql-for-json-generated-columns-and-indexing/
-https://www.compose.com/articles/creating-an-aws-vpc-and-secured-compose-mongodb-with-terraform/
-https://www.compose.com/articles/use-all-the-databases-part-1/
-
-
-######################################## Sqreen ##############################################
-https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
-https://blog.sqreen.io/identify-tor-connections-node-js-tor-test/
-https://blog.sqreen.io/mongodb-will-not-prevent-nosql-injections-in-your-node-js-app/
-https://blog.sqreen.io/prevent-nosql-injections-mongodb-node-js/
+https://nodesource.com/blog/what-you-can-expect-from-node-js-10
+https://nodesource.com/blog/understanding-the-buffer-deprecation-in-node-js-10
+https://nodesource.com/blog/containerizing-node-js-applications-with-docker
+https://nodesource.com/blog/how-you-can-start-contributing-to-node-js-today
+https://nodesource.com/blog/orchestrating-nodejs-containers-with-kubernetes
+https://nodesource.com/blog/understanding-how-node-js-release-lines-work
+https://nodesource.com/blog/scalable-nodejs-with-kubernetes-and-google-kubernetes-engine/
 
 
 ######################################## Code Barbarian ##############################################
@@ -527,8 +508,11 @@ http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-array-filters.htm
 http://thecodebarbarian.com/using-promise-finally-in-node-js.html
 http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-lookup-expr.html
 http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-change-streams.html
-http://thecodebarbarian.com/getting-started-with-ibm-cloud-functions-and-mongodb.html
-http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html
+https://thecodebarbarian.com/getting-started-with-ibm-cloud-functions-and-mongodb.html
+https://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html
+https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html
+https://thecodebarbarian.com/getting-started-with-ripple-xrp-and-node-js.html
+https://thecodebarbarian.com/stock-price-notifications-with-mongoose-and-mongodb-change-streams.html
 
 
 ######################################## Codeburst ##############################################
@@ -541,5 +525,6 @@ https://codeburst.io/build-a-serverless-ping-service-status-page-in-5-steps-with
 https://codeburst.io/how-to-create-an-alexa-skill-with-node-js-and-dynamodb-3c9d5e9661
 https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921
 https://codeburst.io/deploy-angular-2-node-js-website-using-aws-1ac169d6bbf
+https://codeburst.io/deploy-your-webpack-apps-to-heroku-in-3-simple-steps-4ae072af93a8
 
 
