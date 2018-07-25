@@ -223,7 +223,7 @@ https://github.com/cshum/caco - Generator based flow-control that supports both 
 https://github.com/DKirwan/calendar-heatmap - D3 Heatmap similar to Github contribution chart
 https://github.com/ulrobin/dynamicColorPage - Tiny jQuery plugin to easily adapt the page's styling
 https://github.com/ctrl-freaks/freezeframe.js - Pauses animated .gifs and enables automatic animate upon mouse hover
-https://github.com/pharzan/promiseRunner - A simple promise maker which creates promises out of normal functions when you need asynchronous run of the functions
+https://github.com/pharzan/promiseRunner - A simple promise maker which creates promises out of normal functions
 https://github.com/majman/adobe-scripts-panel - Scripting Panel for After Effects, Illustrator, and Photoshop
 https://github.com/rethinkdb/horizon - Horizon is a realtime, open-source backend for JavaScript apps
 https://github.com/ryanmcdermott/clean-code-javascript - Clean Code concepts adapted for JavaScript
@@ -242,7 +242,7 @@ https://github.com/vmasto/express-babel - Express starter kit with ES2017+ suppo
 https://github.com/arqex/freezer - A tree data structure that emits events on updates
 https://github.com/caiogondim/fast-memoize.js -  Fastest possible memoization library
 https://github.com/micku7zu/vanilla-tilt.js/ - A smooth 3D tilt javascript library
-https://github.com/userpixel/micromustache - fast and small sub-implementation of the {{mustache}} template engine for JavaScript
+https://github.com/userpixel/micromustache - fast and small sub-implementation of the {{mustache}} engine for JavaScript
 https://github.com/eddyerburgh/avoriaz -  Vue.js testing utility library
 https://github.com/gopalraju/gridtab - GridTab is a lightweight jQuery plugin to create grid based responsive tabs
 https://github.com/hyperapp/hyperapp - 1kb JavaScript library for building modern UI applications
@@ -495,4 +495,38 @@ https://github.com/sweetalert2/sweetalert2 - WAI-ARIA) replacement for JavaScrip
 https://github.com/streamich/ass-js - Assembler.js - X86_64 and Ethereum
 https://github.com/vuetifyjs/vuetify - Material Component Framework for Vue.js 2 
 https://github.com/vincit/objection.js - An SQL-friendly ORM for Node.js
+https://github.com/chrisvfritz/vue-enterprise-boilerplate -  opinionated architecture and dev environment for new Vue SPA projects
+https://github.com/funkia/list - An immutable list with unmatched performance
+https://github.com/lukeed/dset - A tiny (135B) utility for safely writing deep Object values
+https://github.com/stuyam/pressure - JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure.
+https://github.com/facebook/prepack - A JavaScript bundle optimizer
+https://github.com/vuejs/vue-cli -  Standard Tooling for Vue.js Development 
+https://github.com/electerious/basicScroll - Standalone parallax scrolling for mobile and desktop with CSS variables
+https://github.com/mourner/flatbush - A very fast static spatial index for 2D points and rectangles in JavaScript
+https://github.com/Q42/delighters - Add CSS animations to delight users as they scroll down
+https://github.com/atomiks/tippyjs - Highly customizable vanilla JS tooltip/popover library
+https://github.com/asfktz/Awaity.js - A functional, lightweight alternative to bluebird.js
+https://github.com/pulsardev/vue-tour - a lightweight, simple and customizable guided tour plugin 
+https://github.com/pshihn/workly - A really simple way to move a function or class to a web worker
+https://github.com/nhnent/tui.chart - Beautiful chart for data visualization
+https://github.com/kamranahmedse/driver.js - A light-weight, no-dependency, vanilla JavaScript engine 
+https://github.com/pshihn/rough - Create graphics with a hand-drawn, sketchy, appearance 
+https://github.com/marktext/marktext - Next generation markdown editor
+https://github.com/JoshuaWise/better-sqlite3 - The fastest and simplest library for SQLite3 in Node.js.
+https://github.com/egoist/vue-content-loader - SVG component to create placeholder loading
+https://github.com/carstenschaefer/DrawerJs - A customizable WYSIWYG HTML canvas editor.
+https://github.com/cmseaton42/task-easy - A simple, customizable, and lightweight priority queue for promises
+https://github.com/NervJS/nerv - A blazing fast React alternative, compatible with IE8 and React 16. 
+https://github.com/jaywcjlove/hotkeys - A robust Javascript library for capturing keyboard input.
+https://github.com/GoogleChromeLabs/webpack-libs-optimizations - Using a library in your webpack project? 
+https://github.com/slmgc/Nothing - A chainable, callable mock object which always returns itself
+https://github.com/glidejs/glide - A dependency-free JavaScript ES6 slider and carousel.
+https://github.com/dfcook/vue-testing-library - Lightweight adapter to be used to test Vue.js components
+https://github.com/pedsmoreira/casex - All in one function for transforming word casings
+https://github.com/cytoscape/cytoscape.js - Graph theory / network library for visualisation and analysis
+https://github.com/jakesgordon/javascript-state-machine - A javascript finite state machine library
+https://github.com/benji6/virtual-audio-graph -  Library for declaratively manipulating the Web Audio API
+https://github.com/text-mask/text-mask - Input mask for React, Angular, Ember, Vue, & plain JavaScript 
+https://github.com/popmotion/vekta - A JavaScript vector type with GLSL-inspired swizzling
+https://github.com/Canner/slate-md-editor - A markdown editor, that allows you to edit live with hot keys support! 
 
