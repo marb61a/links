@@ -66,12 +66,6 @@ https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15
 https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9
 https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161
 https://medium.com/statuscode/cors-a-guided-tour-4e72230a8739
-https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
-https://medium.com/dailyjs/maybe-you-should-use-maybes-297f2c88c228
-https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775
-https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2
-https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
-https://medium.com/dailyjs/the-why-behind-the-wat-an-explanation-of-javascripts-weird-type-system-83b92879a8db
 https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a
 https://medium.com/@darrenjennings/data-driven-vue-js-53e84f16e28f
 https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358
@@ -103,6 +97,19 @@ https://medium.com/@muehler.v/node-js-meets-opencvs-deep-neural-networks-fun-wit
 https://medium.com/@alexandereardon/dragging-react-performance-forward-688b30d40a33
 https://medium.com/@baphemot/understanding-cors-18ad6b478e2b
 https://medium.com/hyperapp/hyperapp-for-redux-refugees-2507c9dd1ddc
+https://medium.com/containers-on-aws/building-a-socket-io-chat-app-and-deploying-it-using-aws-fargate-86fd7cbce13f
+https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6
+https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3
+
+
+###################################### DailyJS ###########################################################
+https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
+https://medium.com/dailyjs/maybe-you-should-use-maybes-297f2c88c228
+https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775
+https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2
+https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
+https://medium.com/dailyjs/the-why-behind-the-wat-an-explanation-of-javascripts-weird-type-system-83b92879a8db
+https://medium.com/dailyjs/decoupling-business-logic-using-async-generators-cc257f80ab33
 
 
 ###################################### Eric Elliot ###########################################################
@@ -142,6 +149,12 @@ https://medium.freecodecamp.org/why-robots-should-format-our-code-159fd06d17f7
 https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7
 https://medium.freecodecamp.org/running-untrusted-javascript-as-a-saas-is-hard-this-is-how-i-tamed-the-demons-973870f76e1c
 https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c
+https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9
+https://medium.freecodecamp.org/how-to-write-powerful-schemas-in-javascript-490da6233d37
+https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b
+https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c
+https://medium.freecodecamp.org/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6
+https://medium.freecodecamp.org/learn-to-visualize-data-with-this-free-d3-js-course-2433b060f9dc
 
 
 ####################################### Telerik ###########################################################
@@ -165,6 +178,9 @@ https://developer.telerik.com/topics/web-development/understanding-scope-in-java
 https://developer.telerik.com/products/kendo-ui/u-go-hue-go-controlling-philips-hue-lights-with-angular-and-kendo-ui/
 https://developer.telerik.com/topics/web-development/what-is-this-in-javascript/
 https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/
+https://www.telerik.com/blogs/how-to-javascript-in-2018
+https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli
+https://www.telerik.com/blogs/building-pwas-with-vuejs
 
 
 ####################################### 2Ality ###########################################################
@@ -222,6 +238,8 @@ http://2ality.com/2017/11/about-reasonml.html
 http://2ality.com/2017/12/alternate-this.html
 http://2ality.com/2017/12/for-await-of-sync-iterables.html
 http://2ality.com/2018/02/string-prototype-matchall.html
+http://2ality.com/2018/03/javascript-typescript-reasonml.html
+http://2ality.com/2018/04/async-iter-nodejs.html
 
 
 ####################################### Mozilla ###########################################################
@@ -239,20 +257,7 @@ https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/
 https://hacks.mozilla.org/2017/07/introducing-sphinx-js-a-better-way-to-document-large-javascript-projects/
 https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
 https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/
-
-
-####################################### James K Nelson ###########################################################
-http://jamesknelson.com/are-es6-promises-swallowing-your-errors/
-http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/
-http://jamesknelson.com/why-you-shouldnt-style-with-javascript/
-
-
-####################################### Kyle Simpson ###########################################################
-http://blog.getify.com/arrow-this/
-http://blog.getify.com/concurrently-javascript-1/
-http://blog.getify.com/thoughts-on-thunks/
-https://blog.getify.com/promises-wrong-ways/
-https://blog.getify.com/not-awaiting-1/
+https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
 
 
 ####################################### Smashing Magazine ###########################################################
@@ -271,6 +276,10 @@ https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/
 https://www.smashingmagazine.com/2018/01/rise-state-machines/
 https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/
 https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/
+https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
+https://www.smashingmagazine.com/2018/03/lazy-loading-with-conditioner-js/
+https://www.smashingmagazine.com/2018/03/web-midi-api/
+https://www.smashingmagazine.com/2018/04/vuejs-firebase-firestore/
 
 
 ####################################### Auth0 ###########################################################
@@ -286,24 +295,6 @@ https://auth0.com/blog/understanding-reactive-programming-and-rxjs/
 https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-1/
 https://auth0.com/blog/developing-real-time-apps-with-meteor/
 https://auth0.com/blog/webpack-a-gentle-introduction/
-
-
-####################################### Marius Schultz ###########################################################
-https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-when-const-isnt-constant
-https://blog.mariusschulz.com/2016/01/13/disassembling-javascripts-iife-syntax
-https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
-https://blog.mariusschulz.com/2016/02/03/ecmascript-2016-array-prototype-includes
-https://blog.mariusschulz.com/2016/07/16/removing-elements-from-javascript-arrays
-https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type
-
-
-####################################### Ben Nadel ###########################################################
-http://www.bennadel.com/blog/2930-using-cmd-enter-to-submit-a-form-in-angularjs.htm
-http://www.bennadel.com/blog/3124-gathering-data-in-parallel-inside-an-asynchronous-generator-based-workflow-in-javascript.htm
-http://www.bennadel.com/blog/3123-using-es6-generators-and-yield-to-implement-asynchronous-workflows-in-javascript.htm
-https://www.bennadel.com/blog/3254-method-binding-is-an-implicit-part-of-your-api-contract-whether-you-like-it-or-not.htm
-https://www.bennadel.com/blog/3314-aggregating-cherry-picked-lodash-methods-in-an-application-module-in-javascript.htm
-https://www.bennadel.com/blog/3342-building-a-mental-model-for-precedence-and-the-new-operator-in-javascript.htm
 
 
 ####################################### Risingstack ###########################################################
@@ -350,13 +341,8 @@ https://css-tricks.com/writing-smarter-animation-code/
 https://css-tricks.com/emulating-css-timing-functions-javascript/
 https://css-tricks.com/creating-star-heart-animation-svg-vanilla-javascript/
 https://css-tricks.com/front-end-developers-guide-graphql/
-
-
-####################################### Wes Bos ###########################################################
-http://wesbos.com/arrow-functions/
-http://wesbos.com/javascript-default-function-arguments/
-http://wesbos.com/template-strings-html/
-http://wesbos.com/destructuring-objects/
+https://css-tricks.com/gotchas-publishing-modules-npm-bower/
+https://css-tricks.com/build-a-custom-vue-router/
 
 
 ####################################### Hackernoon ###########################################################
@@ -376,6 +362,8 @@ https://hackernoon.com/how-to-create-a-favorite-animation-with-anime-js-5f9ec02c
 https://hackernoon.com/node8s-util-promisify-is-so-freakin-awesome-1d90c184bf44
 https://hackernoon.com/a-user-encounters-a-javascript-error-youll-never-guess-what-happens-next-dc1a6f725490
 https://hackernoon.com/surveyjs-an-open-source-javascript-survey-library-with-versions-for-angular-2-react-vue-2086d988b974
+https://hackernoon.com/architecting-single-page-applications-b842ea633c2e
+https://hackernoon.com/the-comprehensive-beginners-guide-to-javascript-geolocation-tracking-11f7a1bba400
 
 
 ####################################### Pusher ###########################################################
@@ -409,5 +397,6 @@ https://codeburst.io/javascript-map-vs-foreach-f38111822c0f
 https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921
 https://codeburst.io/how-to-handle-multipart-form-data-in-nodejs-file-uploading-in-nodejs-26c0cb88adcf
 https://codeburst.io/javascript-null-vs-undefined-20f955215a2
-
+https://codeburst.io/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7
+https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2
 
