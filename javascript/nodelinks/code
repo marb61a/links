@@ -596,7 +596,38 @@ https://github.com/shanev/tempdb - Redis-backed ephemeral key-value store for No
 https://github.com/Schniz/cuery - A composable SQL query builder using template literals
 https://github.com/davisjam/vuln-regex-detector - Detect vulnerable regexes in your project. 
 https://github.com/AsyncOptics/async-optics - A node asynchronous process and package monitor
-
-
+https://github.com/diegohaz/nod - Node.js module generator/boilerplate with Babel, Jest, Flow
+https://github.com/smooth-code/jest-puppeteer - Run your tests using Jest & Puppeteer 
+https://github.com/Mailtrain-org/mailtrain - Self hosted newsletter app
+https://github.com/sindresorhus/ow - Function argument validation for humans
+https://github.com/sindresorhus/to-readable-stream - Convert a string/Buffer/Uint8Array to a readable stream
+https://github.com/MattMorgis/async-stream-generator - Pipe ES6 Async Generators through Node.js Streams
+https://github.com/roccomuso/is-google - Verify that a request is from Google crawlers using Google's DNS verification steps
+https://github.com/mapbox/flamebearer - Blazing fast flame graph tool for V8 and Node
+https://github.com/ClusterWS/ClusterWS -  Fast & powerful framework for building scalable WebSocket applications in Node.
+https://github.com/klauscfhq/signale - Hackable console logger
+https://github.com/data-forge/data-forge-ts/ - JavaScript data transformation and analysis toolkit 
+https://github.com/sloria/local-repl - Project-specific configuration for the Node.js REPL 
+https://github.com/ofrobots/require-so-slow - `require`s taking too much time? Profile 'em.
+https://github.com/Cretezy/Noderize - Create a Node app in less than 30 seconds.
+https://github.com/lassjs/lass -  a modern package boilerplate for Node.js
+https://github.com/juliangruber/just-launch - Launch any browser, on any OS, with a fresh session!
+https://github.com/lindell/remote-function - Make function calls to remote hosts seamlessly
+https://github.com/ChrisCindy/node-web-console - simple web-based SSH, remote shell in your browser built with Node.js
+https://github.com/marblejs/marble - functional reactive HTTP middleware framework
+https://github.com/mixmaxhq/deyarn - A command-line tool for converting projects that use Yarn to npm.
+https://github.com/AviVahl/typescript-tools - TypeScript Tools for Node.js
+https://github.com/bitifet/smart-spinner - Simple tool to create smart text spinner.
+https://github.com/tkambler/electron-preferences - Interface for managing user preferences within an Electron application
+https://github.com/bitinn/node-fetch - A light-weight module that brings window.fetch to Node.js
+https://github.com/plibither8/licensed - interactive command line tool to help you choose and add licenses to your projects
+https://github.com/diegohaz/rest - REST API generator with Node.js, Express and Mongoose
+https://github.com/griddb/nodejs_client - GridDB Node.JS Client
+https://github.com/ecrmnn/collect.js - Convenient and dependency free wrapper for working with arrays and objects
+https://github.com/josdejong/mathjs - An extensive math library for JavaScript and Node.js 
+https://github.com/o1lab/xmysql -  One command to generate REST APIs for any MySql Database.
+https://github.com/microlinkhq/async-ratelimiter - Rate limit made simple, easy, async.
+https://github.com/e-oj/grabity - Generate link previews from pages with Open Graph or Twitter Cards markup
+https://github.com/sindresorhus/ora - Elegant terminal spinner
 
 
