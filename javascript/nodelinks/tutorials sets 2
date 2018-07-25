@@ -27,6 +27,8 @@ https://blog.codeship.com/a-serverless-rest-api-in-minutes/
 https://blog.codeship.com/using-docker-compose-for-nodejs-development/
 https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/
 https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/
+https://blog.codeship.com/advanced-node-js-project-structure-tutorial/
+https://blog.codeship.com/using-docker-compose-for-nodejs-development/
 
 
 ######################################## Pusher ##############################################
@@ -38,7 +40,7 @@ https://blog.pusher.com/getting-up-and-running-with-graphql/
 
 
 ######################################## Couchbase ##############################################
-http://blog.couchbase.com/2015/october/adding-google-sign-in-with-node.js-to-a-couchbase-mobile-application
+https://blog.couchbase.com/2015/october/adding-google-sign-in-with-node.js-to-a-couchbase-mobile-application
 https://blog.couchbase.com/deploy-node-js-couchbase-web-application-docker-containers/
 https://blog.couchbase.com/create-continuous-deployment-pipeline-nodejs-jenkins/
 https://blog.couchbase.com/continuously-deploying-nodejs-application-circleci/
@@ -47,9 +49,77 @@ https://blog.couchbase.com/using-facets-couchbase-nosql-full-text-search-query/
 
 
 ######################################## 2Ality ##############################################
+http://www.2ality.com/2015/10/google-analytics-api.html
 http://2ality.com/2017/04/setting-up-multi-platform-packages.html
 http://2ality.com/2017/05/util-promisify.html
 http://2ality.com/2017/07/npm-packages-via-babel.html
 http://2ality.com/2017/09/native-esm-node.html
 http://2ality.com/2017/12/for-await-of-sync-iterables.html
 http://2ality.com/2018/04/async-iter-nodejs.html
+http://2ality.com/2018/05/child-process-streams.html
+
+######################################## Bandwidth ##############################################
+http://blog.bandwidth.com/creating-a-webrtc-app-with-typescript-and-bandwidth
+http://blog.bandwidth.com/building-a-sms-weather-and-image-bot
+http://blog.bandwidth.com/express-es5-to-koa-es7/
+http://blog.bandwidth.com/intro-to-simple-docker-with-node-koa/
+
+
+######################################## Compose ##############################################
+https://www.compose.com/articles/getting-started-with-elasticsearch-and-node/
+https://www.compose.com/articles/power-prototyping-with-mongodb-and-node-red-2/
+https://www.compose.com/articles/building-javascript-microservices-with-senecajs-and-compose/
+https://www.compose.com/articles/authenticating-node-red-with-jsonwebtoken/
+https://www.compose.com/articles/document-validation-in-mongodb-by-example/
+https://www.compose.com/articles/mysql-for-json-generated-columns-and-indexing/
+https://www.compose.com/articles/creating-an-aws-vpc-and-secured-compose-mongodb-with-terraform/
+https://www.compose.com/articles/use-all-the-databases-part-1/
+
+
+######################################## Sqreen ##############################################
+https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
+https://blog.sqreen.io/identify-tor-connections-node-js-tor-test/
+https://blog.sqreen.io/mongodb-will-not-prevent-nosql-injections-in-your-node-js-app/
+https://blog.sqreen.io/prevent-nosql-injections-mongodb-node-js/
+
+
+######################################## Auth0 ##############################################
+https://auth0.com/blog/load-balancing-nodejs-applications-with-nginx-and-docker/
+https://auth0.com/blog/integrating-node-dot-js-build-tools-with-maven/
+https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express/
+https://auth0.com/blog/developing-real-time-apps-with-meteor/
+https://auth0.com/blog/building-real-time-web-applications-using-wolkenkit/
+
+
+######################################## Dev.to ##############################################
+https://dev.to/dkundel/writing-a-nodejs-module-in-typescript
+https://dev.to/kepta/promising-promise-tips--c8f
+https://dev.to/abiodunjames/build-a-todo-app-with-nodejs-expressjs-mongodb-and-vuejs--part-1--29n7
+https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad
+https://dev.to/pmbanugo/offline-first-with-nodejs-and-hoodie-a-practical-introduction-to-progressive-web-apps-5f57
+https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless-2nc7
+
+
+######################################## Nic Raboy ##############################################
+https://blog.nraboy.com/2015/11/using-passportjs-in-your-node-js-couchbase-web-application/
+https://blog.nraboy.com/2015/10/create-a-simple-restful-api-with-node-js/
+https://blog.nraboy.com/2015/10/create-a-full-stack-app-using-node-js-couchbase-server/
+https://www.thepolyglotdeveloper.com/2016/02/upload-files-to-node-js-using-angular-2/
+https://www.thepolyglotdeveloper.com/2017/12/convert-nodejs-restful-api-serverless-openwhisk/
+
+
+######################################## Stack Abuse ##############################################
+http://stackabuse.com/how-to-write-express-js-middleware/
+http://stackabuse.com/setting-up-a-node-js-cluster/
+http://stackabuse.com/bookshelf-js-a-node-js-orm/
+http://stackabuse.com/avoiding-callback-hell-in-node-js/
+http://stackabuse.com/getting-started-with-aws-lambda-and-node-js/
+
+
+######################################## ITNext ##############################################
+https://itnext.io/building-a-node-js-websocket-chat-app-with-socket-io-and-react-473a0686d1e1
+https://itnext.io/node-js-integration-testing-with-pact-js-1a2ea8aa3116
+https://itnext.io/call-graphql-api-with-native-node-modules-5e4d088ca969
+https://itnext.io/using-async-await-to-write-cleaner-route-handlers-7fc1d91b220b
+https://itnext.io/connecting-competing-microservices-using-rabbitmq-28e5269861b6
+
