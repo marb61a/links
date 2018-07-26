@@ -303,5 +303,37 @@ https://github.com/vaheqelyan/react-perftool - help you to inspect the performan
 https://github.com/nitish24p/react-worker-image - React component to fetch image resources via web workers
 https://github.com/awslabs/aws-mobile-react-sample - React Starter App that displays how web developers can integrate f/e with AWS
 https://github.com/yokyak/react-agent - Client and server-side state management library 
+https://github.com/drcmda/react-contextual -  a small (less than 1KB) helper around React 16s new context api
+https://github.com/diegohaz/awesome-react-context - A curated list of stuff related to the new React Context API
+https://github.com/Swizec/react-lazyload-fadein - React component to lazyload children with a nice fadein effect. 
+https://github.com/ajayns/gatsby-hacker-news - Gatsby implementation of Hacker News
+https://github.com/rwieruch/react-graphql-github-apollo - A React + Apollo + GraphQL GitHub Client.
+https://github.com/bcherny/undux - Dead simple state management for React
+https://github.com/anish000kumar/redux-box - Modular and easy-to-grasp redux based state management,
+https://github.com/brunnolou/react-morph - Morphing Ui transitions made simple 
+https://github.com/rnosov/react-reveal - Easily add reveal on scroll animations to your React app 
+https://github.com/theolampert/react-flickity-component - A React.js component for using @desandro's Flickity
+https://github.com/hugozap/react-rotary-knob - Skinnable knob for React.
+https://github.com/RebeccaPark/react-css-grid-table - A React table library using CSS Grid Layout
+https://github.com/jamesmcnamara/shades - A lodash-inspired lens-like library for Javascript
+https://github.com/dimaip/server-side-rendering - Interactive guide to server-side rendering with Webpack, React, React Transmit, CSS modules and more
+https://github.com/kentcdodds/react-testing-library - Simple and complete React DOM testing utilities
+https://github.com/shystruk/create-react-redux-app-structure - Create React + Redux app structure with build configurations
+https://github.com/CharlesMangwa/react-data-fetching - Declarative data fetching for React 
+https://github.com/Flipkart/recyclerlistview - High performance listview for React Native and web
+https://github.com/Morgantheplant/nokia-snek - snake game built with react/redux
+https://github.com/popmotion/popmotion - Monorepo for Popmotion and Pose animation packages
+https://github.com/danilowoz/react-content-loader - SVG component to create placeholder loading
+https://github.com/pinterest/gestalt - A set of React UI components that supports Pinterest’s design language 
+https://github.com/amarofashion/react-credit-cards - Beautiful credit cards for your payment forms
+https://github.com/pusher/build-a-slack-clone-with-react-and-pusher-chatkit - how to build a chat app with React
+https://github.com/markusenglund/react-kanban - A Trello-like application built with React and Redux
+https://github.com/kutlugsahin/react-smooth-dnd - eact wrapper components for smooth-dnd
+https://github.com/aweary/react-copy-write - Immutable state with a mutable API
+https://github.com/text-mask/text-mask - Input mask for React, Angular, Ember, Vue, & plain JavaScript
+https://github.com/hasura/react-check-auth - Add auth protection anywhere in your react/react-native app
+https://github.com/didierbrun/react-path-recognizer - Path recognizing component for React
+
+
 
 
