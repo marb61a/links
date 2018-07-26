@@ -49,6 +49,7 @@ https://medium.com/react-native-development/easily-build-forms-in-react-native-9
 https://medium.com/dailyjs/youve-got-react-native-all-wrong-3b268eca99f4
 https://medium.com/dailyjs/network-layer-in-react-native-eec841f11861
 https://medium.com/dailyjs/offline-notice-in-react-native-28a8d01e8cd0
+https://medium.com/@505aaron/a-practical-react-native-problem-solved-with-the-context-api-eecaf2e05202
 
 
 ############################################ React Native Training #########################################################
@@ -60,6 +61,9 @@ https://medium.com/react-native-training/react-animations-in-depth-433e2b3f0e8e
 https://medium.com/react-native-training/state-management-with-mobx-state-tree-373f9f2dc68a
 https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b
 https://medium.com/react-native-training/unstated-the-setstate-of-react-state-management-8ce47b240e6d
+https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b
+https://medium.com/react-native-training/react-native-authentication-in-depth-part-2-real-world-auth-flow-a8a7c3aea096
+https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0
 
 
 ################################################ Tutsplus ##################################################################
@@ -67,6 +71,7 @@ http://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native
 https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328
 https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418
 https://code.tutsplus.com/tutorials/practical-animations-in-react-native--cms-27567
+https://code.tutsplus.com/tutorials/easier-react-native-development-with-expo--cms-30546
 
 
 ###################################### Hackernoon ##################################################################
@@ -76,6 +81,8 @@ https://hackernoon.com/how-i-built-a-super-simple-game-using-react-native-67bdad
 https://hackernoon.com/the-80-20-of-react-native-10f2b6af663
 https://hackernoon.com/how-to-make-a-simple-twitter-clone-with-react-native-4b6c45940583
 https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f
+https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315
+https://hackernoon.com/xamarin-vs-react-native-a-comparison-study-5ebea64cd801
 
 
 ###################################### Miscellaneous ##################################################################
@@ -88,6 +95,8 @@ https://mattiamanzati.gitbooks.io/react-native-for-web/content/
 https://getsiphon.com/docs/build-a-youtube-browser/
 http://www.infoq.com/articles/react-native-introduction
 https://code.facebook.com/posts/597378980427792/react-native-a-year-in-review
+https://facebook.github.io/react-native/blog/2018/01/18/implementing-twitters-app-loading-animation-in-react-native.html
+https://facebook.github.io/react-native/blog/2018/04/09/build-com-app.html
 https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-windows-platform/
 https://www.viget.com/articles/learn-you-a-react-native
 https://blog.redradix.com/6-essential-libraries-to-use-on-your-next-react-native-app/
@@ -113,6 +122,7 @@ https://www.sitepoint.com/adding-analytics-to-a-react-native-app/
 https://habd.as/beta-testing-react-native-buddybuild/
 https://www.raywenderlich.com/136047/react-native-existing-app
 http://goshakkk.name/react-native-camera-roll-image-picker/
+https://goshakkk.name/auth-in-react-native-apps/
 http://coenraets.org/blog/2017/01/react-native-sample-app-tutorial/
 https://blog.revisify.com/5-reasons-why-i-chose-react-native-over-traditional-app-development-3de18e208b8a
 https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e
@@ -129,8 +139,9 @@ http://artsy.github.io/blog/2017/07/06/React-Native-for-iOS-devs/
 https://blog.brainsandbeards.com/logging-in-react-native-3bc4e69a4c21
 https://blog.home.ht/how-to-do-end-to-end-testing-on-react-native-with-detox-2b7f404e7713
 https://blog.pusher.com/creating-ride-booking-app-react-native-pusher/
+https://pusher.com/tutorials/geolocation-sharing-react-native/
 https://codeburst.io/todo-app-with-react-native-f889e97e398e
-https://goshakkk.name/auth-in-react-native-apps/
+https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f
 https://blog.reactnativecoach.com/creating-an-asynchronous-loading-image-component-in-react-native-part-i-1b087d0ded62
 https://carloscuesta.me/blog/shipping-react-native-apps-with-fastlane/
 https://maziar.io/blog/react-native-development-tips/
@@ -138,18 +149,23 @@ https://blog.blazingedge.io/essential-react-native-setup/
 https://blog.blazingedge.io/react-native-continuous-integration-and-deployment/
 https://dev.to/damcosset/connecting-a-meteor-back-end-to-a-react-native-application-dbm
 https://dev.to/swyx/flutter-for-react-native-devs-in-30-seconds-78g
-https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f
 https://ademcan.net/blog/2017/11/24/uploaddownload-images-tofrom-aws-s3-in-react-native-a-step-by-step-guide/
 https://www.simform.com/react-native-app-performance/
 https://blog.invertase.io/getting-started-with-firebase-authentication-on-react-native-a1ed3d2d6d91
 https://brightinventions.pl/blog/react-native-4-steps-to-improve-workflow/
 https://levelup.gitconnected.com/react-native-with-expo-is-a-joyride-671d706b7a19
-https://facebook.github.io/react-native/blog/2018/01/18/implementing-twitters-app-loading-animation-in-react-native.html
 https://matwrites.com/get-started-react-native-expo-minutes/
 https://attardi.org/pytorch-and-coreml
 https://blog.expo.io/introducing-sideswipe-a-cross-platform-carousel-for-react-native-8b9a0f18df53
 https://blog.expo.io/the-status-bar-manager-in-react-native-6226058ecba
+https://blog.expo.io/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09
 https://madebynathan.com/posts/2018-02-12-what-i-learned-while-making-a-game-with-react-native/
+https://www.polidea.com/blog/how-to-apply-ui-test-automation-in-react-native-apps/
+https://www.okgrow.com/posts/part1-a-complete-guide-to-recording-location-data-in-react-native
+https://build.affinity.co/persisting-sessions-with-react-native-4c46af3bfd83
+https://www.nan-labs.com/blog/scaled-images-in-react-native/
+https://medium.freecodecamp.org/create-a-news-app-using-react-native-ced249263627
+https://brainhub.eu/blog/opencv-react-native-image-processing/
 
 
 
@@ -203,6 +219,12 @@ https://github.com/aerian-studios/ignite-typescript-boilerplate - Create React N
 https://github.com/zulip/zulip-mobile - Zulip mobile app using React Native
 https://github.com/Flipkart/recyclerlistview  - High performance listview for React Native and web!
 https://github.com/kusti8/proton-native - A React environment for cross platform native desktop apps
+https://github.com/callstack/react-native-paper - Material Design for React Native (Android & iOS) 
+https://github.com/indiespirit/react-native-chart-kit - React Native Chart Kit: Line Chart, Bezier Line Chart etc
+https://github.com/hamidhadi/react-native-stretchy - A ReactNative scrollable stretchy header component
+https://github.com/thakurballary/react-native-radio-buttons-group - easy to use radio buttons for react native apps.
+https://github.com/hasura/react-native-auth-boilerplate - A react native boilerplate with authentication already implemented
+https://github.com/hasura/react-check-auth - Add auth protection anywhere in your react/react-native app
 
 
 
@@ -219,18 +241,27 @@ https://www.youtube.com/watch?v=OrIIPNEjQfs - How to bridge native modules and U
 https://www.youtube.com/watch?v=YnRALIjnRM4 - Composable Native APIs
 https://www.youtube.com/watch?v=p3smdLQauW8 - Cavy: Testing React Native apps
 https://www.youtube.com/watch?v=zoOAor88sVo - In-depth introduction to React-Native
+https://www.youtube.com/watch?v=gWegskGYCtA -  Build a Complete Stopwatch App in 60 Minutes
 
 
+###Miscellaneous Vids###
 https://codecookbook.co/post/how-to-share-text-from-your-react-native-app/
 https://devchat.tv/react-native-radio/41-react-native-for-windows-with-eric-rozell-of-microsoft - React Native Radio
 https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html
 https://pusher.com/sessions/meetup/react-native-london/cavy-a-new-end-to-end-testing-framework-for-react-native
+http://artsy.github.io/blog/2018/03/17/two-years-of-react-native/
 
 
 ###Playlists###
 https://www.youtube.com/playlist?list=PLM5nyCrpk9vaYCZRjGg1TEU4cQZMYZqvy - Building Video/Voice Call App
 https://www.youtube.com/playlist?list=PLE9m_QqEHgX2azRbYX-ZyqLiq03YYldw0 - React Native Training
 
+
+##Codedaily
+https://codedaily.io/screencasts/82/Create-a-Draggable-Opacity-Changing-Circle-with-Reanimated-in-React-Native
+https://codedaily.io/screencasts/81/Create-a-Tap-and-Hold-Toggle-Opacity-Animated-Box-with-Reanimated-in-React-Native
+https://codedaily.io/screencasts/80/Introduction-to-Reanimated-in-React-Native
+https://codedaily.io/screencasts/66/Use-Yarn-Workspaces-to-Share-Code-with-a-create-react-app-and-create-react-native-app-in-a-Monorepo
 
 
 ### Links ###
