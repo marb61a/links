@@ -21,6 +21,7 @@ http://jaero.space/blog/react-performance-1/
 https://www.nczonline.net/blog/2016/01/react-and-the-economics-of-dynamic-web-interfaces/
 https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
 https://www.twilio.com/blog/2015/11/reactjs-tutorial-call-monitoring-with-react-express-and-socket-io.html
+https://www.twilio.com/blog/2018/03/video-chat-react.html
 https://bugsnag.com/blog/moving-bugsnags-frontend-to-react
 http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html
 http://blog.nparashuram.com/2016/02/using-webworkers-to-make-react-faster.html
@@ -94,6 +95,7 @@ http://blog.webkid.io/react-ui-libraries/
 https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/
 https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/
 https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
+https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
 http://blog.getstream.io/cabin-react-redux-example-app-imgix/
 https://www.netlify.com/blog/2016/07/26/our-conversion-from-angular-to-react
 https://assertible.com/blog/creating-email-templates-with-react-components
@@ -109,10 +111,6 @@ http://dev.topheman.com/d3-react-chart-components/
 https://www.pubnub.com/blog/2016-06-14-getting-started-with-pubnub-and-react/
 https://www.pubnub.com/blog/2016-09-26-4-tutorials-create-language-in-less-than-200-lines-of-code/
 https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e#.63s3zrz84
-https://auth0.com/blog/bootstrapping-a-react-project/
-https://auth0.com/blog/testing-react-applications-with-jest/
-https://auth0.com/blog/optimizing-react/
-https://auth0.com/blog/docker-dashboard-with-react-typescript-socketio/
 http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/
 https://diessi.ca/blog/svg-images-as-react-components-with-webpack
 http://julian.io/new-horizons-with-horizon-rethinkdb-and-react/
@@ -215,6 +213,9 @@ https://paulgray.net/keys-in-react/
 https://paulgray.net/how-to-write-a-hoc/
 http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/
 https://blog.logrocket.com/introduction-to-preact-a-smaller-faster-react-alternative-ad5532eb6d79
+https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db
+https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e
+https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-e3ba5ccad68d
 https://blog.dgraph.io/post/building-graphoverflow/
 https://hashnode.com/post/tightly-controlled-textareas-building-solid-plain-text-editors-in-react-cj6yvu6yq00cls5wtrbbkw96d?
 https://dashbouquet.com/blog/frontend-development/missing-part-of-redux-saga-experience
@@ -240,11 +241,11 @@ https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-u
 https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546
 https://blog.prototypr.io/svg-illustrations-as-react-components-f0e7be304eb6
 https://blog.kentcdodds.com/how-to-give-rendering-control-to-users-with-prop-getters-549eaef76acf
+https://blog.kentcdodds.com/when-to-not-use-render-props-5397bbeff746
 https://philandrews.io/post/react-how-to-access-props-in-a-functional-component
 https://alligator.io/react/i18n-with-react-and-i18next/
 https://blog.cloudboost.io/creating-a-chat-web-app-using-express-js-react-js-socket-io-1b01100a8ea5
 https://flexport.engineering/ending-the-debate-on-inline-functions-in-react-8c03fabd144
-https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db
 https://nerdblog.pl/post/166842840969/testing-react-components
 http://www.thesoftwaresimpleton.com/blog/2017/11/05/accessible-react/
 https://yalantis.com/blog/react-native-from-an-android-developer-perspective/
@@ -258,6 +259,8 @@ https://cheesecakelabs.com/blog/atomic-design-react/
 http://jsmegatools.com/2017/12/09/creating-a-pagination-component-with-react-js/
 https://toddmotto.com/redux-typescript-store
 https://dev.to/dan_abramov/react-beginner-question-thread--1i5e
+https://dev.to/samerbuna/reactjs-frequently-facedproblems--l5g
+https://dev.to/swyx/introduction-to-mobx-4-for-reactredux-developers-3k07
 https://www.halfelectronic.com/post/setting-up-gatsby-js-contentful-and-netlify/
 https://developers.redhat.com/blog/2017/11/15/best-practices-react-redux-web-application-development/
 https://develoger.com/how-to-obfuscate-css-class-names-with-react-and-webpack-20e2b5c49cda
@@ -272,5 +275,21 @@ https://blog.lunarlogic.io/2018/slidedown-menu-in-react/
 https://react-etc.net/entry/formstate-type-safe-forms-for-react-js-with-typescript
 https://engineering.brigad.co/introducing-redux-rest-easy-6e9a91af4f59
 https://www.andreasreiterer.at/web-development/bind-callback-function-react/
+https://blog.arkency.com/how-algolia-built-their-frontend-search-widgets-with-react-dot-js-by-following-redux-principles/
+https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html
+http://reactingonrails.com/prefer-functional-components/
+https://blog.bitsrc.io/9-tools-and-libraries-to-boost-your-react-component-workflow-6ff4b49511c2
+https://itnext.io/so-you-want-to-host-your-single-age-react-app-on-github-pages-a826ab01e48
+https://itnext.io/create-react-app-with-vs-code-1913321b48d
+https://itnext.io/react-with-parcel-99229106dac8
+https://itnext.io/hooking-up-firebase-to-your-redux-store-a5e799cf84c4
+https://thejsguy.com/2018/03/18/contextual-components-in-react.html
+https://nrempel.com/guides/react-firebase-ant-design/
+https://www.graphql.college/building-a-github-client-with-react-apollo/
+https://blog.gojekengineering.com/eslint-prettier-for-a-consistent-react-codebase-eaa673debb1d
+https://shinglyu.github.io/web/2018/02/08/minimal-react-js-without-a-build-step-updated.html
+https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce
+https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained
+https://www.leighhalliday.com/introducing-react-context-api
 
 
