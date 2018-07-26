@@ -67,6 +67,13 @@ https://www.youtube.com/watch?v=IkOVe40Sy0U - Next.js Crash Course - Server Side
 https://www.youtube.com/watch?v=VU1NKX6Qkxc - Infinitely Better UIs with Finite Automata
 https://www.youtube.com/watch?v=x_fHXt9V3zQ - Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets
 https://www.youtube.com/watch?v=SVbTTUpCLfo - React and D3, Together
+https://www.youtube.com/watch?v=va-JzrmaiUM - Adding Storybook Style Guide to a Create React App
+https://www.youtube.com/watch?v=UI7dpnVoad8 - Debugging a Create React App with VS Code 
+https://www.youtube.com/watch?v=XLJN4JfniH4 - Heres how React's New Context API Works
+https://www.youtube.com/watch?v=NQta2urK3zk - 10 tips for React Redux At Scale
+https://www.youtube.com/watch?v=kS8utR_Rp2Q - React's context API
+https://www.youtube.com/watch?v=qNkkPoq9D3k - Building a Real Time React Application with GraphQL & AWS AppSync
+
 
 
 ##Playlists & Channels
@@ -81,6 +88,7 @@ https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw/videos - ReactRally
 https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/videos - React Amsterdam
 https://www.youtube.com/watch?v=NQyL-Dm7Kig&list=PLNBNS7NRGKMHxfm0CcYNuINLdRw7r4a9M - React Amsterdam 2017 Conference
 https://www.youtube.com/channel/UCwsavucaPo3tOGf7lF85WRA/feed - React Vienna
+https://www.youtube.com/watch?v=0MKJ7JbVnFc&list=PLN3n1USn4xlkdRlq3VZ1sT6SGW0-yajjL - Slack clone using GraphQL
 
 
 ##ReactCasts
@@ -110,6 +118,9 @@ https://vimeo.com/album/4199344/video/187454109 - Experiences Using React In A L
 https://vimeo.com/168648012 - Scaling React.js Applications
 https://vimeo.com/album/4857262/video/242889740 - Mutable or Immutable? Why not both! 
 
+##Codedaily
+https://codedaily.io/screencasts/67/Understanding-setState-in-componentDidMount-to-Measure-Elements-Without-Transient-UI-State
+
 
 ## Codepen
 http://codepen.io/anthonydugois/pen/yabwBw - React Melody Composer
@@ -122,10 +133,13 @@ https://speakerdeck.com/michelebertoli/setstate-ftw
 ##Links -
 https://reactjs.co - ReactJS: Mastering Best Practices for Beginners and Advanced Developers
 https://www.chartkick.com/react - Create beautiful JavaScript charts with one line of React
+http://www.js-craft.io/course/game-with-react-tutorial/ - Video course, building a complete Rock Paper Scissors game with React
 http://madewithreact.com
 http://www.telescopeapp.org/blog/introducing-nova-a-new-kind-of-back-end-for-react-apps/
 http://jamesknelson.com/wp-content/uploads/2016/01/react-with-babel-cheatsheet.pdf
+https://popmotion.io/pose/ - Declarative motion system for React, React Native, and vanilla JS
 https://github.com/yelouafi/redux-saga
+https://legacy.gitbook.com/book/krasimir/react-in-patterns/details - Free E-Book
 https://gist.github.com/diegoconcha/8918294bb9df69876b22
 http://roman01la.github.io/html-to-react-components/
 https://facebook.github.io/react/docs/tutorial.html
@@ -143,6 +157,5 @@ http://reactcheatsheet.com
 https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
 http://jxnblk.com/rebass/
 https://www.draft-js-plugins.com - High quality plugins with great UX
-https://github.com/dimaip/server-side-rendering - Interactive guide to server-side rendering with Webpack, React, React Transmit, CSS modules and more
 
 
