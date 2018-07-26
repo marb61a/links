@@ -42,6 +42,7 @@ https://scotch.io/tutorials/routing-react-apps-the-complete-guide
 https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps
 https://pub.scotch.io/@zhirzh/building-a-pwa-using-react-webpack-and-other-stuff
 https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel
+https://scotch.io/tutorials/build-a-ssr-app-with-preact-unistore-and-preact-router
 
 
 ###################################### Risingstack ################################################################
@@ -173,12 +174,6 @@ https://medium.com/styled-components/the-simple-guide-to-server-side-rendering-r
 https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd
 https://medium.com/front-end-hacking/using-immutable-js-with-redux-ba89025e45e2
 https://medium.appbase.io/how-to-build-a-github-search-ui-in-60-minutes-295109211c70
-https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1
-https://medium.com/dailyjs/getting-high-progressive-web-app-score-on-react-material-ui-4a4a080643d6
-https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f
-https://medium.com/dailyjs/how-to-implement-material-design-motion-with-react-js-8bc561c9a94f
-https://medium.com/dailyjs/a-guide-to-building-a-react-component-for-npm-68f03b314753
-https://medium.com/dailyjs/reacts-️-new-context-api-70c9fe01596b
 https://medium.com/progressive-web-apps/react-progressive-web-apps-part-1-1cf381421672
 https://medium.com/@romarioraff/testing-react-apps-with-jest-and-chai-enzyme-for-beginners-baa5f57cec0b
 https://medium.com/@guptagaruda/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455
@@ -200,6 +195,23 @@ https://medium.com/@admm/test-driven-development-in-react-is-easy-178c9c520f2f
 https://medium.com/@wonderboymusic/a-field-guide-to-css-in-js-f7cbd9ed79a7
 https://medium.com/bucharestjs/upgrading-a-create-react-app-project-to-a-ssr-code-splitting-setup-9da57df2040a
 https://medium.com/swinginc/bring-virtual-reality-to-your-browser-with-reactvr-fd9dc62aa8b1
+https://medium.com/strapi/protected-routes-and-authentication-with-react-and-node-js-d31d234644cd
+https://medium.com/oscar-tech/building-a-component-library-from-scratch-ba6421074d6a
+https://medium.com/lalilo/dynamic-transitions-with-react-router-and-react-transition-group-69ab795815c9
+https://medium.com/@skovy/scaling-data-selection-on-the-client-5e4411de6984
+https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4
+https://medium.com/@applification/how-to-build-an-a-progressive-web-app-with-react-2c8a4d43ce6b
+https://medium.com/@morgannegagne/google-maps-with-react-951c12b723ad
+
+
+############################################# DailyJS ##################################################################
+https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1
+https://medium.com/dailyjs/getting-high-progressive-web-app-score-on-react-material-ui-4a4a080643d6
+https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f
+https://medium.com/dailyjs/how-to-implement-material-design-motion-with-react-js-8bc561c9a94f
+https://medium.com/dailyjs/a-guide-to-building-a-react-component-for-npm-68f03b314753
+https://medium.com/dailyjs/reacts-️-new-context-api-70c9fe01596b
+https://medium.com/dailyjs/data-visualization-with-react-vis-bd2587fe1660
 
 
 ###################################### Raja Rao ##################################################################
@@ -224,6 +236,8 @@ https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanati
 https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2
 https://levelup.gitconnected.com/learn-redux-by-building-redux-from-scratch-dcbcbd31b0d0
 https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4
+https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006
+https://levelup.gitconnected.com/understanding-react-render-props-by-example-71f2162fd0f2
 
 
 ############################################# Kadira ##################################################################
@@ -247,6 +261,8 @@ http://www.robinwieruch.de/mobx-react/
 http://www.robinwieruch.de/redux-mobx-confusion/
 https://www.robinwieruch.de/learn-react-before-using-redux/
 https://www.robinwieruch.de/react-svg-patterns/
+https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
+https://www.robinwieruch.de/react-with-graphql-tutorial/
 
 
 ###################################### Hacker Noon ##################################################################
@@ -293,6 +309,9 @@ https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7
 https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-ii-79e7e8bed56c
 https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3
 https://hackernoon.com/do-more-with-less-using-render-props-de5bcdfbe74c
+https://hackernoon.com/redesigning-redux-b2baee8b8a38
+https://hackernoon.com/react-authentication-in-depth-4deebda9aa45
+https://hackernoon.com/create-a-fancy-burger-menu-using-reactjs-popup-e7ed6d3c965f
 
 
 ###################################### Freecodecamp ##################################################################
@@ -317,7 +336,11 @@ https://medium.freecodecamp.org/7-reasons-to-outlaw-reacts-functional-components
 https://medium.freecodecamp.org/setting-up-and-getting-used-to-gatsby-1fc27985ae8a
 https://medium.freecodecamp.org/how-to-model-the-behavior-of-redux-apps-using-statecharts-5e342aad8f66
 https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f
-
+https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c
+https://medium.freecodecamp.org/conditional-rendering-in-react-using-ternaries-and-logical-and-7807f53b6935
+https://medium.freecodecamp.org/how-to-build-a-github-bot-with-phantomjs-react-and-serverless-framework-7b66bb575616
+https://medium.freecodecamp.org/analyzing-the-bundle-size-code-splitting-in-create-react-app-9238e96a5b26
+https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f
 
 
 ###################################### Javascript Inside ##################################################################
@@ -350,6 +373,7 @@ http://swizec.com/blog/using-react-in-the-real-world/swizec/6710
 http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775
 http://swizec.com/blog/how-to-make-a-piechart-using-react-and-d3/will/6785
 https://swizec.com/blog/dancing-rainbow-snake/swizec/
+https://swizec.com/blog/declarative-d3-transitions-react/swizec/8323
 
 
 ###################################### ReactJS News ##################################################################
@@ -415,6 +439,9 @@ https://tylermcginnis.com/react-router-philosophy-introduction/
 https://tylermcginnis.com/react-router-handling-404-pages/
 https://tylermcginnis.com/react-router-programmatically-navigate/
 https://tylermcginnis.com/react-router-pass-props-to-components/
+https://tylermcginnis.com/react-router-nested-routes/
+https://tylermcginnis.com/react-router-server-rendering/
+https://tylermcginnis.com/react-router-query-strings/
 
 
 ###################################### Goshakk ##################################################################
@@ -437,4 +464,16 @@ https://codeburst.io/performance-tuning-a-react-application-f480f46dc1a2
 https://codeburst.io/final-form-the-road-to-the-checkered-flag-cd9b75c25fe
 https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f
 https://codeburst.io/25-days-of-reasonml-a4b20a7e8c6
+https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d
+https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd
+
+
+########################################### Auth0 ###############################################################
+https://auth0.com/blog/bootstrapping-a-react-project/
+https://auth0.com/blog/testing-react-applications-with-jest/
+https://auth0.com/blog/optimizing-react/
+https://auth0.com/blog/docker-dashboard-with-react-typescript-socketio/
+https://auth0.com/blog/time-slice-suspense-react16/
+https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/
+https://auth0.com/blog/react-router-4-practical-tutorial/
 
