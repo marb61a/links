@@ -295,7 +295,7 @@ https://github.com/po10cio/TimeLineView - demonstrates the power of ConstraintLa
 https://github.com/ansman/kotshi - An annotations processor that generates Moshi adapters
 https://github.com/pwittchen/ReactiveNetwork - listening network connection state and Internet connectivity with RxJava Observables
 https://github.com/hypertrack/hyperlog-android - Utility logger library for storing logs into database
-https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate - clean architecture boilerplate using the Model-View-Intent pattern
+https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate - clean architecture boilerplate using the MVI pattern
 https://github.com/evrencoskun/TableView - library for displaying complex data structures and rendering tabular data 
 https://github.com/andrzejchm/RESTMock - HTTP Server for Android Instrumentation tests 
 https://github.com/ehsunshine/colored-time-selector - A smart colored time selector.
@@ -306,5 +306,20 @@ https://github.com/netguru/videochatguru-android - Open source library to create
 https://github.com/JakeWharton/SdkSearch - An Android app for searching the Android SDK documentation
 https://github.com/Kyson/AndroidGodEye - A performance monitor tool for Android
 https://github.com/infinum/Android-Goldfinger - Android library to simplify Fingerprint authentication implementation
+https://github.com/hypeapps/black-mirror - A voice controlled smart mirror powered by Raspberry Pi3 and AndroidThings.
+https://github.com/Karumi/Shot - Gradle plugin developed to facilitate screenshot testing for Android
+https://github.com/akaita/easylauncher-gradle-plugin - Add a different ribbon to each of your Android app variants 
+https://github.com/skydoves/ColorPickerPreference - Let you implement ColorPicker, ColorPickerDialog, ColorPickerPreference.
+https://github.com/sergiiz/RxBasicsKata - Practical challenges for RxJava learners
+https://github.com/f1xpl/openauto - AndroidAuto headunit emulator
+https://github.com/ImangazalievM/Scripto - Android bridge for sending messages between Java and JavaScript in WebView.
+https://github.com/TonnyL/Light - The usual Snackbar, but elegant
+https://github.com/beworker/magnet - Simple dependency injection library for Android
+https://github.com/galex/name-that-color-intellij-plugin - Lets you insert a name for a color 
+https://github.com/daveyburke/pixelbot - An Android- and Arduino-powered AI bot
+https://github.com/Genymobile/scrcpy - Display and control your Android device
+https://github.com/alexjlockwood/kyrie -  Animated Vector Drawables on steroids
+https://github.com/facebookincubator/profilo - A library for performance traces from production.
+https://github.com/Commit451/ModalBottomSheetDialogFragment - Modal bottom sheet dialog based on the Material Guidelines 
 
 
