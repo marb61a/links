@@ -33,6 +33,7 @@ http://jeroenmols.com/blog/2017/02/16/unittests/
 http://jeroenmols.com/blog/2017/03/08/appcrash/
 https://jeroenmols.com/blog/2017/07/21/java8language/
 https://jeroenmols.com/blog/2017/12/18/fragmentback/
+https://jeroenmols.com/blog/2018/02/22/androidstudioshortcuts/
 
 
 ######################################## Novada ##############################################
@@ -47,6 +48,9 @@ https://www.novoda.com/blog/testing-views-in-isolation-with-espresso/
 https://www.novoda.com/blog/take-control-of-your-backend-with-firebase-cloud-functions/
 https://www.novoda.com/blog/android-things-iot-proof-of-concept-devices/
 https://www.novoda.com/blog/onboard-your-users-with-lottie-of-spritz/
+https://blog.novoda.com/kotlin-goes-ios/
+https://blog.novoda.com/introduction-to-kotlin-multiplatform/
+https://blog.novoda.com/android-p-slices-missing-documentation-part-1/
 
 
 ######################################## BlundellApps ##############################################
@@ -67,3 +71,67 @@ https://www.thedroidsonroids.com/blog/android/rxjava-production-line/
 https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes/
 https://www.thedroidsonroids.com/blog/testing-android-apps-pseudolocalization
 https://www.thedroidsonroids.com/blog/android-strings-xml-tips-tricks
+https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work
+
+
+######################################## Nimbledroid ##############################################
+http://blog.nimbledroid.com/2016/03/07/performance-of-dependency-injection-libraries.html
+http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread.html
+http://blog.nimbledroid.com/2016/04/06/slow-ClassLoader.getResourceAsStream.html
+http://blog.nimbledroid.com/2016/04/20/pushing-limits-of-app-startup-time.html
+http://blog.nimbledroid.com/2016/04/25/problems-with-libraries-and-sdks.html
+http://blog.nimbledroid.com/2016/06/15/app-diets-not-a-fad.html
+http://blog.nimbledroid.com/2016/05/23/memory-leaks.html
+http://blog.nimbledroid.com/2016/09/06/stop-memory-leaks.html
+
+
+######################################## Commonsware ##############################################
+https://commonsware.com/blog/2017/11/13/storage-situation-internal-storage.html
+https://commonsware.com/blog/2017/06/12/action_boot_completed-intentservice-android-8p0.html
+https://commonsware.com/blog/2018/01/08/android-version-ratchet.html
+https://commonsware.com/blog/2018/01/18/think-hard-about-hide.html
+https://commonsware.com/blog/2018/03/08/random-musings-p-developer-preview-1.html
+
+
+######################################## Joe Birch ##############################################
+https://medium.com/@hitherejoe/android-n-introducing-picture-in-picture-for-android-tv-35f2392fb609#.4ehiuwftm
+https://medium.com/@hitherejoe/android-n-introducing-upgraded-notifications-d4dd98a7ca92#.96qdgxu89
+https://medium.com/@hitherejoe/exploring-firebase-on-android-ios-remote-config-3e1407b088f6#.kotylc1fu
+https://medium.com/@hitherejoe/building-a-guitar-chord-tutor-for-actions-on-google-part-two-9e0786dfa108
+https://medium.com/@hitherejoe/exploring-dialogflow-understanding-agent-interaction-8f3323e3b738
+https://medium.com/@hitherejoe/exploring-firebase-predictions-fa22d093f98d
+
+
+######################################## Big Nerd Ranch ##############################################
+https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
+https://www.bignerdranch.com/blog/choosing-the-right-background-scheduler-in-android/
+https://www.bignerdranch.com/blog/diving-into-doze-mode-for-developers/
+https://www.bignerdranch.com/blog/perfecting-custom-typography-in-android/
+https://www.bignerdranch.com/blog/room-data-storage-for-everyone/
+https://www.bignerdranch.com/blog/bluetooth-low-energy-part-1/
+https://www.bignerdranch.com/blog/two-way-data-binding-on-android-observing-your-view-with-xml/
+https://www.bignerdranch.com/blog/kotlin-when-to-use-lazy-or-lateinit/
+
+
+######################################## Mindorks ##############################################
+https://blog.mindorks.com/the-dos-and-don-ts-of-writing-test-cases-in-android-70f1b5dab3e1#.jf73qdkh4
+https://blog.mindorks.com/avoiding-conflicts-in-android-gradle-dependencies-28e4200ca235#.byq2p51l4
+https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a#.wmhcpiq6f
+https://blog.mindorks.com/use-strictmode-to-find-things-you-did-by-accident-in-android-development-4cf0e7c8d997#.ukwykt1ye
+https://blog.mindorks.com/refactoring-an-existing-android-app-to-support-instant-app-aa11fe54fd73
+https://mindorks.com/blog/powerful-android-orm-greendao-3-tutorial
+https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7
+
+
+######################################## David Karnok ##############################################
+http://akarnokd.blogspot.ie/2016/03/rxjava-design-retrospect.html
+http://akarnokd.blogspot.ie/2016/03/writing-custom-reactive-base-type.html
+http://akarnokd.blogspot.ie/2016/04/operator-fusion-part-2-final.html
+http://akarnokd.blogspot.ie/2016/04/google-agera-vs-reactivex.html
+
+
+######################################## Robert Scott Carson ##############################################
+http://www.rscottcarson.com/2016/09/22/the-ultimate-guide-to-orm-in-android-using-activeandroid-part-1/
+http://www.rscottcarson.com/2016/09/22/the-ultimate-guide-to-orm-in-android-using-activeandroid-part-2/
+http://www.rscottcarson.com/2016/09/23/the-ultimate-guide-to-orm-in-android-using-activeandroid-part-3/
+http://www.rscottcarson.com/2016/09/29/the-ultimate-guide-to-orm-in-android-using-activeandroid-part-4/
