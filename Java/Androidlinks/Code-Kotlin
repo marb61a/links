@@ -11,4 +11,10 @@ https://github.com/trent-dev/Kamera - showcasing custom implementation of OpenGL
 https://github.com/arrow-kt/arrow - Functional companion to Kotlin's Standard Library
 https://github.com/sellmair/kompass - A powerful router concept for Android, written in Kotlin
 https://github.com/libktx/ktx - Kotlin extensions for LibGDX games and applications 
+https://github.com/MarcinMoskala/PreferenceHolder - SharedPreference usage made fun in Kotlin
+https://github.com/brianegan/bansa - A state container for Java & Kotlin
+https://github.com/robohorse/RoboPOJOGenerator - Json to Java and Kotlin POJO
+https://github.com/android/android-ktx - A set of Kotlin extensions for Android app development. 
+https://github.com/RubyLichtenstein/RxTest - Kotlin DSL for easier RxJava testing.
+https://github.com/fractalwrench/json-2-kotlin - Convert JSON to Kotlin Data Classes
 
