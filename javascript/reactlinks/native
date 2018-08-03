@@ -7,6 +7,8 @@ https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-you
 https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/
 https://www.smashingmagazine.com/2016/08/test-automation-frameworks-for-react-native-apps/
 https://www.smashingmagazine.com/2016/10/creating-universal-windows-apps-with-react-native/
+https://www.smashingmagazine.com/2018/04/audio-video-recording-react-native-expo/
+https://www.smashingmagazine.com/2018/05/building-mobile-apps-using-react-native-wordpress/
 
 
 ###################################### Medium ##################################################################
@@ -18,38 +20,35 @@ https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a
 https://medium.com/@tomgoldenberg/why-we-re-open-sourcing-our-react-native-app-bb29c03b398d#.42lowlej6
 https://medium.com/@dabit3/first-look-react-native-navigator-experimental-9a7cf39a615b#.2ir34p6b4
 https://medium.com/@talkol/recycling-rows-for-high-performance-react-native-list-views-628fd0363861#.9f1xt3yr6
+https://medium.com/santiment/the-mobile-terminal-making-react-native-the-hardware-back-button-cooperate-65fe0ec27489
 https://medium.com/@davidguandev/building-a-tic-tac-toe-in-react-native-2a3c44e697f2#.dzd6n1bls
 https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-in-react-native-1fb6afcdf57d#.8dktayduf
 https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343#.qh1vnxfht
 https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6#.uf7f1n3tj
 https://medium.freecodecamp.com/installing-the-facebook-sdk-into-a-react-native-android-and-ios-app-69439bd97a99#.fvvlu1ijy
 https://medium.com/react-native-development/deploying-a-react-native-app-for-ios-pt-1-a79dfd15acb8#.hsvass2tl
+https://medium.com/react-native-development/five-reasons-why-web-developers-love-react-native-ca5151514c2e#.fzs12pxd7
+https://medium.com/react-native-development/easily-build-forms-in-react-native-9006fcd2a73b
 https://medium.com/adjust-creative/prototyping-with-react-native-an-idea-to-production-in-one-week-3a6b4f474897#.z0zxm3k1i
 https://medium.com/walmartlabs/publish-react-native-bundles-over-the-air-with-the-first-electrode-rn-release-3780edb387ba#.1689etmmh
+https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560
 https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.8657dkt6i
 https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.w145w0cl7
 https://medium.com/google-cloud/upload-images-to-google-cloud-storage-with-react-native-and-expressjs-61b8874abc49#.aj6k1gvgc
 https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f#.8la6y0is3
 https://medium.com/code-life/getting-started-with-react-native-in-20-minutes-15ea90062094#.n8b6y4e0o
-https://medium.com/react-native-development/five-reasons-why-web-developers-love-react-native-ca5151514c2e#.fzs12pxd7
-https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560
 https://medium.com/differential/handling-offline-actions-in-react-native-74949cbfabf2
 https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24
 https://medium.com/@david.aurelio/medium-fast-source-map-generation-for-react-native-ea5549007c18
 https://medium.com/kuralabs-engineering/reactive-core-architecture-for-react-native-and-react-applications-d590daf4ef8a
 https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440
 https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2
-https://medium.com/santiment/the-mobile-terminal-making-react-native-the-hardware-back-button-cooperate-65fe0ec27489
-https://medium.com/handlebar-labs/getting-started-with-react-native-navigation-v1-7a16afdeadcd
-https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae
-https://medium.com/handlebar-labs/graphql-authentication-with-react-native-apollo-part-1-2-9613aacd80b3
-https://medium.com/handlebar-labs/navigating-navigation-in-react-native-26c7e4690f94
-https://medium.com/react-native-training/setup-continuous-integration-with-react-native-50ad2f6145f4
-https://medium.com/react-native-development/easily-build-forms-in-react-native-9006fcd2a73b
 https://medium.com/dailyjs/youve-got-react-native-all-wrong-3b268eca99f4
 https://medium.com/dailyjs/network-layer-in-react-native-eec841f11861
 https://medium.com/dailyjs/offline-notice-in-react-native-28a8d01e8cd0
 https://medium.com/@505aaron/a-practical-react-native-problem-solved-with-the-context-api-eecaf2e05202
+https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062
+https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6
 
 
 ############################################ React Native Training #########################################################
@@ -57,6 +56,7 @@ https://medium.com/react-native-training/getting-started-with-react-native-and-f
 https://medium.com/react-native-training/deep-linking-your-react-native-app-d87c39a1ad5e
 https://medium.com/react-native-training/bitcoin-ripple-ethereum-price-checker-with-react-native-redux-e9d076037092
 https://medium.com/react-native-training/redux-4-ways-95a130da0cdc
+https://medium.com/react-native-training/setup-continuous-integration-with-react-native-50ad2f6145f4
 https://medium.com/react-native-training/react-animations-in-depth-433e2b3f0e8e
 https://medium.com/react-native-training/state-management-with-mobx-state-tree-373f9f2dc68a
 https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b
@@ -64,6 +64,8 @@ https://medium.com/react-native-training/unstated-the-setstate-of-react-state-ma
 https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b
 https://medium.com/react-native-training/react-native-authentication-in-depth-part-2-real-world-auth-flow-a8a7c3aea096
 https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0
+https://medium.com/react-native-training/ditching-setstate-for-mobx-766c165e4578
+https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce
 
 
 ################################################ Tutsplus ##################################################################
@@ -83,6 +85,37 @@ https://hackernoon.com/how-to-make-a-simple-twitter-clone-with-react-native-4b6c
 https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f
 https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315
 https://hackernoon.com/xamarin-vs-react-native-a-comparison-study-5ebea64cd801
+https://hackernoon.com/building-a-music-streaming-app-using-react-native-6d0878a13ba4
+
+
+###################################### Facebook ##################################################################
+https://code.facebook.com/posts/597378980427792/react-native-a-year-in-review
+https://facebook.github.io/react-native/blog/2018/01/18/implementing-twitters-app-loading-animation-in-react-native.html
+https://facebook.github.io/react-native/blog/2018/04/09/build-com-app.html
+https://facebook.github.io/react-native/blog/2018/05/07/using-typescript-with-react-native.html
+https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018
+
+
+###################################### Handlebar-labs ##################################################################
+https://medium.com/handlebar-labs/getting-started-with-react-native-navigation-v1-7a16afdeadcd
+https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae
+https://medium.com/handlebar-labs/graphql-authentication-with-react-native-apollo-part-1-2-9613aacd80b3
+https://medium.com/handlebar-labs/navigating-navigation-in-react-native-26c7e4690f94
+
+
+###################################### Expo Blog ##################################################################
+https://blog.expo.io/sketch-a-playground-for-react-native-16b2401f44a2
+https://blog.expo.io/building-a-react-native-app-using-expo-and-typescript-part-1-a81b6970bb82
+https://blog.expo.io/introducing-sideswipe-a-cross-platform-carousel-for-react-native-8b9a0f18df53
+https://blog.expo.io/the-status-bar-manager-in-react-native-6226058ecba
+https://blog.expo.io/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09
+
+
+###################################### Dev.To ##################################################################
+https://dev.to/damcosset/connecting-a-meteor-back-end-to-a-react-native-application-dbm
+https://dev.to/swyx/flutter-for-react-native-devs-in-30-seconds-78g
+https://dev.to/msal/how-to-build-a-news-app-with-react-native-4ifd
+https://dev.to/brightdevs/navigation-in-react-native-2530
 
 
 ###################################### Miscellaneous ##################################################################
@@ -94,9 +127,6 @@ http://blog.bigbinary.com/2015/08/25/how-to-test-react-native-app-on-real-iphone
 https://mattiamanzati.gitbooks.io/react-native-for-web/content/
 https://getsiphon.com/docs/build-a-youtube-browser/
 http://www.infoq.com/articles/react-native-introduction
-https://code.facebook.com/posts/597378980427792/react-native-a-year-in-review
-https://facebook.github.io/react-native/blog/2018/01/18/implementing-twitters-app-loading-animation-in-react-native.html
-https://facebook.github.io/react-native/blog/2018/04/09/build-com-app.html
 https://blogs.windows.com/buildingapps/2016/04/13/react-native-on-the-universal-windows-platform/
 https://www.viget.com/articles/learn-you-a-react-native
 https://blog.redradix.com/6-essential-libraries-to-use-on-your-next-react-native-app/
@@ -132,7 +162,6 @@ https://school.shoutem.com/lectures/build-simple-imgur-client-react-native-mobx-
 https://school.shoutem.com/lectures/geolocation-app-react-native/
 https://blog.hellojs.org/tales-of-a-react-native-beginner-why-graphql-is-the-real-mvp-9169b60b6f92
 https://launchdrawer.com/i-made-react-native-fast-you-can-too-9e61c951ce0
-https://blog.expo.io/sketch-a-playground-for-react-native-16b2401f44a2
 https://blog.uncommon.is/a-simple-introduction-to-state-management-with-mobx-in-react-native-ed749aa2b5d7
 https://engineering.salesforce.com/experiments-with-high-performance-animation-in-react-native-80a0cb7052b0
 http://artsy.github.io/blog/2017/07/06/React-Native-for-iOS-devs/
@@ -142,13 +171,12 @@ https://blog.pusher.com/creating-ride-booking-app-react-native-pusher/
 https://pusher.com/tutorials/geolocation-sharing-react-native/
 https://codeburst.io/todo-app-with-react-native-f889e97e398e
 https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f
+https://codeburst.io/announcing-react-native-copilot-a-react-native-package-to-create-in-app-walk-throughs-1c2cf269cacd
 https://blog.reactnativecoach.com/creating-an-asynchronous-loading-image-component-in-react-native-part-i-1b087d0ded62
 https://carloscuesta.me/blog/shipping-react-native-apps-with-fastlane/
 https://maziar.io/blog/react-native-development-tips/
 https://blog.blazingedge.io/essential-react-native-setup/
 https://blog.blazingedge.io/react-native-continuous-integration-and-deployment/
-https://dev.to/damcosset/connecting-a-meteor-back-end-to-a-react-native-application-dbm
-https://dev.to/swyx/flutter-for-react-native-devs-in-30-seconds-78g
 https://ademcan.net/blog/2017/11/24/uploaddownload-images-tofrom-aws-s3-in-react-native-a-step-by-step-guide/
 https://www.simform.com/react-native-app-performance/
 https://blog.invertase.io/getting-started-with-firebase-authentication-on-react-native-a1ed3d2d6d91
@@ -156,9 +184,6 @@ https://brightinventions.pl/blog/react-native-4-steps-to-improve-workflow/
 https://levelup.gitconnected.com/react-native-with-expo-is-a-joyride-671d706b7a19
 https://matwrites.com/get-started-react-native-expo-minutes/
 https://attardi.org/pytorch-and-coreml
-https://blog.expo.io/introducing-sideswipe-a-cross-platform-carousel-for-react-native-8b9a0f18df53
-https://blog.expo.io/the-status-bar-manager-in-react-native-6226058ecba
-https://blog.expo.io/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09
 https://madebynathan.com/posts/2018-02-12-what-i-learned-while-making-a-game-with-react-native/
 https://www.polidea.com/blog/how-to-apply-ui-test-automation-in-react-native-apps/
 https://www.okgrow.com/posts/part1-a-complete-guide-to-recording-location-data-in-react-native
@@ -166,6 +191,9 @@ https://build.affinity.co/persisting-sessions-with-react-native-4c46af3bfd83
 https://www.nan-labs.com/blog/scaled-images-in-react-native/
 https://medium.freecodecamp.org/create-a-news-app-using-react-native-ced249263627
 https://brainhub.eu/blog/opencv-react-native-image-processing/
+https://www.simform.com/react-native-ecosystem-backend-database-best-libraries/
+https://daveceddia.com/perfect-pulled-pork-react-native-expo-express/
+https://blog.netcetera.com/react-native-the-native-parts-android-edition-42b480f10170
 
 
 
@@ -225,7 +253,10 @@ https://github.com/hamidhadi/react-native-stretchy - A ReactNative scrollable st
 https://github.com/thakurballary/react-native-radio-buttons-group - easy to use radio buttons for react native apps.
 https://github.com/hasura/react-native-auth-boilerplate - A react native boilerplate with authentication already implemented
 https://github.com/hasura/react-check-auth - Add auth protection anywhere in your react/react-native app
-
+https://github.com/electrode-io/electrode-native - Platform for integrating React Native apps in existing mobile applications 
+https://github.com/kusti8/proton-native - A React environment for cross platform native desktop apps
+https://github.com/vincentriemer/react-native-dom - An experimental, comprehensive port of React Native to the web. 
+https://github.com/kmagiera/react-native-reanimated - React Native's Animated library reimplemented
 
 
 ##### Videos ######
@@ -271,3 +302,5 @@ http://reactionic.github.io/
 https://www.icicletech.com/blog/react-native-starter-kits - Mobile App Development With 8 Awesome React-Native Starter Kits
 https://shoutem.github.io/ui/ - Open-source UI toolkit for React Native
 https://www.decosoftware.com - New React Native IDE
+http://www.electrode.io - Universal React/Node.js Application Platform
+https://proton-native.js.org - Create native desktop applications through a React syntax, on all platforms.
