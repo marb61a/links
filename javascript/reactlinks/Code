@@ -333,7 +333,35 @@ https://github.com/aweary/react-copy-write - Immutable state with a mutable API
 https://github.com/text-mask/text-mask - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 https://github.com/hasura/react-check-auth - Add auth protection anywhere in your react/react-native app
 https://github.com/didierbrun/react-path-recognizer - Path recognizing component for React
-
-
-
+https://github.com/xJkit/react-goodbye - A save reminder component for react router v4
+https://github.com/linkedin/css-blocks - High performance, maintainable stylesheets
+https://github.com/zzarcon/react-circle - Renders a svg circle + progress, it just works
+https://github.com/ctxhou/react-tabtab - Make your react tab dance
+https://github.com/electrode-io/electrode - Electrode Platform for building large scale Universal React Applications
+https://github.com/Oblosys/react-lifecycle-visualizer - Real-time visualizer for React lifecycle methods
+https://github.com/petergombos/react-pledge - Declarative way to track promise lifecycle states using "render props"
+https://github.com/GantMan/ReactStateMuseum - A whirlwind tour of React state management systems by example
+https://github.com/tvler/compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React
+https://github.com/reduction-admin/react-reduction - Free Admin Template Built with React and Bootstrap4 
+https://github.com/sw-yx/create-react-app-parcel - create-react-app-parcel 
+https://github.com/drcmda/react-animated-tree - Simple to use, configurable tree view with full support for drop-in animations
+https://github.com/papasnippy/react-bolivianite-grid - React grid component for virtualized rendering large tabular data
+https://github.com/stratos-vetsos/react-selectrix - A beautiful, materialized and flexible React Select control 
+https://github.com/elsewhencode/react-redux-saucepan - A minimal and universal react redux starter project
+https://github.com/nitin42/react-video-scroll - A React component to seek or control the video frame rate on scroll.
+https://github.com/metrue/YoYo - dead simple comment engine built on top of AWS lambda and React
+https://github.com/KaiHotz/React-Calculator-App - The Apple MacOs/iOS calculator app rebuild with React as PWA 
+https://github.com/YGYOOO/react-draggable-tags - An easy and flexible tag component
+https://github.com/smooth-code/smooth-ui - React UI library based on styled-components
+https://github.com/react-tools/react-move -  Beautiful, data-driven animations for React 
+https://github.com/c8r/kit - Tools for developing, documenting, and testing React component libraries 
+https://github.com/sw-yx/react-typescript-cheatsheet - cheatsheet for react users using typescript
+https://github.com/sarneeh/reaptcha - Google reCAPTCHA v2 for React
+https://github.com/JedWatson/react-select - The Select for React.js
+https://github.com/theluk/react-formular - xperimental approach to bind forms
+https://github.com/DominicTobias/react-image-crop - A responsive image cropping tool for React
+https://github.com/final-form/react-final-form - High performance subscription-based form state management for React
+https://github.com/stereobooster/react-ideal-image - An Almost Ideal React Image Component 
+https://github.com/u-wave/react-vimeo - Vimeo player component for React. 
+https://github.com/Oblosys/react-lifecycle-visualizer - Real-time visualizer for React lifecycle methods
 
