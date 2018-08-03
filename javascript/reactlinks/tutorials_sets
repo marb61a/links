@@ -31,6 +31,7 @@ https://www.sitepoint.com/building-a-react-universal-blog-app-implementing-flux/
 https://www.sitepoint.com/using-preact-react-alternative/
 https://www.sitepoint.com/async-operations-react-redux-applications/
 https://www.sitepoint.com/progressive-web-apps-a-crash-course/
+https://www.sitepoint.com/react-architecture-best-practices/
 
 
 ###################################### Scotch.io ################################################################## 
@@ -43,6 +44,7 @@ https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps
 https://pub.scotch.io/@zhirzh/building-a-pwa-using-react-webpack-and-other-stuff
 https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel
 https://scotch.io/tutorials/build-a-ssr-app-with-preact-unistore-and-preact-router
+https://scotch.io/tutorials/build-custom-pagination-with-react
 
 
 ###################################### Risingstack ################################################################
@@ -112,6 +114,7 @@ https://medium.com/apollo-stack/apollo-client-graphql-with-react-and-redux-49b35
 https://medium.com/@david.gilbertson/react-and-firebase-sittin-in-a-tree-a00d481786cb#.ntny384gm
 https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.6rkl1w36k
 https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.wka9pfm51
+https://medium.com/@paulwithap/the-most-important-eslint-rule-for-redux-applications-c10f6aeff61d#.2sjen1dy9
 https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e#.mw9wtdoxu
 https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.ngfeew54o
 https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c#.9bkhoh7oc
@@ -174,6 +177,7 @@ https://medium.com/styled-components/the-simple-guide-to-server-side-rendering-r
 https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd
 https://medium.com/front-end-hacking/using-immutable-js-with-redux-ba89025e45e2
 https://medium.appbase.io/how-to-build-a-github-search-ui-in-60-minutes-295109211c70
+https://medium.appbase.io/how-to-build-a-movie-search-app-with-react-and-elasticsearch-2470f202291c
 https://medium.com/progressive-web-apps/react-progressive-web-apps-part-1-1cf381421672
 https://medium.com/@romarioraff/testing-react-apps-with-jest-and-chai-enzyme-for-beginners-baa5f57cec0b
 https://medium.com/@guptagaruda/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455
@@ -202,6 +206,15 @@ https://medium.com/@skovy/scaling-data-selection-on-the-client-5e4411de6984
 https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4
 https://medium.com/@applification/how-to-build-an-a-progressive-web-app-with-react-2c8a4d43ce6b
 https://medium.com/@morgannegagne/google-maps-with-react-951c12b723ad
+https://medium.com/@peterpme/learning-higher-order-components-in-react-by-building-a-loading-screen-9f705b89f569
+https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f
+https://medium.com/@selbekk/introducing-calidation-7d9a79453f7
+https://medium.com/@ablamunits/react-context-in-the-world-of-component-composition-ce049d99afd9
+https://medium.com/@foxdonut00/you-dont-need-redux-mobx-rxjs-cerebral-6a735b150a02
+https://medium.com/@toastui/analyze-redux-f1424a5eaa8e
+https://medium.com/@denisraslov/introducing-snappify-a-generator-of-snapshot-tests-for-react-typescript-54b3fd1ffa54
+https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a
+https://medium.com/@dave_lunny/how-to-use-reacts-experimental-new-profiler-feature-c340674e5d0e
 
 
 ############################################# DailyJS ##################################################################
@@ -238,6 +251,7 @@ https://levelup.gitconnected.com/learn-redux-by-building-redux-from-scratch-dcbc
 https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4
 https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006
 https://levelup.gitconnected.com/understanding-react-render-props-by-example-71f2162fd0f2
+https://levelup.gitconnected.com/flow-vs-typescript-in-react-my-two-cents-d4d0c657d236
 
 
 ############################################# Kadira ##################################################################
@@ -263,6 +277,7 @@ https://www.robinwieruch.de/learn-react-before-using-redux/
 https://www.robinwieruch.de/react-svg-patterns/
 https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
 https://www.robinwieruch.de/react-with-graphql-tutorial/
+https://www.robinwieruch.de/react-graphql-apollo-tutorial/
 
 
 ###################################### Hacker Noon ##################################################################
@@ -312,6 +327,8 @@ https://hackernoon.com/do-more-with-less-using-render-props-de5bcdfbe74c
 https://hackernoon.com/redesigning-redux-b2baee8b8a38
 https://hackernoon.com/react-authentication-in-depth-4deebda9aa45
 https://hackernoon.com/create-a-fancy-burger-menu-using-reactjs-popup-e7ed6d3c965f
+https://hackernoon.com/setting-up-apollo-link-state-for-multiple-stores-4cf54fdb1e00
+https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32
 
 
 ###################################### Freecodecamp ##################################################################
@@ -319,7 +336,6 @@ https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595
 https://medium.freecodecamp.com/async-operations-using-redux-saga-2ba02ae077b3#.vh0orgim6
 https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.ay66tu8im
 https://medium.freecodecamp.com/seo-vs-react-is-it-neccessary-to-render-react-pages-in-the-backend-74ce5015c0c9#.6ifzyil8p
-https://medium.com/@paulwithap/the-most-important-eslint-rule-for-redux-applications-c10f6aeff61d#.2sjen1dy9
 https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1#.zi8xjehdv
 https://medium.freecodecamp.com/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468#.edxmt5u5m
 https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1#.spzb8m9nt
@@ -341,6 +357,9 @@ https://medium.freecodecamp.org/conditional-rendering-in-react-using-ternaries-a
 https://medium.freecodecamp.org/how-to-build-a-github-bot-with-phantomjs-react-and-serverless-framework-7b66bb575616
 https://medium.freecodecamp.org/analyzing-the-bundle-size-code-splitting-in-create-react-app-9238e96a5b26
 https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f
+https://medium.freecodecamp.org/the-best-way-to-bind-event-handlers-in-react-282db2cf1530
+https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded
+https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f
 
 
 ###################################### Javascript Inside ##################################################################
@@ -442,11 +461,13 @@ https://tylermcginnis.com/react-router-pass-props-to-components/
 https://tylermcginnis.com/react-router-nested-routes/
 https://tylermcginnis.com/react-router-server-rendering/
 https://tylermcginnis.com/react-router-query-strings/
+https://tylermcginnis.com/react-router-route-config/
+https://tylermcginnis.com/react-router-ambiguous-matches/
 
 
 ###################################### Goshakk ##################################################################
-http://goshakkk.name/react-custom-renderers/
-http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/
+https://goshakkk.name/react-custom-renderers/
+https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/
 https://goshakkk.name/should-i-put-form-state-into-redux/
 https://goshakkk.name/instant-form-fields-validation-react/
 https://goshakkk.name/array-form-inputs/
