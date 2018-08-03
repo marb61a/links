@@ -67,6 +67,7 @@ http://andrewhfarmer.com/css-modules-by-example/
 https://m.alphasights.com/killing-cors-preflight-requests-on-a-react-spa-1f9b04aa5730#.v12oj8toj
 https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/
 https://blog.pusher.com/making-reactjs-realtime-with-websockets/
+https://pusher.com/tutorials/instagram-clone-part-1
 https://www.toptal.com/react/react-redux-and-immutablejs
 https://www.toptal.com/javascript/immutability-in-javascript-using-redux
 https://devbutze.com/p/306
@@ -119,6 +120,7 @@ http://www.elcaminolegal.com/single-post/2016/10/04/Facebook-Reactjs-License
 http://ignaciochavez.com/helpful-principles-starting-react/
 https://spin.atomicobject.com/2016/10/05/form-validation-react/
 https://spin.atomicobject.com/2017/06/07/react-state-vs-redux-state/
+https://spin.atomicobject.com/2018/05/04/mock-react-apollo-data/
 http://www.thinkloop.com/article/state-driven-routing-react-redux-selectors/
 https://blog.avocode.com/blog/finally-a-simple-and-universal-router-for-reactjs
 https://webapplog.com/autocomplete-react/
@@ -140,7 +142,8 @@ http://blog.brew.com.hk/react-101-composition-vs-inheritance/
 http://blog.klipse.tech/javascript/2016/12/14/jsx.html
 https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
 https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app
-https://www.codementor.io/mailamankhalid/creating-awesome-spas-with-react-catgaer7v?
+https://www.codementor.io/mailamankhalid/creating-awesome-spas-with-react-catgaer7v
+https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep
 http://www.zsoltnagy.eu/building-a-chat-component-in-react-and-es6/
 https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html
 https://blog.komand.com/how-to-render-components-outside-the-main-react-app
@@ -192,6 +195,7 @@ https://css-tricks.com/learning-react-redux/
 https://css-tricks.com/react-forms-using-refs/
 https://css-tricks.com/react-router-4/
 https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/
+https://css-tricks.com/managing-state-in-react-with-unstated/
 http://thejameskyle.com/adopting-flow-and-typescript.html
 https://blog.codeship.com/using-react-inside-your-rails-apps/
 https://blog.codeship.com/server-rendering-react-on-rails/
@@ -216,6 +220,7 @@ https://blog.logrocket.com/introduction-to-preact-a-smaller-faster-react-alterna
 https://blog.logrocket.com/advanced-react-router-concepts-code-splitting-animated-transitions-scroll-restoration-recursive-17096c0cf9db
 https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e
 https://blog.logrocket.com/comparing-the-top-js-animation-libraries-for-use-in-react-apps-e3ba5ccad68d
+https://blog.logrocket.com/the-definitive-guide-to-react-material-d730c8a3e8ba
 https://blog.dgraph.io/post/building-graphoverflow/
 https://hashnode.com/post/tightly-controlled-textareas-building-solid-plain-text-editors-in-react-cj6yvu6yq00cls5wtrbbkw96d?
 https://dashbouquet.com/blog/frontend-development/missing-part-of-redux-saga-experience
@@ -242,8 +247,11 @@ https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e7154
 https://blog.prototypr.io/svg-illustrations-as-react-components-f0e7be304eb6
 https://blog.kentcdodds.com/how-to-give-rendering-control-to-users-with-prop-getters-549eaef76acf
 https://blog.kentcdodds.com/when-to-not-use-render-props-5397bbeff746
+https://blog.kentcdodds.com/migrating-to-reacts-new-context-api-b15dc7a31ea0
+https://blog.kentcdodds.com/downshift-2-released-26b49589e8d2
 https://philandrews.io/post/react-how-to-access-props-in-a-functional-component
 https://alligator.io/react/i18n-with-react-and-i18next/
+https://alligator.io/react/unstated/
 https://blog.cloudboost.io/creating-a-chat-web-app-using-express-js-react-js-socket-io-1b01100a8ea5
 https://flexport.engineering/ending-the-debate-on-inline-functions-in-react-8c03fabd144
 https://nerdblog.pl/post/166842840969/testing-react-components
@@ -261,6 +269,7 @@ https://toddmotto.com/redux-typescript-store
 https://dev.to/dan_abramov/react-beginner-question-thread--1i5e
 https://dev.to/samerbuna/reactjs-frequently-facedproblems--l5g
 https://dev.to/swyx/introduction-to-mobx-4-for-reactredux-developers-3k07
+https://dev.to/pmbanugo/real-time-editable-datagrid-in-react-56ad
 https://www.halfelectronic.com/post/setting-up-gatsby-js-contentful-and-netlify/
 https://developers.redhat.com/blog/2017/11/15/best-practices-react-redux-web-application-development/
 https://develoger.com/how-to-obfuscate-css-class-names-with-react-and-webpack-20e2b5c49cda
@@ -278,11 +287,13 @@ https://www.andreasreiterer.at/web-development/bind-callback-function-react/
 https://blog.arkency.com/how-algolia-built-their-frontend-search-widgets-with-react-dot-js-by-following-redux-principles/
 https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html
 http://reactingonrails.com/prefer-functional-components/
-https://blog.bitsrc.io/9-tools-and-libraries-to-boost-your-react-component-workflow-6ff4b49511c2
 https://itnext.io/so-you-want-to-host-your-single-age-react-app-on-github-pages-a826ab01e48
 https://itnext.io/create-react-app-with-vs-code-1913321b48d
 https://itnext.io/react-with-parcel-99229106dac8
 https://itnext.io/hooking-up-firebase-to-your-redux-store-a5e799cf84c4
+https://itnext.io/pre-rendering-your-react-application-with-react-snap-234e2408ed39
+https://itnext.io/building-a-toggled-mask-password-input-component-w-react-and-material-ui-f55e6bd73434
+https://itnext.io/lazy-loading-images-with-react-and-semantic-ui-28a780bb3b3a
 https://thejsguy.com/2018/03/18/contextual-components-in-react.html
 https://nrempel.com/guides/react-firebase-ant-design/
 https://www.graphql.college/building-a-github-client-with-react-apollo/
@@ -291,5 +302,28 @@ https://shinglyu.github.io/web/2018/02/08/minimal-react-js-without-a-build-step-
 https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce
 https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained
 https://www.leighhalliday.com/introducing-react-context-api
-
+https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/
+https://circleci.com/blog/enforce-build-standards/
+https://inkmonk.com/blogs/dev/how-we-achieved-51-efficiency-in-button-loading-speed/
+https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/
+http://bradfrost.com/blog/post/my-struggle-to-learn-react/
+https://engineering.hexacta.com/jsx-can-do-that-1b2666c23a32
+https://blog.bitsrc.io/9-tools-and-libraries-to-boost-your-react-component-workflow-6ff4b49511c2
+https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59
+https://blog.bitsrc.io/building-reusable-react-components-1465a2dccc13
+https://blog.bitsrc.io/testing-react-apps-with-cypress-658bc482678
+https://blog.bitsrc.io/simplify-complex-ui-by-implementing-the-atomic-design-in-react-with-bit-f4ad116ec8db
+https://blog.truthlabs.com/building-a-progressive-web-app-in-react-11c77a7fccb3
+https://quantizd.com/building-react-app-using-react-router-v4-and-laravel/
+https://quantizd.com/extracting-css-from-react-components-with-laravel-mix/
+https://quantizd.com/build-chat-app-with-express-react-socket-io/
+https://quantizd.com/building-an-image-gallery-with-laravel-and-react/
+https://blog.flowandform.agency/create-a-custom-calendar-in-react-3df1bfd0b728
+https://www.joshwcomeau.com/posts/dynamic-bezier-curves
+https://blog.pavsidhu.com/how-i-built-my-blog-using-gatsby-and-netlify/
+https://veerasundar.com/blog/2018/05/how-to-create-a-chrome-extension-in-react-js/
+https://towardsdatascience.com/advanced-visualization-with-react-vis-efc5c6667b4
+https://www.infoq.com/news/2018/05/medium-reactjs-graphql-migration
+https://frontside.io/blog/2018/06/13/big-testing-in-react/
+https://www.nearform.com/blog/managing-react-state-with-render-props/
 
