@@ -93,6 +93,10 @@ https://www.youtube.com/watch?v=aL6SouuO0_k - Structuring JavaScript projects fo
 https://www.youtube.com/watch?v=pKd0Rpw7O48 - Building RESTful APIs with Node and Express
 https://www.youtube.com/watch?v=7lpemgMhi0k - 7 Secret Patterns Vue Consultants Don’t Want You to Know
 https://www.youtube.com/watch?v=PhggNGsSQyg - Learn RxJS in 60 Minutes for Beginners
+https://www.youtube.com/watch?v=c2PGgkCIjEA - Heres how JavaScript "Named Params" Destructuring Works
+https://www.youtube.com/watch?v=mIWCLOftfRw - Build the future of the web with modern JavaScript
+https://www.youtube.com/watch?v=5nmpokoRaZI - JavaScript Engines: The Good Parts
+https://www.youtube.com/watch?v=tjpsedQ-ZbI - Coding Your Own Discord Bot - Discord.js
 
 
 ##Vimeo
@@ -143,6 +147,7 @@ https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O - Vue.j
 http://thisdot.co/javascript/01-2017
 https://www.youtube.com/playlist?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_#jsconfeu2017 - JSConf EU 2017
 https://www.youtube.com/playlist?list=PLS8HfBXv9ZWWe8zXrViYbIM2Hhylx8DZx#supermario - Super Mario Bros in JavaScript
+https://adamwathan.me/the-trick-to-understanding-scoped-slots-in-vuejs/
 
 
 ##Podcasts
@@ -216,7 +221,7 @@ http://dimplejs.org/ - An object-oriented API for business analytics powered by 
 https://psdtowp.net/learn-javascript.html - Tips for learning JS
 http://spreadsheets.github.io/jQuery.sheet/
 http://felicegattuso.com/projects/datedropper/
-http://samsarajs.org/
+http://samsarajs.org/ -a library for animating layout. 
 http://riotjs.com/ - Simple and elegant component-based UI library
 http://www.a1k0n.net/2015/11/09/javascript-ft2-player.html
 http://angularjs.blogspot.ie/2015/11/highlights-from-angularconnect-2015.html
@@ -226,7 +231,6 @@ https://glidejs.com - A dependency-free JavaScript ES6 slider and carousel.
 http://cesiumjs.org/ - An open-source JavaScript library for world-class 3D globes and maps
 http://algebra.js.org/ - Build, display, and solve algebraic equations in JavaScrip
 http://papaparse.com - The powerful, in-browser CSV parser
-http://www.transcrypt.org/
 http://www.cerebraljs.com/ - The cerebral project
 http://xregexp.com - JavaScript regular expression library
 http://turfjs.org - Advanced geospatial analysis for browsers and node
@@ -240,8 +244,22 @@ http://kylebrumm.com/spotifyCurrentlyPlaying.js/
 http://interactjs.io/ - JavaScript drag and drop, resizing and multi-touch gestures
 http://jargon.js.org - Dictionary of JS jargon
 http://videojs.com/ - The Player Framework
+https://tonejs.github.io - framework for creating interactive music in the browser
 http://standardjs.com/
+https://tkv.io/posts/picojs-intro/demo/ - face detection in JavaScript
+https://vscodecandothat.com - All the best things about Visual Studio Code that nobody ever bothered to tell you
+https://grasshopper.codes - The coding app for beginners
 http://js.cytoscape.org - Graph theory / network library for analysis and visualisation
 http://js-grid.com/ - Lightweight Grid jQuery Plugin
 http://metricsgraphicsjs.org/ - MetricsGraphics.js is a library built on top of D3 
+https://webpack.jakoblind.no - Create a personalized and optimized webpack.config.js!
+https://layerjs.org - UI composition & animation in pure HTML
+https://acarabott.github.io/audio-dsp-playground/ - Audio DSP Playground
+https://www.learnenough.com/javascript-tutorial - Michael Hartl JS Book
+http://www.data-forge-js.com - JavaScript data wrangling, transformation and analysis toolkit
+https://wiredjs.com - common UI elements
+https://vladocar.github.io/nanoJS/ - Minimal standalone JS library for DOM manipulation
+https://ml5js.org - Friendly Machine Learning for the Web.
+https://lumin.rocks - JavaScript library to progressively highlight any text on a page
+http://paperjs.org - The Swiss Army Knife of Vector Graphics Scripting
 
