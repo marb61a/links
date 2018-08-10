@@ -63,6 +63,7 @@ https://medium.com/@bradfmd/vue-vuex-getting-started-f78c03d9f65#.jeuj043oy
 https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.wunvznyjo
 https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201
 https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15
+https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
 https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9
 https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161
 https://medium.com/statuscode/cors-a-guided-tour-4e72230a8739
@@ -70,12 +71,12 @@ https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a
 https://medium.com/@darrenjennings/data-driven-vue-js-53e84f16e28f
 https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358
 https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747
+https://medium.com/@kentcdodds/glamorous-v4-is-here-c678fe02a39a
 https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7
 https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad
 https://medium.com/@tkh44/emotion-ad1c45c6d28b
 https://medium.com/faceyspacey/webpacks-import-will-soon-fetch-js-css-here-s-how-you-do-it-today-4eb5b4929852
 https://medium.com/burke-knows-words/introducing-express-react-starter-b6d299206a3a
-https://medium.com/@kentcdodds/glamorous-v4-is-here-c678fe02a39a
 https://medium.appbase.io/how-to-build-a-github-search-ui-in-60-minutes-295109211c70
 https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6
 https://medium.com/front-end-hacking/dont-be-afraid-of-headless-chrome-learn-why-and-how-to-use-it-for-ember-testing-e43710f4d443
@@ -88,7 +89,6 @@ https://medium.com/@urish/reactive-brain-waves-af07864bb7d4
 https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d
 https://medium.com/@gajus/ode-to-flow-runtime-ed78b2e10ec8
 https://medium.cobeisfresh.com/how-redux-can-make-you-a-better-developer-30a094d5e3ec
-https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
 https://medium.com/front-end-hacking/javascript-symbols-generators-and-streams-1f6ef0fb1fdc
 https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a
 https://medium.com/@jdolle/babel-7-beta-instructions-aed5cf17048b
@@ -100,6 +100,12 @@ https://medium.com/hyperapp/hyperapp-for-redux-refugees-2507c9dd1ddc
 https://medium.com/containers-on-aws/building-a-socket-io-chat-app-and-deploying-it-using-aws-fargate-86fd7cbce13f
 https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6
 https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3
+https://medium.com/@michaelsholty/give-parcel-a-try-you-may-like-it-75cd12a2bfb8
+https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f
+https://medium.com/@timurcatakli/an-easy-to-understand-webpack-4-configuration-file-with-comments-6213882e9edf
+https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5
+https://medium.com/@anildash/what-if-javascript-wins-84898e5341a
+https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3
 
 
 ###################################### DailyJS ###########################################################
@@ -110,6 +116,7 @@ https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-
 https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1
 https://medium.com/dailyjs/the-why-behind-the-wat-an-explanation-of-javascripts-weird-type-system-83b92879a8db
 https://medium.com/dailyjs/decoupling-business-logic-using-async-generators-cc257f80ab33
+https://medium.com/dailyjs/the-trouble-with-d3-4a84f7de011f
 
 
 ###################################### Eric Elliot ###########################################################
@@ -240,6 +247,7 @@ http://2ality.com/2017/12/for-await-of-sync-iterables.html
 http://2ality.com/2018/02/string-prototype-matchall.html
 http://2ality.com/2018/03/javascript-typescript-reasonml.html
 http://2ality.com/2018/04/async-iter-nodejs.html
+http://2ality.com/2018/04/extracting-loops.html
 
 
 ####################################### Mozilla ###########################################################
@@ -258,6 +266,8 @@ https://hacks.mozilla.org/2017/07/introducing-sphinx-js-a-better-way-to-document
 https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
 https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/
 https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+https://hacks.mozilla.org/2018/05/debugging-modern-web-applications/
+https://hacks.mozilla.org/2018/06/overscripted-digging-into-javascript-execution-at-scale/
 
 
 ####################################### Smashing Magazine ###########################################################
@@ -280,6 +290,8 @@ https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
 https://www.smashingmagazine.com/2018/03/lazy-loading-with-conditioner-js/
 https://www.smashingmagazine.com/2018/03/web-midi-api/
 https://www.smashingmagazine.com/2018/04/vuejs-firebase-firestore/
+https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/
+https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/
 
 
 ####################################### Auth0 ###########################################################
@@ -343,6 +355,8 @@ https://css-tricks.com/creating-star-heart-animation-svg-vanilla-javascript/
 https://css-tricks.com/front-end-developers-guide-graphql/
 https://css-tricks.com/gotchas-publishing-modules-npm-bower/
 https://css-tricks.com/build-a-custom-vue-router/
+https://css-tricks.com/understanding-the-almighty-reducer/
+https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/
 
 
 ####################################### Hackernoon ###########################################################
@@ -364,6 +378,7 @@ https://hackernoon.com/a-user-encounters-a-javascript-error-youll-never-guess-wh
 https://hackernoon.com/surveyjs-an-open-source-javascript-survey-library-with-versions-for-angular-2-react-vue-2086d988b974
 https://hackernoon.com/architecting-single-page-applications-b842ea633c2e
 https://hackernoon.com/the-comprehensive-beginners-guide-to-javascript-geolocation-tracking-11f7a1bba400
+https://hackernoon.com/async-await-generators-promises-51f1a6ceede2
 
 
 ####################################### Pusher ###########################################################
@@ -399,4 +414,5 @@ https://codeburst.io/how-to-handle-multipart-form-data-in-nodejs-file-uploading-
 https://codeburst.io/javascript-null-vs-undefined-20f955215a2
 https://codeburst.io/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7
 https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2
+https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a
 
