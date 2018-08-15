@@ -67,6 +67,10 @@ https://www.youtube.com/watch?reload=9&v=LUMkgn_xtlg - The Future of Web Layout
 https://www.youtube.com/watch?v=af4ZQJ14yu8 - Why Inline SVG is Best SVG
 https://www.youtube.com/watch?v=_sgF8I-Q1Gs - Introduction to Viewport Units
 https://www.youtube.com/watch?v=5CZyxnCdXuk - Cropping images with Object Fit
+https://www.youtube.com/watch?v=fVX0xscGP9o - How to use CSS grid today in the real world
+https://www.youtube.com/watch?v=EashgVqboWo - Graphic Design Made Easy with CSS Grid
+https://www.youtube.com/watch?v=jfHNzL5h1Aw - CSS Grid Uncollapses Your Margins
+https://www.youtube.com/watch?v=we3lLo-UFtk - PWA starter kit: build fast, scalable, modern apps with Web Components
 
 
 ##An Event Apart
@@ -145,6 +149,8 @@ https://codepen.io/AllThingsSmitty/pen/MOYNBO - A Better Focus
 https://codepen.io/chrisgannon/pen/ZaPmKp/ - Bauble Toggle
 https://codepen.io/keithjgrant/pen/eyMMVL - dialog 
 https://codepen.io/anthonydugois/pen/RpYBmy - CSS Grid Template Builder
+https://codepen.io/GeorgePark/pen/EEGJEj - CSS Gradient Rounded Borders
+https://codepen.io/kylevilleneuve/pen/XqeVdZ - Responsive Typography Generator
 
 
 ##Gihub-Gist
@@ -163,8 +169,8 @@ http://www.heropatterns.com/ - A collection of repeatable SVG background pattern
 http://www.colinkeany.com/blend/ - Create and customize beautiful CSS3 gradients.
 http://cssreference.io/ - A free visual guide to CSS
 http://voxelcss.com/ - makes 3D rendering easy
-http://vrcollab.com/2015/08/10/what-is-metaroom-markup.html
-https://18f.gsa.gov/2016/01/11/introducing-the-css-coding-style-guide/
+https://serviceworke.rs - The Service Worker Cookbook 
+https://wiredjs.com - A set of common UI elements with a hand-drawn, sketchy look
 http://trydesignlab.com/blog/ultimate-guide-getting-started-sketch-cheat-sheet/ - 99 Point Cheat Sheet
 https://resilientwebdesign.com/ - Free online book
 https://csstriggers.com/ - List of CSS triggers
@@ -172,12 +178,19 @@ http://ayre.jacksleight.com/
 https://skilled.co/resources/html-canvas-cheat-sheet/ - Cheat Sheet
 https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521 - Cheet Sheet
 http://dbushell.com/2016/03/04/css-only-responsive-tables/
+http://www.gridtoflex.com - Flexbox fallbacks for popular UI solutions that use CSS Grid
 http://doximity.github.io/vital/get-started/
 http://primercss.io - The design system that powers GitHub
+https://tonejs.github.io - A framework for creating interactive music in the browser
+https://webgl2fundamentals.org - WebGL2 from the ground up
 https://webkul.github.io/micron/ - microInteraction library built with CSS Animations
 http://yusugomori.com/projects/css-sans/
 https://mozilladevelopers.github.io/playground/ - INTRODUCTION TO CSS GRID LAYOUT
 https://www.jpeg.io/ - Convert any major image format into a highly optimized JPEG
+http://palette.site - Get the essential colours from a website
+https://appleple.github.io/scroll-hint/ - JavaScript library to suggest that the elements are scrollable horizontally
+https://keyframes.app - An insanely simple way to create CSS animations
+https://cssgr.id - CSS Grid example site
 http://flag-colors.com/
 http://css-cursor.techstream.org/ - CSS cursor showcase. 
 http://bennettfeely.com/image-effects/ - Image Effects with CSS
@@ -190,9 +203,12 @@ https://www.campaignmonitor.com/css/
 https://tabler.github.io - Premium and Open Source dashboard template
 https://glidejs.com - A dependency-free JavaScript ES6 slider and carousel. 
 http://www.bypeople.com/css-apple-keyboard/
+https://acarabott.github.io/audio-dsp-playground/ - Audio DSP Playground
+https://layerjs.org - UI composition & animation in pure HTML
 http://epic-spinners.epicmax.co/#/ - Css only. Easy to use. VueJS integration.
 http://www.gradient-animator.com/ - CSS GRADIENT ANIMATOR
 http://kushagragour.in/lab/hint/
+https://erikmonjas.github.io/css-grid-12-column-layout/ - CSS GRID 12 COLUMN LAYOUT
 https://roughjs.com - Create graphics with a hand-drawn, sketchy, appearance
 http://ui.toast.com/tui-chart/ - Supports an easy way to draw various and essential charts 
 https://larsenwork.com/easing-gradients/ - Easing Gradients
