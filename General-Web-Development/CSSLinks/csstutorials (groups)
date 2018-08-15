@@ -100,6 +100,9 @@ https://www.sitepoint.com/a-css-framework-in-6-minutes-with-bulma/
 https://www.sitepoint.com/front-end-frameworks-custom-vs-ready-use-solutions/
 https://www.sitepoint.com/bootstrap-carousel-with-css3-animations/
 https://www.sitepoint.com/build-responsive-bootstrap-website/
+https://www.sitepoint.com/deep-dive-bootstrap-form-component/
+https://www.sitepoint.com/bootstrap-grid-mastering-flexbox/
+https://www.sitepoint.com/css-grid-layout-vs-css-frameworks-debate/
 
 
 ############################################## Smashing ########################################################## 
@@ -203,6 +206,17 @@ https://www.smashingmagazine.com/2018/03/web-midi-api/
 https://www.smashingmagazine.com/2018/03/using-ethics-in-web-design/
 https://www.smashingmagazine.com/2018/03/understanding-logical-properties-values/
 https://www.smashingmagazine.com/2018/04/art-directing-web-css-grid/
+https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/
+https://www.smashingmagazine.com/2018/04/feature-testing-selenium-webdriver/
+https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/
+https://www.smashingmagazine.com/2018/04/mobile-first-optimization-tools/
+https://www.smashingmagazine.com/2018/05/future-of-web-design/
+https://www.smashingmagazine.com/2018/05/svg-interaction-pointer-events-property/
+https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/
+https://www.smashingmagazine.com/2018/05/feature-queries-manager-devtools-extension/
+https://www.smashingmagazine.com/2018/05/guide-css-layout/
+https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/
+https://www.smashingmagazine.com/2018/06/avengers-id-card-html-css/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -231,6 +245,7 @@ https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-st
 https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/
 https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/
 https://blog.mozilla.org/blog/2018/04/03/mozilla-brings-firefox-augmented-virtual-reality/
+https://hacks.mozilla.org/2018/05/progressive-web-games/
 
 
 ############################################## Google ########################################################## 
@@ -254,6 +269,12 @@ https://developers.google.com/web/updates/2018/03/clipboardapi
 https://developers.google.com/web/updates/2018/03/cssom
 https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays
 https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/
+https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/replace-animated-gifs-with-video/
+https://developers.google.com/web/updates/2018/05/welcome-to-immersive
+https://developers.google.com/web/updates/2018/05/first-input-delay
+https://developers.google.com/web/updates/2018/05/beyond-spa
+https://developers.google.com/web/updates/2018/06/fresher-sw
 
 
 ############################################## Medium ##########################################################
@@ -276,11 +297,6 @@ https://medium.com/learning-new-stuff/learn-css-flexbox-in-3-minutes-c616c707067
 https://medium.com/web-development-zone/amazingly-useful-html-css-and-javascript-tools-and-libraries-d73b10fbae29#.i8fjh8ccy
 https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b#.aukcqdam7
 https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.kh4u3jggn
-https://medium.com/statuscode/11-interesting-web-browsers-that-arent-chrome-a3f976752b21#.b5c3q0r2h
-https://medium.com/statuscode/make-your-pull-requests-visual-for-front-end-changes-ef91d83d4fc2
-https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92
-https://medium.com/statuscode/filtering-images-using-web-audio-api-276555cca6ad
-https://medium.com/statuscode/animating-with-minimal-css-and-svgs-fce031be0fd4
 https://medium.com/bitmatica-lab/svg-line-animation-for-the-uninitiated-5a65d91c6044#.xd14l2rdx
 https://medium.com/@SylvainPV/css-grid-layout-and-postcss-now-kiss-5e35f61a6f00
 https://medium.com/@jakobud/css-polyfluidsizing-using-calc-vw-breakpoints-and-linear-equations-8e15505d21ab
@@ -304,6 +320,10 @@ https://medium.com/@kennethrohde/progressive-web-apps-coming-to-all-chrome-platf
 https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb
 https://medium.com/c2-group/creating-accessible-html-a-crash-course-in-aria-landmark-regions-40513850298b
 https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7
+https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f
+https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a
+https://medium.com/@eugeniolujambio/accessible-css-only-floating-labels-74bf9173bc5f
+https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6
 
 
 ############################################## Dev Channel ##########################################################
@@ -341,6 +361,17 @@ https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css
 https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2
 https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f
 https://medium.freecodecamp.org/building-your-first-bootstrap-4-0-site-b54bbff6bc55
+https://medium.freecodecamp.org/how-to-build-a-responsive-blog-design-with-bulma-css-c2257a17c16b
+https://medium.freecodecamp.org/z-index-explained-how-to-stack-elements-using-css-7c5aa0f179b3
+https://medium.freecodecamp.org/an-overview-of-visual-studio-code-for-front-end-developers-49a4aa0771fb
+
+
+############################################## Statuscode ##########################################################
+https://medium.com/statuscode/11-interesting-web-browsers-that-arent-chrome-a3f976752b21#.b5c3q0r2h
+https://medium.com/statuscode/make-your-pull-requests-visual-for-front-end-changes-ef91d83d4fc2
+https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92
+https://medium.com/statuscode/filtering-images-using-web-audio-api-276555cca6ad
+https://medium.com/statuscode/animating-with-minimal-css-and-svgs-fce031be0fd4
 
 
 ############################################## Tutsplus ##########################################################
@@ -361,7 +392,7 @@ https://webdesign.tutsplus.com/articles/the-current-state-of-element-queries--cm
 https://webdesign.tutsplus.com/tutorials/how-to-use-gradients-on-the-web--cms-29922
 https://webdesign.tutsplus.com/tutorials/how-to-scroll-snap-using-css--cms-30333
 https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368
-https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368
+https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-alignment--cms-30183
 
 
 ############################################## CSS Wizadry ##########################################################
@@ -376,6 +407,7 @@ https://csswizardry.com/2017/02/code-smells-in-css-revisited/
 https://csswizardry.com/2017/02/base64-encoding-and-performance/
 https://csswizardry.com/2018/01/finding-dead-css/
 https://csswizardry.com/2018/03/measuring-the-hard-to-measure/
+https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/
 
 
 ############################################## Telerik ########################################################## 
@@ -405,36 +437,8 @@ http://thenewcode.com/1169/Balancing-Text-and-Images-with-Flexbox
 http://thenewcode.com/1168/Improve-the-Look-of-Links-with-the-CSS-Text-Decoration-Module
 
 
-############################################## A List Apart ########################################################## 
-http://alistapart.com/article/meaningful-css-style-like-you-mean-it
-http://alistapart.com/article/redesign-with-css-shapes
-http://alistapart.com/article/using-css-mod-queries-with-range-selectors
-http://alistapart.com/article/webfonts-on-the-prairie
-http://alistapart.com/article/javascript-for-web-designers
-https://alistapart.com/article/yes-that-web-project-should-be-a-pwa
-https://alistapart.com/article/the-story-of-css-grid-from-its-creators
-https://alistapart.com/article/web-typography-tables
-http://alistapart.com/article/we-write-css-like-we-did-in-the-90s-and-yes-its-silly
-http://alistapart.com/article/diy-web-accessibility-blueprint
-
-
-############################################## CSS Animation ########################################################## 
-https://cssanimation.rocks/stereoscopic/
-https://cssanimation.rocks/starwars/
-https://cssanimation.rocks/clocks/
-https://cssanimation.rocks/principles/
-https://cssanimation.rocks/animating-hero-header/
-
-
-############################################## Creative Bloq ########################################################## 
-http://www.creativebloq.com/web-design/supercharge-svg-animations-gsap-11618683
-http://www.creativebloq.com/web-design/solve-layout-problems-flexbox-21619093
-http://www.creativebloq.com/web-design/how-use-chrome-developer-tools-test-layouts-11618931
-http://www.creativebloq.com/features/22-stunning-examples-of-css3-animation
-https://www.creativebloq.com/features/css-grid-layout-secrets-revealed
-
-
 ############################################## Tympanus ########################################################## 
+http://tympanus.net/codrops/2015/09/30/shaded-progress-bars-css-sass-excercise/
 http://tympanus.net/codrops/2016/03/16/interactive-animated-svg-drum-kit/
 http://tympanus.net/codrops/2016/09/13/fancy-svg-letter-animation/
 https://tympanus.net/codrops/2017/01/04/mirror-effect/
@@ -445,6 +449,7 @@ https://tympanus.net/codrops/2017/06/28/organic-shape-animations-with-svg-clippa
 https://tympanus.net/codrops/2018/01/10/decorative-letter-animations/
 https://tympanus.net/Development/SliceRevealer/
 https://tympanus.net/codrops/2018/03/28/grid-menu/
+https://tympanus.net/codrops/2018/04/25/particle-effects-for-buttons/
 
 
 ############################################## Webkit ########################################################## 
@@ -469,6 +474,7 @@ https://jakearchibald.com/2017/es-modules-in-browsers/
 https://jakearchibald.com/2017/combining-fonts/
 https://jakearchibald.com/2017/lazy-async-svg/
 https://jakearchibald.com/2018/third-party-css-is-not-safe/
+https://jakearchibald.github.io/isserviceworkerready/
 
 
 ############################################## Bits Of Code ########################################################## 
@@ -502,6 +508,7 @@ https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae
 https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a
 https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c
 https://hackernoon.com/efficiently-snapshotting-spas-with-puppeteer-c4c77aa2831b
+https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e
 
 
 ############################################## Rachel Andrew ########################################################## 
