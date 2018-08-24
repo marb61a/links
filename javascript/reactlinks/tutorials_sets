@@ -215,6 +215,11 @@ https://medium.com/@toastui/analyze-redux-f1424a5eaa8e
 https://medium.com/@denisraslov/introducing-snappify-a-generator-of-snapshot-tests-for-react-typescript-54b3fd1ffa54
 https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a
 https://medium.com/@dave_lunny/how-to-use-reacts-experimental-new-profiler-feature-c340674e5d0e
+https://medium.com/@cvitullo/performance-profiling-a-redux-app-c85e67bf84ae
+https://medium.com/@thehappybug/using-react-context-in-a-typescript-app-c4ef7504c858
+https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b
+https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179
+https://medium.com/@sittmann.katia/getting-started-with-redux-saga-3207ad2a617b
 
 
 ############################################# DailyJS ##################################################################
@@ -278,6 +283,10 @@ https://www.robinwieruch.de/react-svg-patterns/
 https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
 https://www.robinwieruch.de/react-with-graphql-tutorial/
 https://www.robinwieruch.de/react-graphql-apollo-tutorial/
+https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/
+https://www.robinwieruch.de/react-fetching-data/
+https://www.robinwieruch.de/react-render-props-pattern/
+https://www.robinwieruch.de/react-pass-props-to-component/
 
 
 ###################################### Hacker Noon ##################################################################
@@ -329,6 +338,8 @@ https://hackernoon.com/react-authentication-in-depth-4deebda9aa45
 https://hackernoon.com/create-a-fancy-burger-menu-using-reactjs-popup-e7ed6d3c965f
 https://hackernoon.com/setting-up-apollo-link-state-for-multiple-stores-4cf54fdb1e00
 https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32
+https://hackernoon.com/upgrade-your-react-ui-with-state-machines-30d1298e90be
+https://hackernoon.com/checklist-for-writing-highly-reusable-components-in-react-and-vue-531f963864bd
 
 
 ###################################### Freecodecamp ##################################################################
@@ -360,6 +371,7 @@ https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d02
 https://medium.freecodecamp.org/the-best-way-to-bind-event-handlers-in-react-282db2cf1530
 https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded
 https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f
+https://medium.freecodecamp.org/the-best-way-to-architect-your-redux-app-ad9bd16c8e2d
 
 
 ###################################### Javascript Inside ##################################################################
@@ -430,6 +442,8 @@ https://daveceddia.com/multiple-environments-with-react/
 https://daveceddia.com/what-does-redux-do/
 https://daveceddia.com/immutable-updates-react-redux/
 https://daveceddia.com/hot-reloading-create-react-app/
+https://daveceddia.com/pluggable-slots-in-react-components/
+https://daveceddia.com/display-a-list-in-react/
 
 
 ###################################### Stormpath ##################################################################
@@ -463,6 +477,7 @@ https://tylermcginnis.com/react-router-server-rendering/
 https://tylermcginnis.com/react-router-query-strings/
 https://tylermcginnis.com/react-router-route-config/
 https://tylermcginnis.com/react-router-ambiguous-matches/
+https://tylermcginnis.com/building-chatbots-with-react-aws/
 
 
 ###################################### Goshakk ##################################################################
@@ -473,28 +488,4 @@ https://goshakkk.name/instant-form-fields-validation-react/
 https://goshakkk.name/array-form-inputs/
 https://goshakkk.name/y-no-field-level-validations/
 https://goshakkk.name/tips-finally-learn-react/
-
-
-######################################## Codeburst ##################################################################
-https://codeburst.io/build-a-reusable-scroll-list-component-with-animated-scrollto-in-react-4b4da8815f5b
-https://codeburst.io/how-to-manage-ui-state-with-redux-24deb6cf0d57
-https://codeburst.io/a-simple-calculator-app-using-react-and-node-42c9b0ea1df8
-https://codeburst.io/catching-exceptions-using-higher-order-components-in-react-16-b8a401853a10
-https://codeburst.io/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-e462ef0c806c
-https://codeburst.io/performance-tuning-a-react-application-f480f46dc1a2
-https://codeburst.io/final-form-the-road-to-the-checkered-flag-cd9b75c25fe
-https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f
-https://codeburst.io/25-days-of-reasonml-a4b20a7e8c6
-https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d
-https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd
-
-
-########################################### Auth0 ###############################################################
-https://auth0.com/blog/bootstrapping-a-react-project/
-https://auth0.com/blog/testing-react-applications-with-jest/
-https://auth0.com/blog/optimizing-react/
-https://auth0.com/blog/docker-dashboard-with-react-typescript-socketio/
-https://auth0.com/blog/time-slice-suspense-react16/
-https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/
-https://auth0.com/blog/react-router-4-practical-tutorial/
 
