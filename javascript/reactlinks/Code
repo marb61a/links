@@ -364,4 +364,46 @@ https://github.com/final-form/react-final-form - High performance subscription-b
 https://github.com/stereobooster/react-ideal-image - An Almost Ideal React Image Component 
 https://github.com/u-wave/react-vimeo - Vimeo player component for React. 
 https://github.com/Oblosys/react-lifecycle-visualizer - Real-time visualizer for React lifecycle methods
+https://github.com/bvaughn/react-virtualized - React components for efficiently rendering large lists and tabular data 
+https://github.com/syt123450/react-giojs - Declarative 3D Globe Data Visualization Library built with Three.js
+https://github.com/zzarcon/react-scroll-shadow - Pure CSS shadow to indicate more content in scrollable area 
+https://github.com/gpbl/react-day-picker - Flexible date picker for React 
+https://github.com/danilowoz/react-content-loader - SVG component to create placeholder loading
+https://github.com/kay-is/react-from-zero - A simple (99% ES2015 less) tutorial for React
+https://github.com/alidcastano/rogue.js - the "nearly invisible" server-rendering framework for React applications
+https://github.com/istarkov/rifm - transform any input component into formatted or masked input
+https://github.com/atlassian/react-beautiful-dnd - Beautiful and accessible drag and drop for lists with React
+https://github.com/uber/react-digraph - A library for creating directed graph editors
+https://github.com/aholachek/react-flip-toolkit - React FLIP animation helper library for highly configurable transitions
+https://github.com/adam-golab/react-developer-roadmap - Roadmap to becoming a React developer in 2018
+https://github.com/iraycd/React-Redux-Styleguide - A working set of guidelines for developing React applications
+https://github.com/reakit/reakit - Toolkit for building interactive UIs with React 
+https://github.com/ianstormtaylor/react-values - A set of tiny React components for handling state with render props
+https://github.com/teodosii/react-notifications-component - Easy to use React Component to notify your users
+https://github.com/gokcan/react-shimmer - component that simulates a shimmer effect
+https://github.com/willb335/chessboardjsx - Chessboard built for React 
+https://github.com/jaredpalmer/formik - Build forms in React, without the tears 
+https://github.com/RyanFitzgerald/devblog - A lightweight, customizable personal blog template built with GatsbyJS and React
+https://github.com/teefouad/speedux - allows you to create actions and reducers for Redux, automatically.
+https://github.com/yjose/reactjs-popup -  Modals,Tooltips and Menus —  All in one
+https://github.com/jcmcneal/react-step-wizard - A modern flexible step wizard component built for React.
+https://github.com/susielu/react-annotation/ - It is made for annotations in SVG
+https://github.com/LeoNero/react-img-zoom - A React component to zoom images on hover 
+https://github.com/pau1fitz/react-slidez - React Slideshow Component
+https://github.com/transitive-bullshit/react-particle-effect-button - Bursting particle effect buttons for React
+https://github.com/gpbl/react-day-picker - Flexible date picker for React 
+https://github.com/jamiebuilds/react-loadable - A higher order component for loading components with promises.
+https://github.com/catc/react-timekeeper - Google Keep app inspired time picker for react 
+https://github.com/abraztsov/ReactSimpleFlexGrid - A way to quickly add a Grid Layout to your React app
+https://github.com/bvaughn/react-window - React components for efficiently rendering large lists and tabular data
+https://github.com/ArunMichaelDsouza/react-image-appear - Make images appear with transition as they load
+https://github.com/Stanko/react-animate-height - Lightweight React component for animating height using CSS transition
+https://github.com/chrisbolin/react-detect-offline - Offline and Online components for React
+https://github.com/FullStack-Academy-Kiev/react-chrome-extension - Chrome Extension boilerplate with ReactJS and vanilla JS
+https://github.com/madou/yubaba - Element to element animation orchestrator for React.js
+https://github.com/ghengeveld/react-async - Flexible promise-based React data loader
+https://github.com/deamme/laco - Ultra lightweight state management for React and Inferno
+https://github.com/oxyno-zeta/react-editable-json-tree - React Editable Json Tree
+https://github.com/fraserxu/react-dropdown -  A dead simple dropdown component for React 
+
 
