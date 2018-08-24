@@ -49,6 +49,8 @@ https://medium.com/dailyjs/offline-notice-in-react-native-28a8d01e8cd0
 https://medium.com/@505aaron/a-practical-react-native-problem-solved-with-the-context-api-eecaf2e05202
 https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062
 https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6
+https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838
+https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102
 
 
 ############################################ React Native Training #########################################################
@@ -66,6 +68,7 @@ https://medium.com/react-native-training/react-native-authentication-in-depth-pa
 https://medium.com/react-native-training/react-native-youtube-replica-f378200d91f0
 https://medium.com/react-native-training/ditching-setstate-for-mobx-766c165e4578
 https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce
+https://medium.com/react-native-training/building-a-react-native-game-with-rxjs-5-ced0e716bc73
 
 
 ################################################ Tutsplus ##################################################################
@@ -94,6 +97,7 @@ https://facebook.github.io/react-native/blog/2018/01/18/implementing-twitters-ap
 https://facebook.github.io/react-native/blog/2018/04/09/build-com-app.html
 https://facebook.github.io/react-native/blog/2018/05/07/using-typescript-with-react-native.html
 https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018
+https://facebook.github.io/react-native/blog/2018/08/13/react-native-accessibility-updates
 
 
 ###################################### Handlebar-labs ##################################################################
@@ -109,6 +113,7 @@ https://blog.expo.io/building-a-react-native-app-using-expo-and-typescript-part-
 https://blog.expo.io/introducing-sideswipe-a-cross-platform-carousel-for-react-native-8b9a0f18df53
 https://blog.expo.io/the-status-bar-manager-in-react-native-6226058ecba
 https://blog.expo.io/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09
+https://blog.expo.io/should-we-use-react-native-1465d8b607ac
 
 
 ###################################### Dev.To ##################################################################
@@ -194,6 +199,14 @@ https://brainhub.eu/blog/opencv-react-native-image-processing/
 https://www.simform.com/react-native-ecosystem-backend-database-best-libraries/
 https://daveceddia.com/perfect-pulled-pork-react-native-expo-express/
 https://blog.netcetera.com/react-native-the-native-parts-android-edition-42b480f10170
+https://www.nativescript.org/blog/would-airbnb-have-fared-better-with-nativescript-instead-of-react-native
+https://www.pubnub.com/tutorials/chatengine/react-native-android/how-to-build-a-chat-app/
+https://alligator.io/react/react-native-getting-started/
+https://alligator.io/react/roadmap-react-native-developer/
+https://school.shoutem.com/lectures/build-react-native-mobile-app-tutorial/
+https://www.uruit.com/blog/2018/07/25/xamarin-vs-react-native/
+https://www.toptal.com/react-native/cold-dive-into-react-native-a-beginners-tutorial
+https://www.itworld.com/article/3296736/react/react-native-javascript-framework-stumbles.html
 
 
 
@@ -273,6 +286,7 @@ https://www.youtube.com/watch?v=YnRALIjnRM4 - Composable Native APIs
 https://www.youtube.com/watch?v=p3smdLQauW8 - Cavy: Testing React Native apps
 https://www.youtube.com/watch?v=zoOAor88sVo - In-depth introduction to React-Native
 https://www.youtube.com/watch?v=gWegskGYCtA -  Build a Complete Stopwatch App in 60 Minutes
+https://www.youtube.com/watch?v=uO92uyrj7OQ - React Native Bootcamp - Day 1
 
 
 ###Miscellaneous Vids###
@@ -298,7 +312,7 @@ https://codedaily.io/screencasts/66/Use-Yarn-Workspaces-to-Share-Code-with-a-cre
 ### Links ###
 https://codecookbook.co - Recipies for delicious React Native apps
 https://github.com/vhpoet/react-native-styling-cheat-sheet - Most of the React Native styling material in one page
-http://reactionic.github.io/
+http://reactionic.github.io/ - Create iOS and Android apps with React and Ionic
 https://www.icicletech.com/blog/react-native-starter-kits - Mobile App Development With 8 Awesome React-Native Starter Kits
 https://shoutem.github.io/ui/ - Open-source UI toolkit for React Native
 https://www.decosoftware.com - New React Native IDE
