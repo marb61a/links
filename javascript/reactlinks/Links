@@ -77,7 +77,10 @@ https://www.youtube.com/watch?v=9Ilq6G-VMyQ - React's All New Context API
 https://www.youtube.com/watch?v=z-6JC0_cOns - React Suspense
 https://www.youtube.com/watch?v=DaL8qBzDNC0 - React renderer for your Smart home 
 https://www.youtube.com/watch?v=Et571vTAtT8 - Creating create-react-app 
-
+https://www.youtube.com/watch?v=UweDK_imADU - 10 Things to Know About ES6 Before Learning React
+https://www.youtube.com/watch?v=40vLRGOfmBU - Introduction to React form validation with hocForm
+https://www.youtube.com/watch?v=AiJ8tRRH0f8 - Kent C Dodds Simply React
+https://www.youtube.com/watch?v=cWY1QzyFhfk - Algebraic Effects, Fibers, Coroutines . . . Oh My
 
 
 ##Playlists & Channels
@@ -144,13 +147,20 @@ http://jamesknelson.com/wp-content/uploads/2016/01/react-with-babel-cheatsheet.p
 https://popmotion.io/pose/ - Declarative motion system for React, React Native, and vanilla JS
 https://legacy.gitbook.com/book/krasimir/react-in-patterns/details - Free E-Book
 http://www.electrode.io - Universal React/Node.js Application Platform
-http://roman01la.github.io/html-to-react-components/
+http://roman01la.github.io/html-to-react-components/ - Converts HTML pages into React components
 https://ygyooo.github.io/react-draggable-tags/ - React Draggable Tags
-https://facebook.github.io/react/docs/tutorial.html
+https://www.howtographql.com/?v1 - The Fullstack Tutorial for GraphQL
+https://facebook.github.io/react/docs/tutorial.html - Official React docs tutorial
 https://compositor.io/kit/ - Tools for developing, documenting, and testing React component libraries
+https://reakit.io - Toolkit for building interactive UIs with React
 https://sarneeh.github.io/reaptcha/ - reCAPTCHA for React.
-http://khan.github.io/react-components/
-http://reactjs.net
+http://khan.github.io/react-components/ - reusable components by Khan Academy
+https://reactpixi.org/#/ - React Fiber renderer for PIXI
+https://react-flame-graph.now.sh - A React component for visualizing profiling data.
+http://react-annotation.susielu.com - It is made for annotations in SVG
+https://catc.github.io/react-timekeeper/ - Time picker based on the style of the Android Google Keep app
+https://pau1fitz.github.io/react-slidez/ - Customisable React Slideshow Component
+https://stanko.github.io/react-animate-height/ - Lightweight, no dependency React component for animating height 
 https://jsx.github.io/doc/tutorial.html
 http://facebook.github.io/flux/docs/overview.html
 http://material-ui.com/#/
@@ -160,7 +170,7 @@ http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html
 http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react/
 http://reactcheatsheet.com - Cheat sheet for React Syntax
 https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
-http://jxnblk.com/rebass/
+http://jxnblk.com/rebass/ - Flexible & functional React design system
 https://www.draft-js-plugins.com - High quality plugins with great UX
 
 
