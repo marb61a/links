@@ -94,6 +94,7 @@ https://evilmartians.com/chronicles/zero-downtime-rebranding
 https://evilmartians.com/chronicles/evil-front-part-1
 https://evilmartians.com/chronicles/evil-front-part-2
 https://evilmartians.com/chronicles/evil-front-part-3
+https://evilmartians.com/chronicles/clowne-clone-ruby-models-with-a-smile
 
 
 ########################################### Mike Penham #########################################################
@@ -101,7 +102,8 @@ http://www.mikeperham.com/2015/07/16/sidekiq-and-upstart/
 http://www.mikeperham.com/2016/02/09/kill-your-dependencies/
 http://www.mikeperham.com/2016/05/17/commercial-gems/
 http://www.mikeperham.com/2016/08/05/debugging-stuck-ruby-processes/
-http://www.mikeperham.com/2017/11/13/getting-started-with-faktory/
+https://www.mikeperham.com/2017/11/13/getting-started-with-faktory/
+https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/
 
 
 ########################################### Speedshop #########################################################
@@ -127,6 +129,7 @@ https://andycroll.com/ruby/rescue-specific-errors-avoid-standarderror-do-not-res
 https://andycroll.com/ruby/use-simplecov/
 https://andycroll.com/ruby/choose-uuids-for-model-ids-in-rails/
 https://andycroll.com/ruby/extract-conditionals-into-well-named-methods/
+https://andycroll.com/ruby/check-your-database-indexes-for-activerecord-scopes/
 
 
 ########################################### Tenderlovemaking #########################################################
@@ -135,3 +138,28 @@ https://tenderlovemaking.com/2017/01/17/evented-gpio-on-raspberry-pi-with-ruby.h
 https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html
 https://tenderlovemaking.com/2017/09/27/visualizing-your-ruby-heap.html
 https://tenderlovemaking.com/2018/01/23/reducing-memory-usage-in-ruby.html
+https://tenderlovemaking.com/2018/02/12/speeding-up-ruby-with-shared-strings.html
+
+
+########################################### Scout App #########################################################
+http://blog.scoutapp.com/articles/2016/02/16/which-ruby-background-job-framework-is-right-for-you
+http://blog.scoutapp.com/articles/2016/05/31/3-postgresql-indexing-tricks-that-surprise-everyone
+http://blog.scoutapp.com/articles/2017/10/13/visualizing-rails-logs-with-jupyter-notebook
+http://blog.scoutapp.com/articles/2018/01/08/deploying-to-aws-part-i-running-a-rails-app-on-fargate
+http://blog.scoutapp.com/articles/2018/01/17/tutorial-distributed-tracing-in-ruby-with-opentracing
+http://blog.scoutapp.com/articles/2018/02/13/deploying-faktory-to-aws-fargate
+http://blog.scoutapp.com/articles/2018/02/20/deploying-a-faktory-worker-to-aws-fargate
+http://blog.scoutapp.com/articles/2018/03/15/setting-up-a-rails-app-for-codebuild-codedeploy-and-codepipeline-on-aws
+
+
+###################################### Ombulabs ####################################################
+http://www.ombulabs.com/blog/ruby/performance/using-bumbler-to-reduce-runtime-dependencies.html
+http://www.ombulabs.com/blog/ruby/imap/a-comprehensive-guide-to-interacting-with-imap-using-ruby.html
+http://www.ombulabs.com/blog/rspec/ruby/spy-vs-double-vs-instance-double.html
+http://www.ombulabs.com/blog/performance/rails/writing-fast-rails.html
+http://www.ombulabs.com/blog/rails/ruby/how-to-use-any-gem-in-production-console.html
+https://www.ombulabs.com/blog/rails/upgrades/active-record-5-1-api-changes.html
+https://www.ombulabs.com/blog/rails/upgrades/upgrade-rails-from-3-2-to-4-0.html
+https://www.ombulabs.com/blog/rails/upgrades/upgrade-rails-from-4-2-to-5-0.html
+
+
