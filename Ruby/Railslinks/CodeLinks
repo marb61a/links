@@ -408,5 +408,41 @@ https://github.com/rbspy/rbspy - Sampling profiler for Ruby
 https://github.com/lygaret/rack-params - `Rack::Request.params` validation and type coercion, on Rack.
 https://github.com/davydovanton/kan - Simple, light and functional authorization library
 https://github.com/piotrmurach/tty-markdown - Convert a markdown document or text into a terminal friendly output.
+https://github.com/emad-elsaid/rubrowser - a ruby code dependency graph interactive visualizer 
+https://github.com/fastlane/ci - Open source, self hosted, mobile optimized CI powered by fastlane 
+https://github.com/coinbase/traffic_jam - Ruby library for time-based rate limiting
+https://github.com/lfittl/pg_query - Ruby extension to parse, deparse and normalize SQL queries 
+https://github.com/leereilly/swot - Identify email addresses or domains names that belong to colleges or universities
+https://github.com/sevos/methods - making referencing methods in Ruby easy
+https://github.com/socketry/lightio - LightIO is a userland implemented green thread library for ruby
+https://github.com/fixerAPI/fixer - A foreign exchange rates and currency conversion API 
+https://github.com/igorkasyanchuk/log_analyzer - Rails logs analyzer 
+https://github.com/zverok/hm - Idiomatic Ruby hash transformations
+https://github.com/kwstannard/makery - Simple factory library
+https://github.com/Calamari/facebook-cleaner -  delete all the years from your Facebook
+https://github.com/toy/image_optim - Optimize images using multiple utilities
+https://github.com/globalize/globalize - Rails I18n de-facto standard library for ActiveRecord model/data translation.
+https://github.com/soutaro/steep - Gradual Typing for Ruby
+https://github.com/rubysec/ruby-advisory-db - A database of vulnerable Ruby Gems
+https://github.com/chrisfrank/rack-reducer - Dynamically filter and sort data via URL params, in any Rack app
+https://github.com/scoutapp/ruby_server_timing - Bring Rails server-side performance metrics to Chrome's Developer Tools
+https://github.com/github/licensed - A Ruby gem to cache and verify the licenses of dependencies
+https://github.com/rocketjob/semantic_logger - A feature rich logging framework
+https://github.com/markets/invisible_captcha -  Unobtrusive and flexible spam protection for Rails apps
+https://github.com/jnunemaker/flipper - feature flipping for ruby (performant and simple) 
+https://github.com/tagomoris/deferral - Golang-style defer in Ruby
+https://github.com/test-kitchen/test-kitchen - An integration tool for developing and testing infrastructure code
+https://github.com/danielpclark/faster_path - Faster Pathname handling for Ruby written in Rust
+https://github.com/doorkeeper-gem/doorkeeper - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.
+https://github.com/philnash/pwned - An easy, Ruby way to use the Pwned Passwords API.
+https://github.com/iorme1/Rails-DB-Interactive - JavaScript application used as a diagramming tool for RoR models
+https://github.com/fnando/browser - Do some browser detection with Ruby
+https://github.com/excid3/jumpstart - Jumpstart a new Rails application with a bunch of great features by default
+https://github.com/stebbins/cage-the-bird - A simple Ruby command line application for purging your Twitter account
+https://github.com/evait-security/envizon - network visualization tool with focus on red / blue team requirements
+https://github.com/kvokka/pp_sql - Rails ActiveRecord SQL queries log beautifier
+https://github.com/ankane/strong_migrations - Catch unsafe migrations at dev time
+https://github.com/ruby-grape/grape - An opinionated framework for creating REST-like APIs in Ruby
+https://github.com/janko-m/image_processing - High-level image processing helper methods
 
 
