@@ -14,6 +14,9 @@ https://eladnava.com/deploying-resilient-node-js-apps-with-forever-and-nginx/
 http://www.craigkerstiens.com/2015/12/08/massive-json/
 https://developer.atlassian.com/blog/2015/11/scripting-with-node/
 https://dzone.com/articles/multicore-programming-in-nodejs
+https://dzone.com/articles/testing-http-apis-with-supertest
+https://dzone.com/articles/how-to-use-twitter-api-using-nodejs
+https://dzone.com/articles/the-3-types-of-nodejs-profilers-you-should-know-ab
 https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/
 http://robdodson.me/deploying-your-first-node-dot-js-and-socket-dot-io-app-to-heroku/
 https://www.airpair.com/express/posts/expressjs-and-passportjs-sessions-deep-dive
@@ -33,9 +36,6 @@ http://www.infragistics.com/community/blogs/dhananjay_kumar/archive/2015/02/13/h
 http://www.tutorialsavvy.com/2014/05/web-sockets-with-socket-io-and-node-js.html/
 http://www.kogonuso.com/2015/09/better-beginners-guide-to-nodejs-server.html
 http://jxcore.com/using-jxcores-packaging-feature-to-deploy-ghost/
-https://www.toptal.com/nodejs/debugging-memory-leaks-node-js-applications
-https://www.toptal.com/nodejs/serverless-nodejs-using-google-cloud
-https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial
 http://rethinkdb.com/blog/node-4/
 http://ditrospecta.com/node/javascript/arduino/2015/11/29/introduction-arduino-node-plant.html
 http://zpalexander.com/blog/javascript-promises-node-js/
@@ -139,8 +139,6 @@ https://www.contentful.com/blog/2016/07/07/gitify-dependencies/
 http://blog.slatepeak.com/refactoring-a-basic-authenticated-api-with-node-express-and-mongo/
 https://azurelogic.com/posts/web-scraping-with-nightmare-js/
 http://nerds.intuo.io/2016/07/06/setup-cucumberjs-webdriverio-and-chai-js.html
-https://dzone.com/articles/testing-http-apis-with-supertest
-https://dzone.com/articles/how-to-use-twitter-api-using-nodejs
 http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/
 https://www.distelli.com/docs/tutorials/automated-mocha-tests-for-node
 https://www.distelli.com/docs/tutorials/test-your-nodejs-with-jasmine
@@ -259,8 +257,6 @@ https://daveceddia.com/create-react-app-express-production/
 http://blog.bitfinex.com/tutorial/bitfinex-loves-microservices-grenache/
 https://robertwpearce.com/blog/node-js-geocoding-proxy-with-paperplane.html
 http://nodewebapps.com/2017/06/18/how-do-nodejs-sessions-work/
-https://www.robinwieruch.de/react-express-stripe-payment/
-https://www.robinwieruch.de/postgres-express-setup-tutorial/
 https://www.xarg.org/2017/06/a-pure-javascript-dhcp-implementation/
 http://codingsans.com/blog/mongoose-models-using-typescript-classes
 https://www.valentinog.com/blog/memory-usage-node-js/
@@ -272,10 +268,12 @@ https://scalegrid.io/blog/using-redis-with-node-js-and-socket-io/
 https://thomashunter.name/blog/refactoring-a-nodejs-codebase-using-async-await/
 https://www.nodebeginner.org/blog/post/nodejs-tutorial-optimizing-code-performance-using-async/
 https://alligator.io/nodejs/uploading-files-multer-express/
+https://alligator.io/workflow/nodemon/
 https://developer.ibm.com/node/2017/07/24/capturing-diagnostic-dumps-node-js-applications-bluemix-container-service/
 https://vuejsdevelopers.com/2017/07/31/vue-component-publish-npm/
 https://serverless.com/blog/anatomy-of-a-serverless-app/
 https://serverless.com/blog/serverless-express-rest-api/
+https://serverless.com/blog/unit-testing-nodejs-serverless-jest/
 https://duo.com/blog/hunting-malicious-npm-packages
 https://www.oreilly.com/learning/building-a-simple-graphql-server-with-neo4j
 https://docs.microsoft.com/en-us/bot-framework/nodejs/bot-builder-nodejs-quickstart
@@ -283,9 +281,6 @@ https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-o
 http://rafaelsorto.com/nodejs/2017/how-to-configure-nodejs-with-nginx-and-phussion-passenger-using-nvm/
 http://pages.sencha.com/extreact-add-the-infinite-data-grid-to-react-web-apps-cp.html
 https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/
-https://www.nearform.com/blog/architecting-electron-applications-for-60fps/
-https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/
-https://www.nearform.com/blog/the-future-of-native-modules-in-node-js/
 https://tutorialzine.com/2017/08/automating-google-chrome-with-node-js
 https://boneskull.com/diy-object-recognition/
 https://qbox.io/blog/integrating-elasticsearch-into-node-js-application
@@ -320,6 +315,7 @@ https://blog.patricktriest.com/text-search-docker-elasticsearch/
 https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b
 https://learnk8s.io/blog/smaller-docker-images
 https://css-tricks.com/gotchas-publishing-modules-npm-bower/
+https://css-tricks.com/server-side-visualization-with-nightmare/
 http://ranjithnair.github.io/2018/01/30/Oauth-Express.html
 https://blog.solutotlv.com/graphql-to-mongodb-or-how-i-learned-to-stop-worrying-and-love-generated-query-apis/
 https://www.zeolearn.com/magazine/designing-a-rest-api-with-nodejs-and-mongodb-atlas
@@ -334,6 +330,7 @@ https://scalegrid.io/blog/how-to-build-a-url-shortener-with-node-js-and-mongodb/
 https://jj09.net/properly-measuring-http-request-time-with-node-js/
 https://code.visualstudio.com/docs/nodejs/nodejs-debugging
 https://blog.bitsrc.io/how-to-publish-multiple-packages-from-any-repository-in-5-minutes-9aafd31d85b7
+https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8
 https://nrempel.com/guides/docker-development-environment/
 http://www.sheshbabu.com/posts/tips-for-using-eslint-in-a-legacy-codebase/
 https://knolleary.net/2018/03/16/getting-node-red-to-one-million-downloads/
@@ -352,5 +349,17 @@ https://blog.maartenballiauw.be/post/2018/05/29/remote-debugging-node-js-azure-a
 https://blog.sicara.com/feature-flags-nodejs-continuous-delivery-c245264b52b4
 https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/
 https://quantizd.com/building-facebook-messenger-bot-with-nodejs/
+https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/
 https://codewithhugo.com/how-to-make-beautiful-simple-cli-apps-with-node/
+http://danhulton.com/2018/06/solving-the-node-require-path-problem-for-once-and-for-all/
+https://blog.truework.com/2018-07-09-s3-antivirus-lambda-function/
+https://boostlog.io/@anshulc95/twitter-sentiment-analysis-using-nodejs-5ad1331247018500491f3b6a
+https://andrewgriffithsonline.com/blog/serverless-websockets-on-aws/
+https://blog.bloomca.me/2018/07/09/nodejs-repl-in-depth.html
+https://stackimpact.com/blog/cpu-profiling-in-production-node-js-applications/
+http://jamesthom.as/blog/2018/07/10/debugging-node-dot-js-openwhisk-actions/
+http://jamesthom.as/blog/2018/08/07/machine-learning-in-node-dot-js-with-tensorflow-dot-js/
+https://stackabuse.com/using-sequelize-js-and-sqlite-in-an-express-js-app/
+https://www.alxolr.com/articles/squeeze-node-js-performance-with-flame-graphs
+
 
