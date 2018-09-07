@@ -19,6 +19,7 @@ https://nemethgergely.com/building-secure-javascript-applications/
 https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/
 https://nemethgergely.com/learning-go-as-a-nodejs-developer/
 https://nemethgergely.com/using-kubernetes-for-local-development/
+https://nemethgergely.com/deploying-nodejs-apps-to-kubernetes/
 
 
 ######################################## Codeship ##############################################
@@ -58,6 +59,7 @@ http://2ality.com/2017/12/for-await-of-sync-iterables.html
 http://2ality.com/2018/04/async-iter-nodejs.html
 http://2ality.com/2018/05/child-process-streams.html
 
+
 ######################################## Bandwidth ##############################################
 http://blog.bandwidth.com/creating-a-webrtc-app-with-typescript-and-bandwidth
 http://blog.bandwidth.com/building-a-sms-weather-and-image-bot
@@ -89,6 +91,7 @@ https://auth0.com/blog/integrating-node-dot-js-build-tools-with-maven/
 https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express/
 https://auth0.com/blog/developing-real-time-apps-with-meteor/
 https://auth0.com/blog/building-real-time-web-applications-using-wolkenkit/
+https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/
 
 
 ######################################## Dev.to ##############################################
@@ -98,6 +101,7 @@ https://dev.to/abiodunjames/build-a-todo-app-with-nodejs-expressjs-mongodb-and-v
 https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad
 https://dev.to/pmbanugo/offline-first-with-nodejs-and-hoodie-a-practical-introduction-to-progressive-web-apps-5f57
 https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless-2nc7
+https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k
 
 
 ######################################## Nic Raboy ##############################################
@@ -122,4 +126,27 @@ https://itnext.io/node-js-integration-testing-with-pact-js-1a2ea8aa3116
 https://itnext.io/call-graphql-api-with-native-node-modules-5e4d088ca969
 https://itnext.io/using-async-await-to-write-cleaner-route-handlers-7fc1d91b220b
 https://itnext.io/connecting-competing-microservices-using-rabbitmq-28e5269861b6
+https://itnext.io/you-can-now-write-google-cloud-functions-with-node-js-8-bd066ea6d4f5
+https://itnext.io/serverless-twitter-bot-with-google-cloud-35d370676f7
+
+
+######################################## Nearform ##############################################
+https://www.nearform.com/blog/architecting-electron-applications-for-60fps/
+https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/
+https://www.nearform.com/blog/the-future-of-native-modules-in-node-js/
+https://www.nearform.com/blog/introducing-clinic-bubbleprof-a-unique-way-to-visualise-node-js-code/
+
+
+######################################## Toptal ##############################################
+https://www.toptal.com/nodejs/debugging-memory-leaks-node-js-applications
+https://www.toptal.com/nodejs/serverless-nodejs-using-google-cloud
+https://www.toptal.com/javascript/asynchronous-javascript-async-await-tutorial
+https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial
+
+
+######################################## Robin Wieruch ##############################################
+https://www.robinwieruch.de/react-express-stripe-payment/
+https://www.robinwieruch.de/postgres-express-setup-tutorial/
+https://www.robinwieruch.de/why-apollo-advantages-disadvantages-alternatives/
+
 
