@@ -91,7 +91,13 @@ https://www.youtube.com/watch?v=N2S1sGr5fUc - Node.js with CI on Azure : Build 2
 https://www.youtube.com/watch?v=_H_HskEf-0U - Using Node.js to Build for the Enterprise : Build 2018
 https://www.youtube.com/watch?v=z25CPqJMFUk - Building Light weight Microservices Using Redis 
 https://www.youtube.com/watch?v=teDVlOjOCT0 - ECMAScript Modules In Node
-https://www.youtube.com/watch?=v=M3BM9TB-8yA - 10 Things I Regret About Node.js - Ryan Dahl 
+https://www.youtube.com/watch?v=M3BM9TB-8yA - 10 Things I Regret About Node.js - Ryan Dahl 
+https://www.youtube.com/watch?v=RWE6aV7p0Wk - Creating Enterprise Web Applications with Node.js
+https://www.youtube.com/watch?v=SrNQS8J67zc - Asynchrony: Under the Hood
+https://www.youtube.com/watch?v=KkHnAmiegiQ - Building full-stack Node.js web apps with Visual Studio Code
+https://www.youtube.com/watch?v=dICWa7cwbdA - A day in the life of a Node.js Core Contributor 
+https://www.youtube.com/watch?v=LoziivfAAjE - Intro To Web Scraping With Node.js & Cheerio
+https://www.youtube.com/watch?v=q9xHD_PqNpQ - Node.js Foundation Enterprise Tech Conversation
 
 
 ##Pusher Videos
@@ -136,19 +142,23 @@ https://medium.com/@c2c/my-7-node-js-mantras-edd6c148e8dc
 http://bookshelfjs.org -  a JavaScript ORM for Node.js, built on the Knex SQL query builder
 http://blog.tonicdev.com/2015/09/30/embedded-tonic
 http://adonisjs.com/ - a Node.js web framework
-http://nodeframework.com/index.html#home
 http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story
 http://www.manifoldjs.com - Generate your Progressive Web App
-http://codecept.io/
+https://pdfshift.io/ - Convert HTML documents to PDF
+http://codecept.io/ - MODERN ERA ACCEPTANCE TESTING FOR NODEJS
 http://mongoosejs.com - elegant mongodb object modeling for node.js
 http://www.data-forge-js.com - JavaScript data wrangling, transformation and analysis toolkit
 http://mathjs.org - An extensive math library for JavaScript and Node.js
-http://s-a.github.io/iron-node/
+http://s-a.github.io/iron-node/ - Powerful JavaScript debugging for Node.js
 https://www.graphile.org/postgraphile/ - Instant GraphQL API for PostgreSQL database
 http://strapi.io - Advanced open-source Content Management Framework 
 http://nodeontrain.xyz/ - The web's scaffolding tool for Full Stack Developer
 https://www.urbanairship.com/blog/introducing-frock-easy-fake-services-for-a-microservices-environment
-http://wordexpress.io/
+https://start.js.org - Functional task runner for Node.js
+https://prepack.io - A tool for making JavaScript code run faster.
+https://eng.uber.com/fusionjs/ - A Plugin-based Universal Web Framework
+http://wordexpress.io/ - Develop WordPress sites using modern front-end frameworks like React and Vue.
+https://mux.com/ - API to video hosting and streaming
 https://www.npmjs.com/package/scalable-blob-store
 http://www.actionherojs.com/ - reusable, scalable, and quick node.js API serve
 https://parall.ax/vtop - A Terminal Activity Monitor in Node.js
@@ -160,11 +170,10 @@ http://perkframework.com/ - A node framework built on three core tenets: documen
 http://markojs.com/ - A high performance templating engine 
 http://merencia.com/node-cron/ - A tiny task scheduler in pure JavaScript 
 https://nmotw.in/node-wifi-scanner/ - Node Module Of The Week
-http://veriacms.com/
 https://stdlib.com/ - The Standard Library of the Internet
-http://www.nodebb.org/
+http://www.nodebb.org/ - next generation forum software
 https://thorinjs.com/ - Thorin.js is the Node.js framework that you can use to easily
-http://lorenzopicoli.github.io/Sark/
+http://lorenzopicoli.github.io/Sark/ - Build and run Xcode projects from anywhere!
 https://hyperterm.org/ - JS/HTML/CSS Terminal
 http://keystonejs.com/ - Node.js CMS & Web Application Platform 
 http://everythingstays.com/ - Immutable & Distributed NodeJS Modules With IPFS
