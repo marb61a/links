@@ -629,5 +629,41 @@ https://github.com/o1lab/xmysql -  One command to generate REST APIs for any MyS
 https://github.com/microlinkhq/async-ratelimiter - Rate limit made simple, easy, async.
 https://github.com/e-oj/grabity - Generate link previews from pages with Open Graph or Twitter Cards markup
 https://github.com/sindresorhus/ora - Elegant terminal spinner
-
+https://github.com/sindresorhus/terminal-image - Display images in the terminal
+https://github.com/portable-cto/rss-to-email - Generate HTML email from your RSS feeds 
+https://github.com/ylorenzana/node-express-api-auth/tree/master - Boilerplate for API auth following secure standards.
+https://github.com/terkelg/tiny-glob - Super tiny and ~350% faster alternative to node-glob
+https://github.com/jiahaog/nativefier - Make any web page a desktop application
+https://github.com/pbojinov/request-ip - A Node.js module for retrieving a request's IP address on the server.
+https://github.com/prahladyeri/http-live-simulator - A simple HTTP Server that serves with random delay for live simulation.
+https://github.com/dmfay/massive-js - A data mapper for Node.js and PostgreSQL
+https://github.com/walaura/postcss-xml-transform - A tiny transform library that lets you write CSS using XML
+https://github.com/mixn/carbon-now-cli - Beautiful images of your code — from right inside your terminal.
+https://github.com/awslabs/aws-serverless-express - Run serverless applications and REST APIs
+https://github.com/klauscfhq/singlie -  Singly circular & linear linked lists for ES6
+https://github.com/Shmakov/Honeypot - Low interaction honeypot that displays real time attacks
+https://github.com/stephanmax/ephemeral-tweets - Automatically delete your old tweets with Node.js and webtask
+https://github.com/imbrn/v8n - JavaScript fluent validation library 
+https://github.com/ramhejazi/draxt - NodeList-like/jQuery-like package for File System (node.js)
+https://github.com/kroitor/asciichart - Nice-looking lightweight console ASCII line charts
+https://github.com/jorgebucaran/colorette - Node.js library for colorizing text using ANSI escape sequences
+https://github.com/klauscfhq/signale - Hackable console logger
+https://github.com/deepsweet/start - Functional task runner for Node.js
+https://github.com/natergj/excel4node - Node module to allow for easy Excel file creation
+https://github.com/danielstjules/jsinspect - Detect copy-pasted and structurally similar code
+https://github.com/facebook/prepack - A JavaScript bundle optimizer
+https://github.com/skonves/express-http-context - Get and set request-scoped context anywhere
+https://github.com/faressoft/terminalizer - Record your terminal and generate animated gif images
+https://github.com/vshymanskyy/node-inline-cpp - Inline C++ with Node.js
+https://github.com/simonepri/upash - Unified API for password hashing algorithms
+https://github.com/cdimascio/uuid-mongodb - Generates and parses MongoDB BSON UUIDs
+https://github.com/klauscfhq/taskbook - Tasks, boards & notes for the command-line habitat
+https://github.com/vialer/vialer-js - Pluggable WebRTC softphone and communication platform.
+https://github.com/zeeshanu/dumper.js - better and pretty variable inspector for your Node.js applications
+https://github.com/AriaMinaei/pretty-error - See node.js errors with less clutter
+https://github.com/deepsweet/chromium-headless-remote -  Dockerized Chromium in headless remote debugging mode
+https://github.com/tuananh/camaro - An utility to transform XML to JSON
+https://github.com/caiogondim/fast-memoize.js - Fastest possible memoization library
+https://github.com/yinxin630/fiora - An interesting chat application power by socket.io
+https://github.com/devlucky/Kakapo.js - Next generation mocking framework in Javascript
 
