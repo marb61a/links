@@ -71,6 +71,8 @@ https://scotch.io/tutorials/how-to-host-a-node-js-app-on-digital-ocean
 https://scotch.io/tutorials/create-a-custom-slack-slash-command-with-nodejs-and-express
 https://scotch.io/bar-talk/serverless-development-with-node-mongodb-atlas-and-aws-lambda
 https://scotch.io/tutorials/how-to-test-nodejs-apps-using-mocha-chai-and-sinonjs
+https://scotch.io/tutorials/debugging-node-code-in-vs-code
+https://scotch.io/tutorials/build-and-understand-a-simple-nodejs-website-with-user-authentication
 
 
 ######################################## Medium ##############################################
@@ -161,6 +163,7 @@ https://medium.com/intrinsic/creating-and-integrating-a-node-lambda-function-wit
 https://medium.com/containerum/how-to-setup-ci-cd-workflow-for-node-js-apps-with-jenkins-and-kubernetes-360fd0499556
 https://medium.com/@maison.moa/create-a-simple-weather-app-using-node-js-express-and-react-54105094647a
 https://medium.com/@anephenix/end-to-end-testing-single-page-apps-and-node-js-apis-with-cucumber-js-and-puppeteer-ad5a519ace0
+https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9
 
 
 ######################################## DailyJS ##############################################
@@ -171,6 +174,8 @@ https://medium.com/dailyjs/getting-started-with-hapi-17-1e63ed625b2c
 https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2
 https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017
 https://medium.com/dailyjs/async-generators-as-an-alternative-to-state-management-f9871390ffca
+https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953
+https://medium.com/dailyjs/compiler-in-javascript-using-antlr-9ec53fd2780f
 
 
 ######################################## FreeCodeCamp ##############################################
@@ -190,6 +195,7 @@ https://medium.freecodecamp.org/heres-how-you-can-actually-use-node-environment-
 https://medium.freecodecamp.org/how-to-write-powerful-schemas-in-javascript-490da6233d37
 https://medium.freecodecamp.org/a-crash-course-on-securing-serverless-apis-with-json-web-tokens-ff657ab2f5a5
 https://medium.freecodecamp.org/build-a-node-js-command-line-chat-application-with-chatkit-8d0c4546085e
+https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78
 
 
 ######################################## Risingstack ##############################################
@@ -260,6 +266,8 @@ https://blog.risingstack.com/distributed-tracing-opentracing-node-js/
 https://blog.risingstack.com/measuring-http-timings-node-js/
 https://blog.risingstack.com/mastering-the-node-js-core-modules-the-process-module/
 https://blog.risingstack.com/consumer-driven-contract-testing-with-pact/
+https://blog.risingstack.com/deploying-a-stateful-application-on-google-cloud-kubernetes-engine/
+https://blog.risingstack.com/deploying-a-stateful-application-on-azure-kubernetes-service-aks/
 
 
 ########################################### The NodeJS Collection #################################################
@@ -353,6 +361,7 @@ https://www.twilio.com/blog/2017/10/chat-interfaces-react-javascript.html
 https://www.twilio.com/blog/2017/10/serverless-framework-plugin-aws-lambda-javascript.html
 https://www.twilio.com/blog/2017/11/securing-your-express-app.html
 https://www.twilio.com/blog/2018/01/protect-your-node-js-app-from-cross-site-request-forgery.html
+https://www.twilio.com/blog/2018/06/installable-web-apps-practical-introduction-progressive-web-apps.html
 
 
 ######################################## Hackernoon ##############################################
@@ -391,6 +400,10 @@ https://hackernoon.com/building-a-static-blog-using-gatsby-and-strapi-8b5acfc82a
 https://hackernoon.com/debugging-node-without-restarting-processes-bd5d5c98f200
 https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512
 https://hackernoon.com/efficiently-snapshotting-spas-with-puppeteer-c4c77aa2831b
+https://hackernoon.com/testing-node-js-in-2018-10a04dd77391
+https://hackernoon.com/scrape-websites-for-information-easily-using-code-xyz-and-node-js-8be3e2f938ab
+https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe
+https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f
 
 
 ######################################## Thisdavej ##############################################
@@ -489,6 +502,8 @@ https://nodesource.com/blog/how-you-can-start-contributing-to-node-js-today
 https://nodesource.com/blog/orchestrating-nodejs-containers-with-kubernetes
 https://nodesource.com/blog/understanding-how-node-js-release-lines-work
 https://nodesource.com/blog/scalable-nodejs-with-kubernetes-and-google-kubernetes-engine/
+https://nodesource.com/blog/a-high-level-post-mortem-of-the-eslint-scope-security-incident
+https://nodesource.com/blog/the-age-of-node-js-and
 
 
 ######################################## Code Barbarian ##############################################
@@ -506,13 +521,14 @@ http://thecodebarbarian.com/managing-connections-with-the-mongodb-node-driver.ht
 http://thecodebarbarian.com/whats-new-in-mongoose-5-improved-post-hooks.html
 http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-array-filters.html
 http://thecodebarbarian.com/using-promise-finally-in-node-js.html
-http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-lookup-expr.html
-http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-change-streams.html
+https://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-lookup-expr.html
+https://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-change-streams.html
 https://thecodebarbarian.com/getting-started-with-ibm-cloud-functions-and-mongodb.html
 https://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html
 https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html
 https://thecodebarbarian.com/getting-started-with-ripple-xrp-and-node-js.html
 https://thecodebarbarian.com/stock-price-notifications-with-mongoose-and-mongodb-change-streams.html
+https://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html
 
 
 ######################################## Codeburst ##############################################
