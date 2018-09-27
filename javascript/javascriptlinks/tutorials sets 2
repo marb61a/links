@@ -20,6 +20,7 @@ https://www.sitepoint.com/beginners-guide-webpack-module-bundling/
 https://www.sitepoint.com/capture-and-report-javascript-errors-with-window-onerror/
 https://www.sitepoint.com/debugging-javascript-projects-vs-code-chrome-debugger/
 https://www.sitepoint.com/an-introduction-to-sails-js/
+https://www.sitepoint.com/flow-control-callbacks-promises-async-await/
 
                      
 ######################## JQuery  ############################
@@ -107,6 +108,7 @@ https://www.sitepoint.com/getting-started-with-codemods/
 https://www.sitepoint.com/mvc-design-pattern-javascript/
 https://www.sitepoint.com/javascript-functions-that-define-and-rewrite-themselves/
 https://www.sitepoint.com/hello-world-your-first-javascript-programs/
+https://www.sitepoint.com/optimization-auditing-a-deep-dive-into-chromes-dev-console/
                             
                             
 ######################## Graphics ############################
@@ -219,6 +221,7 @@ https://dev.to/aspittel/functional-programming-in-javascript-done-right-with-hyp
 https://dev.to/kepta/promising-promise-tips--c8f
 https://dev.to/sammyisa/optional-chaining-may-be-coming-to-javascript--4ff0
 https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless-2nc7
+https://dev.to/adnanrahic/building-a-serverless-contact-form-with-aws-lambda-and-aws-ses-4jm0
 
 
 #################################################### Alligator #############################################################
@@ -282,11 +285,36 @@ https://scotch.io/tutorials/list-processing-with-map-filter-and-reduce
 https://scotch.io/tutorials/build-a-ssr-app-with-preact-unistore-and-preact-router
 
 
-####################################### The Polyglot Developer #########################################################
+####################################### The Polyglot Developer ##################################################
 https://www.thepolyglotdeveloper.com/2017/10/consume-api-data-http-vuejs-web-application/
 https://www.thepolyglotdeveloper.com/2017/11/router-navigate-pages-vuejs-application/
 https://www.thepolyglotdeveloper.com/2017/11/pass-data-between-routes-vuejs-web-application/
 https://www.thepolyglotdeveloper.com/2017/11/navigate-nested-child-routes-vuejs-web-application/
 https://www.thepolyglotdeveloper.com/2018/04/vuejs-app-using-axios-vuex/
+
+
+########################################### ITNext ###########################################################
+https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3
+https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db
+https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
+https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a
+https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07
+
+
+########################################### Google ###########################################################
+https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback
+https://developers.google.com/web/updates/2018/05/bigint
+https://developers.google.com/web/updates/2018/03/smooshgate
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/
+https://developers.google.com/web/fundamentals/primers/modules
+https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/
+
+
+########################################### Sessionstack ###########################################################
+https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec
+https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
+https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
+https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e
+https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab
 
 
