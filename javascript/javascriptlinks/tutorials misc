@@ -12,11 +12,6 @@ http://www.pubnub.com/blog/webrtc-video-chat-app-in-20-lines-of-javascript/
 https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/
 https://www.pubnub.com/blog/integrate-embeddable-gifs-into-a-realtime-chat-app-with-giphy-api-and-blocks/
 https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/
-https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback
-https://developers.google.com/web/updates/2018/05/bigint
-https://developers.google.com/web/updates/2018/03/smooshgate
-https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/
-https://developers.google.com/web/fundamentals/primers/modules
 http://blog.rangle.io/angular-gulp-bestpractices/
 http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/
 https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays
@@ -262,11 +257,8 @@ http://jackhiston.com/2017/9/4/the-wonderful-world-of-webpack/
 https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274
 https://blog.codeship.com/building-a-simple-notes-manager-with-vue-js/
 https://www.valentinog.com/blog/test-driven-api-koa-2-mocha-chai/
-https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec
-https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5
-https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
-https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e
 https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros
+https://babeljs.io/blog/2018/06/26/on-consuming-and-publishing-es2015+-packages
 https://monades.roperzh.com/get-to-know-the-actor-model/
 https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/
 http://nikgrozev.com/2017/10/01/async-await/
@@ -288,10 +280,13 @@ https://nextjournal.com/dubroy/ohm-parsing-made-easy
 https://www.robinwieruch.de/linear-algebra-matrix-javascript/
 https://www.robinwieruch.de/neural-networks-deeplearnjs-javascript/
 https://www.robinwieruch.de/react-graphql-apollo-tutorial/
+https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/
 https://news.thisdot.co/what-is-rxjs-and-why-you-should-know-about-it-2a5afe58cea
 https://x-team.com/blog/react-vue-component-integration/
 https://tylermcginnis.com/arrow-functions
+https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
 https://remysharp.com/2017/10/25/es6-default-arguments
+https://remysharp.com/2018/06/26/an-adventure-in-sparse-arrays
 https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795
 http://codersblock.com/blog/javascript-physics-with-matter-js/
 https://hughfdjackson.com/javascript/does-curry-help/
@@ -306,6 +301,7 @@ https://blog.photopea.com/even-better-png-minification.html
 https://nickdrane.com/build-your-own-regex/
 https://blog.bloomca.me/2017/12/04/how-to-cancel-your-promise.html
 https://blog.bloomca.me/2018/01/27/asynchronous-reduce-in-javascript.html
+https://blog.bloomca.me/2018/06/21/nodejs-guide-for-frontend-developers.html
 https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2
 https://semaphoreci.com/community/tutorials/testing-angular-2-and-continuous-integration-with-jest
 https://www.stefanjudis.com/today-i-learned/the-global-reflect-object-its-use-cases-and-things-to-watch-out-for/
@@ -340,10 +336,6 @@ https://aws.amazon.com/blogs/mobile/building-a-serverless-real-time-chat-applica
 https://circleci.com/blog/preserve-build-integrity-prevent-problems-deterministic-builds/
 https://blog.cloudflare.com/cloudflare-workers-unleashed/
 https://blog.cloudflare.com/building-a-serverless-slack-bot-using-cloudflare-workers/
-https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3
-https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db
-https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
-https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a
 http://www.sheshbabu.com/posts/tips-for-using-eslint-in-a-legacy-codebase/
 https://www.stefanjudis.com/today-i-learned/the-complicated-syntax-of-lookaheads-in-javascript-regular-expressions/
 https://towardsdatascience.com/gpu-accelerated-neural-networks-in-javascript-195d6f8e69ef
@@ -360,6 +352,7 @@ https://blog.sourcerer.io/complete-introduction-to-async-functions-and-es6-modul
 http://highscalability.com/blog/2018/4/23/strategy-use-tensorflowjs-in-the-browser-to-reduce-server-co.html
 https://ckeditor.com/blog/CKEditor-5-v10.0.0-the-future-of-rich-text-editing-looks-stable/
 https://flaviocopes.com/javascript-regular-expressions/
+https://flaviocopes.com/javascript-dates/
 https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/
 https://www.atyantik.com/proxy-javascript-es6-feature/
 https://tech.holidayextras.com/parceljs-how-simple-really-is-it-679a4feba69d
@@ -368,5 +361,16 @@ https://yarnpkg.com/blog/2018/06/04/yarn-import-package-lock/
 https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript
 https://blog.graphql.guide/introducing-the-graphql-guide-11a5ae48628a
 https://frontendmayhem.com/writing-your-own-eslint-plugins/
+https://blog.pulumi.com/building-your-first-serverless-app-using-only-javascript
+https://intoli.com/blog/python-slicing-in-javascript/
+http://www.zsoltnagy.eu/es2017-object-and-string-extensions/
+https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505
+https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308
+https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c
+https://blog.bitsrc.io/stateful-monads-in-javascript-part-2-7a6fa65f0ad9
+https://enlight.nyc/projects/y-combinator/
+https://blog.kentcdodds.com/why-i-never-use-shallow-rendering-c08851a68bb7
+https://blog.kentcdodds.com/what-is-a-polyfill-acab87e8481e
+https://uxdesign.cc/crafting-beautiful-ux-with-api-requests-56e7dcc2f58e
 
 
