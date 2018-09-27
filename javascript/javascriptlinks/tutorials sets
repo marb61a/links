@@ -56,6 +56,8 @@ https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e
 https://medium.com/purse-essays/introducing-bcoin-fdfcb22dfa34#.4nb85hbfx
 https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.3lbp6950n
 https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.9t474h51k
+https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747
+https://medium.com/@kentcdodds/glamorous-v4-is-here-c678fe02a39a
 https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776#.n5eywixta
 https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem-7dfeb1aafde0#.77leqvb1w
 https://medium.com/javascript-inside/introduction-to-functional-front-ends-with-inferno-side-effects-and-routing-a8b226c47b0f#.ofbyf1ozk
@@ -70,8 +72,6 @@ https://medium.com/statuscode/cors-a-guided-tour-4e72230a8739
 https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a
 https://medium.com/@darrenjennings/data-driven-vue-js-53e84f16e28f
 https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358
-https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747
-https://medium.com/@kentcdodds/glamorous-v4-is-here-c678fe02a39a
 https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7
 https://medium.com/the-guardian-mobile-innovation-lab/generating-images-in-javascript-without-using-the-canvas-api-77f3f4355fad
 https://medium.com/@tkh44/emotion-ad1c45c6d28b
@@ -80,6 +80,8 @@ https://medium.com/burke-knows-words/introducing-express-react-starter-b6d299206
 https://medium.appbase.io/how-to-build-a-github-search-ui-in-60-minutes-295109211c70
 https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6
 https://medium.com/front-end-hacking/dont-be-afraid-of-headless-chrome-learn-why-and-how-to-use-it-for-ember-testing-e43710f4d443
+https://medium.com/front-end-hacking/javascript-symbols-generators-and-streams-1f6ef0fb1fdc
+https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a
 https://medium.com/@mikeal/modern-modules-d99b6867b8f1
 https://medium.com/@zandaqo/javascript-c-modern-ways-to-use-c-in-javascript-projects-a19003c5a9ff
 https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720
@@ -89,8 +91,6 @@ https://medium.com/@urish/reactive-brain-waves-af07864bb7d4
 https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d
 https://medium.com/@gajus/ode-to-flow-runtime-ed78b2e10ec8
 https://medium.cobeisfresh.com/how-redux-can-make-you-a-better-developer-30a094d5e3ec
-https://medium.com/front-end-hacking/javascript-symbols-generators-and-streams-1f6ef0fb1fdc
-https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a
 https://medium.com/@jdolle/babel-7-beta-instructions-aed5cf17048b
 https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e
 https://medium.com/@muehler.v/node-js-meets-opencvs-deep-neural-networks-fun-with-tensorflow-and-caffe-ff8d52a0f072
@@ -106,6 +106,16 @@ https://medium.com/@timurcatakli/an-easy-to-understand-webpack-4-configuration-f
 https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5
 https://medium.com/@anildash/what-if-javascript-wins-84898e5341a
 https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3
+https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18
+https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
+https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d
+https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408
+https://medium.com/sthima-insights/taming-the-dragon-using-llnode-to-debug-your-node-js-application-fc54c6efd0f1
+https://medium.com/@rolandpeelen/function-composition-currying-in-real-life-e74c86302205
+https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd
+https://medium.com/launch-school/javascript-weekly-fundamental-object-design-patterns-31453f68427f
+https://medium.com/@kristyburge/why-this-is-so-powerful-in-javascript-34116f1ca5f2
+https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675
 
 
 ###################################### DailyJS ###########################################################
@@ -117,6 +127,7 @@ https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-socket
 https://medium.com/dailyjs/the-why-behind-the-wat-an-explanation-of-javascripts-weird-type-system-83b92879a8db
 https://medium.com/dailyjs/decoupling-business-logic-using-async-generators-cc257f80ab33
 https://medium.com/dailyjs/the-trouble-with-d3-4a84f7de011f
+https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953
 
 
 ###################################### Eric Elliot ###########################################################
@@ -162,6 +173,9 @@ https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-a
 https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c
 https://medium.freecodecamp.org/immutable-js-is-intimidating-heres-how-to-get-started-2db1770466d6
 https://medium.freecodecamp.org/learn-to-visualize-data-with-this-free-d3-js-course-2433b060f9dc
+https://medium.freecodecamp.org/become-a-developer-and-get-your-first-job-fast-7b8ac26d84c6
+https://medium.freecodecamp.org/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e
+https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3
 
 
 ####################################### Telerik ###########################################################
@@ -188,6 +202,7 @@ https://developer.telerik.com/content-types/tutorials/im-not-using-jquery/
 https://www.telerik.com/blogs/how-to-javascript-in-2018
 https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli
 https://www.telerik.com/blogs/building-pwas-with-vuejs
+https://www.telerik.com/blogs/hello-vue-a-quick-tutorial-on-getting-started-with-vue
 
 
 ####################################### 2Ality ###########################################################
@@ -292,6 +307,9 @@ https://www.smashingmagazine.com/2018/03/web-midi-api/
 https://www.smashingmagazine.com/2018/04/vuejs-firebase-firestore/
 https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/
 https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/
+https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/
+https://www.smashingmagazine.com/2018/07/mobile-apps-capacitor-vue-js/
+https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/
 
 
 ####################################### Auth0 ###########################################################
@@ -307,6 +325,7 @@ https://auth0.com/blog/understanding-reactive-programming-and-rxjs/
 https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-1/
 https://auth0.com/blog/developing-real-time-apps-with-meteor/
 https://auth0.com/blog/webpack-a-gentle-introduction/
+https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/
 
 
 ####################################### Risingstack ###########################################################
@@ -357,6 +376,9 @@ https://css-tricks.com/gotchas-publishing-modules-npm-bower/
 https://css-tricks.com/build-a-custom-vue-router/
 https://css-tricks.com/understanding-the-almighty-reducer/
 https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/
+https://css-tricks.com/building-renderless-vue-components/
+https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/
+https://css-tricks.com/adding-particle-effects-to-dom-elements-with-canvas/
 
 
 ####################################### Hackernoon ###########################################################
@@ -379,6 +401,9 @@ https://hackernoon.com/surveyjs-an-open-source-javascript-survey-library-with-ve
 https://hackernoon.com/architecting-single-page-applications-b842ea633c2e
 https://hackernoon.com/the-comprehensive-beginners-guide-to-javascript-geolocation-tracking-11f7a1bba400
 https://hackernoon.com/async-await-generators-promises-51f1a6ceede2
+https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-hyperapp-97f064fb468d
+https://hackernoon.com/how-to-stop-using-callbacks-and-start-living-1e5ed92e68e8
+https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe
 
 
 ####################################### Pusher ###########################################################
@@ -415,4 +440,5 @@ https://codeburst.io/javascript-null-vs-undefined-20f955215a2
 https://codeburst.io/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7
 https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2
 https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a
+https://codeburst.io/why-web-workers-make-javascript-more-than-a-single-thread-3d489ffad502
 
