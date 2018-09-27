@@ -97,6 +97,10 @@ https://www.youtube.com/watch?v=c2PGgkCIjEA - Heres how JavaScript "Named Params
 https://www.youtube.com/watch?v=mIWCLOftfRw - Build the future of the web with modern JavaScript
 https://www.youtube.com/watch?v=5nmpokoRaZI - JavaScript Engines: The Good Parts
 https://www.youtube.com/watch?v=tjpsedQ-ZbI - Coding Your Own Discord Bot - Discord.js
+https://www.youtube.com/watch?v=arNtoWxBuXc - Write Perfect Code with Standard and ESLint
+https://www.youtube.com/watch?v=SrNQS8J67zc - Asynchrony: Under the Hood
+https://www.youtube.com/watch?v=SV-cgdobtTA - Deep Learning in JS
+https://www.youtube.com/watch?v=RIct51T6ZoA - Native JavaScript modules
 
 
 ##Vimeo
@@ -148,6 +152,8 @@ http://thisdot.co/javascript/01-2017
 https://www.youtube.com/playlist?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_#jsconfeu2017 - JSConf EU 2017
 https://www.youtube.com/playlist?list=PLS8HfBXv9ZWWe8zXrViYbIM2Hhylx8DZx#supermario - Super Mario Bros in JavaScript
 https://adamwathan.me/the-trick-to-understanding-scoped-slots-in-vuejs/
+https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx - Coding TensorFlow
+
 
 
 ##Podcasts
@@ -158,28 +164,34 @@ https://softwareengineeringdaily.com/2017/03/31/webassembly-with-brendan-eich/
 http://frontendhappyhour.com - A podcast featuring a panel of Software Engineers from Netflix, Evernote & LinkedIn 
 https://jcbrand.github.io/pluggable.js/ - lets you make your JS project extendable via plugins
 http://nickersoft.github.io/push.js/ - JAVASCRIPT NOTIFICATIONS FOR EVERY BROWSER
-http://d3indepth.com - D3 information to bridge the gap between tutorials and documenttation
+http://d3indepth.com - D3 information to bridge the gap between tutorials and documentation
 http://www.chartjs.org/ - Simple yet flexible JavaScript charting for designers & developers
+https://doesitmutate.xyz - Does it mutate
+https://www.docz.site - It's never been easier to document your things
 https://rumbleinc.github.io/rumble-js-charts/
 https://nerv.aotu.io - A blazing fast React alternative, compatible with IE8 and React 16.
-http://3d-transforms.webflow.com/
+https://oncebot.github.io/pushbar.js/ - Javascript plugin for creating sliding drawers in web apps
+http://3d-transforms.webflow.com/ -  lets you create 3D CSS transforms — without writing code.
+https://rete.js.org/#/ - a modular framework for visual programming
 https://nhnent.github.io/tui.editor/ - GFM Markdown WYSIWYG Editor
 http://izimodal.marcelodolce.com - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 https://sweetalert.js.org - A beautiful replacement for various messages
 https://pagedraw.io - The best UI builder for the web
 https://atomiks.github.io/tippyjs/ - A highly customizable vanilla JS tooltip & popover library
-http://ottomanjs.com/
-http://careerjs.com - A podcast where three JavaScript developers discuss strategies and tips to help your career as a software developer.
+http://ui.toast.com/tui-image-editor/ - Full-featured photo image editor using canvas
+http://ottomanjs.com/ - ODM built for Couchbase and Node.js
+http://careerjs.com - A podcast where 3 JS developers discuss strategies and tips to help your career.
 https://neokoenig.github.io/jQuery-gridmanager/
 https://pqina.nl/filepond/ - A JavaScript library that can upload anything you throw at it
 https://slimerjs.org - A scriptable browser for Web developers
-http://www.nealjs.com/Home
+https://vuestic.epicmax.co/#/admin/dashboard -  Vue.js admin dashboard
 http://www.hygen.io - The scalable code generator that saves you time.
 https://community.algolia.com/instantsearch.js/
 http://mojs.io/ - Motion for the web
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 http://www.react.express - Guide to React application development
-http://responsifyjs.space/
+https://z-pattern-matching.github.io - Native Pattern Matching for Javascript
+http://responsifyjs.space/ - Responsify.js A jquery plugin that makes images truly responsive
 https://github.com/mbeaudru/modern-js-cheatsheet - ES6 Cheet Sheet
 https://es6cheatsheet.com/ -interactive ES6 cheatsheet
 http://imagesloaded.desandro.com
@@ -187,7 +199,7 @@ http://wangchujiang.com/hotkeys/ - http://wangchujiang.com/hotkeys/
 http://www.javascriptkit.com/javatutors/ - JavaScript Tutorials
 https://golden-layout.com/ - a multi-screen layout manager for webapps (tutorials available)
 http://substance.io/ - A JavaScript library for web-based content editing
-http://allegrojs.net/
+http://allegrojs.net/ - a HTML5 game making library
 http://www.mancy-re.pl/ - A cross platform NodeJS REPL application based on Electron and React frameworks
 https://display.js.org - A simple JavaScript framework for building ambitious UIs
 https://esdiscuss.org
