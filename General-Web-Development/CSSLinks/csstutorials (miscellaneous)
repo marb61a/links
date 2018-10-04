@@ -118,7 +118,9 @@ https://zellwk.com/blog/faux-subgrid/
 https://www.impressivewebs.com/fixing-styles-on-code-tags-nested-inside-links/
 https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/
 https://www.impressivewebs.com/html5-global-hidden-attribute/
+https://www.impressivewebs.com/leading-trailing-spaces-html-attribute-values/
 https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.dfkej43a8
+https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
 http://gpfault.net/posts/mandelbrot-webgl.txt.html
 https://dev.solteq.com/2016/12/02/building-a-responsive-product-grid-with-css-flexbox/
 https://chinocode.com/Intro-To-Custom-Elements/
@@ -135,9 +137,6 @@ https://www.viget.com/articles/css-typography-kerning-ligatures-swashes-small-ca
 https://www.viget.com/articles/ensuring-css-animations-run-and-stop-gracefully
 https://www.viget.com/articles/managing-css-js-http-2
 https://www.viget.com/articles/make-your-site-faster-with-preconnect-hints
-https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
-https://scotch.io/tutorials/a-look-at-bootstrap-4s-new-reset-rebootcss
-https://scotch.io/tutorials/animating-elements-along-svg-paths-introducing-pathslider
 https://snook.ca/archives/html_and_css/mixed-content-responsive-images
 https://snook.ca/archives/html_and_css/calendar-css-grid
 https://snook.ca/archives/html_and_css/animating-progress
@@ -156,11 +155,6 @@ https://justmarkup.com/log/2017/02/css-and-progressive-enhancement/
 https://nicer2.com/seamlessly-faded-background-images-with-css-gradients/
 https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css
 https://www.lullabot.com/articles/fundamentals-of-responsive-images
-https://blog.logrocket.com/making-the-most-of-the-chrome-developer-tools-8cac9a206979
-https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae
-https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8
-https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37
-https://blog.logrocket.com/submitting-html-forms-using-javascript-frameworks-vue-react-hyperapp-44664dba1218
 https://hashnode.com/post/why-i-love-element-queries-and-you-should-too-cizgq4uyy000m7m53dsyeghst
 https://blog.codeship.com/building-web-extensions-because-you-can/
 https://blog.codeship.com/webextensions-101/
@@ -212,6 +206,7 @@ https://meiert.com/en/blog/maintainability-guide-2/
 https://deepstreamhub.com/tutorials/protocols/webrtc-intro/
 https://www.ascedia.com/blog/june-2017/responsive-typography
 https://mxb.at/blog/youre-offline/
+https://mxb.at/blog/layouts-of-tomorrow/
 http://valhead.com/2017/07/21/animating-with-css-variables/
 https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c
 https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db
@@ -258,11 +253,6 @@ https://martinmelhus.com/web-audio-modem/
 https://axesslab.com/alt-texts/
 https://inclusive-components.design/tabbed-interfaces/
 http://gedd.ski/post/grid-inspector/
-https://jonathan-harrell.com/component-variants-scoped-css-variables/
-https://jonathan-harrell.com/unlocking-benefits-css-variables/
-https://jonathan-harrell.com/advanced-css-form-styling/
-https://jonathan-harrell.com/better-typography-font-variants/
-https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/
 https://ayushgp.github.io/html-web-components-using-vanilla-js/
 http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html
 http://engineering.autotrader.co.uk/2017/10/27/building-fast-search-experience.html
@@ -276,18 +266,21 @@ http://adrianroselli.com/2018/05/display-contents-is-not-a-css-reset.html
 https://shkspr.mobi/blog/2017/11/input-type-country/
 https://blog.pragmatists.com/how-to-debug-front-end-console-3456e4ee5504
 https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/
-http://meyerweb.com/eric/thoughts/2017/11/14/declining-complexity-in-css/
+https://meyerweb.com/eric/thoughts/2017/11/14/declining-complexity-in-css/
 https://meyerweb.com/eric/thoughts/2017/11/27/generating-wireframe-boxes-with-css-and-html5/
 https://meyerweb.com/eric/thoughts/2018/06/05/specificity-in-not-has-and-matches/
+https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/
 https://www.leejamesrobinson.com/blog/loading-placeholder-with-sass/
 https://www.tollmanz.com/content-security-policy-report-samples/
 https://blog.usejournal.com/of-svg-minification-and-gzip-21cd26a5d007
+https://blog.usejournal.com/using-some-good-old-obsolete-html-to-create-a-javascript-free-carousel-animations-7b5f1d6b428
 https://blog.zingchart.com/2017/11/16/how-to-make-a-chart-using-ajax-rest-apis/
 https://pudding.cool/process/introducing-scrollama/
 http://blog.cowchimp.com/monitoring-unused-css-by-unleashing-the-devtools-protocol/
 https://blog.photopea.com/even-better-png-minification.html
 https://www.24a11y.com/2017/providing-alternate-content-screen-reader-users/
 https://seesparkbox.com/foundry/manageable_utility_systems_with_css_variables
+https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass
 https://calendar.perfplanet.com/2017/progressive-image-loading-using-intersection-observer-and-sqip/
 https://calendar.perfplanet.com/2017/clearing-cache-in-the-browser
 https://calendar.perfplanet.com/2017/mutating-web-content-using-dom-ranges/
@@ -299,6 +292,7 @@ http://allthingssmitty.com/2018/01/29/phone-number-links-and-accessibility/
 https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
 https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
 https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-css-and-js-animations-how-to-optimize-their-performance-db0e79586216
+https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab
 https://blog.daftcode.pl/hyperapp-parcel-71823bd93f1c
 https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/
 https://litmus.com/blog/understanding-media-queries-in-html-email
@@ -307,6 +301,7 @@ https://assortment.io/posts/handling-long-titles-with-truncation
 https://blog.rowan.website/2018/02/15/what-the-shit-is-the-shadow-dom-anyway/
 https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/
 https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/
+https://codersblock.com/blog/physics-based-background-scroll-effects/
 https://www.filamentgroup.com/lab/sizes-swap/
 https://ropig.com/blog/find-fix-brittle-css/
 https://www.joeforshaw.com/blog/css-the-bad-bits-and-how-to-avoid-them
@@ -340,5 +335,11 @@ https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the
 https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/
 https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1
 https://pudding.cool/process/scrollytelling-sticky/
-
+https://bryanlrobinson.com/blog/2018/06/13/how-to-use-css-grid-to-mix-and-match-design-patterns/
+https://forestry.io/blog/5-ways-to-handle-forms-on-your-static-site/
+https://preethisam.com/2018/06/25/how-to-use-emojis-as-icons/
+https://www.brucelawson.co.uk/2018/content-needs-a-publication-date/
+https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/
+https://laurakalbag.com/gallery-grid-with-css-grid/
+https://itnext.io/how-to-build-complicated-grids-using-css-grid-609b1197cf75
 
