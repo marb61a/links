@@ -103,6 +103,9 @@ https://www.sitepoint.com/build-responsive-bootstrap-website/
 https://www.sitepoint.com/deep-dive-bootstrap-form-component/
 https://www.sitepoint.com/bootstrap-grid-mastering-flexbox/
 https://www.sitepoint.com/css-grid-layout-vs-css-frameworks-debate/
+https://www.sitepoint.com/7-performance-tips-jank-free-javascript-animations/
+https://www.sitepoint.com/optimizing-css-id-selectors-and-other-myths/
+https://www.sitepoint.com/performance-auditing-a-firefox-developer-tools-deep-dive/
 
 
 ############################################## Smashing ########################################################## 
@@ -217,6 +220,11 @@ https://www.smashingmagazine.com/2018/05/feature-queries-manager-devtools-extens
 https://www.smashingmagazine.com/2018/05/guide-css-layout/
 https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/
 https://www.smashingmagazine.com/2018/06/avengers-id-card-html-css/
+https://www.smashingmagazine.com/2018/06/placeholder-attribute/
+https://www.smashingmagazine.com/2018/06/bem-for-beginners/
+https://www.smashingmagazine.com/2018/07/css-grid-2/
+https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/
+https://www.smashingmagazine.com/2018/07/pattern-library-first-css/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -246,6 +254,7 @@ https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-e
 https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/
 https://blog.mozilla.org/blog/2018/04/03/mozilla-brings-firefox-augmented-virtual-reality/
 https://hacks.mozilla.org/2018/05/progressive-web-games/
+https://hacks.mozilla.org/2018/06/retained-display-lists/
 
 
 ############################################## Google ########################################################## 
@@ -275,6 +284,12 @@ https://developers.google.com/web/updates/2018/05/welcome-to-immersive
 https://developers.google.com/web/updates/2018/05/first-input-delay
 https://developers.google.com/web/updates/2018/05/beyond-spa
 https://developers.google.com/web/updates/2018/06/fresher-sw
+https://developers.google.com/web/fundamentals/primers/modules
+https://developers.google.com/web/updates/2018/06/ar-for-the-web
+https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/
+https://developers.google.com/web/updates/2018/06/feature-policy
+https://developers.google.com/web/tools/chrome-devtools/speed/get-started
+https://developers.google.com/web/updates/2018/07/first-input-delay-in-crux
 
 
 ############################################## Medium ##########################################################
@@ -324,6 +339,8 @@ https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-e
 https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a
 https://medium.com/@eugeniolujambio/accessible-css-only-floating-labels-74bf9173bc5f
 https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6
+https://medium.com/@ericsimons/introducing-teleport-over-the-air-hot-reloading-debugging-for-pwas-️-efd1e2b1c64c
+https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773
 
 
 ############################################## Dev Channel ##########################################################
@@ -364,6 +381,8 @@ https://medium.freecodecamp.org/building-your-first-bootstrap-4-0-site-b54bbff6b
 https://medium.freecodecamp.org/how-to-build-a-responsive-blog-design-with-bulma-css-c2257a17c16b
 https://medium.freecodecamp.org/z-index-explained-how-to-stack-elements-using-css-7c5aa0f179b3
 https://medium.freecodecamp.org/an-overview-of-visual-studio-code-for-front-end-developers-49a4aa0771fb
+https://medium.freecodecamp.org/8-point-grid-typography-on-the-web-be5dc97db6bc
+https://medium.freecodecamp.org/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa
 
 
 ############################################## Statuscode ##########################################################
@@ -393,6 +412,7 @@ https://webdesign.tutsplus.com/tutorials/how-to-use-gradients-on-the-web--cms-29
 https://webdesign.tutsplus.com/tutorials/how-to-scroll-snap-using-css--cms-30333
 https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368
 https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-alignment--cms-30183
+https://webdesign.tutsplus.com/tutorials/the-quirks-of-css-grid-and-absolute-positioning--cms-31437
 
 
 ############################################## CSS Wizadry ##########################################################
@@ -509,6 +529,7 @@ https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simpl
 https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c
 https://hackernoon.com/efficiently-snapshotting-spas-with-puppeteer-c4c77aa2831b
 https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e
+https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a
 
 
 ############################################## Rachel Andrew ########################################################## 
