@@ -405,5 +405,47 @@ https://github.com/ghengeveld/react-async - Flexible promise-based React data lo
 https://github.com/deamme/laco - Ultra lightweight state management for React and Inferno
 https://github.com/oxyno-zeta/react-editable-json-tree - React Editable Json Tree
 https://github.com/fraserxu/react-dropdown -  A dead simple dropdown component for React 
+https://github.com/ayrton/react-key-handler - React component to handle keyboard events
+https://github.com/pedronauck/reworm - the simplest way to manage state
+https://github.com/pomber/code-surfer - React component for scrolling, zooming and highlighting code samples 
+https://github.com/toomuchdesign/react-minimal-pie-chart - Lightweight but versatile SVG pie/doughnut charts for React
+https://github.com/jakezatecky/react-checkbox-tree - A simple and elegant checkbox tree for React 
+https://github.com/nitin42/react-color-extractor - A React component which extracts colors from an image
+https://github.com/sential/wexond - An extensible web browser with beautiful UI.
+https://github.com/the0neWhoKnocks/boilerplate.react.spa.full-server - boilerplate for creating a SPA in React, with a full server.
+https://github.com/Nozbe/WatermelonDB - High-performance reactive database for powerful React and React Native apps
+https://github.com/albinotonnina/react-truncate-string - Truncate strings like butter.
+https://github.com/fanduel-oss/refract - Harness the power of reactive programming to supercharge your components 
+https://github.com/StreakYC/react-float-anchor - React component for positioning an element aligned to another
+https://github.com/sanniassin/react-input-mask - Input masking component for React
+https://github.com/react-bootstrap-table/react-bootstrap-table2 - Next Generation of react-bootstrap-table
+https://github.com/patientslikeme/react-calendar-heatmap - an svg calendar heatmap component
+https://github.com/aweary/react-copy-write - Immutable state with a mutable API
+https://github.com/apexcharts/react-apexcharts - React Component for ApexCharts 
+https://github.com/mozmorris/react-webcam - Webcam component 
+https://github.com/guiqui/react-timeline-gantt - A react Timeline component with virtual rendering
+https://github.com/cinderblock/react-smoothie - React wrapper for Smoothie Chart
+https://github.com/atomiks/tippy.js-react - React component for Tippy.js
+https://github.com/yosbelms/react-progressive-loader - Utility to load images and React components progressively,
+https://github.com/springload/react-accessible-accordion - Accessible Accordion component for React 
+https://github.com/saurabhnemade/react-twitter-embed - Simplest way to add twitter widgets to your react project.
+https://github.com/smooth-code/svgr - Transform SVGs into React components
+https://github.com/alioguzhan/react-editext - Editable Text Component for React Apps
+https://github.com/ianstormtaylor/react-values/ - A set of tiny React components for handling state with render props
+https://github.com/diegohaz/reuse - Reuse React components to create new ones
+https://github.com/nitin42/react-color-tools - A set of tools as React components for working with colors
+https://github.com/sapegin/stack-styled - Stacking layouts for React
+https://github.com/dollarshaveclub/react-passage - Link and Redirect to routes safely in your react applications
+https://github.com/nickeljew/react-month-picker - Month-Picker Component for React
+https://github.com/JodusNodus/react-qr-reader - React component for reading QR codes from webcam
+https://github.com/mweststrate/use-immer - Use immer to drive state with a React hooks
+https://github.com/RIP21/react-simplemde-editor - React wrapper for simplemde markdown editor 
+https://github.com/energydrink9/functional-data-grid - Data grids in functional style with ReactJS
+https://github.com/js-rcon/react-console-emulator - A simple terminal emulator component for React.
+https://github.com/StephenChou1017/react-big-scheduler - A scheduler and resource planning component built for React 
+https://github.com/segmentio/evergreen -  Evergreen React UI Framework by Segment
+https://github.com/ngduc/react-tabulator - based on tabulator - an advanced table library 
+https://github.com/gpietro/react-numpad - A numpad for number, date and time, built with and for React.
+https://github.com/scf4/styled-map/ - A super simple way to map props to styles with Styled Components
 
 
