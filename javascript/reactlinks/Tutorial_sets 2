@@ -10,6 +10,9 @@ https://blog.logrocket.com/the-best-react-inline-style-libraries-comparing-radiu
 https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3
 https://blog.logrocket.com/a-guide-to-react-onclick-event-handlers-d411943b14dd
 https://blog.logrocket.com/data-fetching-in-redux-apps-a-100-correct-approach-4d26e21750fc
+https://logrocket.com/blog/react-url-state/
+https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/
+https://blog.logrocket.com/react-datepicker-217b4aa840da
 
 
 ###################################### ITNext ################################################################## 
@@ -23,6 +26,9 @@ https://itnext.io/lazy-loading-images-with-react-and-semantic-ui-28a780bb3b3a
 https://itnext.io/build-your-own-autocomplete-input-with-react-and-reenhance-components-97386da48678
 https://itnext.io/reduce-unit-tests-boilerplate-with-jests-each-syntax-f5e48828437f
 https://itnext.io/simple-internationalization-of-react-apps-34b3bda95725
+https://itnext.io/css-variables-dynamic-app-themes-86c0db61cbbb
+https://itnext.io/combining-hocs-with-the-new-reacts-context-api-9d3617dccf0b
+https://itnext.io/unit-testing-redux-actions-reducers-and-epics-with-jest-484f8a59f1f2
 
 
 ######################################## Codeburst ##################################################################
@@ -48,6 +54,9 @@ https://auth0.com/blog/time-slice-suspense-react16/
 https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/
 https://auth0.com/blog/react-router-4-practical-tutorial/
 https://auth0.com/blog/react-context-api-managing-state-with-ease/
+https://auth0.com/blog/our-engineering-experience-with-react-and-storybook/
+https://auth0.com/blog/building-a-component-library-with-react-and-storybook/
+https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/
 
 
 ########################################### Kent C Dodds ###############################################################
@@ -57,6 +66,7 @@ https://blog.kentcdodds.com/migrating-to-reacts-new-context-api-b15dc7a31ea0
 https://blog.kentcdodds.com/downshift-2-released-26b49589e8d2
 https://blog.kentcdodds.com/what-is-jsx-310ab98c463e
 https://blog.kentcdodds.com/test-isolation-with-react-6962d3f13d1f
+https://blog.kentcdodds.com/react-jsx-as-a-server-side-templating-language-e238555dbc08
 
 
 ########################################### CSS Tricks ###############################################################
@@ -76,4 +86,27 @@ https://blog.bitsrc.io/building-reusable-react-components-1465a2dccc13
 https://blog.bitsrc.io/testing-react-apps-with-cypress-658bc482678
 https://blog.bitsrc.io/simplify-complex-ui-by-implementing-the-atomic-design-in-react-with-bit-f4ad116ec8db
 https://blog.bitsrc.io/react-oauth-authentication-with-firebase-dfe0e8c5d0d4
+https://blog.bitsrc.io/implement-better-drag-and-drop-in-your-react-app-beafc4451599
+https://blog.bitsrc.io/how-to-build-an-autocomplete-widget-with-react-and-elastic-search-dd4f846f784
+https://blog.bitsrc.io/how-to-test-react-components-using-jest-and-enzyme-fab851a43875
+https://blog.bitsrc.io/reusable-components-in-react-a-practical-guide-ec15a81a4d71
+https://blog.bitsrc.io/how-to-use-sass-and-css-modules-with-create-react-app-83fa8b805e5e
+
+
+########################################### Quantizd ###############################################################
+https://quantizd.com/building-react-app-using-react-router-v4-and-laravel/
+https://quantizd.com/extracting-css-from-react-components-with-laravel-mix/
+https://quantizd.com/build-chat-app-with-express-react-socket-io/
+https://quantizd.com/building-an-image-gallery-with-laravel-and-react/
+https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/
+
+
+########################################### Dev.to ###############################################################
+https://dev.to/dan_abramov/react-beginner-question-thread--1i5e
+https://dev.to/samerbuna/reactjs-frequently-facedproblems--l5g
+https://dev.to/swyx/introduction-to-mobx-4-for-reactredux-developers-3k07
+https://dev.to/pmbanugo/real-time-editable-datagrid-in-react-56ad
+https://dev.to/kylessg/a-sensible-approach-to-cross-platform-development-with-react-and-react-native-57pk
+https://dev.to/dustinsoftware/making-renders-faster-with-the-react-165-profiler-f6f
+
 
