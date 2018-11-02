@@ -22,6 +22,7 @@ https://www.nczonline.net/blog/2016/01/react-and-the-economics-of-dynamic-web-in
 https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/
 https://www.twilio.com/blog/2015/11/reactjs-tutorial-call-monitoring-with-react-express-and-socket-io.html
 https://www.twilio.com/blog/2018/03/video-chat-react.html
+https://www.twilio.com/blog/audio-visualisation-web-audio-api--react
 https://bugsnag.com/blog/moving-bugsnags-frontend-to-react
 http://blog.nparashuram.com/2015/12/react-web-worker-renderer.html
 http://blog.nparashuram.com/2016/02/using-webworkers-to-make-react-faster.html
@@ -39,6 +40,7 @@ https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
 http://developer.telerik.com/featured/taming-react-setup/
 https://www.telerik.com/blogs/dockerizing-react-applications-for-continuous-integration
+https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api
 https://react.rocks/blog/post/propTypes_React_Flow/
 http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/
 http://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem
@@ -66,9 +68,6 @@ http://jlongster.com/Two-Weird-Tricks-with-Redux
 http://andrewhfarmer.com/how-to-style-react/
 http://andrewhfarmer.com/css-modules-by-example/
 https://m.alphasights.com/killing-cors-preflight-requests-on-a-react-spa-1f9b04aa5730#.v12oj8toj
-https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/
-https://blog.pusher.com/making-reactjs-realtime-with-websockets/
-https://pusher.com/tutorials/instagram-clone-part-1
 https://www.toptal.com/react/react-redux-and-immutablejs
 https://www.toptal.com/javascript/immutability-in-javascript-using-redux
 https://devbutze.com/p/306
@@ -100,6 +99,7 @@ https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
 https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
 http://blog.getstream.io/cabin-react-redux-example-app-imgix/
 https://www.netlify.com/blog/2016/07/26/our-conversion-from-angular-to-react
+https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/
 https://assertible.com/blog/creating-email-templates-with-react-components
 http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/
 https://www.ckl.io/blog/3-simple-steps-to-improve-react-redux-code/
@@ -154,12 +154,9 @@ http://mxstbr.blog/2016/11/styled-components-magic-explained/
 http://reactkungfu.com/2016/11/dynamic-jsx-tags/
 http://jaysoo.ca/2016/02/28/organizing-redux-application/
 https://techblog.commercetools.com/advanced-data-tables-in-react-dbe33f8345ab#.w593z3nry
-https://blog.pusher.com/how-to-build-a-realtime-activity-feed-with-react-and-pusher/
-https://blog.pusher.com/building-a-realtime-react-vr-app/
-https://blog.pusher.com/online-text-rpg-entering-the-world-part-1/
-https://blog.pusher.com/online-text-rpg-exploring-the-world-part-2/
 https://www.netlify.com/blog/2016/11/10/3-of-the-most-common-errors-in-react/
 https://www.netlify.com/blog/2017/06/06/jamstack-vs-isomorphic-server-side-rendering/
+https://www.netlify.com/blog/2018/09/12/the-rise-of-immer-in-react/
 https://blog.sicara.com/a-starting-point-on-using-d3-with-react-869fdf3dfaf
 http://cloudinary.com/blog/how_to_develop_a_react_library
 http://cloudinary.com/blog/getting_a_better_react_ion_with_progressive_web_apps
@@ -255,10 +252,6 @@ http://blog.jakoblind.no/react-parcel/
 https://cheesecakelabs.com/blog/atomic-design-react/
 http://jsmegatools.com/2017/12/09/creating-a-pagination-component-with-react-js/
 https://toddmotto.com/redux-typescript-store
-https://dev.to/dan_abramov/react-beginner-question-thread--1i5e
-https://dev.to/samerbuna/reactjs-frequently-facedproblems--l5g
-https://dev.to/swyx/introduction-to-mobx-4-for-reactredux-developers-3k07
-https://dev.to/pmbanugo/real-time-editable-datagrid-in-react-56ad
 https://www.halfelectronic.com/post/setting-up-gatsby-js-contentful-and-netlify/
 https://developers.redhat.com/blog/2017/11/15/best-practices-react-redux-web-application-development/
 https://develoger.com/how-to-obfuscate-css-class-names-with-react-and-webpack-20e2b5c49cda
@@ -283,6 +276,9 @@ https://www.graphql.college/building-a-github-client-with-react-apollo/
 https://blog.gojekengineering.com/eslint-prettier-for-a-consistent-react-codebase-eaa673debb1d
 https://shinglyu.github.io/web/2018/02/08/minimal-react-js-without-a-build-step-updated.html
 https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce
+https://blog.usejournal.com/implement-tree-view-component-with-reactjs-and-styled-components-5eea3b1603cf
+https://blog.usejournal.com/choosing-between-redux-and-reacts-context-api-272ca20224b2
+https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982
 https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained
 https://www.leighhalliday.com/introducing-react-context-api
 https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/
@@ -292,11 +288,6 @@ https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experi
 http://bradfrost.com/blog/post/my-struggle-to-learn-react/
 https://engineering.hexacta.com/jsx-can-do-that-1b2666c23a32
 https://blog.truthlabs.com/building-a-progressive-web-app-in-react-11c77a7fccb3
-https://quantizd.com/building-react-app-using-react-router-v4-and-laravel/
-https://quantizd.com/extracting-css-from-react-components-with-laravel-mix/
-https://quantizd.com/build-chat-app-with-express-react-socket-io/
-https://quantizd.com/building-an-image-gallery-with-laravel-and-react/
-https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/
 https://blog.flowandform.agency/create-a-custom-calendar-in-react-3df1bfd0b728
 https://www.joshwcomeau.com/posts/dynamic-bezier-curves
 https://blog.pavsidhu.com/how-i-built-my-blog-using-gatsby-and-netlify/
@@ -308,6 +299,7 @@ https://www.nearform.com/blog/managing-react-state-with-render-props/
 https://engineering.ezcater.com/the-case-against-react-snapshot-testing
 https://able.bio/drenther/styling-in-react-with-styled-components--62pbyjl
 https://codedaily.io/tutorials/50/Create-a-Form-Wizard-with-Data-Loss-Prevention-using-Formik-and-React-Router
+https://codedaily.io/tutorials/58/Immutable-Data-with-Immer-and-React-setState
 http://blog.jakoblind.no/next-level-es6-react/
 https://www.nativescript.org/blog/would-airbnb-have-fared-better-with-nativescript-instead-of-react-native
 https://sevketyalcin.com/blog/setup-your-own-webpack-config-for-react-with-typescript/
@@ -315,4 +307,17 @@ https://blog.kylegalbraith.com/2018/08/07/how-to-make-an-awesome-blog-using-gats
 http://nmajor.com/posts/access-and-refresh-token-handling-with-redux
 http://www.syntaxsuccess.com/viewarticle/scalable-react-build-with-bazel
 https://www.eventbrite.com/engineering/create-reusable-react-file-uploaders/
+https://prismic.io/blog/seo-with-react-and-nextjs
+https://snipcart.com/blog/reactjs-wordpress-rest-api-example
+https://elijahmanor.com/react-devtools-profiler/
+https://code.tutsplus.com/tutorials/how-to-build-serverless-web-applications-with-react-aws-amplify--cms-31732
+https://developers.digital.abc.net.au/2018/09/28/composing-components/
+https://blog.sourcerer.io/build-interactive-diagrams-with-storm-react-diagrams-f172ae26af9d
+https://frontarm.com/articles/react-context-performance/
+https://blog.scottlogic.com/2018/08/28/Good-code-practices-with-React-and-Redux.html
+https://www.wix.engineering/blog/finally-a-react-refactoring-tool-introducing-glean
+https://softwareengineeringdaily.com/2018/10/22/react-and-graphql-at-the-nytimes/
+http://www.petecorey.com/blog/2018/10/08/rendering-ascii-chord-charts-with-react/
+https://alligator.io/react/forms-with-react-and-formik/
+https://frontarm.com/articles/passing-data-props-children/
 
