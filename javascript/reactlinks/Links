@@ -81,6 +81,8 @@ https://www.youtube.com/watch?v=UweDK_imADU - 10 Things to Know About ES6 Before
 https://www.youtube.com/watch?v=40vLRGOfmBU - Introduction to React form validation with hocForm
 https://www.youtube.com/watch?v=AiJ8tRRH0f8 - Kent C Dodds Simply React
 https://www.youtube.com/watch?v=cWY1QzyFhfk - Algebraic Effects, Fibers, Coroutines . . . Oh My
+https://www.youtube.com/watch?v=p7mwQaGo6P0 - Creating AWS AppSync GraphQL APIs with AWS Amplify
+https://www.youtube.com/watch?v=pUlwhe-kmog - Why I no Longer use Redux with React
 
 
 ##Playlists & Channels
@@ -96,6 +98,7 @@ https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/videos - React Amsterda
 https://www.youtube.com/watch?v=NQyL-Dm7Kig&list=PLNBNS7NRGKMHxfm0CcYNuINLdRw7r4a9M - React Amsterdam 2017 Conference
 https://www.youtube.com/channel/UCwsavucaPo3tOGf7lF85WRA/feed - React Vienna
 https://www.youtube.com/watch?v=0MKJ7JbVnFc&list=PLN3n1USn4xlkdRlq3VZ1sT6SGW0-yajjL - Slack clone using GraphQL
+https://www.youtube.com/watch?v=V-QO-KO90iQ&list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ - React Conf 2018
 
 
 ##ReactCasts
@@ -172,5 +175,16 @@ http://reactcheatsheet.com - Cheat sheet for React Syntax
 https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4
 http://jxnblk.com/rebass/ - Flexible & functional React design system
 https://www.draft-js-plugins.com - High quality plugins with great UX
+https://ayrton.be/react-key-handler/ - React component to handle keyboard events
+http://www.andreacarraro.it/react-minimal-pie-chart/ - Lightweight but versatile SVG pie/doughnut charts for React
+https://jakezatecky.github.io/react-checkbox-tree/ - A simple and elegant checkbox tree for React
+https://react-color-extractor.surge.sh - A React component which extracts colors from an image
+https://watermelondb.now.sh - High-performance reactive database for powerful React and React Native apps
+https://aws-amplify.github.io/docs/js/react - AWS Amplify to build a React application
+https://react-bootstrap-table.github.io/react-bootstrap-table2/ - Next Generation of react-bootstrap-table
+https://apexcharts.com - Modern & Interactive Javascript Charts
+https://svgr.now.sh - Transform SVGs into React components
+https://evergreen.segment.com - React UI Framework for building ambitious products on the web.
+https://jamesmfriedman.github.io/rmwc/ - React Material Web Components
 
 
