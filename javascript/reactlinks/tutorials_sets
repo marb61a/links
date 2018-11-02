@@ -45,6 +45,7 @@ https://pub.scotch.io/@zhirzh/building-a-pwa-using-react-webpack-and-other-stuff
 https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel
 https://scotch.io/tutorials/build-a-ssr-app-with-preact-unistore-and-preact-router
 https://scotch.io/tutorials/build-custom-pagination-with-react
+https://scotch.io/tutorials/how-to-make-your-existing-react-app-progressive-in-10-minutes
 
 
 ###################################### Risingstack ################################################################
@@ -220,6 +221,13 @@ https://medium.com/@thehappybug/using-react-context-in-a-typescript-app-c4ef7504
 https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b
 https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179
 https://medium.com/@sittmann.katia/getting-started-with-redux-saga-3207ad2a617b
+https://medium.com/@shivekkhurana/how-to-create-pdfs-from-react-components-client-side-solution-7f506d9dfa6d
+https://medium.com/@Charles_Stover/cache-your-react-event-listeners-to-improve-performance-14f635a62e15
+https://medium.com/@faizanv/authentication-for-your-react-and-express-application-w-json-web-tokens-923515826e0
+https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430
+https://medium.com/maxime-heckel/using-flow-generics-to-type-generic-react-components-22dd642634d8
+https://medium.com/@adamramberg/setting-up-a-react-app-from-scratch-42521a118b10
+https://medium.com/the-guild/getting-to-know-react-doms-event-handling-system-inside-out-378c44d2a5d0
 
 
 ############################################# DailyJS ##################################################################
@@ -287,6 +295,7 @@ https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/
 https://www.robinwieruch.de/react-fetching-data/
 https://www.robinwieruch.de/react-render-props-pattern/
 https://www.robinwieruch.de/react-pass-props-to-component/
+https://www.robinwieruch.de/react-state-array-add-update-remove/
 
 
 ###################################### Hacker Noon ##################################################################
@@ -340,6 +349,8 @@ https://hackernoon.com/setting-up-apollo-link-state-for-multiple-stores-4cf54fdb
 https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32
 https://hackernoon.com/upgrade-your-react-ui-with-state-machines-30d1298e90be
 https://hackernoon.com/checklist-for-writing-highly-reusable-components-in-react-and-vue-531f963864bd
+https://hackernoon.com/goodbye-redux-26e6a27b3a0b
+https://hackernoon.com/principles-of-component-api-prop-design-bb20cd58da54
 
 
 ###################################### Freecodecamp ##################################################################
@@ -444,6 +455,10 @@ https://daveceddia.com/immutable-updates-react-redux/
 https://daveceddia.com/hot-reloading-create-react-app/
 https://daveceddia.com/pluggable-slots-in-react-components/
 https://daveceddia.com/display-a-list-in-react/
+https://daveceddia.com/react-redux-immutability-guide/
+https://daveceddia.com/react-practice-projects/
+https://daveceddia.com/redux-mapdispatchtoprops-object-form/
+https://daveceddia.com/usestate-hook-examples/
 
 
 ###################################### Stormpath ##################################################################
@@ -489,3 +504,13 @@ https://goshakkk.name/array-form-inputs/
 https://goshakkk.name/y-no-field-level-validations/
 https://goshakkk.name/tips-finally-learn-react/
 
+
+###################################### Pusher ##################################################################
+https://blog.pusher.com/how-to-build-a-realtime-activity-feed-with-react-and-pusher/
+https://blog.pusher.com/building-a-realtime-react-vr-app/
+https://blog.pusher.com/online-text-rpg-entering-the-world-part-1/
+https://blog.pusher.com/online-text-rpg-exploring-the-world-part-2/
+https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/
+https://blog.pusher.com/making-reactjs-realtime-with-websockets/
+https://pusher.com/tutorials/instagram-clone-part-1
+https://pusher.com/tutorials/realtime-chess-game-react
