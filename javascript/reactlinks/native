@@ -51,6 +51,8 @@ https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde33
 https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6
 https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838
 https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102
+https://medium.com/zynga-engineering/why-how-words-with-friends-is-adopting-react-native-b24a405f421c
+https://medium.freecodecamp.org/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92
 
 
 ############################################ React Native Training #########################################################
@@ -69,6 +71,10 @@ https://medium.com/react-native-training/react-native-youtube-replica-f378200d91
 https://medium.com/react-native-training/ditching-setstate-for-mobx-766c165e4578
 https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce
 https://medium.com/react-native-training/building-a-react-native-game-with-rxjs-5-ced0e716bc73
+https://medium.com/react-native-training/how-to-configure-and-code-android-in-app-purchases-in-react-native-apps-a46247908862
+https://medium.com/react-native-training/integrate-touch-id-and-face-id-to-your-react-native-app-707e7db17edc
+https://medium.com/react-native-training/progressive-image-loading-in-react-native-e7a01827feb7
+https://medium.com/react-native-training/progressive-image-loading-in-react-native-e7a01827feb7
 
 
 ################################################ Tutsplus ##################################################################
@@ -89,6 +95,7 @@ https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d9
 https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315
 https://hackernoon.com/xamarin-vs-react-native-a-comparison-study-5ebea64cd801
 https://hackernoon.com/building-a-music-streaming-app-using-react-native-6d0878a13ba4
+https://hackernoon.com/transitioning-from-react-web-to-react-native-development-c8e6df57a92e
 
 
 ###################################### Facebook ##################################################################
@@ -121,6 +128,7 @@ https://dev.to/damcosset/connecting-a-meteor-back-end-to-a-react-native-applicat
 https://dev.to/swyx/flutter-for-react-native-devs-in-30-seconds-78g
 https://dev.to/msal/how-to-build-a-news-app-with-react-native-4ifd
 https://dev.to/brightdevs/navigation-in-react-native-2530
+https://dev.to/kylessg/a-sensible-approach-to-cross-platform-development-with-react-and-react-native-57pk
 
 
 ###################################### Miscellaneous ##################################################################
@@ -174,6 +182,7 @@ https://blog.brainsandbeards.com/logging-in-react-native-3bc4e69a4c21
 https://blog.home.ht/how-to-do-end-to-end-testing-on-react-native-with-detox-2b7f404e7713
 https://blog.pusher.com/creating-ride-booking-app-react-native-pusher/
 https://pusher.com/tutorials/geolocation-sharing-react-native/
+https://pusher.com/tutorials/photo-sharing-react-native
 https://codeburst.io/todo-app-with-react-native-f889e97e398e
 https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f
 https://codeburst.io/announcing-react-native-copilot-a-react-native-package-to-create-in-app-walk-throughs-1c2cf269cacd
@@ -206,7 +215,10 @@ https://alligator.io/react/roadmap-react-native-developer/
 https://school.shoutem.com/lectures/build-react-native-mobile-app-tutorial/
 https://www.uruit.com/blog/2018/07/25/xamarin-vs-react-native/
 https://www.toptal.com/react-native/cold-dive-into-react-native-a-beginners-tutorial
+https://www.toptal.com/react-native/react-native-for-android-development
 https://www.itworld.com/article/3296736/react/react-native-javascript-framework-stumbles.html
+https://itnext.io/how-we-boosted-the-performance-of-our-react-native-app-191b8d338347
+https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/
 
 
 
@@ -270,6 +282,9 @@ https://github.com/electrode-io/electrode-native - Platform for integrating Reac
 https://github.com/kusti8/proton-native - A React environment for cross platform native desktop apps
 https://github.com/vincentriemer/react-native-dom - An experimental, comprehensive port of React Native to the web. 
 https://github.com/kmagiera/react-native-reanimated - React Native's Animated library reimplemented
+https://github.com/Nozbe/WatermelonDB - High-performance reactive database for powerful React and React Native apps
+https://github.com/madhavanmalolan/awesome-reactnative-ui - Awesome React Native UI components
+
 
 
 ##### Videos ######
@@ -318,3 +333,7 @@ https://shoutem.github.io/ui/ - Open-source UI toolkit for React Native
 https://www.decosoftware.com - New React Native IDE
 http://www.electrode.io - Universal React/Node.js Application Platform
 https://proton-native.js.org - Create native desktop applications through a React syntax, on all platforms.
+https://callstack.github.io/react-native-paper/ - Cross-platform Material Design for React Native
+https://watermelondb.now.sh - High-performance reactive database for powerful React and React Native apps
+https://aws-amplify.github.io/docs/js/react - AWS Amplify to build a React Native application
+
