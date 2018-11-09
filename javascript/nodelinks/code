@@ -666,4 +666,45 @@ https://github.com/tuananh/camaro - An utility to transform XML to JSON
 https://github.com/caiogondim/fast-memoize.js - Fastest possible memoization library
 https://github.com/yinxin630/fiora - An interesting chat application power by socket.io
 https://github.com/devlucky/Kakapo.js - Next generation mocking framework in Javascript
+https://github.com/lipp/login-with - Stateless login-with microservice for OAuth 
+https://github.com/deepsweet/foxr - Node.js API to control Firefox
+https://github.com/spencermountain/spacetime - A lightweight javascript timezone library
+https://github.com/scribbletune/scribbletune - Create music with JavaScript
+https://github.com/animir/node-rate-limiter-flexible - Rate limit by key and protection from DDoS
+https://github.com/ai/nanoid - A tiny (141 bytes), secure, URL-friendly, unique string ID generator for JavaScript 
+https://github.com/hasura/graphqurl - curl for GraphQL with autocomplete, subscriptions and GraphiQL
+https://github.com/JorgeBucaran/getopts - High performance Node.js CLI options parser
+https://github.com/npm/libnpmaccess - programmatic api for `npm access`
+https://github.com/zeit/pkg - Package your Node.js project into an executable
+https://github.com/felixrieseberg/windows95 - Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+https://github.com/sindresorhus/ora - Elegant terminal spinner
+https://github.com/hiproxy/hiproxy - lightweight proxy tool for Front-End developers based on Node.js
+https://github.com/drewjbartlett/routegen - Define your API and SPA routes in one place
+https://github.com/mkozjak/node-telnet-client - A simple telnet client for Node.js
+https://github.com/wilk/microjob - A tiny wrapper for turning Node.js worker threads into easy-to-use routines
+https://github.com/danielkalen/inspector-on-demand - Launch v8 inspector/devtools on demand for long-running apps
+https://github.com/netgusto/nodebook - Nodebook - Multi-Lang Web REPL + CLI Code runner
+https://github.com/ottomatica/Baker - Quick and easy baking of computing environments
+https://github.com/Financial-Times/n-express-monitor - configurable express decorator to automate log
+https://github.com/axa-group/nlp.js - An NLP library built in node over Natural, with entity extraction etc
+https://github.com/intoli/user-agents - A JavaScript library for generating random user agents with data that's updated daily.
+https://github.com/getgauge/taiko - A node.js library to automate chrome/chromium browser 
+https://github.com/danielfsousa/express-rest-es2017-boilerplate - Express boilerplate for building RESTful APIs
+https://github.com/bokub/lyo -  Node.js to browser The easy way
+https://github.com/trygve-lie/circuit-b - A non intrusive circuit breaker for node.js
+https://github.com/google/wwwbasic - an implementation of BASIC that runs on Node.js and the Web.
+https://github.com/flaviolivolsi/deploify - a NPM module that creates a temporary stage environment of your web app
+https://github.com/mceSystems/node-jsc - A node.js port to the JavaScriptCore engine and iOS
+https://github.com/lukechilds/cacheable-request - Wrap native HTTP requests with RFC compliant cache support
+https://github.com/lukechilds/keyv - Simple key-value storage with support for multiple backends
+https://github.com/graphile/postgraphile - Execute one command and get an instant high-performance GraphQL API
+https://github.com/typicode/husky - Git hooks made easy
+https://github.com/brannondorsey/host-validation - Express.js middleware for "Host" and "Referer" header validation
+https://github.com/codemotion/cogear.js - Modern static websites generator (Node.JS/Webpack) 
+https://github.com/mourner/flatbush - A very fast static spatial index for 2D points and rectangles in JavaScript
+https://github.com/jorgebucaran/colorette - Node.js library for colorizing text using ANSI escape sequences
+https://github.com/vitalets/websocket-as-promised - A Promise-based API for WebSockets
+https://github.com/saintedlama/mongoist - Mongodb driver inspired by mongojs built with async/await in mind
+
+
 
