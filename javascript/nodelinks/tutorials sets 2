@@ -58,6 +58,7 @@ http://2ality.com/2017/09/native-esm-node.html
 http://2ality.com/2017/12/for-await-of-sync-iterables.html
 http://2ality.com/2018/04/async-iter-nodejs.html
 http://2ality.com/2018/05/child-process-streams.html
+http://2ality.com/2018/08/nodemon-code-snippets.html
 
 
 ######################################## Bandwidth ##############################################
@@ -102,6 +103,8 @@ https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typ
 https://dev.to/pmbanugo/offline-first-with-nodejs-and-hoodie-a-practical-introduction-to-progressive-web-apps-5f57
 https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless-2nc7
 https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k
+https://dev.to/jochemstoel/bundle-your-node-app-to-a-single-executable-for-windows-linux-and-osx-2c89
+https://dev.to/simov/composable-http-client-for-nodejs-83f
 
 
 ######################################## Nic Raboy ##############################################
@@ -118,6 +121,7 @@ http://stackabuse.com/setting-up-a-node-js-cluster/
 http://stackabuse.com/bookshelf-js-a-node-js-orm/
 http://stackabuse.com/avoiding-callback-hell-in-node-js/
 http://stackabuse.com/getting-started-with-aws-lambda-and-node-js/
+https://stackabuse.com/using-sequelize-js-and-sqlite-in-an-express-js-app/
 
 
 ######################################## ITNext ##############################################
@@ -128,6 +132,10 @@ https://itnext.io/using-async-await-to-write-cleaner-route-handlers-7fc1d91b220b
 https://itnext.io/connecting-competing-microservices-using-rabbitmq-28e5269861b6
 https://itnext.io/you-can-now-write-google-cloud-functions-with-node-js-8-bd066ea6d4f5
 https://itnext.io/serverless-twitter-bot-with-google-cloud-35d370676f7
+https://itnext.io/build-a-project-management-software-with-vue-js-and-apollo-part1-d12ee75a7641
+https://itnext.io/how-to-write-a-node-js-cli-using-opencv-with-neural-network-models-for-image-classification-57785d6f09fe
+https://itnext.io/javascript-promises-with-node-js-e8ca827e0ea3
+https://itnext.io/how-to-handle-the-post-request-body-in-node-js-without-using-a-framework-cd2038b93190
 
 
 ######################################## Nearform ##############################################
@@ -135,6 +143,7 @@ https://www.nearform.com/blog/architecting-electron-applications-for-60fps/
 https://www.nearform.com/blog/introducing-node-clinic-a-performance-toolkit-for-node-js-developers/
 https://www.nearform.com/blog/the-future-of-native-modules-in-node-js/
 https://www.nearform.com/blog/introducing-clinic-bubbleprof-a-unique-way-to-visualise-node-js-code/
+https://www.nearform.com/blog/avoiding-common-hurdles-in-unit-testing/
 
 
 ######################################## Toptal ##############################################
@@ -148,5 +157,12 @@ https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial
 https://www.robinwieruch.de/react-express-stripe-payment/
 https://www.robinwieruch.de/postgres-express-setup-tutorial/
 https://www.robinwieruch.de/why-apollo-advantages-disadvantages-alternatives/
+https://www.robinwieruch.de/graphql-apollo-server-tutorial/
 
+
+######################################## Serverless ##############################################
+https://serverless.com/blog/anatomy-of-a-serverless-app/
+https://serverless.com/blog/serverless-express-rest-api/
+https://serverless.com/blog/unit-testing-nodejs-serverless-jest/
+https://serverless.com/blog/common-node8-mistakes-in-lambda/
 
