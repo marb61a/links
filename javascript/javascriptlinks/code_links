@@ -598,5 +598,31 @@ https://github.com/danielstjules/jsinspect - Detect copy-pasted and structurally
 https://github.com/cozmo/jsQR - A pure javascript QR code reading library.
 https://github.com/natergj/excel4node - Node module to allow for easy Excel file creation
 https://github.com/vaneenige/unswitch - A tiny event handler for Switch controllers!
+https://github.com/apexcharts/apexcharts.js - Interactive SVG Charts
+https://github.com/sasha240100/between.js - Lightweight JavaScript (ES6) tweening engine
+https://github.com/appleple/form-storage - stores the form-data to the localstorage so you don't have to fill the form again
+https://github.com/klaussinani/taskbook -  Tasks, boards & notes for the command-line habitat
+https://github.com/electron/fiddle - The easiest way to get started with Electron
+https://github.com/xtermjs/xterm.js - A terminal for the web 
+https://github.com/ziishaned/dumper.js - A better and pretty variable inspector for your Node.js applications
+https://github.com/wooorm/franc - Natural language detection 
+https://github.com/osrec/SuperSlide.js - A flexible, smooth, GPU accelerated sliding menu
+https://github.com/Tonejs/Tone.js - A Web Audio framework for making interactive music in the browser
+https://github.com/spencermountain/spacetime - A lightweight javascript timezone library
+https://github.com/m3g4p0p/from-html - Get element references directly from a HTML string
+https://github.com/adrai/flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram
+https://github.com/fdaciuk/ajax - Ajax module in Vanilla JS 
+https://github.com/checkly/puppeteer-recorder - a Chrome extension that records your browser interactions and generates a Puppeteer script
+https://github.com/lesnitsky/git-tutor -  Awesome tutorials from your git log
+https://github.com/mweststrate/immer - Create the next immutable state by mutating the current one
+https://github.com/iodide-project/pyodide - The Python scientific stack, compiled to WebAssembly
+https://github.com/Rich-Harris/shimport - Use JavaScript modules in all browsers, including dynamic imports
+https://github.com/copy/v86 - x86 virtualization in JavaScript, running in your browser and NodeJS
+https://github.com/koddr/vue-goodshare/ - A simple way to share a link on the pages of your website
+https://github.com/sential/wexond - An extensible web browser with beautiful UI.
+https://github.com/date-fns/date-fns - Modern JavaScript date utility library
+https://github.com/mbasso/wasm-worker - Move a WebAssembly module into its own thread
+https://github.com/erikbrinkman/d3-dag - Layout algorithms for visualizing directed acyclic graphs
+https://github.com/ChrisCavs/t-writer.js - Native typewriter effect, without compromises or dependencies
 
 
