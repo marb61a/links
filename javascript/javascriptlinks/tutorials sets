@@ -104,18 +104,24 @@ https://medium.com/@michaelsholty/give-parcel-a-try-you-may-like-it-75cd12a2bfb8
 https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f
 https://medium.com/@timurcatakli/an-easy-to-understand-webpack-4-configuration-file-with-comments-6213882e9edf
 https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5
+https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f
 https://medium.com/@anildash/what-if-javascript-wins-84898e5341a
 https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3
 https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18
 https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
 https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d
 https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408
+https://medium.com/fullstackio/tutorial-shuffle-a-deck-of-cards-in-vue-js-b65da4c59b1
 https://medium.com/sthima-insights/taming-the-dragon-using-llnode-to-debug-your-node-js-application-fc54c6efd0f1
 https://medium.com/@rolandpeelen/function-composition-currying-in-real-life-e74c86302205
 https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd
 https://medium.com/launch-school/javascript-weekly-fundamental-object-design-patterns-31453f68427f
 https://medium.com/@kristyburge/why-this-is-so-powerful-in-javascript-34116f1ca5f2
 https://medium.com/@maladdinsayed/advanced-techniques-and-ideas-for-better-coding-skills-d632e9f9675
+https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
+https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f
+https://medium.com/@felixrieseberg/introducing-electron-fiddle-1de2be1ba6e7
+https://medium.com/commitlog/hello-webassembly-882bba5c9fb7
 
 
 ###################################### DailyJS ###########################################################
@@ -176,6 +182,7 @@ https://medium.freecodecamp.org/learn-to-visualize-data-with-this-free-d3-js-cou
 https://medium.freecodecamp.org/become-a-developer-and-get-your-first-job-fast-7b8ac26d84c6
 https://medium.freecodecamp.org/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e
 https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3
+https://medium.freecodecamp.org/the-12-things-you-need-to-consider-when-evaluating-any-new-javascript-library-3908c4ed3f49
 
 
 ####################################### Telerik ###########################################################
@@ -263,6 +270,7 @@ http://2ality.com/2018/02/string-prototype-matchall.html
 http://2ality.com/2018/03/javascript-typescript-reasonml.html
 http://2ality.com/2018/04/async-iter-nodejs.html
 http://2ality.com/2018/04/extracting-loops.html
+http://2ality.com/2018/08/enums-via-proxies.html
 
 
 ####################################### Mozilla ###########################################################
@@ -310,6 +318,7 @@ https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-of
 https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/
 https://www.smashingmagazine.com/2018/07/mobile-apps-capacitor-vue-js/
 https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/
+https://www.smashingmagazine.com/2018/08/smashingconf-scripts-videos/
 
 
 ####################################### Auth0 ###########################################################
@@ -326,6 +335,7 @@ https://auth0.com/blog/javascript-for-microcontrollers-and-iot-part-1/
 https://auth0.com/blog/developing-real-time-apps-with-meteor/
 https://auth0.com/blog/webpack-a-gentle-introduction/
 https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/
+https://auth0.com/blog/speedy-introduction-to-web-workers/
 
 
 ####################################### Risingstack ###########################################################
@@ -337,6 +347,7 @@ https://blog.risingstack.com/writing-a-javascript-framework-data-binding-es6-pro
 https://community.risingstack.com/explaining-javascript-closure-scope-chain-examples/
 https://blog.risingstack.com/writing-a-javascript-framework-the-benefits-of-custom-elements
 https://blog.risingstack.com/important-features-fixes-node-js-version-8/
+https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/
 
 
 ####################################### David Walsh ###########################################################
@@ -379,6 +390,9 @@ https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/
 https://css-tricks.com/building-renderless-vue-components/
 https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/
 https://css-tricks.com/adding-particle-effects-to-dom-elements-with-canvas/
+https://css-tricks.com/level-up-your-filter-game/
+https://css-tricks.com/updating-a-css-variable-with-javascript/
+https://css-tricks.com/using-scoped-slots-in-vue-js-to-abstract-functionality/
 
 
 ####################################### Hackernoon ###########################################################
@@ -404,6 +418,7 @@ https://hackernoon.com/async-await-generators-promises-51f1a6ceede2
 https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-hyperapp-97f064fb468d
 https://hackernoon.com/how-to-stop-using-callbacks-and-start-living-1e5ed92e68e8
 https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe
+https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758
 
 
 ####################################### Pusher ###########################################################
@@ -413,6 +428,7 @@ https://blog.pusher.com/how-to-build-an-android-app-using-cordova-and-vue-js/
 https://blog.pusher.com/build-realtime-chart-with-vuejs-pusher/
 https://blog.pusher.com/build-simple-real-time-app-with-vue-js-2-0-and-pusher/
 https://blog.pusher.com/build-secure-chat-web-app-javascript-auth0-pusher/
+https://pusher.com/tutorials/live-graph-d3
 
 
 ####################################### VueJS Developers ###########################################################
@@ -441,4 +457,12 @@ https://codeburst.io/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7
 https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2
 https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a
 https://codeburst.io/why-web-workers-make-javascript-more-than-a-single-thread-3d489ffad502
+
+
+####################################### Zellwk ###########################################################
+https://zellwk.com/blog/js-in-dom/
+https://zellwk.com/blog/es6/
+https://zellwk.com/blog/callbacks/
+https://zellwk.com/blog/this/
+https://zellwk.com/blog/dom-traversals/
 
