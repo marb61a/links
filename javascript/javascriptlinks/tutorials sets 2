@@ -21,6 +21,7 @@ https://www.sitepoint.com/capture-and-report-javascript-errors-with-window-onerr
 https://www.sitepoint.com/debugging-javascript-projects-vs-code-chrome-debugger/
 https://www.sitepoint.com/an-introduction-to-sails-js/
 https://www.sitepoint.com/flow-control-callbacks-promises-async-await/
+https://www.sitepoint.com/javascript-media-queries/
 
                      
 ######################## JQuery  ############################
@@ -266,6 +267,7 @@ https://blog.logrocket.com/an-imperative-guide-to-forms-in-vue-js-7536bfa374e0
 https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2
 https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3
 https://blog.logrocket.com/submitting-html-forms-using-javascript-frameworks-vue-react-hyperapp-44664dba1218
+https://blog.logrocket.com/building-a-long-press-directive-in-vue-3408d60fb511
 
 
 ####################################### Kyle Simpson ###########################################################
@@ -283,6 +285,7 @@ https://scotch.io/tutorials/animating-elements-along-svg-paths-introducing-paths
 https://scotch.io/tutorials/how-to-make-netflix-like-swipers-in-vue
 https://scotch.io/tutorials/list-processing-with-map-filter-and-reduce
 https://scotch.io/tutorials/build-a-ssr-app-with-preact-unistore-and-preact-router
+https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex
 
 
 ####################################### The Polyglot Developer ##################################################
@@ -299,6 +302,7 @@ https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d
 https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
 https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a
 https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07
+https://itnext.io/css-variables-dynamic-app-themes-86c0db61cbbb
 
 
 ########################################### Google ###########################################################
@@ -308,6 +312,10 @@ https://developers.google.com/web/updates/2018/03/smooshgate
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/
 https://developers.google.com/web/fundamentals/primers/modules
 https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/
+https://developers.google.com/web/updates/2016/02/es2015-proxies
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/
+https://developers.google.com/web/updates/2018/03/cssom
+https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/
 
 
 ########################################### Sessionstack ###########################################################
@@ -316,5 +324,30 @@ https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-as
 https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
 https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e
 https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab
+
+
+########################################### JRSinclair ###########################################################
+http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/
+http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd/
+http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad
+http://jrsinclair.com/articles/2017/javascript-without-loops/
+https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/
+https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/
+
+
+########################################### Robin Weiruch ###########################################################
+https://www.robinwieruch.de/linear-algebra-matrix-javascript/
+https://www.robinwieruch.de/neural-networks-deeplearnjs-javascript/
+https://www.robinwieruch.de/react-graphql-apollo-tutorial/
+https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/
+https://www.robinwieruch.de/graphql-apollo-server-tutorial/
+
+
+########################################### Pubnub ###########################################################
+https://www.pubnub.com/blog/webrtc-video-chat-app-in-20-lines-of-javascript/
+https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/
+https://www.pubnub.com/blog/integrate-embeddable-gifs-into-a-realtime-chat-app-with-giphy-api-and-blocks/
+https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/
+https://www.pubnub.com/blog/build-multiplayer-browser-based-vr-game-aframe-webvr/
 
 
