@@ -8,10 +8,6 @@ https://booker.codes/data-driven-tests-in-javascript-using-mocha/
 http://vegibit.com/vue-js-tutorial/
 http://derickbailey.com/2015/08/26/building-a-component-based-web-ui-with-modern-javascript-frameworks/
 https://derickbailey.com/2017/04/18/you-need-es7s-async-functions-heres-why/
-http://www.pubnub.com/blog/webrtc-video-chat-app-in-20-lines-of-javascript/
-https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-programming-language-easy/
-https://www.pubnub.com/blog/integrate-embeddable-gifs-into-a-realtime-chat-app-with-giphy-api-and-blocks/
-https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/
 http://blog.rangle.io/angular-gulp-bestpractices/
 http://deanhume.com/Home/BlogPost/service-workers--dynamic-responsive-images-using-webp-images/10132/
 https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays
@@ -50,12 +46,8 @@ http://gamedevelopment.tutsplus.com/tutorials/quick-tip-how-to-render-to-a-textu
 http://www.jstips.co/en/filtering-and-sorting-a-list-of-strings/
 https://thesocietea.org/2016/01/building-es6-javascript-for-the-browser-with-gulp-babel-and-more/
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
-https://developers.google.com/web/updates/2016/02/es2015-proxies
-https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/
-https://developers.google.com/web/updates/2018/03/cssom
 http://www.lessmilk.com/game-design-1/
 http://www.adityaravishankar.com/2016/01/commandos-bel-html5-recreating-the-classic-2-5d-real-time-tactics-game-in-the-browser/
-http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/
 http://andrejgajdos.com/setting-up-webpack-for-es6-react-sass-and-bootstrap/
 http://code.tutsplus.com/tutorials/20-useful-jquery-sliders--cms-25960
 http://code.tutsplus.com/tutorials/introduction-to-p5js--cms-25665
@@ -103,10 +95,6 @@ http://tutorials.pluralsight.com/front-end-javascript/introduction-to-asynchrono
 http://elijahmanor.com/npm-precommit-scripts/
 http://elijahmanor.com/js-copypaste-detect/
 http://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/
-http://jrsinclair.com/articles/2016/one-weird-trick-that-will-change-the-way-you-code-forever-javascript-tdd/
-http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad
-http://jrsinclair.com/articles/2017/javascript-without-loops/
-https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/
 http://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/
 http://thejsguy.com/2016/07/30/javascript-for-loop-vs-array-foreach.html
 http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html
@@ -124,9 +112,11 @@ https://javascriptrefined.io/nan-and-typeof-36cd6e2a4e43#.jjebtq256
 https://philipwalton.com/articles/untangling-deeply-nested-promise-chains/
 https://philipwalton.com/articles/loading-polyfills-only-when-needed/
 https://philipwalton.com/articles/deploying-es2015-code-in-production-today/
+https://philipwalton.com/articles/idle-until-urgent/
 https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/
 https://nolanlawson.com/2017/01/09/how-to-write-a-javascript-package-for-both-node-and-the-browser/
 https://nolanlawson.com/2018/03/20/smaller-lodash-bundles-with-webpack-and-babel/
+https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/
 http://x-team.com/2016/08/beginners-guide-ionic-2-mobile-applications/
 https://madebymike.com.au//writing/service-workers/
 https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks
@@ -136,6 +126,10 @@ https://blog.aria.ai/post/why-use-flow/
 http://avitureblog.com/2016/09/01/webpack-hot-reloading.html
 http://ryanmorr.com/true-hash-maps-in-javascript/
 http://raganwald.com/2015/05/30/de-stijl.html
+http://raganwald.com/2017/04/30/transducers.html
+http://raganwald.com/2017/07/22/closing-iterables-is-a-leaky-abstraction.html
+http://raganwald.com/2018/08/30/to-grok-a-mockingbird.html
+http://raganwald.com/2018/09/12/auto-vivifying-hash.html
 https://gorillalogic.com/blog/using-lambdas-with-bluebird-map/
 https://bitsofco.de/variable-and-function-hoisting-in-es2015/
 https://bitsofco.de/javascript-promises-102/
@@ -203,12 +197,6 @@ https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-w
 https://zapier.com/engineering/how-to-build-redux/
 https://rainsoft.io/7-tips-to-handle-undefined-in-javascript/
 http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html
-https://zellwk.com/blog/js-in-dom/
-https://zellwk.com/blog/es6/
-https://zellwk.com/blog/callbacks/
-https://zellwk.com/blog/this/
-https://zellwk.com/blog/dom-traversals/
-http://raganwald.com/2017/04/30/transducers.html
 https://tympanus.net/codrops/2017/05/09/infinite-tubes-with-three-js/
 http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/
 https://hackcabin.com/post/managing-async-dependencies-javascript/
@@ -237,7 +225,6 @@ https://alexjoverm.github.io/2017/06/28/Integrate-TypeScript-in-your-Vue-project
 https://www.stefanjudis.com/blog/hidden-messages-in-javascript-property-names/
 https://javascriptplayground.com/blog/2017/07/react-extracting-logic/
 http://blog.88mph.io/2017/07/28/understanding-service-workers/
-http://raganwald.com/2017/07/22/closing-iterables-is-a-leaky-abstraction.html
 http://benediktmeurer.de/2017/08/10/frozen-prototypes/
 https://www.sitepen.com/blog/2017/08/08/wrapping-web-components-with-react/
 https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/
@@ -265,6 +252,7 @@ http://nikgrozev.com/2017/10/01/async-await/
 https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e
 https://mathiasbynens.be/notes/async-stack-traces
 https://mathiasbynens.be/notes/shapes-ics
+https://mathiasbynens.be/notes/prototypes
 https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html
 https://blog.nrwl.io/nrwl-nx-an-open-source-toolkit-for-enterprise-angular-applications-38698e94d65
 https://www.influxdata.com/blog/introduction-to-influxdatas-influxdb-and-tick-stack/
@@ -277,10 +265,6 @@ https://ayushgp.github.io/html-web-components-using-vanilla-js/
 https://dev-blog.apollodata.com/apollo-client-2-0-5c8d0affcec7
 https://bendyworks.com/blog/getting-started-with-webpack-source-maps
 https://nextjournal.com/dubroy/ohm-parsing-made-easy
-https://www.robinwieruch.de/linear-algebra-matrix-javascript/
-https://www.robinwieruch.de/neural-networks-deeplearnjs-javascript/
-https://www.robinwieruch.de/react-graphql-apollo-tutorial/
-https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/
 https://news.thisdot.co/what-is-rxjs-and-why-you-should-know-about-it-2a5afe58cea
 https://x-team.com/blog/react-vue-component-integration/
 https://tylermcginnis.com/arrow-functions
@@ -329,6 +313,7 @@ https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code
 http://thecodebarbarian.com/using-promise-finally-in-node-js.html
 http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html
 https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html
+http://thecodebarbarian.com/building-a-serverless-app-with-mongodb-stitch.html
 http://stackabuse.com/single-page-apps-with-vue-js-and-flask-state-management-with-vuex/
 https://www.dalejefferson.com/async-await-promise-all-array-destructuring/
 http://www.olioapps.com/blog/the-lost-art-of-the-makefile/
@@ -336,6 +321,7 @@ https://aws.amazon.com/blogs/mobile/building-a-serverless-real-time-chat-applica
 https://circleci.com/blog/preserve-build-integrity-prevent-problems-deterministic-builds/
 https://blog.cloudflare.com/cloudflare-workers-unleashed/
 https://blog.cloudflare.com/building-a-serverless-slack-bot-using-cloudflare-workers/
+https://blog.cloudflare.com/using-workers-to-make-static-sites-dynamic/
 http://www.sheshbabu.com/posts/tips-for-using-eslint-in-a-legacy-codebase/
 https://www.stefanjudis.com/today-i-learned/the-complicated-syntax-of-lookaheads-in-javascript-regular-expressions/
 https://towardsdatascience.com/gpu-accelerated-neural-networks-in-javascript-195d6f8e69ef
@@ -372,5 +358,24 @@ https://enlight.nyc/projects/y-combinator/
 https://blog.kentcdodds.com/why-i-never-use-shallow-rendering-c08851a68bb7
 https://blog.kentcdodds.com/what-is-a-polyfill-acab87e8481e
 https://uxdesign.cc/crafting-beautiful-ux-with-api-requests-56e7dcc2f58e
+https://andy-carter.com/blog/variable-scope-in-modern-javascript
+https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a
+https://mobiforge.com/design-development/the-generic-sensor-api
+https://prismic.io/blog/3-reasons-to-use-vuejs-in-your-next-web-project
+https://beta.observablehq.com/@mateogianolio/complex-numbers-in-javascript
+https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/
+https://oprea.rocks/blog/what-do-the-three-dots-mean-in-javascript/
+http://jamesthom.as/blog/2018/08/13/serverless-machine-learning-with-tensorflow-dot-js/
+https://gofore.com/en/why-you-should-replace-foreach/
+https://javascript.tumblr.com/post/177492037092/making-a-progressive-web-app-with-webpack-just-got
+https://frontarm.com/courses/async-javascript/promises/why-async/
+https://manu.ninja/using-the-speech-synthesis-interface-of-the-web-speech-api/
+https://codewithhugo.com/javascript-graphql-client-requests-in-node-and-the-browser-using-graphql.js/
+https://checklyhq.com/blog/2018/08/how-we-got-a-100-lighthouse-performance-score-for-our-vue.js-app/
+https://www.nexmo.com/blog/2018/08/21/phone-call-web-browser-nexmo-in-app-voice-vue-js-dr/
+https://snipcart.com/blog/vue-js-plugin
+https://blog.apollographql.com/deploy-a-fullstack-apollo-app-with-netlify-45a7dfd51b0b
+https://developer.okta.com/blog/2018/09/17/desktop-app-electron-authentication 
+https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore
 
 
