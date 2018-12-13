@@ -73,6 +73,9 @@ https://www.youtube.com/watch?v=jfHNzL5h1Aw - CSS Grid Uncollapses Your Margins
 https://www.youtube.com/watch?v=we3lLo-UFtk - PWA starter kit: build fast, scalable, modern apps with Web Components
 https://www.youtube.com/watch?v=63I-mEuSvGA - The Cost Of JavaScript
 https://www.youtube.com/watch?v=Jtmkk6odggs - Where is CSS4?
+https://www.youtube.com/watch?v=0Gr1XSyxZy0 - 9 Biggest Mistakes with CSS Grid
+https://www.youtube.com/watch?v=DCZdCKjnBCs - CSS Grid in 45 Minutes
+
 
 
 ##An Event Apart
@@ -98,6 +101,8 @@ https://vimeo.com/239782886 - Mark Boulton | Designing Grids
 https://vimeo.com/242890906 - Tab Atkins | The (Far) Future of CSS
 https://vimeo.com/251516830 - New Adventures in Responsive Web Design
 https://vimeo.com/254679499 - INTO THE WEEDS OF CSS LAYOUT
+https://vimeo.com/279258468 - The Friction of Web Standards
+https://vimeo.com/286945944 - Solving container queries today
 
 
 ##Channel 9
@@ -155,7 +160,9 @@ https://codepen.io/GeorgePark/pen/EEGJEj - CSS Gradient Rounded Borders
 https://codepen.io/kylevilleneuve/pen/XqeVdZ - Responsive Typography Generator
 https://codepen.io/gregwhitworth/pen/aKpVeV - Container Query flow chart
 https://codepen.io/MartijnCuppens/pen/MXojmw - The div that look different in every browser
-
+https://codepen.io/MadeByMike/pen/eKPZZz - Scrolling Gradient
+https://codepen.io/AllThingsSmitty/pen/VzXrgY/ - Neon Text Effect
+https://codepen.io/Wujek_Greg/pen/EpJwaj - Pure CSS The Carlton dance
 
 
 ##Gihub-Gist
@@ -233,13 +240,12 @@ https://www.svgbackgrounds.com - Customize and apply backgrounds fast
 https://cssgradient.io - free tool that lets you create a gradient background for websites
 https://bulma.io - an open source CSS framework based on Flexbox 
 https://www.docz.site - It's never been easier to document your things!
-http://nativeformelements.com/
+http://nativeformelements.com/ - what every HTML5 form element looks like on your current operating system and browser.
 https://atomiks.github.io/30-seconds-of-css/ - A curated collection of useful CSS snippets
 http://www.joerezendes.com/projects/Woah.css/ - Animations for eccentric developers
 https://design.google.com/articles/introducing-resizer/
 https://descartes.io/ - Write CSS in JavaScript 
 https://q42.github.io/delighters/ - Add CSS animations to delight users as they scroll down
-https://1000ch.github.io/grd/
 http://brandmark.io/logo-crunch/ - Logo Crunch is a multi-resolution logo maker
 http://www.csspurge.com/ - SAVING THE WEB 1KB AT A TIME
 https://fontanello.oktavilla.se -  Browser extension that lets you display the basic typographic styles of a text
@@ -250,3 +256,16 @@ https://ausi.github.io/respimagelint/ - Linter for responsive images
 http://bulma.io/ - A modern CSS framework based on Flexbox
 http://cssspecificity.com/ - with icons inspired by "The Shining"
 http://www.cssfontstack.com/ - A complete collection of web safe CSS font stacks
+https://recurss.github.io - a collection of recursive css specimens
+https://teutonic.co - A modern CSS framework — versatile, well documented
+https://webhint.io - a linting tool that will help you with your site
+https://hexnaw.com - A color accessibility tool for designers and developers
+https://nucleoapp.com/tool/icon-transition - Icon Transition Generator
+https://postmarkapp.com/mailmason - A complete toolset to streamline building a consistent transactional emails
+https://pawelgrzybek.github.io/siema/ - Lightweight and simple carousel with no dependencies
+https://svgurt.com/#/ - Image to SVG transformation tool 
+https://naver.github.io/egjs-infinitegrid/ - A module used to arrange card elements
+http://tabulator.info - The easy to use, fully featured, interactive table JavaScript library
+https://tailwindcss.com - A Utility-First CSS Framework for Rapid UI Development
+https://mciastek.github.io/sal/ - Lightweight scroll animation library
+
