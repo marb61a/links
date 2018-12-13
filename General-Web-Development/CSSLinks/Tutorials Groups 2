@@ -19,6 +19,8 @@ https://pineco.de/using-initial-keyword-in-css/
 https://pineco.de/security-and-performance-benefit-from-the-rel-noopener/
 https://pineco.de/the-relative-units-of-css/
 https://pineco.de/css-important-and-what-we-can-use-for-it/
+https://pineco.de/css-quick-tip-the-valid-characters-in-a-custom-css-selector/
+https://pineco.de/defining-colors-in-css/
 
 
 ############################################## A List Apart ########################################################## 
@@ -34,6 +36,7 @@ https://alistapart.com/article/we-write-css-like-we-did-in-the-90s-and-yes-its-s
 https://alistapart.com/article/diy-web-accessibility-blueprint
 https://alistapart.com/article/going-offline
 https://alistapart.com/article/the-slow-death-of-internet-explorer-and-future-of-progressive-enhancement
+https://alistapart.com/article/conversational-semantics
 
 
 ############################################## CSS Animation ########################################################## 
@@ -80,6 +83,7 @@ https://scotch.io/tutorials/building-a-morphing-hamburger-menu-with-css
 https://scotch.io/tutorials/a-look-at-bootstrap-4s-new-reset-rebootcss
 https://scotch.io/tutorials/animating-elements-along-svg-paths-introducing-pathslider
 https://scotch.io/tutorials/building-a-fancy-countdown-timer-with-momentumsliderjs
+https://scotch.io/tutorials/demystifying-the-service-worker-lifecycle
 
 
 ############################################## Jonathan Harrell ########################################################## 
@@ -97,5 +101,48 @@ https://blog.logrocket.com/how-css-works-understanding-the-cascade-d181cd89a4d8
 https://blog.logrocket.com/level-up-your-css-selector-skills-5d7bb45ddd37
 https://blog.logrocket.com/submitting-html-forms-using-javascript-frameworks-vue-react-hyperapp-44664dba1218
 https://blog.logrocket.com/how-css-works-creating-layers-with-z-index-6a20afe1550e
+https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a
+https://blog.logrocket.com/new-in-chrome-69-building-progress-doughnut-charts-with-conical-gradients-356820b1d081
+https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10
 
+
+############################################## GitConnected ########################################################## 
+https://levelup.gitconnected.com/tutorial-build-an-interactive-virtual-globe-with-three-js-33cf7c2090cb
+https://levelup.gitconnected.com/making-an-animated-nav-component-wotw-e94b6bca04c4
+https://levelup.gitconnected.com/how-to-make-an-animated-wizard-component-wotw-9af9ac7a87a4
+https://levelup.gitconnected.com/smiley-toggle-wotw-a3bf7cc1b5c3
+https://levelup.gitconnected.com/making-an-animated-slider-wotw-a98f71438b33
+
+
+############################################## Prototypr ########################################################## 
+https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.jop9kz5bp
+https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4
+https://blog.prototypr.io/how-to-create-the-snake-highlight-animation-with-anime-js-bf9c6cb66434
+https://blog.prototypr.io/7-rules-of-using-radio-buttons-vs-drop-down-menus-fddf50d312d1
+https://blog.prototypr.io/an-exploration-of-variable-fonts-37f85a91a048
+
+
+############################################## Zellwk ########################################################## 
+https://zellwk.com/blog/from-html-grids-to-css-grids/
+https://zellwk.com/blog/responsive-grid-system/
+https://zellwk.com/blog/responsive-vertical-rhythm/
+https://zellwk.com/blog/faux-subgrid/
+https://zellwk.com/blog/good-frontend-developer/
+
+
+############################################## Zachleat ########################################################## 
+https://www.zachleat.com/web/comprehensive-webfonts/
+https://www.zachleat.com/web/rename-font/
+https://www.zachleat.com/web/webfont-glossary/
+https://www.zachleat.com/web/font-loading-classes/
+https://www.zachleat.com/web/comprehensive-webfonts/
+https://www.zachleat.com/web/font-checklist/
+
+
+############################################## Lea Verou ########################################################## 
+http://lea.verou.me/2016/09/autoprefixing-with-css-variables/
+http://lea.verou.me/2017/02/duoload-simplest-website-load-comparison-tool-ever/
+http://lea.verou.me/2018/05/responsive-tables-revisited/
+http://lea.verou.me/2018/05/never-forget-typebutton-on-generated-buttons/
+http://lea.verou.me/2018/09/refresh-css-bookmarklet-v2/
 
