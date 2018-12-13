@@ -106,6 +106,12 @@ https://www.sitepoint.com/css-grid-layout-vs-css-frameworks-debate/
 https://www.sitepoint.com/7-performance-tips-jank-free-javascript-animations/
 https://www.sitepoint.com/optimizing-css-id-selectors-and-other-myths/
 https://www.sitepoint.com/performance-auditing-a-firefox-developer-tools-deep-dive/
+https://www.sitepoint.com/flexbox-css-flexible-box-layout/
+https://www.sitepoint.com/easy-responsive-modern-css-grid-layout/
+https://www.sitepoint.com/css-transforms-real-world/
+https://www.sitepoint.com/css-grid-web-form-layout/
+https://www.sitepoint.com/css-layouts-floats-flexbox-grid/
+https://www.sitepoint.com/creating-css-grid-layouts/
 
 
 ############################################## Smashing ########################################################## 
@@ -225,6 +231,17 @@ https://www.smashingmagazine.com/2018/06/bem-for-beginners/
 https://www.smashingmagazine.com/2018/07/css-grid-2/
 https://www.smashingmagazine.com/2018/07/web-with-just-a-keyboard/
 https://www.smashingmagazine.com/2018/07/pattern-library-first-css/
+https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/
+https://www.smashingmagazine.com/2018/07/converting-images-to-webp/
+https://www.smashingmagazine.com/2018/07/smashingconf-videos-web-fonts-performance/
+https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/
+https://www.smashingmagazine.com/2018/08/flexbox-alignment/
+https://www.smashingmagazine.com/2018/08/scroll-bouncing-websites/
+https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/
+https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/
+https://www.smashingmagazine.com/2018/09/css-shapes/
+https://www.smashingmagazine.com/2018/09/designing-a-textbox-unabridged/
+https://www.smashingmagazine.com/2018/09/importance-manual-accessibility-testing/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -255,6 +272,7 @@ https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/
 https://blog.mozilla.org/blog/2018/04/03/mozilla-brings-firefox-augmented-virtual-reality/
 https://hacks.mozilla.org/2018/05/progressive-web-games/
 https://hacks.mozilla.org/2018/06/retained-display-lists/
+https://hacks.mozilla.org/2018/09/converting-a-webgl-application-to-webvr/
 
 
 ############################################## Google ########################################################## 
@@ -341,6 +359,13 @@ https://medium.com/@eugeniolujambio/accessible-css-only-floating-labels-74bf9173
 https://medium.com/9elements/building-a-responsive-image-e4c6229fa1f6
 https://medium.com/@ericsimons/introducing-teleport-over-the-air-hot-reloading-debugging-for-pwas-️-efd1e2b1c64c
 https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773
+https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408
+https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
+https://medium.com/walmartlabs/primer-on-front-end-automation-a9eee2c6bc1
+https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4
+https://medium.com/codyhouse/line-height-crop-a-simple-css-formula-to-remove-top-space-from-your-text-9c3de06d7c6f
+https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c
+https://medium.com/content-uneditable/implementing-single-file-web-components-22adeaa0cd17
 
 
 ############################################## Dev Channel ##########################################################
@@ -383,6 +408,8 @@ https://medium.freecodecamp.org/z-index-explained-how-to-stack-elements-using-cs
 https://medium.freecodecamp.org/an-overview-of-visual-studio-code-for-front-end-developers-49a4aa0771fb
 https://medium.freecodecamp.org/8-point-grid-typography-on-the-web-be5dc97db6bc
 https://medium.freecodecamp.org/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa
+https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35
+https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5
 
 
 ############################################## Statuscode ##########################################################
@@ -413,6 +440,8 @@ https://webdesign.tutsplus.com/tutorials/how-to-scroll-snap-using-css--cms-30333
 https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368
 https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-alignment--cms-30183
 https://webdesign.tutsplus.com/tutorials/the-quirks-of-css-grid-and-absolute-positioning--cms-31437
+https://code.tutsplus.com/tutorials/create-interactive-gradient-animations-using-granimjs--cms-30602
+https://webdesign.tutsplus.com/articles/spirit-app-easy-realtime-animation-for-the-web--cms-30111
 
 
 ############################################## CSS Wizadry ##########################################################
@@ -428,6 +457,7 @@ https://csswizardry.com/2017/02/base64-encoding-and-performance/
 https://csswizardry.com/2018/01/finding-dead-css/
 https://csswizardry.com/2018/03/measuring-the-hard-to-measure/
 https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/
+https://csswizardry.com/2018/07/getting-to-know-a-legacy-codebase/
 
 
 ############################################## Telerik ########################################################## 
@@ -443,6 +473,8 @@ http://sarasoueidan.com/blog/svg-vs-gif/
 http://sarasoueidan.com/blog/svg-style-inheritance-and-FOUSVG/
 https://sarasoueidan.com/blog/icon-fonts-to-svg/
 https://sarasoueidan.com/blog/mimic-relative-positioning-in-svg/
+https://www.sarasoueidan.com/blog/svg-filters/
+https://www.sarasoueidan.com/blog/accordion-markup/
 
 
 ############################################## The New Code ########################################################## 
@@ -470,6 +502,7 @@ https://tympanus.net/codrops/2018/01/10/decorative-letter-animations/
 https://tympanus.net/Development/SliceRevealer/
 https://tympanus.net/codrops/2018/03/28/grid-menu/
 https://tympanus.net/codrops/2018/04/25/particle-effects-for-buttons/
+https://tympanus.net/codrops/2018/08/01/slide-box-menu/
 
 
 ############################################## Webkit ########################################################## 
@@ -530,6 +563,7 @@ https://hackernoon.com/my-approach-to-using-z-index-eca67feb079c
 https://hackernoon.com/efficiently-snapshotting-spas-with-puppeteer-c4c77aa2831b
 https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e
 https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a
+https://hackernoon.com/how-to-create-a-pwa-game-using-preact-in-5-steps-tutorial-c8b177037c80
 
 
 ############################################## Rachel Andrew ########################################################## 
@@ -541,4 +575,5 @@ https://rachelandrew.co.uk/archives/2017/07/01/you-do-not-need-a-css-grid-based-
 https://www.rachelandrew.co.uk/archives/2017/07/04/is-it-really-safe-to-start-using-css-grid-layout/
 https://rachelandrew.co.uk/archives/2017/08/08/changes-to-the-grid-spec-and-taking-on-multi-column-layout/
 https://rachelandrew.co.uk/archives/2018/03/07/css-grid-one-year-on/
+https://www.rachelandrew.co.uk/archives/2018/07/17/should-i-try-to-use-the-ie-version-of-grid-layout-revisited-for-2018/
 
