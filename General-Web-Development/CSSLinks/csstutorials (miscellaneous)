@@ -47,7 +47,6 @@ https://olivierpieters.be/blog/2016/08/23/using-css3-counters-for-figure-table-a
 http://johnpolacek.com/content-display-patterns/
 http://blog.mrfrontend.org/2016/03/an-introduction-to-postcss/
 http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm
-http://zellwk.com/blog/from-html-grids-to-css-grids/
 https://www.caktusgroup.com/blog/2016/03/07/time-flexbox-first/
 http://krasimirtsonev.com/blog/article/lazy-load-your-images-with-coloor
 https://www.bramstein.com/writing/web-font-loading-patterns.html
@@ -61,8 +60,13 @@ https://falkus.co/2017/09/remove-unused-css-rules/
 http://mediatemple.net/blog/tips/considerations-for-styling-the-pre-tag/
 https://robots.thoughtbot.com/you-don-t-need-javascript-for-that
 https://benfrain.com/debugging-css/
+https://benfrain.com/a-horizontal-scrolling-navigation-pattern-for-touch-and-mouse-with-moving-current-indicator/
+https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/
+https://benfrain.com/the-frustrations-of-using-css-shapes-and-css-exclusions/
 https://blogs.igalia.com/mrego/2016/05/27/css-grid-layout-and-positioned-items/
 https://blogs.igalia.com/jfernandez/2017/05/03/can-i-use-css-box-alignment/
+https://blogs.igalia.com/mrego/2018/01/11/display-contents-is-coming/
+https://blogs.igalia.com/mrego/2018/08/08/css-logical-properties-and-values-in-chromium/
 https://notes.embed.ly/building-animated-covers-for-video-with-sprites-d260c445eb10#.v1ets1u94
 https://www.chenhuijing.com/blog/how-well-do-you-know-display/
 https://ishadeed.com/article/vertical-media-queries/
@@ -70,7 +74,6 @@ http://www.noupe.com/design/css-perfect-print-stylesheet-98272.html
 https://www.filamentgroup.com/lab/introducing-snapper.html
 https://ariya.io/2016/06/using-zopfli-to-optimize-png-images
 https://ariya.io/2016/07/shrinking-png-images-with-quantization
-https://blog.prototypr.io/sass-maps-to-ui-components-f14e1f34412e#.jop9kz5bp
 http://www.appcues.com/blog/67-open-source-modal-window-plugins-made-with-jquery-javascript-css-and-more/
 https://journal.helabs.com/alien-invasions-svgs-and-css-animations-d56c4d757209#.srxh7ickp
 https://cloudfour.com/thinks/building-themes-with-css4-color-features/
@@ -79,11 +82,6 @@ https://cloudfour.com/thinks/first-css-grid-layout/
 http://babich.biz/10-rules-for-efficient-form-design/
 https://ishadeed.com/article/css-writing-mode/
 https://kyusuf.com/post/fake-it-til-you-make-it-css
-https://www.zachleat.com/web/comprehensive-webfonts/
-https://www.zachleat.com/web/rename-font/
-https://www.zachleat.com/web/webfont-glossary/
-https://www.zachleat.com/web/font-loading-classes/
-https://www.zachleat.com/web/comprehensive-webfonts/
 https://lcamtuf.blogspot.ie/2016/08/css-mix-blend-mode-is-bad-for-keeping.html
 http://bradfrost.com/blog/post/a-code-review-or-yet-another-reason-to-love-the-web/
 http://bradfrost.com/blog/post/css-architecture-for-design-systems/
@@ -92,10 +90,6 @@ http://pixelonezero.com/depth-of-field-css-animation
 http://mediatemple.net/blog/tips/svg-charting-libraries/
 http://www.lottejackson.com/learning/nth-child-cicada-principle
 https://www.oreilly.com/learning/introduction-to-svg-animation
-http://lea.verou.me/2016/09/autoprefixing-with-css-variables/
-http://lea.verou.me/2017/02/duoload-simplest-website-load-comparison-tool-ever/
-http://lea.verou.me/2018/05/responsive-tables-revisited/
-http://lea.verou.me/2018/05/never-forget-typebutton-on-generated-buttons/
 https://surma.link/things/reading-specs/
 https://blog.mariano.io/common-css-mistakes-and-how-to-fix-them-8ee0f5e88d64#.qpzlxym8w
 https://getflywheel.com/layout/css-feature-queries-how-to/
@@ -112,9 +106,6 @@ https://www.raymondcamden.com/2018/06/07/keeping-up-with-browser-updates
 https://responsivedesign.is/articles/creating-the-periodic-table-with-grid-css
 https://www.stefanjudis.de/aria-selected-and-when-to-use-it.html
 https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.tbhcgjovo
-https://zellwk.com/blog/responsive-grid-system/
-https://zellwk.com/blog/responsive-vertical-rhythm/
-https://zellwk.com/blog/faux-subgrid/
 https://www.impressivewebs.com/fixing-styles-on-code-tags-nested-inside-links/
 https://www.impressivewebs.com/npm-for-beginners-a-guide-for-front-end-developers/
 https://www.impressivewebs.com/html5-global-hidden-attribute/
@@ -142,9 +133,6 @@ https://snook.ca/archives/html_and_css/calendar-css-grid
 https://snook.ca/archives/html_and_css/animating-progress
 https://una.im/save-offline/
 https://una.im/local-css-vars/
-https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4
-https://blog.prototypr.io/how-to-create-the-snake-highlight-animation-with-anime-js-bf9c6cb66434
-https://blog.prototypr.io/7-rules-of-using-radio-buttons-vs-drop-down-menus-fddf50d312d1
 http://brolik.com/blog/clean-responsive-web-design-menu-tutorial-css-html-jquery
 https://www.news47ell.com/articles/use-svg-css-instead-text-decoration-underline/
 http://blog.dynamicdrive.com/5-brilliant-ways-to-lazy-load-images-for-faster-page-loads/
@@ -159,8 +147,6 @@ https://hashnode.com/post/why-i-love-element-queries-and-you-should-too-cizgq4uy
 https://blog.codeship.com/building-web-extensions-because-you-can/
 https://blog.codeship.com/webextensions-101/
 http://web-tricks.org/content/how-create-loading-image-using-css-only
-https://benfrain.com/a-horizontal-scrolling-navigation-pattern-for-touch-and-mouse-with-moving-current-indicator/
-https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/
 https://air.ghost.io/recording-to-an-audio-file-using-html5-and-js/
 http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align
 https://bocoup.com/blog/smoothly-animate-thousands-of-points-with-html5-canvas-and-d3
@@ -234,6 +220,7 @@ https://daverupert.com/2017/09/breaking-the-grid/
 https://daverupert.com/2017/11/happier-html5-forms/
 https://daverupert.com/2018/02/cheapass-parallax/
 https://daverupert.com/2018/03/animated-svg-radial-progress-bars/
+https://daverupert.com/2018/09/color-cycling-image-pixels-with-workers/
 https://www.heartinternet.uk/blog/discover-the-power-of-css-transforms/
 https://www.heartinternet.uk/blog/integrating-svg-site/
 https://www.heartinternet.uk/blog/fearless-guide-using-css-grid-today/
@@ -242,10 +229,12 @@ https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/
 https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/
 https://www.chenhuijing.com/blog/building-a-css-only-image-gallery/
 https://www.chenhuijing.com/blog/how-i-design-with-css-grid/
+https://www.chenhuijing.com/blog/customise-radios-without-compromising-accessibility/#
 http://tech.trivago.com/2017/09/26/accessibility-at-trivago/
 https://twilioinc.wpengine.com/2017/09/everything-you-ever-wanted-to-know-about-secure-html-forms.html
 https://www.twilio.com/blog/2017/10/screen-capture-in-google-chrome.html
 https://www.twilio.com/blog/2018/04/choosing-cameras-javascript-mediadevices-api.html
+https://www.twilio.com/blog/audio-visualisation-web-audio-api--react
 https://eduardoboucas.com/blog/2017/09/25/svg-clip-path-logo-colour.html
 https://tech.grammarly.com/blog/building-browser-extensions-at-scale
 https://slack.engineering/rebuilding-slack-com-b124c405c193
@@ -256,10 +245,6 @@ http://gedd.ski/post/grid-inspector/
 https://ayushgp.github.io/html-web-components-using-vanilla-js/
 http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html
 http://engineering.autotrader.co.uk/2017/10/27/building-fast-search-experience.html
-https://levelup.gitconnected.com/tutorial-build-an-interactive-virtual-globe-with-three-js-33cf7c2090cb
-https://levelup.gitconnected.com/making-an-animated-nav-component-wotw-e94b6bca04c4
-https://levelup.gitconnected.com/how-to-make-an-animated-wizard-component-wotw-9af9ac7a87a4
-https://levelup.gitconnected.com/smiley-toggle-wotw-a3bf7cc1b5c3
 https://paulbrowne.xyz/https-localhost
 http://adrianroselli.com/2017/11/a-responsive-accessible-table.html
 http://adrianroselli.com/2018/05/display-contents-is-not-a-css-reset.html
@@ -287,7 +272,6 @@ https://calendar.perfplanet.com/2017/mutating-web-content-using-dom-ranges/
 http://blog.dynamicdrive.com/popular-css-button-hover-effects-explained/
 https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/
 https://keithjgrant.com/posts/2018/03/html5-sectioning-and-landmark-elements
-https://blogs.igalia.com/mrego/2018/01/11/display-contents-is-coming/
 http://allthingssmitty.com/2018/01/29/phone-number-links-and-accessibility/
 https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
 https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
@@ -342,4 +326,22 @@ https://www.brucelawson.co.uk/2018/content-needs-a-publication-date/
 https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/
 https://laurakalbag.com/gallery-grid-with-css-grid/
 https://itnext.io/how-to-build-complicated-grids-using-css-grid-609b1197cf75
+https://itnext.io/4-css-tricks-ive-learnt-the-hard-way-aab1e7e8ff44
+https://www.keycdn.com/blog/service-workers
+https://www.toptal.com/css/smacss-scalable-modular-architecture-css
+https://checklyhq.com/blog/2018/08/creating-a-chrome-extension-in-2018-the-good-the-bad-and-the-meh/
+https://alligator.io/js/service-workers/
+https://alligator.io/css/scroll-snapping/
+https://elijahmanor.com/inspect-tricky-elements/
+https://sparanoid.com/lab/opentype-features/
+https://www.nexmo.com/blog/2018/08/21/phone-call-web-browser-nexmo-in-app-voice-vue-js-dr/
+https://manu.ninja/using-the-speech-synthesis-interface-of-the-web-speech-api/
+https://timkadlec.com/remembers/2018-09-06-chromes-noscript-intervention/
+https://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/
+https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
+https://spaceninja.com/2018/09/17/what-is-modular-css/
+https://tellthemachines.com/stacking-contexts/
+https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/
+https://www.thebasement.be/working-with-babel-7-and-webpack/
+https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html
 
