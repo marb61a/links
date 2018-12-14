@@ -107,6 +107,10 @@ https://www.youtube.com/watch?v=UJICwHNb4BQ - Next-Generation Frontend Testing w
 https://www.youtube.com/watch?v=SySdchiCjsQ - Create Electronic Dance Music with JavaScript
 https://www.youtube.com/watch?v=h0sfFX7WH1c - Through the Open Source Looking Glass
 https://www.youtube.com/watch?v=-6DTgFnvnXI - How to sort your socks using Javascript 
+https://www.youtube.com/watch?v=N0BeFY3B2sI - Internationalize your Web Applications with Globalize.js
+https://www.youtube.com/watch?v=dJTRjBHFLFU - Create an Engaging Native Mobile App with Vue and NativeScript
+https://www.youtube.com/watch?v=R9HDEHdGlHU - How to package a Polymer 3 app with webpack
+
 
 ##Vimeo
 https://vimeo.com/243148125 - PureScript: Tomorrow’s JavaScript Today
@@ -142,6 +146,9 @@ https://egghead.io/courses/up-and-running-with-preact
 https://tylermcginnis.com/videos/ecmascript/
 https://tylermcginnis.com/videos/compiling-polyfills/
 https://tylermcginnis.com/videos/default-parameters/
+https://tylermcginnis.com/beginners-guide-to-javascript-prototype/
+https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/
+https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/
 
 
 ##Channels & Playlists
@@ -163,6 +170,10 @@ https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx - Codin
 
 ##Podcasts
 https://softwareengineeringdaily.com/2017/03/31/webassembly-with-brendan-eich/
+
+
+##Codepen
+https://codepen.io/joelewis/pen/ePOrmV - Dynamic Placeholders
 
 
 ##Links -
@@ -210,7 +221,7 @@ https://esdiscuss.org - ECMAScript Discussion Archives
 https://sailsjs.com - makes it easy to build custom, enterprise-grade Node.js apps.
 https://xtermjs.org - a terminal front-end component written in JavaScript that works in the browser.
 https://plot.ly/javascript/open-source-announcement/
-https://www.javascripting.com
+https://www.javascripting.com - The definitive source of the best JavaScript libraries, frameworks, and plugins
 http://substance.io/ - Web content editor (Open Source)
 https://popper.js.org -  CREATE POPPERS IN WEB APPLICATIONS
 http://facebook.github.io/jest/ - Painless JavaScript Testing
@@ -223,7 +234,7 @@ http://riteshkr.com/embed.js/
 https://js.tensorflow.org - JavaScript library for training and deploying ML models
 http://robert.kra.hn/projects/paredit-js
 https://voice.kadira.io/introducing-lokka-a-simple-javascript-client-for-graphql-e0802695648c#.9yg9gpg3o
-http://xto6.js.org/
+http://lebab.io - modernizes your JavaScript code
 http://nosir.github.io/cleave.js/ - Format your <input/> content when you are typing
 http://www.javascriptoo.com - every javascript project you should be looking into
 http://flowchart.js.org - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -269,7 +280,7 @@ http://jargon.js.org - Dictionary of JS jargon
 http://videojs.com/ - The Player Framework
 https://tonejs.github.io - framework for creating interactive music in the browser
 https://slikts.github.io/js-equality-game/ - Javascript Equality Table Game
-http://standardjs.com/
+http://standardjs.com/ - JavaScript style guide, linter, and formatter
 https://tkv.io/posts/picojs-intro/demo/ - face detection in JavaScript
 https://vscodecandothat.com - All the best things about Visual Studio Code that nobody ever bothered to tell you
 https://grasshopper.codes - The coding app for beginners
@@ -286,4 +297,17 @@ https://vladocar.github.io/nanoJS/ - Minimal standalone JS library for DOM manip
 https://ml5js.org - Friendly Machine Learning for the Web.
 https://lumin.rocks - JavaScript library to progressively highlight any text on a page
 http://paperjs.org - The Swiss Army Knife of Vector Graphics Scripting
+https://snipcart.com/blog/javascript-podcasts - 16 Hand-Picked JavaScript Podcasts Still Running in 2018
+http://tabulator.info - The easy to use, fully featured, interactive table JavaScript library
+https://mostly-adequate.gitbooks.io/mostly-adequate-guide/ - a book on the functional paradigm in general
+https://mciastek.github.io/sal/ - Lightweight scroll animation library
+https://tylermcginnis.com/javascript-visualizer/ - A tool for visualizing Execution Context, Hoisting, Closures & Scopes in JS
+https://www.charts.com/muze - Compose data-driven layers to create interactive visualizations in JavaScript
+https://naver.github.io/billboard.js/ -  Re-usable, easy interface JavaScript chart library based on D3 v4
+https://virtual-keyboard.js.org - The slick virtual keyboard for Javascript
+https://howlerjs.com - Audio library for the modern web
+https://www.vuedarkmode.com/#installation - A MINIMALIST DESIGN SYSTEM FOR VUE.JS
+https://www.chunqiuyiyu.com/ervy/ - Bring charts to terminal
+https://nickpiscitelli.github.io/Glider.js/ - native scrolling list with paging controls
+
 
