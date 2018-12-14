@@ -624,5 +624,38 @@ https://github.com/date-fns/date-fns - Modern JavaScript date utility library
 https://github.com/mbasso/wasm-worker - Move a WebAssembly module into its own thread
 https://github.com/erikbrinkman/d3-dag - Layout algorithms for visualizing directed acyclic graphs
 https://github.com/ChrisCavs/t-writer.js - Native typewriter effect, without compromises or dependencies
+https://github.com/airbnb/javascript - JavaScript Style Guide
+https://github.com/apifytech/apify-js - The scalable web crawling and scraping library for JavaScript
+https://github.com/olifolkerd/tabulator - Interactive Tables and Data Grids for JavaScript
+https://github.com/typicode/husky - Git hooks made easy
+https://github.com/mciastek/sal - Performance focused, lightweight scroll animation library
+https://github.com/danielstern/highground - ES6-Based Unit Testing
+https://github.com/rhardih/ekill - Chrome extension to nuke annoying elements in a web page
+https://github.com/jamesseanwright/wax - An experimental, JSX-compatible renderer for the Web Audio API
+https://github.com/victorqribeiro/imgToAscii - A JavaScript implementation of a image to Ascii code
+https://github.com/fanraymedia/fanray - A blog built with ASP.NET Core and Vue.js
+https://github.com/chartshq/muze - Composable data visualisation library for web with a data-first approach 
+https://github.com/burakcan/mb - Exception-free nested nullable attribute accessor
+https://github.com/mourner/flatbush - A very fast static spatial index for 2D points and rectangles in JavaScript
+https://github.com/JiLiZART/bbob - Blazing fast BBCode transforming and parsing tool in pure javascript, no dependencies
+https://github.com/ballercat/walt - Walt is a JavaScript-like syntax for WebAssembly text format
+https://github.com/f/graphql.js - A Simple and Isomorphic GraphQL Client for JavaScript
+https://github.com/naver/billboard.js -  Re-usable, easy interface JavaScript chart library based on D3 v4
+https://github.com/infernojs/inferno - An extremely fast, React-like JavaScript library for building modern user interfaces
+https://github.com/Tencent/omi - Next generation web framework using web components
+https://github.com/dulnan/lazy-brush - Smooth drawing with mouse, finger or other pointing device
+https://github.com/pgiani/clean_logs - A better console.log for the browser
+https://github.com/justadudewhohacks/face-api.js - JavaScript API for face detection and face recognition in the browser 
+https://github.com/mrdoob/three.js - JavaScript 3D library.
+https://github.com/hodgef/simple-keyboard - Javascript Virtual Keyboard - Customizable, responsive and lightweight
+https://github.com/goldfire/howler.js - Javascript audio library for the modern web.
+https://github.com/LeCoupa/vuedarkmode - A  minimalist dark design system for Vue.js
+https://github.com/sarahdayan/dinero.js - An immutable library to create, calculate and format money.
+https://github.com/chunqiuyiyu/ervy - Bring charts to terminal.
+https://github.com/Grsmto/simplebar - Custom scrollbars vanilla javascript library
+https://github.com/NickPiscitelli/Glider.js - A fast, lightweight, dependency free, native scrolling carousel alternative
+https://github.com/iamkun/dayjs - immutable date library alternative to Moment.js with the same modern API 
+https://github.com/Evercoder/culori - A general-purpose color library for JavaScript
+https://github.com/egoist/vue-inter - Simple yet powerful 1kB i18n library for Vue.js
 
 
