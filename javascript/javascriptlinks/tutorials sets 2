@@ -182,6 +182,7 @@ https://www.sitepoint.com/building-multiplayer-tictactoe-game-with-meteor/
 https://www.sitepoint.com/10-languages-compile-javascript/
 https://www.sitepoint.com/progressive-web-apps-a-crash-course/
 https://www.sitepoint.com/single-page-app-without-framework/
+https://www.sitepoint.com/css-theming-custom-properties-javascript/
 
 
 
@@ -223,6 +224,9 @@ https://dev.to/kepta/promising-promise-tips--c8f
 https://dev.to/sammyisa/optional-chaining-may-be-coming-to-javascript--4ff0
 https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using-serverless-2nc7
 https://dev.to/adnanrahic/building-a-serverless-contact-form-with-aws-lambda-and-aws-ses-4jm0
+https://dev.to/jamesrweb/an-introduction-to-custom-elements-5327
+https://dev.to/denisinvader/creating-an-interactive-map-with-d3-and-vue-4158
+https://dev.to/aspittel/navigating-the-spooky-world-of-javascript-3h45
 
 
 #################################################### Alligator #############################################################
@@ -268,6 +272,7 @@ https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33d
 https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3
 https://blog.logrocket.com/submitting-html-forms-using-javascript-frameworks-vue-react-hyperapp-44664dba1218
 https://blog.logrocket.com/building-a-long-press-directive-in-vue-3408d60fb511
+https://blog.logrocket.com/javascript-typeof-2511d53a1a62
 
 
 ####################################### Kyle Simpson ###########################################################
@@ -286,6 +291,7 @@ https://scotch.io/tutorials/how-to-make-netflix-like-swipers-in-vue
 https://scotch.io/tutorials/list-processing-with-map-filter-and-reduce
 https://scotch.io/tutorials/build-a-ssr-app-with-preact-unistore-and-preact-router
 https://scotch.io/tutorials/handling-authentication-in-vue-using-vuex
+https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript
 
 
 ####################################### The Polyglot Developer ##################################################
@@ -303,6 +309,7 @@ https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
 https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a
 https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07
 https://itnext.io/css-variables-dynamic-app-themes-86c0db61cbbb
+https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d
 
 
 ########################################### Google ###########################################################
@@ -349,5 +356,22 @@ https://www.pubnub.com/blog/2016-08-30-javascript-parser-ohm-makes-creating-a-pr
 https://www.pubnub.com/blog/integrate-embeddable-gifs-into-a-realtime-chat-app-with-giphy-api-and-blocks/
 https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/
 https://www.pubnub.com/blog/build-multiplayer-browser-based-vr-game-aframe-webvr/
+https://www.pubnub.com/blog/build-accessible-chat-app-text-to-speech-amazon-polly-chatengine/
+https://www.pubnub.com/blog/webrtc-video-chat-engine-plugin-video-calling-chat/
 
+
+########################################### Bitsrc ###########################################################
+https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505
+https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308
+https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c
+https://blog.bitsrc.io/stateful-monads-in-javascript-part-2-7a6fa65f0ad9
+https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339
+
+
+########################################### Code Barbarian ###########################################################
+http://thecodebarbarian.com/using-promise-finally-in-node-js.html
+http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html
+https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html
+http://thecodebarbarian.com/building-a-serverless-app-with-mongodb-stitch.html
+http://thecodebarbarian.com/static-properties-in-javascript-with-inheritance.html
 
