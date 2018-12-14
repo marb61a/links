@@ -66,6 +66,7 @@ https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley
 https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201
 https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15
 https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
+https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9
 https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9
 https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161
 https://medium.com/statuscode/cors-a-guided-tour-4e72230a8739
@@ -122,6 +123,8 @@ https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
 https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f
 https://medium.com/@felixrieseberg/introducing-electron-fiddle-1de2be1ba6e7
 https://medium.com/commitlog/hello-webassembly-882bba5c9fb7
+https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf
+https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff
 
 
 ###################################### DailyJS ###########################################################
@@ -134,6 +137,7 @@ https://medium.com/dailyjs/the-why-behind-the-wat-an-explanation-of-javascripts-
 https://medium.com/dailyjs/decoupling-business-logic-using-async-generators-cc257f80ab33
 https://medium.com/dailyjs/the-trouble-with-d3-4a84f7de011f
 https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953
+https://medium.com/dailyjs/patching-the-vue-js-virtual-dom-the-need-the-explanation-and-the-solution-ba18e4ae385b
 
 
 ###################################### Eric Elliot ###########################################################
@@ -149,6 +153,8 @@ https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d2245
 https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
 https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
 https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340
+https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
+https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f
 
 
 ###################################### Freecodecamp ###########################################################
@@ -210,6 +216,9 @@ https://www.telerik.com/blogs/how-to-javascript-in-2018
 https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli
 https://www.telerik.com/blogs/building-pwas-with-vuejs
 https://www.telerik.com/blogs/hello-vue-a-quick-tutorial-on-getting-started-with-vue
+https://www.telerik.com/blogs/goodbye-javascript-hello-webassembly
+https://www.telerik.com/blogs/getting-started-with-nuxtjs
+https://www.telerik.com/blogs/what-you-need-to-know-about-vue-cli-3
 
 
 ####################################### 2Ality ###########################################################
@@ -291,6 +300,8 @@ https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timin
 https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
 https://hacks.mozilla.org/2018/05/debugging-modern-web-applications/
 https://hacks.mozilla.org/2018/06/overscripted-digging-into-javascript-execution-at-scale/
+https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast
+https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/
 
 
 ####################################### Smashing Magazine ###########################################################
@@ -319,6 +330,8 @@ https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-ser
 https://www.smashingmagazine.com/2018/07/mobile-apps-capacitor-vue-js/
 https://www.smashingmagazine.com/2018/07/logging-activity-web-beacon-api/
 https://www.smashingmagazine.com/2018/08/smashingconf-scripts-videos/
+https://www.smashingmagazine.com/2018/10/taming-this-javascript-bind-operator/
+https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/
 
 
 ####################################### Auth0 ###########################################################
@@ -393,6 +406,9 @@ https://css-tricks.com/adding-particle-effects-to-dom-elements-with-canvas/
 https://css-tricks.com/level-up-your-filter-game/
 https://css-tricks.com/updating-a-css-variable-with-javascript/
 https://css-tricks.com/using-scoped-slots-in-vue-js-to-abstract-functionality/
+https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/
+https://css-tricks.com/getting-started-with-vue-plugins/
+https://css-tricks.com/building-a-donut-chart-with-vue-and-svg/
 
 
 ####################################### Hackernoon ###########################################################
@@ -419,6 +435,9 @@ https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-h
 https://hackernoon.com/how-to-stop-using-callbacks-and-start-living-1e5ed92e68e8
 https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongodb-77774f7730fe
 https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758
+https://hackernoon.com/turtledb-a-javascript-framework-for-building-offline-first-collaborative-web-apps-7183cd787163
+https://hackernoon.com/how-to-build-serverless-vue-applications-with-aws-amplify-67d16c79e9d6
+https://hackernoon.com/introducing-squirrelly-a-fast-lightweight-and-simple-js-template-engine-70a873d765c9
 
 
 ####################################### Pusher ###########################################################
@@ -437,6 +456,7 @@ https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots/
 https://vuejsdevelopers.com/2017/10/16/vue-js-firestore/
 https://vuejsdevelopers.com/2017/10/23/vue-js-tree-menu-recursive-components/
 https://vuejsdevelopers.com/2017/10/30/vue-js-dynamic-imports-lazy-load/
+https://vuejs.org/v2/cookbook/serverless-blog.html
 
 
 ####################################### Codeburst ###########################################################
