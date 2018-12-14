@@ -310,10 +310,6 @@ https://javascriptreport.com/why-is-react-more-popular-than-angular/
 https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/
 https://blog.machinebox.io/face-verify-js-monitoring-who-is-looking-at-a-website-for-additional-security-1d6025a8fedd
 https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code/
-http://thecodebarbarian.com/using-promise-finally-in-node-js.html
-http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html
-https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html
-http://thecodebarbarian.com/building-a-serverless-app-with-mongodb-stitch.html
 http://stackabuse.com/single-page-apps-with-vue-js-and-flask-state-management-with-vuex/
 https://www.dalejefferson.com/async-await-promise-all-array-destructuring/
 http://www.olioapps.com/blog/the-lost-art-of-the-makefile/
@@ -322,6 +318,7 @@ https://circleci.com/blog/preserve-build-integrity-prevent-problems-deterministi
 https://blog.cloudflare.com/cloudflare-workers-unleashed/
 https://blog.cloudflare.com/building-a-serverless-slack-bot-using-cloudflare-workers/
 https://blog.cloudflare.com/using-workers-to-make-static-sites-dynamic/
+https://blog.cloudflare.com/building-with-workers-kv/
 http://www.sheshbabu.com/posts/tips-for-using-eslint-in-a-legacy-codebase/
 https://www.stefanjudis.com/today-i-learned/the-complicated-syntax-of-lookaheads-in-javascript-regular-expressions/
 https://towardsdatascience.com/gpu-accelerated-neural-networks-in-javascript-195d6f8e69ef
@@ -334,12 +331,15 @@ https://mcluck90.github.io/abusing-proxies-for-dsls/
 https://blog.revillweb.com/extending-native-dom-elements-with-web-components-233350c8e86a
 https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations
 https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html
+https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html
 https://blog.sourcerer.io/complete-introduction-to-async-functions-and-es6-modules-in-node-js-9f59887ba531
 http://highscalability.com/blog/2018/4/23/strategy-use-tensorflowjs-in-the-browser-to-reduce-server-co.html
 https://ckeditor.com/blog/CKEditor-5-v10.0.0-the-future-of-rich-text-editing-looks-stable/
 https://flaviocopes.com/javascript-regular-expressions/
 https://flaviocopes.com/javascript-dates/
+https://flaviocopes.com/canvas/
 https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/
+https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/
 https://www.atyantik.com/proxy-javascript-es6-feature/
 https://tech.holidayextras.com/parceljs-how-simple-really-is-it-679a4feba69d
 https://www.inrhythm.com/one-directional-data-binding/
@@ -350,13 +350,10 @@ https://frontendmayhem.com/writing-your-own-eslint-plugins/
 https://blog.pulumi.com/building-your-first-serverless-app-using-only-javascript
 https://intoli.com/blog/python-slicing-in-javascript/
 http://www.zsoltnagy.eu/es2017-object-and-string-extensions/
-https://blog.bitsrc.io/get-better-type-checking-in-javascript-with-the-maybe-type-e7f70b23b505
-https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308
-https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c
-https://blog.bitsrc.io/stateful-monads-in-javascript-part-2-7a6fa65f0ad9
 https://enlight.nyc/projects/y-combinator/
 https://blog.kentcdodds.com/why-i-never-use-shallow-rendering-c08851a68bb7
 https://blog.kentcdodds.com/what-is-a-polyfill-acab87e8481e
+https://blog.kentcdodds.com/eliminate-an-entire-category-of-bugs-with-a-few-simple-tools-f0dd2aaf4bc9
 https://uxdesign.cc/crafting-beautiful-ux-with-api-requests-56e7dcc2f58e
 https://andy-carter.com/blog/variable-scope-in-modern-javascript
 https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a
@@ -377,5 +374,20 @@ https://snipcart.com/blog/vue-js-plugin
 https://blog.apollographql.com/deploy-a-fullstack-apollo-app-with-netlify-45a7dfd51b0b
 https://developer.okta.com/blog/2018/09/17/desktop-app-electron-authentication 
 https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore
+https://blogs.dropbox.com/tech/2018/09/migrating-from-underscore-to-lodash/
+https://www.blog.drewcutchins.com/blog/2018-8-16-flocking
+https://paul.kinlan.me/barcode-detection-in-a-web-worker-using-comlink-/
+https://www.thebasement.be/working-with-babel-7-and-webpack/
+https://daringfireball.net/linked/2018/10/11/arm-v83-javascript
+https://blazingedge.io/blog/my-serverless-adventure/
+https://thread.engineering/2018-08-29-searching-and-sorting-text-with-diacritical-marks-in-javascript/
+https://blog.calendly.com/ruby-gotchas-javascript-developer/
+https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/
+https://engineering.gosquared.com/improve-javascript-page-load-time
+https://levelup.gitconnected.com/how-to-create-custom-html-markers-on-google-maps-9ff21be90e4b
+https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development
+https://smalldata.tech/blog/2018/11/01/copying-objects-in-javascript
+http://www.petecorey.com/blog/2018/11/05/bending-jest-to-our-will-caching-modules-across-tests/
+http://mjk.space/git-aliases-i-cant-live-without/
 
 
