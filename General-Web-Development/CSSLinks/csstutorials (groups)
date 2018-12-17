@@ -242,6 +242,16 @@ https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/
 https://www.smashingmagazine.com/2018/09/css-shapes/
 https://www.smashingmagazine.com/2018/09/designing-a-textbox-unabridged/
 https://www.smashingmagazine.com/2018/09/importance-manual-accessibility-testing/
+https://www.smashingmagazine.com/2018/10/flexbox-use-cases/
+https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/
+https://www.smashingmagazine.com/2018/10/smashingconf-toronto-a11y-performance-audits/
+https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/
+https://www.smashingmagazine.com/2018/10/tpac-css-working-group-new/
+https://www.smashingmagazine.com/2018/11/css-frameworks-css-grid/
+https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/
+https://www.smashingmagazine.com/2018/12/feature-policy/
+https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/
+https://www.smashingmagazine.com/2018/11/pitfalls-automatically-inlined-code/
 
 
 ############################################## Mozilla Hacks ##########################################################
@@ -273,6 +283,10 @@ https://blog.mozilla.org/blog/2018/04/03/mozilla-brings-firefox-augmented-virtua
 https://hacks.mozilla.org/2018/05/progressive-web-games/
 https://hacks.mozilla.org/2018/06/retained-display-lists/
 https://hacks.mozilla.org/2018/09/converting-a-webgl-application-to-webvr/
+https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast
+https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/
+https://hacks.mozilla.org/2018/11/new-experimental-web-design-tools-feedback-requested/
+https://hacks.mozilla.org/2018/11/the-power-of-web-components/
 
 
 ############################################## Google ########################################################## 
@@ -308,6 +322,11 @@ https://developers.google.com/web/fundamentals/performance/navigation-and-resour
 https://developers.google.com/web/updates/2018/06/feature-policy
 https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 https://developers.google.com/web/updates/2018/07/first-input-delay-in-crux
+https://developers.google.com/web/updates/2018/10/animation-worklet
+https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture
+https://developers.google.com/web/updates/2018/10/wasm-threads
+https://developers.google.com/web/updates/2018/11/writable-files
+https://developers.google.com/web/updates/2018/12/background-fetch
 
 
 ############################################## Medium ##########################################################
@@ -364,8 +383,10 @@ https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
 https://medium.com/walmartlabs/primer-on-front-end-automation-a9eee2c6bc1
 https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4
 https://medium.com/codyhouse/line-height-crop-a-simple-css-formula-to-remove-top-space-from-your-text-9c3de06d7c6f
-https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c
 https://medium.com/content-uneditable/implementing-single-file-web-components-22adeaa0cd17
+https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff
+https://medium.com/@DavidKPiano/css-animations-with-finite-state-machines-7d596bb2914a
+https://medium.marqeta.com/from-ordinary-to-extraordinary-with-css-animations-2aafd1bd9a6d
 
 
 ############################################## Dev Channel ##########################################################
@@ -377,6 +398,7 @@ https://medium.com/dev-channel/css-hex-colors-demystified-51c712179982
 https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15
 https://medium.com/dev-channel/the-future-of-accessibility-for-custom-elements-291cfb3ffabe
 https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
+https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c
 
 
 ############################################## FreeCodeCamp ##########################################################
@@ -442,6 +464,8 @@ https://webdesign.tutsplus.com/tutorials/a-comprehensive-guide-to-flexbox-alignm
 https://webdesign.tutsplus.com/tutorials/the-quirks-of-css-grid-and-absolute-positioning--cms-31437
 https://code.tutsplus.com/tutorials/create-interactive-gradient-animations-using-granimjs--cms-30602
 https://webdesign.tutsplus.com/articles/spirit-app-easy-realtime-animation-for-the-web--cms-30111
+https://webdesign.tutsplus.com/articles/quick-tip-chrome-animation-dev-tools--cms-31505
+https://webdesign.tutsplus.com/articles/the-importance-of-heading-levels-for-assistive-technology--cms-31753
 
 
 ############################################## CSS Wizadry ##########################################################
@@ -458,6 +482,7 @@ https://csswizardry.com/2018/01/finding-dead-css/
 https://csswizardry.com/2018/03/measuring-the-hard-to-measure/
 https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/
 https://csswizardry.com/2018/07/getting-to-know-a-legacy-codebase/
+https://csswizardry.com/2018/11/css-and-network-performance/
 
 
 ############################################## Telerik ########################################################## 
@@ -545,6 +570,10 @@ https://bitsofco.de/pa11y/
 https://bitsofco.de/the-accessibility-cheatsheet/
 https://bitsofco.de/github-contribution-graph-css-grid/
 https://bitsofco.de/how-display-contents-works/
+https://bitsofco.de/understanding-the-difference-between-grid-template-and-grid-auto/
+https://bitsofco.de/chrome-dev-summit-2018/
+https://bitsofco.de/a-look-at-css-resets-in-2018/
+https://bitsofco.de/what-exactly-is-the-dom/
 
 
 ############################################## Hackernoon ########################################################## 
@@ -564,6 +593,7 @@ https://hackernoon.com/efficiently-snapshotting-spas-with-puppeteer-c4c77aa2831b
 https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e
 https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a
 https://hackernoon.com/how-to-create-a-pwa-game-using-preact-in-5-steps-tutorial-c8b177037c80
+https://hackernoon.com/writing-a-javascript-tweening-engine-between-js-b510a299c82c
 
 
 ############################################## Rachel Andrew ########################################################## 
