@@ -9,6 +9,8 @@ https://alligator.io/css/viewport-units/
 https://alligator.io/html/dialog-element/
 https://alligator.io/js/resize-observer/
 https://alligator.io/css/media-queries/
+https://alligator.io/js/service-workers/
+https://alligator.io/css/scroll-snapping/
 
 
 ############################################## Pineco.de ########################################################## 
@@ -37,6 +39,8 @@ https://alistapart.com/article/diy-web-accessibility-blueprint
 https://alistapart.com/article/going-offline
 https://alistapart.com/article/the-slow-death-of-internet-explorer-and-future-of-progressive-enhancement
 https://alistapart.com/article/conversational-semantics
+https://alistapart.com/article/designing-for-cognitive-differences
+https://alistapart.com/article/braces-to-pixels
 
 
 ############################################## CSS Animation ########################################################## 
@@ -76,6 +80,10 @@ https://24ways.org/2017/lint-the-web-forward-with-sonarwhal/
 https://24ways.org/2017/cascading-web-design/
 https://24ways.org/2017/automating-your-accessibility-tests/
 https://24ways.org/2017/design-systems-and-css-grid/
+https://24ways.org/2018/mistletoe-offline/
+https://24ways.org/2018/my-first-chrome-extension/
+https://24ways.org/2018/state-machines-in-user-interfaces/
+https://24ways.org/2018/managing-flow-and-rhythm-with-css-custom-properties/
 
 
 ############################################## Scotch ########################################################## 
@@ -104,6 +112,8 @@ https://blog.logrocket.com/how-css-works-creating-layers-with-z-index-6a20afe155
 https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a
 https://blog.logrocket.com/new-in-chrome-69-building-progress-doughnut-charts-with-conical-gradients-356820b1d081
 https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10
+https://logrocket.com/blog/infinite-scroll
+https://logrocket.com/blog/youre-using-em-wrong
 
 
 ############################################## GitConnected ########################################################## 
@@ -112,6 +122,7 @@ https://levelup.gitconnected.com/making-an-animated-nav-component-wotw-e94b6bca0
 https://levelup.gitconnected.com/how-to-make-an-animated-wizard-component-wotw-9af9ac7a87a4
 https://levelup.gitconnected.com/smiley-toggle-wotw-a3bf7cc1b5c3
 https://levelup.gitconnected.com/making-an-animated-slider-wotw-a98f71438b33
+https://levelup.gitconnected.com/how-to-create-custom-html-markers-on-google-maps-9ff21be90e4b
 
 
 ############################################## Prototypr ########################################################## 
@@ -128,6 +139,8 @@ https://zellwk.com/blog/responsive-grid-system/
 https://zellwk.com/blog/responsive-vertical-rhythm/
 https://zellwk.com/blog/faux-subgrid/
 https://zellwk.com/blog/good-frontend-developer/
+https://zellwk.com/blog/remember-css-grid-properties/
+https://zellwk.com/blog/simple-form-with-css-grid/
 
 
 ############################################## Zachleat ########################################################## 
@@ -145,4 +158,28 @@ http://lea.verou.me/2017/02/duoload-simplest-website-load-comparison-tool-ever/
 http://lea.verou.me/2018/05/responsive-tables-revisited/
 http://lea.verou.me/2018/05/never-forget-typebutton-on-generated-buttons/
 http://lea.verou.me/2018/09/refresh-css-bookmarklet-v2/
+
+
+############################################## Dave Rupert ########################################################## 
+https://daverupert.com/2017/09/breaking-the-grid/
+https://daverupert.com/2017/11/happier-html5-forms/
+https://daverupert.com/2018/02/cheapass-parallax/
+https://daverupert.com/2018/03/animated-svg-radial-progress-bars/
+https://daverupert.com/2018/09/color-cycling-image-pixels-with-workers/
+
+
+############################################## ViGet ########################################################## 
+https://www.viget.com/articles/css-typography-kerning-ligatures-swashes-small-caps
+https://www.viget.com/articles/ensuring-css-animations-run-and-stop-gracefully
+https://www.viget.com/articles/managing-css-js-http-2
+https://www.viget.com/articles/make-your-site-faster-with-preconnect-hints
+https://www.viget.com/articles/the-dialog-element/
+
+
+############################################## Chen Hui Jing ########################################################## 
+https://www.chenhuijing.com/blog/how-well-do-you-know-display/
+https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/
+https://www.chenhuijing.com/blog/building-a-css-only-image-gallery/
+https://www.chenhuijing.com/blog/how-i-design-with-css-grid/
+https://www.chenhuijing.com/blog/customise-radios-without-compromising-accessibility/
 
