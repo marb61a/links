@@ -105,6 +105,7 @@ https://dev.to/adnanrahic/how-to-deploy-a-nodejs-application-to-aws-lambda-using
 https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mongodb-193k
 https://dev.to/jochemstoel/bundle-your-node-app-to-a-single-executable-for-windows-linux-and-osx-2c89
 https://dev.to/simov/composable-http-client-for-nodejs-83f
+https://dev.to/warenix/how-to-deploy-express-on-nowsh-414i
 
 
 ######################################## Nic Raboy ##############################################
@@ -136,7 +137,9 @@ https://itnext.io/build-a-project-management-software-with-vue-js-and-apollo-par
 https://itnext.io/how-to-write-a-node-js-cli-using-opencv-with-neural-network-models-for-image-classification-57785d6f09fe
 https://itnext.io/javascript-promises-with-node-js-e8ca827e0ea3
 https://itnext.io/how-to-handle-the-post-request-body-in-node-js-without-using-a-framework-cd2038b93190
-
+https://itnext.io/tea-school-js-generate-a-pdf-file-from-html-and-css-in-node-js-32529f9b0f37
+https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d
+https://itnext.io/the-absolute-easiest-way-to-debug-node-js-with-vscode-2e02ef5b1bad
 
 ######################################## Nearform ##############################################
 https://www.nearform.com/blog/architecting-electron-applications-for-60fps/
@@ -166,3 +169,17 @@ https://serverless.com/blog/serverless-express-rest-api/
 https://serverless.com/blog/unit-testing-nodejs-serverless-jest/
 https://serverless.com/blog/common-node8-mistakes-in-lambda/
 
+
+######################################## Bitsrc ##############################################
+https://blog.bitsrc.io/how-to-publish-multiple-packages-from-any-repository-in-5-minutes-9aafd31d85b7
+https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8
+https://blog.bitsrc.io/introduction-to-glitch-for-node-js-apps-in-the-cloud-cd263de5683f
+https://blog.bitsrc.io/create-a-discord-bot-using-node-dc198817b1a
+https://blog.bitsrc.io/seeding-your-database-with-thousands-of-users-using-knex-js-and-faker-js-6009a2e5ffbf
+
+
+######################################## GitConnected ##############################################
+https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
+https://levelup.gitconnected.com/beginners-guide-to-aws-beanstalk-using-node-js-d061bb4b8755
+https://levelup.gitconnected.com/overnightjs-the-best-way-to-use-expressjs-with-typescript-35d71941aade
+https://levelup.gitconnected.com/deploying-private-npm-packages-to-nexus-a16722cc8166
