@@ -705,6 +705,40 @@ https://github.com/mourner/flatbush - A very fast static spatial index for 2D po
 https://github.com/jorgebucaran/colorette - Node.js library for colorizing text using ANSI escape sequences
 https://github.com/vitalets/websocket-as-promised - A Promise-based API for WebSockets
 https://github.com/saintedlama/mongoist - Mongodb driver inspired by mongojs built with async/await in mind
-
-
+https://github.com/JorgeBucaran/getopts - High performance Node.js CLI options parser
+https://github.com/o1lab/xmysql -  One command to generate REST APIs for any MySql Database.
+https://github.com/mcollina/aedes - Barebone MQTT broker that can run on any stream server, the node way
+https://github.com/schn4ck/schnack - Simple self-hosted node app for Disqus-like drop-in commenting on static websites
+https://github.com/sindresorhus/filter-console - Filter out unwanted `console.log()` output
+https://github.com/chunqiuyiyu/ervy - Bring charts to terminal
+https://github.com/ashleydavis/grademark - API for backtesting trading strategies in JavaScript and TypeScript.
+https://github.com/icebob/fastest-validator - The fastest JS validator library for NodeJS
+https://github.com/DiegoZoracKy/oas-client - OpenAPI client generator
+https://github.com/fent/randexp.js - Create random strings that match a given regular expression.
+https://github.com/gajus/slonik - A PostgreSQL client with strict types, detail logging and assertions.
+https://github.com/tvvignesh/node-skeleton - An nodejs boilerplate
+https://github.com/enquirer/enquirer - Stylish, intuitive and user-friendly prompts.
+https://github.com/OptimalBits/redbird - A modern reverse proxy for node
+https://github.com/antonmedv/fx - Command-line tool and terminal JSON viewer
+https://github.com/micromatch/picomatch - Blazing fast and accurate glob matcher
+https://github.com/skerit/janeway - A Node.js console REPL with object inspection and many other features
+https://github.com/sindresorhus/execa - A better `child_process`
+https://github.com/deliciousinsights/mongoose-pii - A Mongoose plugin that lets you transparently cipher stored PII
+https://github.com/QubitProducts/urlite - A very small, fast, dependency free url parser and formatter for nodejs and the web
+https://github.com/yunhan0/koa-vue-fullstack - A lightweight boilerplate for a universal webapp 
+https://github.com/bvaughn/progress-estimator - Logs a progress bar and estimation
+https://github.com/nodenv/nodenv - Manage multiple NodeJS versions.
+https://github.com/lovasoa/whitebophir - Online collaborative Whiteboard in node.js
+https://github.com/galvez/yamlful - YAML-based HTTP client code generation
+https://github.com/alsiola/pm2-explorer - Manage PM2 from within VSCode 
+https://github.com/bradleyboy/tuql - Automatically create a GraphQL server from a sqlite database
+https://github.com/pd4d10/debugtron - A command line tool to debug Electron based app (production binary) 
+https://github.com/simov/grant - OAuth Middleware for Express, Koa and Hapi
+https://github.com/75lb/array-back - Isomorphic arrayify function
+https://github.com/Wenzil/Mhysa - Dependency-free stream utils for Node.js
+https://github.com/vladocar/screenshoteer - Make website screenshots and mobile emulations from the command line
+https://github.com/eddiejibson/chae-limitrr - NodeJS rate limiting using Redis 
+https://github.com/Prefinem/aws-lambda-serverless-nextjs - An AWS Lambda Serverless Next.js example project
+https://github.com/nodkz/mongodb-memory-server - Spinning up mongod in memory for fast tests
+https://github.com/lovell/sharp - High performance Node.js image processing
 
