@@ -19,11 +19,11 @@ http://www.sitepoint.com/manifoldjs-with-crosswalk-a-simpler-dev-experience-for-
 http://www.sitepoint.com/build-a-web-app-with-backbone-js-and-socket-io/
 http://www.sitepoint.com/build-sms-appointment-reminder-app-with-twilio/
 http://www.sitepoint.com/jade-tutorial-for-beginners/
-http://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/
-http://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
-http://www.sitepoint.com/web-crawling-node-phantomjs-horseman/
-http://www.sitepoint.com/deploy-rest-api-in-30-mins-mlab-heroku/
-http://www.sitepoint.com/custom-slackbot-with-node/
+https://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/
+https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
+https://www.sitepoint.com/web-crawling-node-phantomjs-horseman/
+https://www.sitepoint.com/deploy-rest-api-in-30-mins-mlab-heroku/
+https://www.sitepoint.com/custom-slackbot-with-node/
 https://www.sitepoint.com/web-apis-on-arduino-lcd/
 https://www.sitepoint.com/remote-control-mac-node-js-arduino/
 https://www.sitepoint.com/music-streaming-app-electron-react-es6/
@@ -52,6 +52,7 @@ https://www.sitepoint.com/forms-file-uploads-security-node-express/
 https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/
 https://www.sitepoint.com/build-simple-beginner-app-node-bootstrap-mongodb/
 https://www.sitepoint.com/an-introduction-to-sails-js/
+https://www.sitepoint.com/build-a-simple-api-service-with-express-and-graphql/
 
 
 ######################################## Scotch.io ##############################################
@@ -73,6 +74,8 @@ https://scotch.io/bar-talk/serverless-development-with-node-mongodb-atlas-and-aw
 https://scotch.io/tutorials/how-to-test-nodejs-apps-using-mocha-chai-and-sinonjs
 https://scotch.io/tutorials/debugging-node-code-in-vs-code
 https://scotch.io/tutorials/build-and-understand-a-simple-nodejs-website-with-user-authentication
+https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens
+https://scotch.io/tutorials/how-to-build-a-telegram-bot-using-nodejs-and-now
 
 
 ######################################## Medium ##############################################
@@ -168,6 +171,14 @@ https://medium.com/microsoftazure/eleven-tips-to-scale-node-js-65cbf6deef6e
 https://medium.com/the-guild/getting-to-know-nodes-child-process-module-8ed63038f3fa
 https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46
 https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc
+https://medium.com/crowdbotics/deploy-a-mern-stack-app-on-heroku-b0c255744a70
+https://medium.com/crowdbotics/building-a-rest-api-with-koajs-417c276929e2
+https://medium.com/@patrickleet/effective-docker-healthchecks-for-node-js-b11577c3e595
+https://medium.com/shemseddine-on-code/deploying-nodejs-apps-with-azure-app-services-and-docker-e95031d57e9a
+https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
+https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f
+https://medium.com/mop-developers/testing-your-api-with-dredd-c02e6ca151f2
+https://medium.com/the-node-js-collection/debug-your-node-js-app-in-60-seconds-9ee942a453f0
 
 
 ######################################## DailyJS ##############################################
@@ -200,6 +211,8 @@ https://medium.freecodecamp.org/how-to-write-powerful-schemas-in-javascript-490d
 https://medium.freecodecamp.org/a-crash-course-on-securing-serverless-apis-with-json-web-tokens-ff657ab2f5a5
 https://medium.freecodecamp.org/build-a-node-js-command-line-chat-application-with-chatkit-8d0c4546085e
 https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78
+https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474
+https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9
 
 
 ######################################## Risingstack ##############################################
@@ -273,6 +286,7 @@ https://blog.risingstack.com/consumer-driven-contract-testing-with-pact/
 https://blog.risingstack.com/deploying-a-stateful-application-on-google-cloud-kubernetes-engine/
 https://blog.risingstack.com/deploying-a-stateful-application-on-azure-kubernetes-service-aks/
 https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/
+https://blog.risingstack.com/nodejs-microservices-scaling-case-study/
 
 
 ########################################### The NodeJS Collection #################################################
@@ -411,6 +425,7 @@ https://hackernoon.com/a-crash-course-on-serverless-apis-with-express-and-mongod
 https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f
 https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0
 https://hackernoon.com/build-a-telegram-bot-that-translates-text-in-3-steps-with-node-js-and-code-xyz-fa9d6309b659
+https://hackernoon.com/text-yourself-the-nasa-picture-of-the-day-with-standard-library-and-node-js-226f6ca48adc
 
 
 ######################################## Thisdavej ##############################################
@@ -512,6 +527,7 @@ https://nodesource.com/blog/scalable-nodejs-with-kubernetes-and-google-kubernete
 https://nodesource.com/blog/a-high-level-post-mortem-of-the-eslint-scope-security-incident
 https://nodesource.com/blog/the-age-of-node-js-and
 https://nodesource.com/blog/node-js-and-the-hashwick-vulnerability
+https://pages.nodesource.com/running-nodejs-applications-systemd-nodeweekly.html
 
 
 ######################################## Code Barbarian ##############################################
@@ -539,6 +555,8 @@ https://thecodebarbarian.com/stock-price-notifications-with-mongoose-and-mongodb
 https://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html
 https://thecodebarbarian.com/an-overview-of-buffers-in-node-js.html
 http://thecodebarbarian.com/introducing-await-js-express-async-support-for-express-apps.html
+http://thecodebarbarian.com/creating-qr-codes-with-node-js.html
+http://thecodebarbarian.com/static-properties-in-javascript-with-inheritance.html
 
 
 ######################################## Codeburst ##############################################
@@ -552,18 +570,4 @@ https://codeburst.io/how-to-create-an-alexa-skill-with-node-js-and-dynamodb-3c9d
 https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921
 https://codeburst.io/deploy-angular-2-node-js-website-using-aws-1ac169d6bbf
 https://codeburst.io/deploy-your-webpack-apps-to-heroku-in-3-simple-steps-4ae072af93a8
-
-
-######################################## Bitsrc ##############################################
-https://blog.bitsrc.io/how-to-publish-multiple-packages-from-any-repository-in-5-minutes-9aafd31d85b7
-https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8
-https://blog.bitsrc.io/introduction-to-glitch-for-node-js-apps-in-the-cloud-cd263de5683f
-https://blog.bitsrc.io/create-a-discord-bot-using-node-dc198817b1a
-
-
-######################################## GitConnected ##############################################
-https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-8b13f4b26361
-https://levelup.gitconnected.com/beginners-guide-to-aws-beanstalk-using-node-js-d061bb4b8755
-https://levelup.gitconnected.com/overnightjs-the-best-way-to-use-expressjs-with-typescript-35d71941aade
-https://levelup.gitconnected.com/deploying-private-npm-packages-to-nexus-a16722cc8166
 
