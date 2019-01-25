@@ -246,6 +246,7 @@ https://www.mongodb.com/blog/post/getting-started-with-mongodb-nodejs-and-restif
 https://www.mongodb.com/blog/post/part-2-introducing-mongoose-to-your-nodejs-and-restify-api
 https://www.mongodb.com/blog/post/building-a-nodejs-app-with-mongodb-atlas-and-aws-elastic-container-service-part-1
 https://www.mongodb.com/blog/post/the-modern-application-stack-part-2-using-mongodb-with-nodejs
+https://www.mongodb.com/blog/post/boosting-javascript-from-mongo-shell-to-nodejs
 https://trevordmiller.com/blog/raspberry-pi-button
 http://farzicoder.com/util-promisify-in-Node-js-v8/
 https://blog.mlab.com/2017/05/mongodb-connection-pooling-for-express-applications/
@@ -270,9 +271,13 @@ http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/
 https://codeforgeek.com/2017/07/building-live-webcam-face-detector-node-js-opencv/
 https://scalegrid.io/blog/using-redis-with-node-js-and-socket-io/
 https://thomashunter.name/blog/refactoring-a-nodejs-codebase-using-async-await/
+https://thomashunter.name/posts/2018-11-09-migrating-from-wordpress-to-static-markdown
+https://thomashunter.name/nodejs-documentation-pdf
 https://www.nodebeginner.org/blog/post/nodejs-tutorial-optimizing-code-performance-using-async/
 https://alligator.io/nodejs/uploading-files-multer-express/
 https://alligator.io/workflow/nodemon/
+https://alligator.io/angular/socket-io/
+https://alligator.io/nodejs/testing-http-requests-with-nock/
 https://developer.ibm.com/node/2017/07/24/capturing-diagnostic-dumps-node-js-applications-bluemix-container-service/
 https://vuejsdevelopers.com/2017/07/31/vue-component-publish-npm/
 https://duo.com/blog/hunting-malicious-npm-packages
@@ -296,7 +301,6 @@ https://blog.cloudboost.io/creating-a-chat-web-app-using-express-js-react-js-soc
 https://www.valentinog.com/blog/ui-testing-jest-puppetteer/
 https://tech.residebrokerage.com/debugging-node-js-memory-problems-d450787d9253
 https://www.scaledrone.com/blog/posts/automated-ui-testing-with-nightmare
-https://z-pattern-matching.github.io
 http://www.darrenbeck.co.uk/blockchain/nodejs/nodejscrypto/
 https://brightinventions.pl/blog/http-request-logging-in-node/
 https://www.percona.com/blog/2018/01/02/referenced-tables-with-generated-columns/
@@ -364,10 +368,12 @@ https://stackimpact.com/blog/locating-memory-leaks-in-nodejs-applications/
 https://stackimpact.com/blog/cpu-profiling-in-production-node-js-applications/
 http://jamesthom.as/blog/2018/07/10/debugging-node-dot-js-openwhisk-actions/
 http://jamesthom.as/blog/2018/08/07/machine-learning-in-node-dot-js-with-tensorflow-dot-js/
+http://jamesthom.as/blog/2018/10/30/finding-photos-on-twitter-using-face-recognition/
 https://www.alxolr.com/articles/squeeze-node-js-performance-with-flame-graphs
 https://smalldata.tech/blog/2018/08/16/building-a-simple-static-site-generator-using-node-js
 https://chrislea.com/2018/08/20/cross-compiling-node-js-for-arm-on-ubuntu/
 https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node
+https://developer.okta.com/blog/2018/11/13/create-and-verify-jwts-with-node
 https://blog.hailstone.io/why-context-matters-for-nodejs-template-engines/
 https://blog.hailstone.io/how-to-prevent-unsafe-redirects-in-node-js/
 https://cravencode.com/post/docker/nodejs-local-development/
@@ -380,6 +386,7 @@ https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-usi
 https://www.nexmo.com/blog/2018/09/11/add-2fa-to-nuxt-with-nexmo-verify-dr/
 https://www.coreycleary.me/why-should-your-node-js-application-not-handle-log-routing/
 https://www.coreycleary.me/separating-logic-from-express-routes-for-easier-testing/
+https://www.coreycleary.me/why-you-should-isolate-express-from-the-rest-of-your-node-application/
 https://www.netlify.com/blog/2018/09/13/how-to-run-express.js-apps-with-netlify-functions/
 http://www.joovintechcafe.info/amazon-sns/ 
 https://blog.pusher.com/facebook-chatbot-dialogflow/
@@ -387,5 +394,18 @@ https://blog.pm2.io/managing-python-application-with-pm2/
 http://www.pogsdotnet.com/2018/08/10-steps-to-setup-and-containerize.html
 https://www.codewall.co.uk/nosql-building-your-first-application-connecting-to-mongodb/
 https://www.instructables.com/id/Replace-Your-Pool-and-Spa-Controller-With-Raspberr/
-
+https://logrocket.com/blog/creating-a-logger-in-node-js
+https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8
+https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5
+https://blog.usejournal.com/using-mongodb-as-realtime-db-with-nodejs-c6f52c266750
+https://www.monterail.com/blog/nodejs-development-enterprises
+http://mjk.space/git-aliases-i-cant-live-without/
+https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries
+https://v8.dev/blog/fast-async
+https://blog.vanmulligen.ca/2018/transpiling-es9-node-modules-with-babel-7/
+https://boneskull.com/create-yo/
+https://hueniverse.com/why-you-should-consider-hapi-6163689bd7c2
+https://24ways.org/2018/securing-your-site-like-its-1999/
+https://statsbot.co/blog/a-crash-course-on-serverless-side-rendering-with-reactjs-nextjs-and-aws-lambda/
+https://www.woolha.com/tutorials/node-js-upload-file-to-google-cloud-storage
 
