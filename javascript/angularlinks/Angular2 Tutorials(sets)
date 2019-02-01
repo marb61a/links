@@ -17,6 +17,8 @@ https://www.sitepoint.com/user-authentication-mean-stack/
 https://www.sitepoint.com/angular-2-mockbackend/
 https://www.sitepoint.com/angular-testing-introduction/
 https://www.sitepoint.com/angular-wordpress-wp-api-angular/
+https://www.sitepoint.com/change-detection-angular
+https://www.sitepoint.com/angular-augury-debug-code/
 
 
 ################################################# Syntax Success ##################################################### 
@@ -87,6 +89,23 @@ https://medium.com/ngconf/ultimate-prettier-angular-cheatsheet-777c9515f4fb
 https://medium.com/@tomastrajan/object-assign-vs-object-spread-in-angular-ngrx-reducers-3d62ecb4a4b0
 https://medium.com/@amcdnl/feature-toggling-with-angular-and-the-angular-cli-eccf38369b3f
 https://medium.com/@amcdnl/why-another-state-management-framework-for-angular-b4b4c19ef664
+https://medium.com/@simonb90/hidden-features-of-angular-material-cdk-ee07066d73d1
+https://medium.com/@tkssharma/angular-5-learning-with-writing-youtube-app-e91a1ad56cf7
+https://medium.com/@tomsu/wanna-create-an-angular-element-heres-how-73e2ea85bd28
+https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11
+https://medium.com/bratislava-angular/from-custom-webpack-build-to-angular-cli-9d87c3da6925
+https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e
+https://medium.com/@gregmagolan/production-code-splitting-with-bazel-8a7da242bf83
+https://medium.com/nextfaze/devmod-probing-your-angular-application-for-fun-and-debugging-d7e07c688247
+https://medium.com/coding-blocks/angular-routing-made-easy-part-2-94a6764db89e
+https://medium.com/medialesson/why-and-how-to-structure-features-in-modules-in-angular-d5602c6436be
+https://medium.com/@hamzamahmood/angular-6-is-out-what-should-developers-and-businesses-expect-223e2b334357
+https://medium.com/grano/optimizing-angular-application-load-performance-6bb796b1a7c1
+https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626
+https://medium.com/@ozgurgul/angular-6-login-and-router-tutorial-ac5fc5d3027f
+https://medium.com/coding-blocks/learning-dynamic-components-making-a-pizza-creator-app-using-angular-56b15f01820
+https://medium.com/the-guild/apollo-angular-code-generation-7903da1f8559
+https://medium.com/ag-grid/get-started-with-angular-grid-in-5-minutes-83bbb14fac93
 
 
 ################################################# Thoughtram ##################################################### 
@@ -153,6 +172,12 @@ https://auth0.com/blog/angular-2-authentication/
 https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-apps-part-1/
 https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-web-apps-part-2/
 https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-web-apps-part-3/
+https://auth0.com/blog/new-features-for-developing-angularjs-applications-part-1/
+https://auth0.com/blog/creating-beautiful-apps-with-angular-material/
+https://auth0.com/blog/real-time-charts-using-angular-d3-and-socket-io/
+https://auth0.com/blog/building-an-audio-player-app-with-ionic-angular-rxjs-and-ngrx/
+https://auth0.com/blog/full-stack-typescript-apps-part-1-developing-backend-apis-with-nestjs/
+https://auth0.com/blog/full-stack-typescript-apps-part-2-developing-frontend-angular-apps/
 
 
 ################################################# Scotch.io ##################################################### 
@@ -176,6 +201,8 @@ https://scotch.io/tutorials/create-a-barebones-angular-app-with-the-minimal-flag
 https://scotch.io/tutorials/build-an-animated-angular-v2-dashboard
 https://scotch.io/amp/tutorials/how-to-build-progressive-web-apps-with-angular
 https://scotch.io/tutorials/migrate-your-angularjs-services-to-angular-with-ngupgrade
+https://scotch.io/tutorials/3-useful-typescript-tips-for-angular
+https://scotch.io/bar-talk/game-changing-features-of-angular-v6
 
 
 ################################################# Ben Nadel ##################################################### 
@@ -197,6 +224,7 @@ https://www.bennadel.com/blog/3223-using-ngonchanges-collection-with-dot-notatio
 https://www.bennadel.com/blog/3259-using-import-require-syntax-with-typescript-2-2-in-angular-2-4-9.htm
 https://www.bennadel.com/blog/3356-ngoninit-may-not-get-called-before-ngondestroy-is-called-in-angular-4-4-6.htm
 https://www.bennadel.com/blog/3431-reporting-statsd-metrics-from-the-browser-in-angular-5-2-9.htm
+https://www.bennadel.com/blog/3443-experiment-injecting-a-component-reference-into-a-pipe-instance-in-angular-6-0-0.htm
 
 
 ################################################# Telerik ##################################################### 
@@ -212,6 +240,8 @@ https://developer.telerik.com/content-types/tutorials/step-step-guide-building-m
 https://developer.telerik.com/topics/web-development/using-pipes-angular-2/
 https://developer.telerik.com/products/nativescript/form-validation-nativescript-angular-mobile-application/
 https://www.telerik.com/blogs/defending-angular-applications-with-a-content-security-policy
+https://www.telerik.com/blogs/first-look-angular-ivy
+https://www.telerik.com/blogs/the-what-and-how-of-angular-schematics-the-super-simple-version
 
 
 ################################################# Dzone ##################################################### 
@@ -244,4 +274,21 @@ https://dzone.com/articles/net-core-20-with-angular-4-and-mysql-part-9-angula
 https://dzone.com/articles/articles-about-angular-and-aspnet-core
 https://dzone.com/articles/aspnet-core-crud-using-angular-5-and-entity-framew-1
 https://dzone.com/articles/how-to-deploy-an-angular-application-to-github
+https://dzone.com/articles/angular-6-release-vs-angular-5-new-features-and-im
+https://dzone.com/articles/whats-new-in-angular-6
+https://dzone.com/articles/material-dashboard-using-angular-6
+https://dzone.com/articles/4-common-bugs-in-angular-and-how-to-fix-them
+https://dzone.com/articles/simplifying-different-types-of-providers-in-angula
+https://dzone.com/articles/high-performance-angular-grid-with-web-sockets
+
+
+################################################# Tutsplus ##################################################### 
+https://code.tutsplus.com/tutorials/creating-a-grocery-list-manager-using-angular-part-2-managing-items--cms-28883
+https://code.tutsplus.com/tutorials/testing-components-in-angular-using-jasmine-part-2-services--cms-28933
+https://code.tutsplus.com/tutorials/beginners-guide-to-angular-4-routing--cms-29676
+https://code.tutsplus.com/tutorials/creating-your-first-angular-app-components-part-1--cms-30113
+https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-home--cms-30129
+https://code.tutsplus.com/tutorials/create-a-library-finder-app-in-angular-introduction--cms-30708
+https://code.tutsplus.com/tutorials/create-a-library-finder-app-in-angular-homecomponent-and-librarylistcomponent--cms-30719
+
 
