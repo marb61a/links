@@ -21,6 +21,14 @@ https://netbasal.com/querying-for-the-closest-parent-element-in-angular-b2554d60
 https://netbasal.com/better-code-organization-with-angular-di-multi-option-31f691918655
 https://netbasal.com/using-typescript-dynamic-imports-in-angular-d210547484dd
 https://netbasal.com/create-angular-libraries-in-no-time-using-schematics-513cb1e08a5e
+https://netbasal.com/why-its-time-to-say-goodbye-to-angular-template-driven-forms-350c11d004b
+https://netbasal.com/a-taste-of-angular-material-virtual-scroll-f173c5c70a1
+https://netbasal.com/introducing-akita-a-new-state-management-pattern-for-angular-applications-f2f0fab5a8
+https://netbasal.com/rxjs-eight-operators-worth-getting-to-know-2b6c18e601d
+https://netbasal.com/introducing-the-new-keyvaluepipe-in-angular-435ac2205c72
+https://netbasal.com/attribute-directives-angular-forms-b40503643089
+https://netbasal.com/angular-directive-selectors-can-do-more-than-you-think-7aefa4e6f30
+https://netbasal.com/diy-subscription-handling-directive-in-angular-c8f6e762697f
 
 
 ################################################# CSharp Corner #####################################################  
@@ -67,6 +75,8 @@ https://hackernoon.com/the-state-of-angular-and-the-due-date-of-version-5-683740
 https://hackernoon.com/how-to-build-a-portfolio-platform-app-using-angularjs-9a98e5a6b7de
 https://hackernoon.com/creating-interfaces-for-angular-services-1bb41fbbe47c
 https://hackernoon.com/best-practices-learnt-from-delivering-a-quality-angular4-application-2cd074ea53b3
+https://hackernoon.com/using-docker-docker-compose-angular-cli-6-sass-and-pug-jade-160896dfd208
+https://hackernoon.com/custom-directives-in-angular-6-building-a-google-places-autocomplete-4b418ee674ce
 
 
 ################################################# Codelord ##################################################### 
@@ -93,6 +103,7 @@ https://malcoded.com/posts/get-started-typescript
 https://malcoded.com/posts/angular-service-worker
 https://malcoded.com/posts/angular-continuous-integration-vsts
 https://malcoded.com/posts/why-angular-not-works
+https://malcoded.com/posts/angular-push-notifications
 
 
 ################################################# Juri Strumpflohner ##################################################### 
@@ -114,4 +125,47 @@ https://www.codeproject.com/Articles/1217654/Building-SPA-with-Angular-and-Redux
 https://www.codeproject.com/Articles/1229771/NET-Core-Angular-and-MySQL-Part
 https://www.codeproject.com/Articles/1236833/Beginner-s-guide-to-deploying-an-Angular-applicati
 https://www.codeproject.com/Articles/1238594/Single-Page-Apps-with-Flask-and-Angular-Tutorial-S
+https://www.codeproject.com/Articles/1239744/Angular-Reactive-Forms-with-Dynamic-FormArray-and
+https://www.codeproject.com/Articles/1240736/Validation-Using-Template-Driven-Forms-in-Angular
+https://www.codeproject.com/Articles/1241943/NET-Core-Angular-and-MySQL-IIS-Deployment
+https://www.codeproject.com/Articles/1248738/Angular-Data-CRUD-with-Advanced-Practices-of-React
+
+
+################################################# Alligator ##################################################### 
+https://alligator.io/angular/resizing-images-in-browser-ng2-img-max/
+https://alligator.io/angular/chartjs-ng2-charts/
+https://alligator.io/angular/animating-route-changes/
+https://alligator.io/angular/e2e-testing-testcafe/
+https://alligator.io/angular/angular-material-2/
+https://alligator.io/angular/custom-svg-icons-angular-material/
+https://alligator.io/angular/angular-6/
+
+
+################################################# Coding The Smart Way ##################################################### 
+https://codingthesmartway.com/angular-firebase-authentication/
+https://codingthesmartway.com/using-bootstrap-with-angular/
+https://codingthesmartway.com/angular5-forms-update/
+https://codingthesmartway.com/apollo-client-for-angular-making-use-of-graphql/
+https://codingthesmartway.com/creating-angular-projects-with-angular-cli/
+https://codingthesmartway.com/angular-and-contentful-content-management-for-single-page-web-apps/
+https://codingthesmartway.com/angular-elements-a-practical-introduction-to-web-components-with-angular-6/
+https://codingthesmartway.com/angular-material-and-angular-6-material-design-for-angular/
+https://codingthesmartway.com/angular-6-mean-stack-crash-course-part-1-front-end-project-setup-and-routing
+
+
+################################################# Angular in-depth ##################################################### 
+https://blog.angularindepth.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4
+https://blog.angularindepth.com/angular-introduces-staticinjector-should-you-care-4e059eca030c
+https://blog.angularindepth.com/rxjs-how-to-use-refcount-73a0c6619a4e
+https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
+https://blog.angularindepth.com/upgrading-a-project-without-cli-to-angular-6-b07b105adc02
+https://blog.angularindepth.com/power-of-rxjs-when-using-exponential-backoff-a4b8bde276b0
+https://blog.angularindepth.com/total-guide-to-dynamic-angular-animations-that-can-be-toggled-at-runtime-be5bb6778a0a
+https://blog.angularindepth.com/angular-elements-how-does-this-magic-work-under-the-hood-3684a0b2be95
+https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a
+https://blog.angularindepth.com/one-way-template-expression-binding-mechanism-in-angular-5867b0dd7cb9
+https://blog.angularindepth.com/boosting-performance-of-angular-applications-with-manual-change-detection-42cb396110fb
+https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
+https://blog.angularindepth.com/integrate-jest-into-an-angular-application-and-library-163b01d977ce
+
 
