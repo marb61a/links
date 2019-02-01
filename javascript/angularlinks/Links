@@ -24,9 +24,12 @@ https://www.youtube.com/watch?v=9XCaVrdigGw - Angular Tutorials: Angular 2 with 
 https://www.youtube.com/watch?v=KhzGSHNhnbI - Angular 4 In 60 Minutes
 
 
+
 ##Playlists 
 Introduction & Explore to AngularJS 2015 - https://www.youtube.com/watch?v=u2okVLCrqgE
 https://www.youtube.com/playlist?list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl - AngularJS tutorial for beginners
+https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/
+
 
 
 ##Code -
@@ -58,6 +61,7 @@ https://github.com/ocombe/ng2-translate - An implementation of angular translate
 https://github.com/toddmotto/angular-lazy-load-demo - Lazy loading: code-splitting with @NgModules demo 
 https://github.com/auth0-blog/mean-rsvp-auth0/ - MEAN stack application with Auth0
 https://github.com/eugenp/tutorials/tree/master/spring-rest-angular/ - spring-rest-angular
+https://github.com/NextFaze/devmod - Developer Module for debugging web applications
 
 
 ##Links -
@@ -65,6 +69,6 @@ https://angularjs.org
 https://angularjs.zeef.com/harris.brakmic
 http://angular-meteor.com/angular2
 https://www.angular2patterns.com/ - Book from egghead course
-
+https://augury.rangle.io/pages/guides/augury.html - Chrome and Firefox Dev Tools extension for debugging Angular apps.
 
 
