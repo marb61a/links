@@ -7,12 +7,12 @@ http://www.sitepoint.com/getting-started-react-jsx/
 http://www.sitepoint.com/component-based-web-apps-react/
 http://www.sitepoint.com/creating-note-taking-app-react-flux/
 http://www.sitepoint.com/immutability-react/
-http://www.sitepoint.com/demystifying-react-components-state/
-http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
-http://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/
-http://www.sitepoint.com/quick-tip-video-player-component-react/
-http://www.sitepoint.com/bind-javascripts-this-keyword-react/
-http://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/
+https://www.sitepoint.com/demystifying-react-components-state/
+https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
+https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/
+https://www.sitepoint.com/quick-tip-video-player-component-react/
+https://www.sitepoint.com/bind-javascripts-this-keyword-react/
+https://www.sitepoint.com/react-alternatives-preact-virtualdom-deku/
 https://www.sitepoint.com/music-streaming-app-electron-react-es6/
 https://www.sitepoint.com/exploring-reacts-state-propagation/
 https://www.sitepoint.com/building-a-game-reactjs-and-webgl/
@@ -46,6 +46,8 @@ https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel
 https://scotch.io/tutorials/build-a-ssr-app-with-preact-unistore-and-preact-router
 https://scotch.io/tutorials/build-custom-pagination-with-react
 https://scotch.io/tutorials/how-to-make-your-existing-react-app-progressive-in-10-minutes
+https://scotch.io/tutorials/implementing-smooth-scrolling-in-react
+https://scotch.io/tutorials/using-create-react-app-v2-and-typescript
 
 
 ###################################### Risingstack ################################################################
@@ -228,6 +230,17 @@ https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430
 https://medium.com/maxime-heckel/using-flow-generics-to-type-generic-react-components-22dd642634d8
 https://medium.com/@adamramberg/setting-up-a-react-app-from-scratch-42521a118b10
 https://medium.com/the-guild/getting-to-know-react-doms-event-handling-system-inside-out-378c44d2a5d0
+https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9
+https://medium.com/redmart-engineering/how-we-use-storybook-for-documentation-and-code-reviews-550a522543f1
+https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba
+https://medium.com/styled-components/announcing-native-support-for-the-css-prop-in-styled-components-245ca5252feb
+https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2
+https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e
+https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62
+https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e
+https://medium.com/emotion-js/announcing-emotion-10-f1a4b17b8ccd
+https://medium.com/maxime-heckel/rebuilding-redux-with-hooks-and-context-e16b59faf51c
+https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646
 
 
 ############################################# DailyJS ##################################################################
@@ -265,6 +278,7 @@ https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-s
 https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006
 https://levelup.gitconnected.com/understanding-react-render-props-by-example-71f2162fd0f2
 https://levelup.gitconnected.com/flow-vs-typescript-in-react-my-two-cents-d4d0c657d236
+https://levelup.gitconnected.com/an-unforgettable-way-to-learn-redux-f36afd38c966
 
 
 ############################################# Kadira ##################################################################
@@ -351,6 +365,7 @@ https://hackernoon.com/upgrade-your-react-ui-with-state-machines-30d1298e90be
 https://hackernoon.com/checklist-for-writing-highly-reusable-components-in-react-and-vue-531f963864bd
 https://hackernoon.com/goodbye-redux-26e6a27b3a0b
 https://hackernoon.com/principles-of-component-api-prop-design-bb20cd58da54
+https://hackernoon.com/a-different-way-to-manage-state-in-react-2d21dfb94482
 
 
 ###################################### Freecodecamp ##################################################################
@@ -383,6 +398,11 @@ https://medium.freecodecamp.org/the-best-way-to-bind-event-handlers-in-react-282
 https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded
 https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f
 https://medium.freecodecamp.org/the-best-way-to-architect-your-redux-app-ad9bd16c8e2d
+https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030
+https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af
+https://medium.freecodecamp.org/how-to-create-a-three-layer-application-with-react-8621741baca0
+https://medium.freecodecamp.org/yet-another-guide-to-reduce-boilerplate-in-your-redux-ngrx-app-3794a2dd7bf
+https://medium.freecodecamp.org/how-to-make-and-test-your-own-react-drag-and-drop-list-with-0-dependencies-6fb461603780
 
 
 ###################################### Javascript Inside ##################################################################
@@ -416,6 +436,7 @@ http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775
 http://swizec.com/blog/how-to-make-a-piechart-using-react-and-d3/will/6785
 https://swizec.com/blog/dancing-rainbow-snake/swizec/
 https://swizec.com/blog/declarative-d3-transitions-react/swizec/8323
+https://swizec.com/blog/announcing-d3blackbox-used3/swizec/8703
 
 
 ###################################### ReactJS News ##################################################################
@@ -493,6 +514,8 @@ https://tylermcginnis.com/react-router-query-strings/
 https://tylermcginnis.com/react-router-route-config/
 https://tylermcginnis.com/react-router-ambiguous-matches/
 https://tylermcginnis.com/building-chatbots-with-react-aws/
+https://tylermcginnis.com/react-render-props/
+https://tylermcginnis.com/react-router-recursive-paths/
 
 
 ###################################### Goshakk ##################################################################
