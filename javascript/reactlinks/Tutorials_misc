@@ -37,19 +37,15 @@ https://www.stanleycyang.com/tutorials/mastering-react-redux
 https://jamesfriend.com.au/better-assertions-shallow-rendered-react-components
 https://pseudoconcurrentthought.wordpress.com/2016/01/26/my-reaction-to-react/
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
-http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
-http://developer.telerik.com/featured/taming-react-setup/
-https://www.telerik.com/blogs/dockerizing-react-applications-for-continuous-integration
-https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api
 https://react.rocks/blog/post/propTypes_React_Flow/
 http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/
 http://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem
 http://technologyadvice.github.io/eradicate-runtime-errors-in-react-with-flow/
+http://technologyadvice.github.io/app-analytics-redux/
 https://blog.redradix.com/why-we-are-switching-to-redux-and-sticking-with-react-too/
 http://14islands.com/blog/2016/03/03/why-we-chose-react-for-hybrid-app/
 https://deepstream.io/tutorials/deepstream-react.html
 http://iamdustan.com/2016/02/19/react-devtools-renderer-integration/
-http://technologyadvice.github.io/eradicate-runtime-errors-in-react-with-flow/
 http://manuel.bernhardt.io/2016/02/25/upgrading-from-react-0-11-2-to-0-14-7-in-374-easy-steps/
 http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/
 http://benchling.engineering/deep-dive-react-perf-debugging/
@@ -59,7 +55,6 @@ http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 http://blog.goguardian.com/nerds/chrome-extensions-in-react
 http://blog.goguardian.com/nerds/an-odyssey-to-find-a-sustainable-icon-system-with-svgs-in-react
 http://blog.daiwei.lu/what-i-learned-from-redux-the-redux-pattern/
-http://technologyadvice.github.io/app-analytics-redux/
 https://blog.searchkit.co/searchkit-0-8-2c6432f9b4ac#.n0irews75
 http://michalzalecki.com/use-rxjs-with-react/
 https://www.kirupa.com/react/from_data_to_ui_in_react.htm
@@ -76,9 +71,6 @@ http://hackingbeauty.com/create-a-reactjs-component-part1/
 http://dimaip.github.io/2016/03/13/neos-react-redux-rewrite/
 https://blog.boldlisting.com/so-youve-screwed-up-your-redux-store-or-why-redux-makes-refactoring-easy-400e19606c71#.nwhd4d7p0
 http://engineering.blogfoster.com/higher-order-components-theory-and-practice/
-https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/
-https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/
-https://www.fullstackreact.com/react-daily-ui/003-landing-page/
 https://engineering.footballradar.com/from-a-react-point-of-vue-comparing-reactjs-to-vuejs-for-dynamic-tabular-data/
 http://kirszenberg.com/facebook-sixth-sense
 http://silvenon.com/testing-react-and-redux/
@@ -93,10 +85,6 @@ http://blog.getstream.io/react-redux-best-practices-gotchas/
 http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/
 http://blog.webkid.io/react-ui-libraries/
-https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/
-https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/
-https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
-https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
 http://blog.getstream.io/cabin-react-redux-example-app-imgix/
 https://www.netlify.com/blog/2016/07/26/our-conversion-from-angular-to-react
 https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/
@@ -295,6 +283,7 @@ https://veerasundar.com/blog/2018/05/how-to-create-a-chrome-extension-in-react-j
 https://towardsdatascience.com/advanced-visualization-with-react-vis-efc5c6667b4
 https://www.infoq.com/news/2018/05/medium-reactjs-graphql-migration
 https://frontside.io/blog/2018/06/13/big-testing-in-react/
+https://frontside.io/blog/2018/11/06/build-a-family-tree-maker-using-react-hooks-and-microstates/
 https://www.nearform.com/blog/managing-react-state-with-render-props/
 https://engineering.ezcater.com/the-case-against-react-snapshot-testing
 https://able.bio/drenther/styling-in-react-with-styled-components--62pbyjl
@@ -307,6 +296,7 @@ https://blog.kylegalbraith.com/2018/08/07/how-to-make-an-awesome-blog-using-gats
 http://nmajor.com/posts/access-and-refresh-token-handling-with-redux
 http://www.syntaxsuccess.com/viewarticle/scalable-react-build-with-bazel
 https://www.eventbrite.com/engineering/create-reusable-react-file-uploaders/
+https://www.eventbrite.com/engineering/quest-react-micro-apps-beginning/
 https://prismic.io/blog/seo-with-react-and-nextjs
 https://snipcart.com/blog/reactjs-wordpress-rest-api-example
 https://elijahmanor.com/react-devtools-profiler/
@@ -320,4 +310,15 @@ https://softwareengineeringdaily.com/2018/10/22/react-and-graphql-at-the-nytimes
 http://www.petecorey.com/blog/2018/10/08/rendering-ascii-chord-charts-with-react/
 https://alligator.io/react/forms-with-react-and-formik/
 https://frontarm.com/articles/passing-data-props-children/
+https://philna.sh/blog/2018/09/27/techniques-for-animating-on-the-canvas-in-react/
+https://blog.bam.tech/developper-news/use-storybook-react-project
+https://statsbot.co/blog/building-serverless-stripe-analytics-dashboard/
+https://blog.cloudflare.com/serverless-pwa-react-cloudflare-workers/
+https://overreacted.io/why-do-we-write-super-props/
+https://hswolff.com/blog/react-lazy-and-suspense/
+https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/
+https://react.christmas/2017/3
+https://blog.codecentric.de/en/2018/12/react-application-container-environment-aware-kubernetes-deployment/
+https://veerasundar.com/blog/2018/12/how-to-animate-page-transition-in-react-using-styled-components/
+
 
