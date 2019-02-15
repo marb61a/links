@@ -447,5 +447,31 @@ https://github.com/segmentio/evergreen -  Evergreen React UI Framework by Segmen
 https://github.com/ngduc/react-tabulator - based on tabulator - an advanced table library 
 https://github.com/gpietro/react-numpad - A numpad for number, date and time, built with and for React.
 https://github.com/scf4/styled-map/ - A super simple way to map props to styles with Styled Components
+https://github.com/reactjs/react-a11y - Identifies accessibility issues in your React.js elements
+https://github.com/anubhavsrivastava/react-for-electron-only - Component for rendering component for Electron based clients only
+https://github.com/interactivethings/catalog - Create living style guides using Markdown or React
+https://github.com/kitze/react-hanger - A small collection of useful hooks for React 16.7
+https://github.com/tannerlinsley/use-react-hooks - Use hooks in classes in React 16.5+
+https://github.com/bluebill1049/react-simple-img - React lazy load images with IntersectionObserver API
+https://github.com/atlassian/react-beautiful-dnd - Beautiful and accessible drag and drop for lists with React
+https://github.com/expert-m/react-split-testing - Simple A/B testing component for React
+https://github.com/drcmda/mauerwerk - A react-spring driven masonry-like grid 
+https://github.com/40818419/react-code-input - React component for entering and validating PIN code.
+https://github.com/plouc/nivo - nivo provides a rich set of dataviz components
+https://github.com/developit/htm - Hyperscript Tagged Markup: JSX alternative
+https://github.com/getify/tng-hooks - Provides React-inspired 'hooks' like useState(..) for stand-alone functions
+https://github.com/enuchi/React-Google-Apps-Script - A React / Google Apps Script app
+https://github.com/franciscop/react-plain-router -  A 2kb React router that works exactly as expected with native Javascript
+https://github.com/lucagez/sky - sky component for React
+https://github.com/yuchi/hooks.macro - Babel Macros for automatic React Hooks memoization invalidation
+https://github.com/yjose/reactjs-popup - React Popup Component - Modals,Tooltips and Menus
+https://github.com/maicki/why-did-you-update - Puts your console on blast when React is making unnecessary updates.
+https://github.com/fel1xw/react-pusher-hoc - Handle websocket events (pusher.com) in React, without the tears
+https://github.com/Jahans3/use-simple-state - A simple, dependency-free state manager for React using hooks.
+https://github.com/v0ltoz/react-datetimepicker - keyboard friendly implementation of a date time range picker
+https://github.com/pladaria/react-emojione - A tiny library to use emojis in React
+https://github.com/react-spring/react-with-gesture - Bread n butter utility for component-tied mouse/touch gestures in React
+https://github.com/frontarm/create-react-blog - Start and deploy your own statically rendered blog with create-react-app
+https://github.com/talor-hammond/react-colour-wheel - A circular colour-picker React component; built with HTML5's canvas & context-api. 
 
 
