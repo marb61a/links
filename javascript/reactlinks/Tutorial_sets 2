@@ -13,6 +13,8 @@ https://blog.logrocket.com/data-fetching-in-redux-apps-a-100-correct-approach-4d
 https://logrocket.com/blog/react-url-state/
 https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/
 https://blog.logrocket.com/react-datepicker-217b4aa840da
+https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52
+https://blog.logrocket.com/react-functional-components-3-advantages-and-why-you-should-use-them-a570c83adb5e
 
 
 ###################################### ITNext ################################################################## 
@@ -29,6 +31,8 @@ https://itnext.io/simple-internationalization-of-react-apps-34b3bda95725
 https://itnext.io/css-variables-dynamic-app-themes-86c0db61cbbb
 https://itnext.io/combining-hocs-with-the-new-reacts-context-api-9d3617dccf0b
 https://itnext.io/unit-testing-redux-actions-reducers-and-epics-with-jest-484f8a59f1f2
+https://itnext.io/introduction-to-abortable-async-functions-for-react-with-hooks-768bc72c0a2b
+https://itnext.io/async-react-using-react-router-suspense-a86ade1176dc
 
 
 ######################################## Codeburst ##################################################################
@@ -77,6 +81,8 @@ https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/
 https://css-tricks.com/managing-state-in-react-with-unstated/
 https://css-tricks.com/finite-state-machines-with-react/
 https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
+https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/
+https://css-tricks.com/compound-components-in-react-using-the-context-api/
 
 
 ########################################### Bitsrc ###############################################################
@@ -91,6 +97,9 @@ https://blog.bitsrc.io/how-to-build-an-autocomplete-widget-with-react-and-elasti
 https://blog.bitsrc.io/how-to-test-react-components-using-jest-and-enzyme-fab851a43875
 https://blog.bitsrc.io/reusable-components-in-react-a-practical-guide-ec15a81a4d71
 https://blog.bitsrc.io/how-to-use-sass-and-css-modules-with-create-react-app-83fa8b805e5e
+https://blog.bitsrc.io/the-love-hate-relationship-between-react-router-and-react-components-dee4aac5956c
+https://blog.bitsrc.io/managing-derived-state-from-props-in-react-f26b5b15069
+https://blog.bitsrc.io/improve-react-performance-using-lazy-loading-and-suspense-933903171954
 
 
 ########################################### Quantizd ###############################################################
@@ -108,5 +117,28 @@ https://dev.to/swyx/introduction-to-mobx-4-for-reactredux-developers-3k07
 https://dev.to/pmbanugo/real-time-editable-datagrid-in-react-56ad
 https://dev.to/kylessg/a-sensible-approach-to-cross-platform-development-with-react-and-react-native-57pk
 https://dev.to/dustinsoftware/making-renders-faster-with-the-react-165-profiler-f6f
+
+
+########################################### Telerik ###############################################################
+http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
+http://developer.telerik.com/featured/taming-react-setup/
+https://www.telerik.com/blogs/dockerizing-react-applications-for-continuous-integration
+https://www.telerik.com/blogs/profiling-react-components-with-the-user-timing-api
+https://www.telerik.com/blogs/5-things-i-didnt-know-about-create-react-app
+
+
+########################################### FullStackReact ##############################################################
+https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/
+https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/
+https://www.fullstackreact.com/react-daily-ui/003-landing-page/
+https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react/
+
+
+########################################### FSmashing Mag #############################################################
+https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/
+https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/
+https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
+https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
+https://www.smashingmagazine.com/2018/12/real-time-app-graphql-subscriptions-postgres/
 
 
