@@ -53,6 +53,8 @@ https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd
 https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102
 https://medium.com/zynga-engineering/why-how-words-with-friends-is-adopting-react-native-b24a405f421c
 https://medium.freecodecamp.org/how-to-structure-your-project-and-manage-static-resources-in-react-native-6f4cfc947d92
+https://medium.com/square-corner-blog/square-reader-sdk-for-react-native-a1b6fc19c5c2
+https://medium.com/styled-components/announcing-native-support-for-the-css-prop-in-styled-components-245ca5252feb
 
 
 ############################################ React Native Training #########################################################
@@ -96,6 +98,8 @@ https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c877
 https://hackernoon.com/xamarin-vs-react-native-a-comparison-study-5ebea64cd801
 https://hackernoon.com/building-a-music-streaming-app-using-react-native-6d0878a13ba4
 https://hackernoon.com/transitioning-from-react-web-to-react-native-development-c8e6df57a92e
+https://hackernoon.com/how-to-improve-react-native-list-performance-5x-times-b299c8a23b5d
+https://hackernoon.com/how-to-develop-a-location-based-application-using-react-native-ce819814925d
 
 
 ###################################### Facebook ##################################################################
@@ -219,6 +223,7 @@ https://www.toptal.com/react-native/react-native-for-android-development
 https://www.itworld.com/article/3296736/react/react-native-javascript-framework-stumbles.html
 https://itnext.io/how-we-boosted-the-performance-of-our-react-native-app-191b8d338347
 https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/
+https://www.mongodb.com/blog/post/building-ios-and-android-apps-with-the-mongodb-stitch-react-native-sdk
 
 
 
@@ -284,6 +289,7 @@ https://github.com/vincentriemer/react-native-dom - An experimental, comprehensi
 https://github.com/kmagiera/react-native-reanimated - React Native's Animated library reimplemented
 https://github.com/Nozbe/WatermelonDB - High-performance reactive database for powerful React and React Native apps
 https://github.com/madhavanmalolan/awesome-reactnative-ui - Awesome React Native UI components
+https://github.com/indiespirit/react-native-chart-kit - React Native Chart Kit:
 
 
 
@@ -302,6 +308,7 @@ https://www.youtube.com/watch?v=p3smdLQauW8 - Cavy: Testing React Native apps
 https://www.youtube.com/watch?v=zoOAor88sVo - In-depth introduction to React-Native
 https://www.youtube.com/watch?v=gWegskGYCtA -  Build a Complete Stopwatch App in 60 Minutes
 https://www.youtube.com/watch?v=uO92uyrj7OQ - React Native Bootcamp - Day 1
+https://www.youtube.com/watch?v=UcqRXTriUVI - React Native's New Architecture
 
 
 ###Miscellaneous Vids###
