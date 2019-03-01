@@ -125,14 +125,10 @@ https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/
 https://blog.aria.ai/post/why-use-flow/
 http://avitureblog.com/2016/09/01/webpack-hot-reloading.html
 http://ryanmorr.com/true-hash-maps-in-javascript/
-http://raganwald.com/2015/05/30/de-stijl.html
-http://raganwald.com/2017/04/30/transducers.html
-http://raganwald.com/2017/07/22/closing-iterables-is-a-leaky-abstraction.html
-http://raganwald.com/2018/08/30/to-grok-a-mockingbird.html
-http://raganwald.com/2018/09/12/auto-vivifying-hash.html
 https://gorillalogic.com/blog/using-lambdas-with-bluebird-map/
 https://bitsofco.de/variable-and-function-hoisting-in-es2015/
 https://bitsofco.de/javascript-promises-102/
+https://bitsofco.de/what-is-tree-shaking/
 http://blog.avenuecode.com/lazy-loading-es2015-modules-in-the-browser/
 http://blog.bandwidth.com/slackwatch-monitor-your-aws-service-from-slack-using-cloudwatch-and-sns/
 https://blog.avocode.com/blog/4-must-know-tips-for-building-cross-platform-electron-apps
@@ -189,6 +185,7 @@ http://blog.klipse.tech/javascript/2017/02/08/tiny-compiler-intro.html
 http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html
 https://benmccormick.org/2017/02/26/running-jest-tests-before-each-git-commit/
 https://benmccormick.org/2017/11/28/sieveoferatosthenes/
+https://benmccormick.org/2019/01/28/readable-async
 https://meowni.ca/posts/web-components-with-otters/
 http://formidable.com/blog/2017/real-world-redux-saga-patterns/
 http://mediatemple.net/blog/tips/randomizing-svg-shapes/
@@ -269,6 +266,7 @@ https://news.thisdot.co/what-is-rxjs-and-why-you-should-know-about-it-2a5afe58ce
 https://x-team.com/blog/react-vue-component-integration/
 https://tylermcginnis.com/arrow-functions
 https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/
+https://tylermcginnis.com/javascript-modules-iifes-commonjs-esmodules/
 https://remysharp.com/2017/10/25/es6-default-arguments
 https://remysharp.com/2018/06/26/an-adventure-in-sparse-arrays
 https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795
@@ -315,13 +313,10 @@ https://www.dalejefferson.com/async-await-promise-all-array-destructuring/
 http://www.olioapps.com/blog/the-lost-art-of-the-makefile/
 https://aws.amazon.com/blogs/mobile/building-a-serverless-real-time-chat-application-with-aws-appsync/
 https://circleci.com/blog/preserve-build-integrity-prevent-problems-deterministic-builds/
-https://blog.cloudflare.com/cloudflare-workers-unleashed/
-https://blog.cloudflare.com/building-a-serverless-slack-bot-using-cloudflare-workers/
-https://blog.cloudflare.com/using-workers-to-make-static-sites-dynamic/
-https://blog.cloudflare.com/building-with-workers-kv/
 http://www.sheshbabu.com/posts/tips-for-using-eslint-in-a-legacy-codebase/
 https://www.stefanjudis.com/today-i-learned/the-complicated-syntax-of-lookaheads-in-javascript-regular-expressions/
 https://towardsdatascience.com/gpu-accelerated-neural-networks-in-javascript-195d6f8e69ef
+https://towardsdatascience.com/interactive-data-visualization-with-d3-js-43fc3428a27e
 https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/
 https://anderspitman.net/blog/static-react-rust-webapp/
 https://blog.formpl.us/a-simple-guide-to-taking-a-web-page-offline-using-service-workers-f4c42e7b4ada
@@ -351,12 +346,10 @@ https://blog.pulumi.com/building-your-first-serverless-app-using-only-javascript
 https://intoli.com/blog/python-slicing-in-javascript/
 http://www.zsoltnagy.eu/es2017-object-and-string-extensions/
 https://enlight.nyc/projects/y-combinator/
-https://blog.kentcdodds.com/why-i-never-use-shallow-rendering-c08851a68bb7
-https://blog.kentcdodds.com/what-is-a-polyfill-acab87e8481e
-https://blog.kentcdodds.com/eliminate-an-entire-category-of-bugs-with-a-few-simple-tools-f0dd2aaf4bc9
 https://uxdesign.cc/crafting-beautiful-ux-with-api-requests-56e7dcc2f58e
 https://andy-carter.com/blog/variable-scope-in-modern-javascript
 https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a
+https://blog.usejournal.com/what-i-learned-in-my-first-two-years-as-a-software-engineer-4e374fdcf0fd
 https://mobiforge.com/design-development/the-generic-sensor-api
 https://prismic.io/blog/3-reasons-to-use-vuejs-in-your-next-web-project
 https://beta.observablehq.com/@mateogianolio/complex-numbers-in-javascript
@@ -374,6 +367,7 @@ https://snipcart.com/blog/vue-js-plugin
 https://blog.apollographql.com/deploy-a-fullstack-apollo-app-with-netlify-45a7dfd51b0b
 https://developer.okta.com/blog/2018/09/17/desktop-app-electron-authentication 
 https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore
+https://developer.okta.com/blog/2019/01/22/whats-new-in-es2019
 https://blogs.dropbox.com/tech/2018/09/migrating-from-underscore-to-lodash/
 https://www.blog.drewcutchins.com/blog/2018-8-16-flocking
 https://paul.kinlan.me/barcode-detection-in-a-web-worker-using-comlink-/
@@ -385,9 +379,27 @@ https://blog.calendly.com/ruby-gotchas-javascript-developer/
 https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/
 https://engineering.gosquared.com/improve-javascript-page-load-time
 https://levelup.gitconnected.com/how-to-create-custom-html-markers-on-google-maps-9ff21be90e4b
+https://levelup.gitconnected.com/lessons-learned-from-a-year-of-fighting-with-webpack-and-babel-ce3b4b634c46
 https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development
 https://smalldata.tech/blog/2018/11/01/copying-objects-in-javascript
 http://www.petecorey.com/blog/2018/11/05/bending-jest-to-our-will-caching-modules-across-tests/
 http://mjk.space/git-aliases-i-cant-live-without/
+https://statsbot.co/blog/a-crash-course-on-serverless-with-aws-running-node11-on-lambda/
+http://www.heydonworks.com/article/reluctant-gatekeeping-the-problem-with-full-stack
+https://blog.sindresorhus.com/ava-1-0-861d780b2d81
+https://areknawo.com/your-webgl-aiders/
+https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/
+http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/
+https://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/
+https://webapplog.com/graphql/
+https://lolware.net/2019/01/14/godaddy-tracking-code.html
+https://www.igorkromin.net/index.php/2019/01/13/godaddy-is-sneakily-injecting-javascript-into-your-website-and-how-to-stop-it/
+https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7
+https://overreacted.io/the-bug-o-notation/
+https://www.javascriptjanuary.com/blog/how-to-stop-using-browser-devtools-and-start-using-your-editors-debugger
+https://www.javascriptjanuary.com/blog/writing-maintainable-and-readable-javascript-design-patterns
+https://freshman.tech/url-shortener/
+https://heartbeat.fritz.ai/building-an-image-recognition-app-using-onnx-js-c7147f4f291b
+https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/
 
 
