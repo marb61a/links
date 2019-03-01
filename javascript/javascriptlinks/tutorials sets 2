@@ -254,6 +254,7 @@ https://blog.mariusschulz.com/2016/01/06/function-definitions-in-javascript
 https://blog.mariusschulz.com/2016/02/03/ecmascript-2016-array-prototype-includes
 https://blog.mariusschulz.com/2016/07/16/removing-elements-from-javascript-arrays
 https://blog.mariusschulz.com/2017/02/24/typescript-2-2-the-object-type
+https://mariusschulz.com/blog/typescript-2-8-conditional-types
 
 
 ####################################### Ben Nadel ###########################################################
@@ -310,6 +311,8 @@ https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascri
 https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07
 https://itnext.io/css-variables-dynamic-app-themes-86c0db61cbbb
 https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d
+https://itnext.io/be-type-strict-without-typescript-296565483bfd
+https://itnext.io/understanding-json-in-javascript-5098876d0915
 
 
 ########################################### Google ###########################################################
@@ -366,6 +369,9 @@ https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57
 https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c
 https://blog.bitsrc.io/stateful-monads-in-javascript-part-2-7a6fa65f0ad9
 https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339
+https://blog.bitsrc.io/creating-a-reusable-accordion-component-that-works-anywhere-2f2add05baa4
+https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66
+https://blog.bitsrc.io/highly-customizable-tab-component-with-vue-js-slots-7e1cee400a7c
 
 
 ########################################### Code Barbarian ###########################################################
@@ -374,4 +380,30 @@ http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.
 https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html
 http://thecodebarbarian.com/building-a-serverless-app-with-mongodb-stitch.html
 http://thecodebarbarian.com/static-properties-in-javascript-with-inheritance.html
+http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html
+http://thecodebarbarian.com/object-assign-vs-object-spread.html
+
+
+########################################### Cloudflare ###########################################################
+https://blog.cloudflare.com/cloudflare-workers-unleashed/
+https://blog.cloudflare.com/building-a-serverless-slack-bot-using-cloudflare-workers/
+https://blog.cloudflare.com/using-workers-to-make-static-sites-dynamic/
+https://blog.cloudflare.com/building-with-workers-kv/
+
+
+########################################### Kent C Dodds ###########################################################
+https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.9t474h51k
+https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747
+https://medium.com/@kentcdodds/glamorous-v4-is-here-c678fe02a39a
+https://blog.kentcdodds.com/why-i-never-use-shallow-rendering-c08851a68bb7
+https://blog.kentcdodds.com/what-is-a-polyfill-acab87e8481e
+https://blog.kentcdodds.com/eliminate-an-entire-category-of-bugs-with-a-few-simple-tools-f0dd2aaf4bc9
+
+
+########################################### Raganwald ###########################################################
+http://raganwald.com/2015/05/30/de-stijl.html
+http://raganwald.com/2017/04/30/transducers.html
+http://raganwald.com/2017/07/22/closing-iterables-is-a-leaky-abstraction.html
+http://raganwald.com/2018/08/30/to-grok-a-mockingbird.html
+http://raganwald.com/2018/09/12/auto-vivifying-hash.html
 
