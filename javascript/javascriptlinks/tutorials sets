@@ -55,9 +55,6 @@ https://medium.com/javascript-inside/generators-and-channels-in-javascript-594f2
 https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5#.2u1dm2zfn
 https://medium.com/purse-essays/introducing-bcoin-fdfcb22dfa34#.4nb85hbfx
 https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.3lbp6950n
-https://medium.com/@kentcdodds/migrating-to-jest-881f75366e7e#.9t474h51k
-https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747
-https://medium.com/@kentcdodds/glamorous-v4-is-here-c678fe02a39a
 https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776#.n5eywixta
 https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem-7dfeb1aafde0#.77leqvb1w
 https://medium.com/javascript-inside/introduction-to-functional-front-ends-with-inferno-side-effects-and-routing-a8b226c47b0f#.ofbyf1ozk
@@ -111,6 +108,8 @@ https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3
 https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18
 https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8
 https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d
+https://medium.com/vue-mastery/10-best-tips-for-learning-vue-from-vue-masters-a21c794b1e6e
+https://medium.com/vue-mastery/how-to-create-a-custom-vuepress-theme-with-vuetify-651b7d7e5092
 https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408
 https://medium.com/fullstackio/tutorial-shuffle-a-deck-of-cards-in-vue-js-b65da4c59b1
 https://medium.com/sthima-insights/taming-the-dragon-using-llnode-to-debug-your-node-js-application-fc54c6efd0f1
@@ -125,6 +124,14 @@ https://medium.com/@felixrieseberg/introducing-electron-fiddle-1de2be1ba6e7
 https://medium.com/commitlog/hello-webassembly-882bba5c9fb7
 https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf
 https://medium.com/datadriveninvestor/stopping-using-console-log-and-start-using-your-browsers-debugger-62bc893d93ff
+https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2
+https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347
+https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d
+https://medium.com/@alexmaisiura/tips-and-tricks-that-you-may-need-to-know-when-you-work-in-javascript-q-a-799ce3c4b4d2
+https://medium.com/walmartlabs/writing-a-graphql-client-in-vanilla-js-d2a09aee7c6c
+https://medium.com/digio-australia/auto-generating-boilerplate-javascript-at-build-time-using-babel-plugin-codegen-dc039ccf53f2
+https://medium.com/@smashingmag/hit-the-ground-running-with-vue-js-and-firestore-8b45d6a9fa0b
+https://medium.com/@trungluongquang/10-simple-effective-tips-to-master-javascript-c365aa176852
 
 
 ###################################### DailyJS ###########################################################
@@ -138,6 +145,7 @@ https://medium.com/dailyjs/decoupling-business-logic-using-async-generators-cc25
 https://medium.com/dailyjs/the-trouble-with-d3-4a84f7de011f
 https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953
 https://medium.com/dailyjs/patching-the-vue-js-virtual-dom-the-need-the-explanation-and-the-solution-ba18e4ae385b
+https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
 
 
 ###################################### Eric Elliot ###########################################################
@@ -155,6 +163,7 @@ https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
 https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340
 https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f
 https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f
+https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b
 
 
 ###################################### Freecodecamp ###########################################################
@@ -189,6 +198,11 @@ https://medium.freecodecamp.org/become-a-developer-and-get-your-first-job-fast-7
 https://medium.freecodecamp.org/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e
 https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3
 https://medium.freecodecamp.org/the-12-things-you-need-to-consider-when-evaluating-any-new-javascript-library-3908c4ed3f49
+https://medium.freecodecamp.org/removing-javascripts-this-keyword-makes-it-a-better-language-here-s-why-db28060cc086
+https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f
+https://medium.freecodecamp.org/spread-operator-and-rest-parameter-in-javascript-es6-4416a9f47e5e
+https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad
+https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b
 
 
 ####################################### Telerik ###########################################################
@@ -280,6 +294,8 @@ http://2ality.com/2018/03/javascript-typescript-reasonml.html
 http://2ality.com/2018/04/async-iter-nodejs.html
 http://2ality.com/2018/04/extracting-loops.html
 http://2ality.com/2018/08/enums-via-proxies.html
+http://2ality.com/2018/12/creating-arrays.html
+http://2ality.com/2019/01/future-js.html
 
 
 ####################################### Mozilla ###########################################################
@@ -409,6 +425,8 @@ https://css-tricks.com/using-scoped-slots-in-vue-js-to-abstract-functionality/
 https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/
 https://css-tricks.com/getting-started-with-vue-plugins/
 https://css-tricks.com/building-a-donut-chart-with-vue-and-svg/
+https://css-tricks.com/storing-and-using-the-last-known-route-in-vue/
+https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/
 
 
 ####################################### Hackernoon ###########################################################
@@ -477,6 +495,7 @@ https://codeburst.io/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7
 https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2
 https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a
 https://codeburst.io/why-web-workers-make-javascript-more-than-a-single-thread-3d489ffad502
+https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5
 
 
 ####################################### Zellwk ###########################################################
