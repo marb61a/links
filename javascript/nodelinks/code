@@ -741,4 +741,37 @@ https://github.com/eddiejibson/chae-limitrr - NodeJS rate limiting using Redis
 https://github.com/Prefinem/aws-lambda-serverless-nextjs - An AWS Lambda Serverless Next.js example project
 https://github.com/nodkz/mongodb-memory-server - Spinning up mongod in memory for fast tests
 https://github.com/lovell/sharp - High performance Node.js image processing
+https://github.com/neonious/lowjs - A port of Node.JS with far lower system requirements
+https://github.com/zadam/trilium - Build your personal knowledge base with Trilium Notes
+https://github.com/aceakash/string-similarity - Finds degree of similarity between two strings, based on Dice's Coefficient
+https://github.com/shobrook/BitVision - Terminal dashboard for Bitcoin trading, forecasting, and charting
+https://github.com/gjtorikian/isBinaryFile - Detects if a file is binary in Node.js. Similar to Perl's -B
+https://github.com/minimaxir/big-list-of-naughty-strings - a list of strings which have a high probability of causing issues
+https://github.com/kpdecker/jsdiff - A javascript text differencing implementation.
+https://github.com/agershun/alasql - JavaScript SQL database for browser and Node.js
+https://github.com/salesforce/tough-cookie - RFC6265 Cookies and CookieJar for Node.js
+https://github.com/ericclemmons/polydev - Route-centric development for Node.js apps with built-in Hot Module Replacement.
+https://github.com/Schniz/fnm -  Fast and simple Node.js version manager, built in native ReasonML
+https://github.com/cdimascio/node-mongodb-fixtures - Setup and tear down test fixtures with MongoDB.
+https://github.com/thelounge/thelounge -  Modern, responsive, cross-platform, self-hosted web IRC client
+https://github.com/tylerbuchea/graphqless - REST and GraphQL really aren't that different.
+https://github.com/lukeed/httpie - A Node.js HTTP client as easy as pie! 
+https://github.com/adaltas/node-csv - Full featured CSV parser with simple api and tested against large datasets
+https://github.com/agenda/agenda - Lightweight job scheduling for Node.js
+https://github.com/opentypejs/opentype.js - Read and write OpenType fonts using JavaScript.
+https://github.com/ziishaned/dumper.js - A better and pretty variable inspector for your Node.js applications
+https://github.com/nextapps-de/flexsearch - Next-Generation full text search library for Browser and Node.js
+https://github.com/postlight/mercury-parser - Extract meaningful content from the chaos of a web page
+https://github.com/mtrunkat/flowage - Easy transformations and filtering for NodeJS object streams.
+https://github.com/volta-cli/volta - Volta: The JavaScript Launcher
+https://github.com/pikapkg/pack - npm package building, reimagined.
+https://github.com/patr0nus/DeskGap/ - A cross-platform desktop app framework based on Node.js and the system webview
+https://github.com/kubesail/deploy-node-app - Deploy your node.js app to Kubernetes with a single command
+https://github.com/pastelsky/bundlephobia - Find out the cost of adding a new frontend dependency to your project
+https://github.com/rcjpisani/redactyl.js - Redact sensitive information from JSON for logging (Node.js)
+https://github.com/klaussinani/qoa - Minimal interactive command-line prompts
+https://github.com/sinedied/smoke/ - Simple yet powerful file-based mock server with recording abilities
+https://github.com/pomber/git-history - Quickly browse the history of a file from any git repository
+https://github.com/tensult/role-acl - Role based access control using actions, attributes and conditions
+https://github.com/agalwood/Motrix - A full-featured download manager
 
