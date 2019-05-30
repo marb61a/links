@@ -93,6 +93,8 @@ https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express/
 https://auth0.com/blog/developing-real-time-apps-with-meteor/
 https://auth0.com/blog/building-real-time-web-applications-using-wolkenkit/
 https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/
+https://auth0.com/blog/creating-a-node-grpc-service-using-mali/
+https://auth0.com/blog/end-to-end-testing-with-cypress-and-auth0/
 
 
 ######################################## Dev.to ##############################################
@@ -106,6 +108,8 @@ https://dev.to/adnanrahic/a-crash-course-on-serverless-apis-with-express-and-mon
 https://dev.to/jochemstoel/bundle-your-node-app-to-a-single-executable-for-windows-linux-and-osx-2c89
 https://dev.to/simov/composable-http-client-for-nodejs-83f
 https://dev.to/warenix/how-to-deploy-express-on-nowsh-414i
+https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi
+https://dev.to/bmz1/generating-pdf-from-html-with-nodejs-and-puppeteer-5ln
 
 
 ######################################## Nic Raboy ##############################################
@@ -140,6 +144,9 @@ https://itnext.io/how-to-handle-the-post-request-body-in-node-js-without-using-a
 https://itnext.io/tea-school-js-generate-a-pdf-file-from-html-and-css-in-node-js-32529f9b0f37
 https://itnext.io/a-personal-review-of-automated-testing-tools-in-the-javascript-world-3c504fe6e05d
 https://itnext.io/the-absolute-easiest-way-to-debug-node-js-with-vscode-2e02ef5b1bad
+https://itnext.io/joi-awesome-code-validation-for-node-js-and-express-514b5570ce20
+https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33
+
 
 ######################################## Nearform ##############################################
 https://www.nearform.com/blog/architecting-electron-applications-for-60fps/
@@ -176,6 +183,7 @@ https://blog.bitsrc.io/write-graphql-apis-on-node-with-mongodb-f3d0084cbbb8
 https://blog.bitsrc.io/introduction-to-glitch-for-node-js-apps-in-the-cloud-cd263de5683f
 https://blog.bitsrc.io/create-a-discord-bot-using-node-dc198817b1a
 https://blog.bitsrc.io/seeding-your-database-with-thousands-of-users-using-knex-js-and-faker-js-6009a2e5ffbf
+https://blog.bitsrc.io/manage-your-node-app-using-docker-like-a-pro-6266f6516cf
 
 
 ######################################## GitConnected ##############################################
@@ -183,3 +191,27 @@ https://levelup.gitconnected.com/using-graphql-api-with-node-js-and-react-forms-
 https://levelup.gitconnected.com/beginners-guide-to-aws-beanstalk-using-node-js-d061bb4b8755
 https://levelup.gitconnected.com/overnightjs-the-best-way-to-use-expressjs-with-typescript-35d71941aade
 https://levelup.gitconnected.com/deploying-private-npm-packages-to-nexus-a16722cc8166
+
+
+######################################## Logrocket ##############################################
+https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8
+https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5
+https://blog.logrocket.com/common-api-mistakes-and-how-to-avoid-them-804fbcb9cc4b
+https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10
+https://logrocket.com/blog/creating-a-logger-in-node-js
+
+
+######################################## MongoDB ##############################################
+https://www.mongodb.com/blog/post/getting-started-with-mongodb-nodejs-and-restify
+https://www.mongodb.com/blog/post/part-2-introducing-mongoose-to-your-nodejs-and-restify-api
+https://www.mongodb.com/blog/post/building-a-nodejs-app-with-mongodb-atlas-and-aws-elastic-container-service-part-1
+https://www.mongodb.com/blog/post/the-modern-application-stack-part-2-using-mongodb-with-nodejs
+https://www.mongodb.com/blog/post/boosting-javascript-from-mongo-shell-to-nodejs
+
+
+######################################## Snyk ##############################################
+https://snyk.io/blog/node-js-timing-attack-ccc-ctf/
+https://snyk.io/blog/whats-an-npm-dependency/
+https://snyk.io/blog/nodejs-attack-tree-modelling
+https://snyk.io/blog/type-manipulation
+https://snyk.io/blog/severe-security-vulnerability-in-bowers-zip-archive-extraction/
