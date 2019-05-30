@@ -143,6 +143,7 @@ https://medium.com/netscape/javascript-c-modern-ways-to-use-c-in-javascript-proj
 https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.1yii3796j
 https://medium.com/@gajus/roarr-the-perfect-json-logger-node-js-and-browser-935180bda529
 https://medium.com/@gajus/ode-to-flow-runtime-ed78b2e10ec8
+https://medium.com/@gajus/processing-large-volumes-of-data-safely-and-fast-using-node-js-and-postgresql-6aa62392cadb
 https://medium.com/@netczuk/even-faster-code-formatting-using-eslint-22b80d061461
 https://medium.com/@Keithweaver_/sending-emails-using-sendgrid-with-node-js-1ed879a94f7b
 https://medium.com/statuscode/generating-pixel-profile-pictures-with-cellular-automata-using-node-js-and-stdlib-ea537b498474
@@ -179,6 +180,10 @@ https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-wi
 https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f
 https://medium.com/mop-developers/testing-your-api-with-dredd-c02e6ca151f2
 https://medium.com/the-node-js-collection/debug-your-node-js-app-in-60-seconds-9ee942a453f0
+https://medium.com/@Trott/using-worker-threads-in-node-js-80494136dbb6
+https://medium.com/@a0viedo/5-common-mistakes-in-every-node-js-app-a4bea7ac05bc
+https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347
+https://medium.com/@tlivings/instrumenting-http-requests-in-node-5bf48c10f1c0
 
 
 ######################################## DailyJS ##############################################
@@ -213,6 +218,7 @@ https://medium.freecodecamp.org/build-a-node-js-command-line-chat-application-wi
 https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78
 https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474
 https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9
+https://www.freecodecamp.org/news/10-node-js-frameworks-worth-checking-out-express-loopback-hapi-and-beyond-7b537b590f89/
 
 
 ######################################## Risingstack ##############################################
@@ -302,6 +308,7 @@ https://medium.com/the-node-js-collection/strategic-initiatives-coming-from-the-
 https://medium.com/the-node-js-collection/nodejs-platform-hardening-71b212fcae6a
 https://medium.com/the-node-js-collection/node-js-can-http-2-push-b491894e1bb1
 https://medium.com/the-node-js-collection/switching-from-cluster-module-to-pm2-rabbitmq-in-node-js-d0cce5eb96f4
+https://medium.com/the-node-js-collection/node-js-security-wg-january-2019-619ef804cd6d
 
 
 ######################################## Tutsplus ##############################################
@@ -426,6 +433,11 @@ https://hackernoon.com/how-to-create-an-instagram-bot-with-node-js-a289185a7d6f
 https://hackernoon.com/the-practical-guide-for-building-rest-api-in-nodejs-and-mongodb-include-passport-and-jwt-476720b70da0
 https://hackernoon.com/build-a-telegram-bot-that-translates-text-in-3-steps-with-node-js-and-code-xyz-fa9d6309b659
 https://hackernoon.com/text-yourself-the-nasa-picture-of-the-day-with-standard-library-and-node-js-226f6ca48adc
+https://hackernoon.com/build-a-personal-facebook-messenger-bot-in-10-minutes-a7a237f3f018
+https://hackernoon.com/what-if-we-could-verify-npm-packages-c2a319cff758
+https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093
+https://hackernoon.com/enforcing-code-quality-for-node-js-c3b837d7ae17
+https://hackernoon.com/npx-npm-package-runner-7f6683e4304a
 
 
 ######################################## Thisdavej ##############################################
@@ -435,6 +447,8 @@ http://thisdavej.com/consuming-node-js-microservices-created-with-stdlib/
 http://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/
 http://thisdavej.com/using-ini-files-in-your-node-js-applications-for-health-and-profit/
 http://thisdavej.com/using-toml-config-files-in-node-js-applications/
+https://thisdavej.com/how-to-watch-for-files-changes-in-node-js/
+https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/
 
 
 ######################################## Semaphoreci ##############################################
@@ -472,6 +486,8 @@ http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability
 http://blog.npmjs.org/post/145260155635/introducing-hooks-get-notifications-of-npm
 http://blog.npmjs.org/post/153186129005/zero-one-infinity-readmes
 http://blog.npmjs.org/post/165769683050/publishing-what-you-mean-to-publish
+https://blog.npmjs.org/post/182015409750/automated-token-revocation-for-when-you
+https://blog.npmjs.org/post/182400846205/continuous-security
 
 
 ######################################## YLD ##############################################
@@ -557,6 +573,10 @@ https://thecodebarbarian.com/an-overview-of-buffers-in-node-js.html
 http://thecodebarbarian.com/introducing-await-js-express-async-support-for-express-apps.html
 http://thecodebarbarian.com/creating-qr-codes-with-node-js.html
 http://thecodebarbarian.com/static-properties-in-javascript-with-inheritance.html
+http://thecodebarbarian.com/async-stack-traces-in-node-js-12.html
+http://thecodebarbarian.com/whats-new-in-mongoose-54-model-events-and-populate-count.html
+http://thecodebarbarian.com/object-assign-vs-object-spread.html
+http://thecodebarbarian.com/whats-new-in-es2019-flat-flatmap-catch.html
 
 
 ######################################## Codeburst ##############################################
