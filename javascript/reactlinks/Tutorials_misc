@@ -82,10 +82,11 @@ http://engineering.gusto.com/evolving-javascript-part-2-hello-react/
 http://remzolotykh.net/category/react-and-redux
 http://staxmanade.com/2016/06/reusable-react-component-with-overridable-inline-css-styles/
 http://blog.getstream.io/react-redux-best-practices-gotchas/
+http://blog.getstream.io/cabin-react-redux-example-app-imgix/
+https://getstream.io/chat/react-chat/tutorial/
 http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/
 http://blog.webkid.io/react-ui-libraries/
-http://blog.getstream.io/cabin-react-redux-example-app-imgix/
 https://www.netlify.com/blog/2016/07/26/our-conversion-from-angular-to-react
 https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/
 https://assertible.com/blog/creating-email-templates-with-react-components
@@ -223,9 +224,6 @@ https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-u
 https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546
 https://blog.prototypr.io/svg-illustrations-as-react-components-f0e7be304eb6
 https://philandrews.io/post/react-how-to-access-props-in-a-functional-component
-https://alligator.io/react/i18n-with-react-and-i18next/
-https://alligator.io/react/unstated/
-https://alligator.io/react/react-infinite-scroll/
 https://blog.cloudboost.io/creating-a-chat-web-app-using-express-js-react-js-socket-io-1b01100a8ea5
 https://flexport.engineering/ending-the-debate-on-inline-functions-in-react-8c03fabd144
 https://nerdblog.pl/post/166842840969/testing-react-components
@@ -308,7 +306,6 @@ https://blog.scottlogic.com/2018/08/28/Good-code-practices-with-React-and-Redux.
 https://www.wix.engineering/blog/finally-a-react-refactoring-tool-introducing-glean
 https://softwareengineeringdaily.com/2018/10/22/react-and-graphql-at-the-nytimes/
 http://www.petecorey.com/blog/2018/10/08/rendering-ascii-chord-charts-with-react/
-https://alligator.io/react/forms-with-react-and-formik/
 https://frontarm.com/articles/passing-data-props-children/
 https://philna.sh/blog/2018/09/27/techniques-for-animating-on-the-canvas-in-react/
 https://blog.bam.tech/developper-news/use-storybook-react-project
@@ -320,5 +317,13 @@ https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/
 https://react.christmas/2017/3
 https://blog.codecentric.de/en/2018/12/react-application-container-environment-aware-kubernetes-deployment/
 https://veerasundar.com/blog/2018/12/how-to-animate-page-transition-in-react-using-styled-components/
+
+https://www.cometchat.com/tutorials/build-an-anonymous-chat-app-with-react-react-bootstrap/
+https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/
+https://buttercms.com/blog/building-reusable-components-using-react
+https://benmccormick.org/2019/06/24/derived-state
+https://snook.ca/archives/javascript/difficulty-with-react
+https://blog.theodo.com/2019/07/how-i-ruined-my-application-performances-by-using-react-context-instead-of-redux/
+https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/
 
 
