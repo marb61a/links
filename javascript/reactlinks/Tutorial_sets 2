@@ -72,6 +72,8 @@ https://blog.kentcdodds.com/what-is-jsx-310ab98c463e
 https://blog.kentcdodds.com/test-isolation-with-react-6962d3f13d1f
 https://blog.kentcdodds.com/react-jsx-as-a-server-side-templating-language-e238555dbc08
 
+https://kentcdodds.com/blog/props-vs-state
+
 
 ########################################### CSS Tricks ###############################################################
 https://css-tricks.com/learning-react-redux/
@@ -84,6 +86,7 @@ https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
 https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/
 https://css-tricks.com/compound-components-in-react-using-the-context-api/
 
+https://css-tricks.com/build-a-chat-app-using-react-hooks-in-100-lines-of-code/
 
 ########################################### Bitsrc ###############################################################
 https://blog.bitsrc.io/9-tools-and-libraries-to-boost-your-react-component-workflow-6ff4b49511c2
@@ -118,6 +121,10 @@ https://dev.to/pmbanugo/real-time-editable-datagrid-in-react-56ad
 https://dev.to/kylessg/a-sensible-approach-to-cross-platform-development-with-react-and-react-native-57pk
 https://dev.to/dustinsoftware/making-renders-faster-with-the-react-165-profiler-f6f
 
+https://dev.to/mongopark/let-s-learn-react-hooks-and-context-api-by-building-a-recipe-search-app-39pc
+https://dev.to/jsmanifest/8-practices-in-react-that-will-crash-your-app-in-the-future-2le5
+https://dev.to/doppelmutzi/testing-of-a-custom-react-hook-for-fetching-data-with-axios-4gf1
+
 
 ########################################### Telerik ###############################################################
 http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
@@ -134,11 +141,19 @@ https://www.fullstackreact.com/react-daily-ui/003-landing-page/
 https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react/
 
 
-########################################### FSmashing Mag #############################################################
+########################################### Smashing Mag #############################################################
 https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/
 https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/
 https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/
 https://www.smashingmagazine.com/2018/02/react-d3-ecosystem/
 https://www.smashingmagazine.com/2018/12/real-time-app-graphql-subscriptions-postgres/
 
+
+########################################### Alligator #############################################################
+https://alligator.io/react/i18n-with-react-and-i18next/
+https://alligator.io/react/unstated/
+https://alligator.io/react/react-infinite-scroll/
+https://alligator.io/react/forms-with-react-and-formik/
+https://alligator.io/react/react-icons-open-source-icons/
+https://alligator.io/react/components-viewport-react-visibility-sensor/
 
