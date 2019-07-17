@@ -225,6 +225,7 @@ https://itnext.io/how-we-boosted-the-performance-of-our-react-native-app-191b8d3
 https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/
 https://www.mongodb.com/blog/post/building-ios-and-android-apps-with-the-mongodb-stitch-react-native-sdk
 
+https://www.infoq.com/articles/ios-android-react-native-design-patterns/
 
 
 ##### Code #####
@@ -289,7 +290,11 @@ https://github.com/vincentriemer/react-native-dom - An experimental, comprehensi
 https://github.com/kmagiera/react-native-reanimated - React Native's Animated library reimplemented
 https://github.com/Nozbe/WatermelonDB - High-performance reactive database for powerful React and React Native apps
 https://github.com/madhavanmalolan/awesome-reactnative-ui - Awesome React Native UI components
-https://github.com/indiespirit/react-native-chart-kit - React Native Chart Kit:
+https://github.com/indiespirit/react-native-chart-kit - React Native Chart Kit
+
+https://github.com/Purii/react-native-tableview-simple - Flexible and lightweight React Native component for UITableView
+https://github.com/lawnstarter/react-native-picker-select -  Picker component for React Native which emulates the native <select> interfaces
+https://github.com/ivpusic/react-native-image-crop-picker - iOS/Android image picker with support for camera,
 
 
 
@@ -343,4 +348,5 @@ https://proton-native.js.org - Create native desktop applications through a Reac
 https://callstack.github.io/react-native-paper/ - Cross-platform Material Design for React Native
 https://watermelondb.now.sh - High-performance reactive database for powerful React and React Native apps
 https://aws-amplify.github.io/docs/js/react - AWS Amplify to build a React Native application
+https://hermesengine.dev - JavaScript engine optimized for React Native
 
