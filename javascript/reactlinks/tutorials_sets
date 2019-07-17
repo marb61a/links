@@ -173,10 +173,6 @@ https://medium.com/@n8e/turning-your-reusable-react-component-into-an-npm-packag
 https://medium.com/storybookjs/announcing-storybook-3-0-329748b8f4cd
 https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71
 https://medium.com/coding-artist/how-pure-css-images-helped-me-understand-react-components-3ad7b05051b0
-https://medium.com/styled-components/announcing-v2-f01ef3766ac2
-https://medium.com/styled-components/component-folder-pattern-ee42df37ec68
-https://medium.com/styled-components/with-styled-components-into-the-future-d1d917e7c22c
-https://medium.com/styled-components/the-simple-guide-to-server-side-rendering-react-with-styled-components-d31c6b2b8fbf
 https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd
 https://medium.com/front-end-hacking/using-immutable-js-with-redux-ba89025e45e2
 https://medium.appbase.io/how-to-build-a-github-search-ui-in-60-minutes-295109211c70
@@ -266,6 +262,14 @@ https://medium.com/@housecor/handling-state-in-react-four-immutable-approaches-t
 https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060
 
 
+############################################### Styled Components  #############################################################
+https://medium.com/styled-components/announcing-v2-f01ef3766ac2
+https://medium.com/styled-components/component-folder-pattern-ee42df37ec68
+https://medium.com/styled-components/with-styled-components-into-the-future-d1d917e7c22c
+https://medium.com/styled-components/the-simple-guide-to-server-side-rendering-react-with-styled-components-d31c6b2b8fbf
+https://medium.com/styled-components/how-to-build-a-great-component-library-a40d974a412d
+
+
 ############################################### Gitconnected  #############################################################
 https://levelup.gitconnected.com/debounce-react-and-redux-code-for-improved-performance-4b8d3c19e305
 https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459
@@ -310,6 +314,9 @@ https://www.robinwieruch.de/react-fetching-data/
 https://www.robinwieruch.de/react-render-props-pattern/
 https://www.robinwieruch.de/react-pass-props-to-component/
 https://www.robinwieruch.de/react-state-array-add-update-remove/
+
+https://www.robinwieruch.de/react-web-components/
+https://www.robinwieruch.de/react-gatsby-js/
 
 
 ###################################### Hacker Noon ##################################################################
