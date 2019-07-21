@@ -93,6 +93,8 @@ https://scotch.io/tutorials/animating-elements-along-svg-paths-introducing-paths
 https://scotch.io/tutorials/building-a-fancy-countdown-timer-with-momentumsliderjs
 https://scotch.io/tutorials/demystifying-the-service-worker-lifecycle
 
+https://scotch.io/bar-talk/the-future-of-websites-headless-cmss
+https://scotch.io/tutorials/debugging-css-grid-with-firefox-dev-tools
 
 ############################################## Jonathan Harrell ########################################################## 
 https://jonathan-harrell.com/component-variants-scoped-css-variables/
@@ -114,6 +116,8 @@ https://blog.logrocket.com/new-in-chrome-69-building-progress-doughnut-charts-wi
 https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10
 https://logrocket.com/blog/infinite-scroll
 https://logrocket.com/blog/youre-using-em-wrong
+
+https://blog.logrocket.com/8-dom-features-you-didnt-know-existed-ec2a0a28fd89/
 
 
 ############################################## GitConnected ########################################################## 
@@ -151,6 +155,8 @@ https://www.zachleat.com/web/font-loading-classes/
 https://www.zachleat.com/web/comprehensive-webfonts/
 https://www.zachleat.com/web/font-checklist/
 
+https://www.zachleat.com/web/css-tricks-web-fonts/
+
 
 ############################################## Lea Verou ########################################################## 
 http://lea.verou.me/2016/09/autoprefixing-with-css-variables/
@@ -182,4 +188,23 @@ https://www.chenhuijing.com/blog/basic-grid-with-fallbacks/
 https://www.chenhuijing.com/blog/building-a-css-only-image-gallery/
 https://www.chenhuijing.com/blog/how-i-design-with-css-grid/
 https://www.chenhuijing.com/blog/customise-radios-without-compromising-accessibility/
+
+
+############################################## Ben Frain ########################################################## 
+https://benfrain.com/debugging-css/
+https://benfrain.com/a-horizontal-scrolling-navigation-pattern-for-touch-and-mouse-with-moving-current-indicator/
+https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/
+https://benfrain.com/the-frustrations-of-using-css-shapes-and-css-exclusions/
+
+https://benfrain.com/converting-divs-into-accessible-pseudo-buttons/
+
+
+############################################## Twilio ########################################################## 
+https://twilioinc.wpengine.com/2017/09/everything-you-ever-wanted-to-know-about-secure-html-forms.html
+https://www.twilio.com/blog/2017/10/screen-capture-in-google-chrome.html
+https://www.twilio.com/blog/2018/04/choosing-cameras-javascript-mediadevices-api.html
+https://www.twilio.com/blog/audio-visualisation-web-audio-api--react
+
+https://www.twilio.com/blog/mediastream-recording-api
+
 
