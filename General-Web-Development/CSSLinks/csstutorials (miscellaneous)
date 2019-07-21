@@ -63,10 +63,6 @@ https://robots.thoughtbot.com/you-don-t-need-javascript-for-that
 https://robots.thoughtbot.com/the-release-of-neat-2-0-a-lightweight-and-flexible-sass-grid
 https://robots.thoughtbot.com/redux-for-chrome-extensions
 https://robots.thoughtbot.com/concise-media-queries-with-css-grid
-https://benfrain.com/debugging-css/
-https://benfrain.com/a-horizontal-scrolling-navigation-pattern-for-touch-and-mouse-with-moving-current-indicator/
-https://benfrain.com/text-editing-techniques-every-front-end-developer-should-know/
-https://benfrain.com/the-frustrations-of-using-css-shapes-and-css-exclusions/
 https://blogs.igalia.com/mrego/2016/05/27/css-grid-layout-and-positioned-items/
 https://blogs.igalia.com/jfernandez/2017/05/03/can-i-use-css-box-alignment/
 https://blogs.igalia.com/mrego/2018/01/11/display-contents-is-coming/
@@ -116,6 +112,7 @@ https://www.impressivewebs.com/leading-trailing-spaces-html-attribute-values/
 https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6#.dfkej43a8
 https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
 https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9
+https://uxdesign.cc/color-accessibility-tools-and-resources-to-help-you-design-inclusive-products-e737da94141e
 http://gpfault.net/posts/mandelbrot-webgl.txt.html
 https://dev.solteq.com/2016/12/02/building-a-responsive-product-grid-with-css-flexbox/
 https://chinocode.com/Intro-To-Custom-Elements/
@@ -221,10 +218,6 @@ https://www.heartinternet.uk/blog/fearless-guide-using-css-grid-today/
 https://www.campaignmonitor.com/blog/email-marketing/2017/09/all-new-guide-css-support-email/
 https://ma.ttias.be/chrome-force-dev-domains-https-via-preloaded-hsts/
 http://tech.trivago.com/2017/09/26/accessibility-at-trivago/
-https://twilioinc.wpengine.com/2017/09/everything-you-ever-wanted-to-know-about-secure-html-forms.html
-https://www.twilio.com/blog/2017/10/screen-capture-in-google-chrome.html
-https://www.twilio.com/blog/2018/04/choosing-cameras-javascript-mediadevices-api.html
-https://www.twilio.com/blog/audio-visualisation-web-audio-api--react
 https://eduardoboucas.com/blog/2017/09/25/svg-clip-path-logo-colour.html
 https://tech.grammarly.com/blog/building-browser-extensions-at-scale
 https://slack.engineering/rebuilding-slack-com-b124c405c193
@@ -312,6 +305,7 @@ https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/
 https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1
 https://dev.to/addyosmani/adaptive-serving-using-javascript-and-the-network-information-api-331p
 https://dev.to/lkopacz/create-an-accessible-dropdown-navigation-114n
+https://dev.to/remotesynth/getting-started-with-offline-data-in-web-apps-pt-1-136a
 https://pudding.cool/process/scrollytelling-sticky/
 https://bryanlrobinson.com/blog/2018/06/13/how-to-use-css-grid-to-mix-and-match-design-patterns/
 https://forestry.io/blog/5-ways-to-handle-forms-on-your-static-site/
@@ -365,4 +359,26 @@ https://www.silvestarbistrovic.from.hr/articles/building-an-animated-sticky-head
 https://noti.st/rachelandrew/Au3wK3/making-things-better-redefining-the-technical-possibilities-of-css
 https://blog.bitsrc.io/comparing-http-request-libraries-for-2019-7bedb1089c83
 http://adrianroselli.com/2018/12/a-css-venn-diagram.html
+
+https://martinfowler.com/articles/micro-frontends.html
+https://web.dev/long-tasks-devtools/
+http://john.ankarstrom.se/html/
+https://parametric.press/issue-01/unraveling-the-jpeg/
+https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables
+https://codyhouse.co/blog/post/responsive-layouts-css-custom-properties-em-units
+https://css-irl.info/how-to-enable-experimental-web-platform-features/
+https://onextrapixel.com/flexbox-centering-guide/
+https://calibreapp.com/blog/how-pagespeed-works/
+https://www.ghosh.dev/posts/creating-a-multi-level-hierarchical-flyout-navigation-menu-using-only-html-and-css/
+https://polypane.rocks/blog/responsive-design-ground-rules/
+https://stephaniewalter.design/blog/fun-places-to-learn-css-layout-part-2-grid-layout/
+http://uncaughtreferenceerror.com/a-crash-course-to-screenreaders-for-sighted-developers/
+https://webtransparency.cs.princeton.edu/dark-patterns/
+https://knowbility.org/blog/2019/animating-form-labels/
+https://psuter.net/2019/07/07/z-index
+http://bokardo.com/archives/scrolling-easier-clicking/
+http://mikepennisi.com/blog/2019/the-web-cant-survive-a-monoculture/
+https://bradleytaunt.com/html-like-1999/
+https://bradleytaunt.com/html5-validator-badge/
+https://bradleytaunt.com/hamburger-menu-alternative/
 
