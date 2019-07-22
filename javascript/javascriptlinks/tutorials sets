@@ -133,6 +133,10 @@ https://medium.com/digio-australia/auto-generating-boilerplate-javascript-at-bui
 https://medium.com/@smashingmag/hit-the-ground-running-with-vue-js-and-firestore-8b45d6a9fa0b
 https://medium.com/@trungluongquang/10-simple-effective-tips-to-master-javascript-c365aa176852
 
+https://medium.com/@eliezer/how-writing-simple-javascript-got-us-6200-github-stars-in-a-single-day-420b17b4cff4
+https://medium.com/quasar-framework/quasar-1-0-4bc696d60c1b
+https://medium.com/@js_tut/tetris-turns-35-cfcf04c4f2bb
+
 
 ###################################### DailyJS ###########################################################
 https://medium.com/dailyjs/the-mandelwat-set-c3037204bf83
@@ -146,6 +150,8 @@ https://medium.com/dailyjs/the-trouble-with-d3-4a84f7de011f
 https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953
 https://medium.com/dailyjs/patching-the-vue-js-virtual-dom-the-need-the-explanation-and-the-solution-ba18e4ae385b
 https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c
+
+https://medium.com/dailyjs/an-introduction-into-stencil-js-a08e41e2102
 
 
 ###################################### Eric Elliot ###########################################################
@@ -297,6 +303,10 @@ http://2ality.com/2018/08/enums-via-proxies.html
 http://2ality.com/2018/12/creating-arrays.html
 http://2ality.com/2019/01/future-js.html
 
+https://2ality.com/2019/07/public-class-fields.html
+https://2ality.com/2019/07/global-scope.html
+https://2ality.com/2019/07/private-class-fields.html
+
 
 ####################################### Mozilla ###########################################################
 https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/
@@ -349,6 +359,9 @@ https://www.smashingmagazine.com/2018/08/smashingconf-scripts-videos/
 https://www.smashingmagazine.com/2018/10/taming-this-javascript-bind-operator/
 https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/
 
+https://www.smashingmagazine.com/2019/07/using-slots-vue-js/
+https://www.smashingmagazine.com/2019/07/javascript-knowledge-reading-source-code/
+https://www.smashingmagazine.com/2019/07/build-sketch-plugin-javascript-html-css-part-1/
 
 ####################################### Auth0 ###########################################################
 https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1
@@ -427,6 +440,10 @@ https://css-tricks.com/getting-started-with-vue-plugins/
 https://css-tricks.com/building-a-donut-chart-with-vue-and-svg/
 https://css-tricks.com/storing-and-using-the-last-known-route-in-vue/
 https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/
+
+https://css-tricks.com/tips-for-rolling-your-own-lazy-loading/
+https://css-tricks.com/the-many-ways-to-include-css-in-javascript-applications/
+https://css-tricks.com/finally-a-post-on-finally-in-promises/
 
 
 ####################################### Hackernoon ###########################################################
