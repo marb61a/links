@@ -193,6 +193,8 @@ https://bocoup.com/blog/lets-define-my-favorite-test
 https://bocoup.com/blog/the-many-faces-of-functions-in-javascript
 https://bocoup.com/blog/i-slipped-on-javascripts-banana-peel
 
+https://bocoup.com/blog/widening-the-web-with-ecma-402
+
 
 ################################################## Jake Archibald #########################################################
 https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
@@ -227,6 +229,9 @@ https://dev.to/adnanrahic/building-a-serverless-contact-form-with-aws-lambda-and
 https://dev.to/jamesrweb/an-introduction-to-custom-elements-5327
 https://dev.to/denisinvader/creating-an-interactive-map-with-d3-and-vue-4158
 https://dev.to/aspittel/navigating-the-spooky-world-of-javascript-3h45
+
+https://dev.to/itnext/reverse-engineering-how-you-can-build-a-test-library-53e3
+https://dev.to/tlhunter/introducing-osgood-4k1m
 
 
 #################################################### Alligator #############################################################
@@ -274,6 +279,9 @@ https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-
 https://blog.logrocket.com/submitting-html-forms-using-javascript-frameworks-vue-react-hyperapp-44664dba1218
 https://blog.logrocket.com/building-a-long-press-directive-in-vue-3408d60fb511
 https://blog.logrocket.com/javascript-typeof-2511d53a1a62
+
+https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/
+https://blog.logrocket.com/node-js-12/
 
 
 ####################################### Kyle Simpson ###########################################################
@@ -327,6 +335,8 @@ https://developers.google.com/web/fundamentals/performance/optimizing-content-ef
 https://developers.google.com/web/updates/2018/03/cssom
 https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/
 
+https://developers.google.com/search/docs/guides/javascript-seo-basics
+
 
 ########################################### Sessionstack ###########################################################
 https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec
@@ -344,6 +354,7 @@ http://jrsinclair.com/articles/2017/javascript-without-loops/
 https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/
 https://jrsinclair.com/articles/2018/how-to-deal-with-dirty-side-effects-in-your-pure-functional-javascript/
 
+https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/
 
 ########################################### Robin Weiruch ###########################################################
 https://www.robinwieruch.de/linear-algebra-matrix-javascript/
@@ -373,6 +384,8 @@ https://blog.bitsrc.io/creating-a-reusable-accordion-component-that-works-anywhe
 https://blog.bitsrc.io/the-chronicles-of-javascript-objects-2d6b9205cd66
 https://blog.bitsrc.io/highly-customizable-tab-component-with-vue-js-slots-7e1cee400a7c
 
+https://blog.bitsrc.io/new-intl-apis-in-javascript-c50dc89d2cf3
+
 
 ########################################### Code Barbarian ###########################################################
 http://thecodebarbarian.com/using-promise-finally-in-node-js.html
@@ -382,6 +395,8 @@ http://thecodebarbarian.com/building-a-serverless-app-with-mongodb-stitch.html
 http://thecodebarbarian.com/static-properties-in-javascript-with-inheritance.html
 http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html
 http://thecodebarbarian.com/object-assign-vs-object-spread.html
+
+http://thecodebarbarian.com/async-await-error-handling-in-javascript.html
 
 
 ########################################### Cloudflare ###########################################################
