@@ -681,5 +681,33 @@ https://github.com/mozilla/readability - A standalone version of the readability
 https://github.com/thelounge/thelounge - Modern, responsive, cross-platform, self-hosted web IRC client 
 https://github.com/nextapps-de/flexsearch - Next-Generation full text search library for Browser and Node.js
 
-
+https://github.com/tradingview/lightweight-charts - Financial lightweight charts built with HTML5 canva
+https://github.com/hodgef/js-library-boilerplate-basic - Javascript Minimal Starter Boilerplate
+https://github.com/swagger-api/swagger-js - Javascript library to connect to swagger-enabled APIs via browser or nodejs
+https://github.com/oakmac/chessboardjs - JavaScript chessboard 
+https://github.com/kefranabg/readme-md-generator - CLI that generates beautiful README.md files
+https://github.com/rricard/proposal-const-value-types - A proposal for immutable data structures in JavaScript
+https://github.com/lebab/lebab - Turn your ES5 code into readable ES6 (sugar-syntax).
+https://github.com/lydiahallie/javascript-questions - A long list of (advanced) JavaScript questions
+https://github.com/Assortment/darkmodejs - Utility package for managing Dark Mode on the web
+https://github.com/indutny/elliptic - Fast Elliptic Curve Cryptography in plain javascript
+https://github.com/leaverou/bliss/ - Blissful JavaScript 
+https://github.com/ashtuchkin/iconv-lite - Convert character encodings in pure javascript.
+https://github.com/mavoweb/mavo - Create web applications entirely by writing HTML and CSS!
+https://github.com/hsnaydd/moveTo - A lightweight scroll animation javascript library without any dependency 
+https://github.com/pngwn/svelte-adapter - Use Svelte components with Vue and React
+https://github.com/processing/p5.js - p5.js is a client-side JS platform that empowers artists
+https://github.com/frappe/charts - Simple, responsive, modern SVG Charts with zero dependencies
+https://github.com/FThompson/FormPersistence.js - A simple JavaScript library for preserving HTML form data
+https://github.com/ronomon/zip - Robust ZIP decoder with defenses against dangerous compression ratios
+https://github.com/EvanHahn/HumanizeDuration.js - 361000 becomes "6 minutes, 1 second" 
+https://github.com/testing-library/jest-dom - Custom jest matchers to test the state of the DOM 
+https://github.com/markedjs/marked - A markdown parser and compiler. Built for speed.
+https://github.com/paulrosen/abcjs - javascript for rendering abc music notation
+https://github.com/chrisveness/geodesy - Libraries of geodesy functions implemented in JavaScript
+https://github.com/vimeo/player.js - Interact with and control an embedded Vimeo Player.
+https://github.com/Netflix/pollyjs - Record, Replay, and Stub HTTP Interactions.
+https://github.com/lokesh/color-thief/ - Grabs the dominant color or a representative color palette from an image.
+https://github.com/Airtable/airtable.js - Airtable javascript client
+https://github.com/smooth-code/jest-puppeteer - Run your tests using Jest & Puppeteer
 
