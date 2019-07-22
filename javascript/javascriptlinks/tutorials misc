@@ -170,6 +170,7 @@ http://softeng.oicr.on.ca/chang_wang/2017/01/03/Legacy-Build-Tool-Migration/
 http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript
 http://jlongster.com/A-Prettier-Formatter
 http://jlongster.com/prettier-1.0
+https://jlongster.com/secret-of-good-electron-apps
 http://javascriptplayground.com/blog/2017/01/npm-flowjs-javascript/
 http://arianv.com/post/Module-Bundling-and-Webpack-in-Simple-Terms/
 http://ivanjov.com/working-with-http-streams-with-cycle-js/
@@ -402,4 +403,21 @@ https://freshman.tech/url-shortener/
 https://heartbeat.fritz.ai/building-an-image-recognition-app-using-onnx-js-c7147f4f291b
 https://spin.atomicobject.com/2019/01/21/replace-unit-test-types/
 
+http://andrewcallahan.com/to-have-a-future-ember-must-kill-its-past/
+https://www.richsnapp.com/blog/2019/06-09-reduce-spread-anti-pattern
+https://blog.scottlogic.com/2019/06/14/add-webassembly-to-react-app.html
+https://www.filamentgroup.com/lab/html-includes/
+https://media-codings.com/articles/automatically-detect-memory-leaks-with-puppeteer
+https://nodesource.com/blog/improve-javascript-performance
+https://www.thefutureoftheweb.com/blog/svelte-is-the-most-beautiful-framework-ive-ever-seen
+https://mitchum.blog/how-to-build-minesweeper-with-javascript/
+https://tsh.io/blog/new-node-js-features/
+https://yomguithereal.github.io/posts/lru-cache
+http://www.javiercasas.com/articles/typescript-impossible-states-irrepresentable
+https://jasonformat.com/modern-script-loading/
+http://mikepennisi.com/blog/2019/the-web-cant-survive-a-monoculture/
+https://freshman.tech/svelte-todo/
+http://slicker.me/javascript/image_transition_effect.htm
+https://dassur.ma/things/when-workers/
+https://dassur.ma/things/is-postmessage-slow/
 
