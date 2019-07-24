@@ -185,6 +185,10 @@ https://medium.com/@a0viedo/5-common-mistakes-in-every-node-js-app-a4bea7ac05bc
 https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347
 https://medium.com/@tlivings/instrumenting-http-requests-in-node-5bf48c10f1c0
 
+https://medium.com/@gtalarico/using-airtable-as-a-content-backend-e373cd0d9974
+https://medium.com/@eliezer/how-writing-simple-javascript-got-us-6200-github-stars-in-a-single-day-420b17b4cff4
+https://medium.com/@keithwhor/build-an-sms-event-notifier-in-5-minutes-with-airtable-standard-library-and-node-js-548f9c548a29
+
 
 ######################################## DailyJS ##############################################
 https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297
@@ -489,6 +493,8 @@ http://blog.npmjs.org/post/165769683050/publishing-what-you-mean-to-publish
 https://blog.npmjs.org/post/182015409750/automated-token-revocation-for-when-you
 https://blog.npmjs.org/post/182400846205/continuous-security
 
+https://blog.npmjs.org/post/185680936500/protecting-package-publishers-npm-token-security
+
 
 ######################################## YLD ##############################################
 http://blog.yld.io/2016/02/08/squeeze-the-juice-out-of-node/
@@ -545,6 +551,9 @@ https://nodesource.com/blog/the-age-of-node-js-and
 https://nodesource.com/blog/node-js-and-the-hashwick-vulnerability
 https://pages.nodesource.com/running-nodejs-applications-systemd-nodeweekly.html
 
+https://nodesource.com/blog/worker-threads-nodejs
+https://nodesource.com/blog/nodeconf-colombia
+
 
 ######################################## Code Barbarian ##############################################
 http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html
@@ -578,6 +587,8 @@ http://thecodebarbarian.com/whats-new-in-mongoose-54-model-events-and-populate-c
 http://thecodebarbarian.com/object-assign-vs-object-spread.html
 http://thecodebarbarian.com/whats-new-in-es2019-flat-flatmap-catch.html
 
+http://thecodebarbarian.com/whats-new-in-mongoose-5-6-immutable-properties.html
+
 
 ######################################## Codeburst ##############################################
 https://codeburst.io/how-to-test-javascript-with-mocha-the-basics-80132324752e
@@ -590,4 +601,6 @@ https://codeburst.io/how-to-create-an-alexa-skill-with-node-js-and-dynamodb-3c9d
 https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921
 https://codeburst.io/deploy-angular-2-node-js-website-using-aws-1ac169d6bbf
 https://codeburst.io/deploy-your-webpack-apps-to-heroku-in-3-simple-steps-4ae072af93a8
+
+https://codeburst.io/execa-v2-20ffafeedfdf
 
