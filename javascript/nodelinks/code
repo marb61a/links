@@ -775,3 +775,45 @@ https://github.com/pomber/git-history - Quickly browse the history of a file fro
 https://github.com/tensult/role-acl - Role based access control using actions, attributes and conditions
 https://github.com/agalwood/Motrix - A full-featured download manager
 
+https://github.com/foliojs/pdfkit - A JavaScript PDF generation library for Node and the browser
+https://github.com/TrillCyborg/fullstack - React/ApolloGraphQL/Node/Mongo demo written in Typescript
+https://github.com/ananay/apple-auth - Sign in with Apple for Node.js
+https://github.com/richardgirges/express-fileupload - Simple express file upload middleware that wraps around busboy
+https://github.com/wilix-team/iohook/ - Node.js global keyboard and mouse listener.
+https://github.com/darcyclarke/rawkit - Immediately Open Chrome DevTools when debugging Node.js apps
+https://github.com/seanpmaxwell/express-generator-typescript - Create a new express app similar to express-generator but with TypeScript
+https://github.com/sindresorhus/awesome-nodejs - Delightful Node.js packages and resources
+https://github.com/unix/func - Modern Command Line Framework
+https://github.com/benjamin-allion/json-node-normalizer - NodeJS module that normalize json data types
+https://github.com/primus/eventemitter3 - EventEmitter3 - Because there's also a number 2
+https://github.com/vitalets/websocket-as-promised - A Promise-based API for WebSockets
+https://github.com/hexojs/hexo - A fast, simple & powerful blog framework, powered by Node.js
+https://github.com/justadudewhohacks/opencv4nodejs - Nodejs bindings to OpenCV 3 and OpenCV 4
+https://github.com/kefranabg/readme-md-generator - CLI that generates beautiful README.md files 
+https://github.com/desktop/registry-js - A simple and opinionated library for working with the Windows registry
+https://github.com/simov/grant - OAuth Middleware for Express, Koa and Hapi
+https://github.com/ehmicky/autoserver - Create a full-featured REST/GraphQL API from a configuration file
+https://github.com/mathiscode/password-leak - A library to check for compromised passwords
+https://github.com/ourarash/log-with-statusbar - A light weight logger with a status bar on the bottom
+https://github.com/lovell/farmhash - Node.js implementation of FarmHash
+https://github.com/steveukx/git-js - A light weight interface for running git commands 
+https://github.com/form-data/form-data - A module to create readable `multipart/form-data` streams
+https://github.com/electron-userland/spectron - Test Electron apps using ChromeDriver
+https://github.com/TypedProject/ts-express-decorators -  A TypeScript Framework on top of Express
+https://github.com/dherault/serverless-offline - Emulate AWS λ and API Gateway locally when developing your Serverless project
+https://github.com/Level/levelup - A wrapper for abstract-leveldown compliant stores
+https://github.com/feross/multistream - A stream that emits multiple other streams one after another
+https://github.com/oliver-moran/jimp - An image processing library written entirely in JavaScript for Node
+https://github.com/gajus/slonik - A PostgreSQL client with strict types
+https://github.com/sumcumo/imagemin-merlin - Super-easy automated image compression
+https://github.com/circa10a/express-jwt - An example API for creating/verifying json web tokens
+https://github.com/feross/safe-buffer - Safer Node.js Buffer API
+https://github.com/ehmicky/test-each - Repeat tests. Repeat tests. Repeat tests.
+https://github.com/DCtheTall/twilly - An abstraction layer on top of the Twilio API
+https://github.com/Netflix/pollyjs/ - Record, replay, and stub HTTP interactions.
+https://github.com/gajus/lightship - Abstracts readiness/ liveness checks and graceful shutdown of Node.js
+https://github.com/adrai/aws-lambda-fastify - Insipired by aws-serverless-express to work with Fastify
+https://github.com/davesag/swagger-routes-express - Connect your Express route controllers to restful paths
+https://github.com/sindresorhus/p-map - Map over promises concurrently
+https://github.com/sudo-suhas/elastic-builder - A Node.js implementation of the elasticsearch Query DSL
+https://github.com/svg/svgo - Node.js tool for optimizing SVG files
