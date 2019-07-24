@@ -177,6 +177,9 @@ https://formidable.com/blog/2016/10/19/introducing-publish-diff/
 http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html
 https://developer.ibm.com/node/2016/09/27/advances-in-core-dump-debugging-for-node-js/
 https://developer.ibm.com/node/2016/08/15/exploring-node-js-core-dumps-using-the-llnode-plugin-for-lldb/
+https://developer.ibm.com/node/2017/07/24/capturing-diagnostic-dumps-node-js-applications-bluemix-container-service/
+https://developer.ibm.com/articles/nodejs-memory-management-in-container-environments/
+https://www.ibm.com/blogs/research/2019/07/openapi-graphql/
 https://sandstorm.io/news/2016-09-30-fiber-bomb-debugging-story
 https://edgecoders.com/generating-a-pdf-with-express-in-node-js-d3ff5107dff1#.m09zucbsk
 https://60devs.com/universal-with-jspm-server-side-rendering-and-automatic-code-splitting.html
@@ -194,6 +197,7 @@ http://cs.mcgill.ca/~mxia3/2016/11/18/Statically-typed-PostgreSQL-queries-and-ty
 https://lethalbrains.com/integrating-jenkins-with-github-node-js-and-slack-e8fc4d2271b5#.igj3bhl83
 http://unframework.com/wrapping-facebook-messenger-stream-api/
 https://www.infoq.com/articles/node-micro-optimizations-javascript
+https://www.infoq.com/presentations/serverless-nodejs-api/
 http://mxstbr.blog/2017/01/your-first-node-microservice/
 https://blog.scaledrone.com/posts/managing-eu-vat-for-stripe-and-braintree
 https://nolanlawson.com/2017/01/09/how-to-write-a-javascript-package-for-both-node-and-the-browser/
@@ -204,6 +208,7 @@ http://ivanjov.com/running-express-koa-and-hapi-on-http-2/
 https://blog.hellojs.org/10-minute-javascript-library-development-in-es6-with-babel-mocha-and-npm-scripts-9f08b22e69c3#.ktyu8rxjv
 https://www.exclamationlabs.com/blog/continuous-deployment-to-npm-using-gitlab-ci/
 http://jlongster.com/A-Prettier-Formatter
+https://jlongster.com/secret-of-good-electron-apps
 http://coenraets.org/blog/2017/01/react-native-sample-app-tutorial/
 https://blog.continuation.io/building-and-embedding-node-js-as-a-shared-library/
 https://ponyfoo.com/articles/npm-meltdown-security-concerns
@@ -270,7 +275,6 @@ https://alligator.io/nodejs/uploading-files-multer-express/
 https://alligator.io/workflow/nodemon/
 https://alligator.io/angular/socket-io/
 https://alligator.io/nodejs/testing-http-requests-with-nock/
-https://developer.ibm.com/node/2017/07/24/capturing-diagnostic-dumps-node-js-applications-bluemix-container-service/
 https://vuejsdevelopers.com/2017/07/31/vue-component-publish-npm/
 https://duo.com/blog/hunting-malicious-npm-packages
 https://www.oreilly.com/learning/building-a-simple-graphql-server-with-neo4j
@@ -372,6 +376,7 @@ https://fullstack-developer.academy/restful-api-design-the-basics/
 https://fullstack-developer.academy/restful-api-design-post-vs-put-vs-patch/
 https://www.imaginarycloud.com/blog/node-js-admin-panels-strapi-and-express-admin-reviewed/
 https://nitayneeman.com/posts/debugging-nodejs-application-in-chrome-devtools-using-ndb/
+https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/
 https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d
 https://www.nexmo.com/blog/2018/09/11/add-2fa-to-nuxt-with-nexmo-verify-dr/
 https://www.coreycleary.me/why-should-your-node-js-application-not-handle-log-routing/
@@ -390,6 +395,8 @@ http://mjk.space/git-aliases-i-cant-live-without/
 https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries
 https://v8.dev/blog/fast-async
 https://v8.dev/blog/trash-talk
+https://v8.dev/features/array-flat-flatmap
+https://v8.dev/features/object-fromentries
 https://blog.vanmulligen.ca/2018/transpiling-es9-node-modules-with-babel-7/
 https://boneskull.com/create-yo/
 https://hueniverse.com/why-you-should-consider-hapi-6163689bd7c2
@@ -409,3 +416,14 @@ https://43081j.com/2019/01/first-look-at-deno
 https://mentorcruise.com/learn/zipping-and-unzipping-files-nodejs/
 https://philbooth.me/blog/back-off-and-retry-using-javascript-arrays-and-promises
 
+https://blog.graphqleditor.com/the-state-of-graphql-by-reddit/
+https://smellycode.com/csrf-in-action/
+https://blog.strapi.io/strapi-beta-is-out/
+https://adrianmejia.com/how-to-build-a-node-js-ecommerce-website-for-free/
+https://clubhouse.io/developer-how-to/web-scraping-using-puppeteer-and-node/
+https://www.toptal.com/graphql/graphql-nodejs-api
+https://wanago.io/2019/06/17/using-push-notifications-with-service-workers-and-node-js/
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/node-python3.html
+https://coderrocketfuel.com/article/deploy-a-nodejs-application-to-digital-ocean-with-https
+https://www.inextenso.dev/how-to-create-a-rating-system-for-your-blog-using-typescript-and-lambdas
+https://www.leighhalliday.com/serverless-og-image
