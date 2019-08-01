@@ -135,6 +135,13 @@ https://dev.to/brightdevs/navigation-in-react-native-2530
 https://dev.to/kylessg/a-sensible-approach-to-cross-platform-development-with-react-and-react-native-57pk
 
 
+###################################### Pusher ##################################################################
+https://blog.pusher.com/creating-ride-booking-app-react-native-pusher/
+https://pusher.com/tutorials/geolocation-sharing-react-native/
+https://pusher.com/tutorials/photo-sharing-react-native
+https://pusher.com/tutorials/learning-graphql-react-native
+
+
 ###################################### Miscellaneous ##################################################################
 http://browniefed.com/blog/2015/11/07/react-native-how-to-create-twitter-exploding-hearts/
 http://www.proreactnative.com/Getting-Started-with-React-Native-on-Ubuntu-Linux/
@@ -184,9 +191,6 @@ https://engineering.salesforce.com/experiments-with-high-performance-animation-i
 http://artsy.github.io/blog/2017/07/06/React-Native-for-iOS-devs/
 https://blog.brainsandbeards.com/logging-in-react-native-3bc4e69a4c21
 https://blog.home.ht/how-to-do-end-to-end-testing-on-react-native-with-detox-2b7f404e7713
-https://blog.pusher.com/creating-ride-booking-app-react-native-pusher/
-https://pusher.com/tutorials/geolocation-sharing-react-native/
-https://pusher.com/tutorials/photo-sharing-react-native
 https://codeburst.io/todo-app-with-react-native-f889e97e398e
 https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f
 https://codeburst.io/announcing-react-native-copilot-a-react-native-package-to-create-in-app-walk-throughs-1c2cf269cacd
@@ -200,6 +204,7 @@ https://www.simform.com/react-native-app-performance/
 https://blog.invertase.io/getting-started-with-firebase-authentication-on-react-native-a1ed3d2d6d91
 https://brightinventions.pl/blog/react-native-4-steps-to-improve-workflow/
 https://levelup.gitconnected.com/react-native-with-expo-is-a-joyride-671d706b7a19
+https://levelup.gitconnected.com/getting-started-with-react-native-in-2019-build-your-first-app-a41ebc0617e2
 https://matwrites.com/get-started-react-native-expo-minutes/
 https://attardi.org/pytorch-and-coreml
 https://madebynathan.com/posts/2018-02-12-what-i-learned-while-making-a-game-with-react-native/
@@ -225,7 +230,10 @@ https://itnext.io/how-we-boosted-the-performance-of-our-react-native-app-191b8d3
 https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/
 https://www.mongodb.com/blog/post/building-ios-and-android-apps-with-the-mongodb-stitch-react-native-sdk
 
+https://blog.smartlogic.io/basic-react-navigation-for-react-native-apps/
+https://ie.godaddy.com/engineering/2019/06/17/react-native-community-contribution-datetimepicker-component/
 https://www.infoq.com/articles/ios-android-react-native-design-patterns/
+https://blog.usejournal.com/getting-started-optimizing-a-react-native-app-1d7507c2d849
 
 
 ##### Code #####
@@ -292,6 +300,8 @@ https://github.com/Nozbe/WatermelonDB - High-performance reactive database for p
 https://github.com/madhavanmalolan/awesome-reactnative-ui - Awesome React Native UI components
 https://github.com/indiespirit/react-native-chart-kit - React Native Chart Kit
 
+
+https://github.com/hectahertz/react-native-typography - Pixel–perfect, native–looking typographic styles for React Native
 https://github.com/Purii/react-native-tableview-simple - Flexible and lightweight React Native component for UITableView
 https://github.com/lawnstarter/react-native-picker-select -  Picker component for React Native which emulates the native <select> interfaces
 https://github.com/ivpusic/react-native-image-crop-picker - iOS/Android image picker with support for camera,
