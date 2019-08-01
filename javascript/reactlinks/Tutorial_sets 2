@@ -72,6 +72,8 @@ https://blog.kentcdodds.com/what-is-jsx-310ab98c463e
 https://blog.kentcdodds.com/test-isolation-with-react-6962d3f13d1f
 https://blog.kentcdodds.com/react-jsx-as-a-server-side-templating-language-e238555dbc08
 
+https://kentcdodds.com/blog/optimize-react-re-renders
+https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components
 https://kentcdodds.com/blog/props-vs-state
 
 
@@ -86,6 +88,7 @@ https://css-tricks.com/using-data-in-react-with-the-fetch-api-and-axios/
 https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/
 https://css-tricks.com/compound-components-in-react-using-the-context-api/
 
+https://css-tricks.com/using-cypress-to-write-tests-for-a-react-application/
 https://css-tricks.com/build-a-chat-app-using-react-hooks-in-100-lines-of-code/
 
 ########################################### Bitsrc ###############################################################
@@ -104,6 +107,8 @@ https://blog.bitsrc.io/the-love-hate-relationship-between-react-router-and-react
 https://blog.bitsrc.io/managing-derived-state-from-props-in-react-f26b5b15069
 https://blog.bitsrc.io/improve-react-performance-using-lazy-loading-and-suspense-933903171954
 
+https://blog.bitsrc.io/build-our-own-react-redux-using-usereducer-and-usecontext-hooks-a5574b526475
+
 
 ########################################### Quantizd ###############################################################
 https://quantizd.com/building-react-app-using-react-router-v4-and-laravel/
@@ -121,9 +126,13 @@ https://dev.to/pmbanugo/real-time-editable-datagrid-in-react-56ad
 https://dev.to/kylessg/a-sensible-approach-to-cross-platform-development-with-react-and-react-native-57pk
 https://dev.to/dustinsoftware/making-renders-faster-with-the-react-165-profiler-f6f
 
+
+https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op
+https://dev.to/selbekk/the-10-component-commandments-2a7f
 https://dev.to/mongopark/let-s-learn-react-hooks-and-context-api-by-building-a-recipe-search-app-39pc
 https://dev.to/jsmanifest/8-practices-in-react-that-will-crash-your-app-in-the-future-2le5
 https://dev.to/doppelmutzi/testing-of-a-custom-react-hook-for-fetching-data-with-axios-4gf1
+https://dev.to/timonvs/developing-a-website-with-react-feature-flags-netlify-and-github-actions-2eld
 
 
 ########################################### Telerik ###############################################################
@@ -156,4 +165,19 @@ https://alligator.io/react/react-infinite-scroll/
 https://alligator.io/react/forms-with-react-and-formik/
 https://alligator.io/react/react-icons-open-source-icons/
 https://alligator.io/react/components-viewport-react-visibility-sensor/
+
+
+########################################### Codementor #############################################################
+https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
+https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app
+https://www.codementor.io/mailamankhalid/creating-awesome-spas-with-react-catgaer7v
+https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep
+
+
+########################################### Javascript Playground ###################################################
+https://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem
+https://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications/
+https://javascriptplayground.com/blog/2017/07/react-extracting-logic/
+https://javascriptplayground.com/avoiding-recursive-use-effect-hooks-react/
+
 
