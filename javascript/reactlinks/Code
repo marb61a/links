@@ -474,6 +474,25 @@ https://github.com/react-spring/react-with-gesture - Bread n butter utility for 
 https://github.com/frontarm/create-react-blog - Start and deploy your own statically rendered blog with create-react-app
 https://github.com/talor-hammond/react-colour-wheel - A circular colour-picker React component; built with HTML5's canvas & context-api. 
 
+
+https://github.com/xnimorz/use-debounce - A debounce hook for react
+https://github.com/PaulLeCam/react-leaflet - React components for Leaflet maps
+https://github.com/jossmac/react-images - A lightbox component for displaying images
+https://github.com/maslianok/react-resize-detector -  Element Resize Detection for React
+https://github.com/TrillCyborg/fullstack - React/ApolloGraphQL/Node/Mongo demo written in Typescript
+https://github.com/react-dnd/react-dnd/ - Drag and Drop for React 
+https://github.com/rafal-r/airr-react - Animated views navigation in your ReactJS app
+https://github.com/react-designer/react-designer - Editable vector graphics in your react apps 
+https://github.com/react-tools/react-move -  Beautiful, data-driven animations for React 
+https://github.com/microsoft/redux-dynamic-modules - Modularize Redux by dynamically loading reducer
+https://github.com/gaearon/react-hot-loader - Tweak React components in real time. 
+https://github.com/nomcopter/react-mosaic - A React tiling window manager
+https://github.com/fkhadra/react-toastify - React notification made easy 
+https://github.com/vadimdemedes/ink -  React for interactive command-line apps
+https://github.com/pngwn/svelte-adapter - Use Svelte components with Vue and React
+https://github.com/remarkablemark/html-react-parser - HTML to React parser. 
+https://github.com/amplitude/redux-query - A library for managing network state in Redux
+https://github.com/cevr/firespace - A small and simple library for the firebase realtime database
 https://github.com/jedwatson/react-select - The Select Component for React.js 
 https://github.com/istarkov/rifm - React Input Format & Mask
 https://github.com/sghall/react-compound-slider -  React Compound Slider | A tiny (4kb) React slider
@@ -490,5 +509,13 @@ https://github.com/prescottprue/react-redux-firebase - Redux bindings for Fireba
 https://github.com/pgilad/react-page-visibility - Declarative, nested, stateful, isomorphic page visibility React component
 https://github.com/wojtekmaj/react-datetime-picker - A datetime picker for your React app. 
 https://github.com/elastic/search-ui - Libraries for the fast development of modern, engaging search experiences
-
+https://github.com/gregnb/react-to-print - Print React components in the browser
+https://github.com/dogfessional/react-swipeable - React swipe event handler component & hook 
+https://github.com/reactjs/react-rails - Integrate React.js with Rails views and controllers
+https://github.com/olifolkerd/tabulator - Interactive Tables and Data Grids for JavaScript 
+https://github.com/Metroxe/react-border-wrapper?v=1.0.3 = A wrapper for placing elements along div borders
+https://github.com/rcdexta/react-trello - Pluggable components to add a trello-like kanban board to your application
+https://github.com/KiTiVi/react-kiwi-dropdown - A minimal, easy-to-use and highly adjustable ReactJS dropdown
+https://github.com/gilbarbara/react-inlinesvg - An SVG loader component for ReactJS 
+https://github.com/jchiatt/react-chaos - Chaos Engineering for your React apps.
 
