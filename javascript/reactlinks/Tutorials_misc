@@ -39,7 +39,6 @@ https://pseudoconcurrentthought.wordpress.com/2016/01/26/my-reaction-to-react/
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 https://react.rocks/blog/post/propTypes_React_Flow/
 http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/
-http://javascriptplayground.com/blog/2016/02/the-react-webpack-tooling-problem
 http://technologyadvice.github.io/eradicate-runtime-errors-in-react-with-flow/
 http://technologyadvice.github.io/app-analytics-redux/
 https://blog.redradix.com/why-we-are-switching-to-redux-and-sticking-with-react-too/
@@ -130,10 +129,6 @@ https://blog.callstack.io/typed-redux-2aa8bff926ff#.jb324wyp3
 https://codeplanet.io/sharing-styles-react-aphrodite/
 http://blog.brew.com.hk/react-101-composition-vs-inheritance/
 http://blog.klipse.tech/javascript/2016/12/14/jsx.html
-https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
-https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app
-https://www.codementor.io/mailamankhalid/creating-awesome-spas-with-react-catgaer7v
-https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep
 http://www.zsoltnagy.eu/building-a-chat-component-in-react-and-es6/
 https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html
 https://blog.komand.com/how-to-render-components-outside-the-main-react-app
@@ -164,9 +159,10 @@ https://develoger.com/when-you-need-flux-library-explained-with-car-as-example-f
 https://izifortune.com/demystifying-functional-programming-with-ramda/
 https://amplitude.engineering/introducing-redux-query-7734e7215b3b
 http://lucybain.com/blog/2017/react-js-when-to-rerender/
-http://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications/
 https://blog.bugsnag.com/converting-a-large-react-codebase-from-coffeescript-to-es6/
-http://blog.scottlogic.com/2017/02/28/relogic.html
+https://blog.scottlogic.com/2017/02/28/relogic.html
+https://blog.scottlogic.com/2018/08/28/Good-code-practices-with-React-and-Redux.html
+https://blog.scottlogic.com/2019/06/14/add-webassembly-to-react-app.html
 https://dev.bleacherreport.com/3-things-i-learned-about-working-with-data-in-redux-5fa0d5f89c8b
 https://dev.bleacherreport.com/react-and-redux-testing-with-jest-how-some-jokers-learned-to-take-snapshots-c186c7e419e6
 https://tech.okcupid.com/how-okcupid-organizes-its-multi-page-react-app/
@@ -188,7 +184,6 @@ https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/
 http://reactrocket.com/post/react-redux-optimization/
 https://www.viget.com/articles/microcosm-our-data-layer-for-react
 https://www.viget.com/articles/creating-your-first-webvr-app
-https://javascriptplayground.com/blog/2017/07/react-extracting-logic/
 https://leo.im/2017/electron-next
 https://blog.buildo.io/flexview-the-easiest-way-to-use-flex-with-react-c698db55926a
 https://objectpartners.com/2017/07/19/creating-a-static-blog-with-gatsby/
@@ -210,6 +205,7 @@ https://dandenney.com/posts/front-end-dev/building-a-small-pwa-with-preact-and-f
 https://blog.qmo.io/the-problems-with-redux-and-alternatives-local-state-mobx-realm/
 http://www.andreasreiterer.at/web-development/reactjs-lifecycle-methods/
 https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/
+https://dmitripavlutin.com/use-react-memo-wisely/
 https://blog.hichroma.com/introducing-chromatic-ui-testing-for-react-c5cc01a79aaa
 https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6
 http://nodewebapps.com/2017/09/27/a-simple-way-to-render-react-on-the-server-side/
@@ -302,7 +298,6 @@ https://code.tutsplus.com/tutorials/how-to-build-serverless-web-applications-wit
 https://developers.digital.abc.net.au/2018/09/28/composing-components/
 https://blog.sourcerer.io/build-interactive-diagrams-with-storm-react-diagrams-f172ae26af9d
 https://frontarm.com/articles/react-context-performance/
-https://blog.scottlogic.com/2018/08/28/Good-code-practices-with-React-and-Redux.html
 https://www.wix.engineering/blog/finally-a-react-refactoring-tool-introducing-glean
 https://softwareengineeringdaily.com/2018/10/22/react-and-graphql-at-the-nytimes/
 http://www.petecorey.com/blog/2018/10/08/rendering-ascii-chord-charts-with-react/
@@ -312,18 +307,31 @@ https://blog.bam.tech/developper-news/use-storybook-react-project
 https://statsbot.co/blog/building-serverless-stripe-analytics-dashboard/
 https://blog.cloudflare.com/serverless-pwa-react-cloudflare-workers/
 https://overreacted.io/why-do-we-write-super-props/
+https://overreacted.io/algebraic-effects-for-the-rest-of-us/
 https://hswolff.com/blog/react-lazy-and-suspense/
 https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/
 https://react.christmas/2017/3
 https://blog.codecentric.de/en/2018/12/react-application-container-environment-aware-kubernetes-deployment/
 https://veerasundar.com/blog/2018/12/how-to-animate-page-transition-in-react-using-styled-components/
 
+https://geromekevin.com/tracking-and-email-reminders-in-aws-amplify/
+https://headway.io/blog/react-optimize-components-memo-usememo-usecallback/
+https://jsmanifest.com/build-complex-custom-file-uploading-ui-in-react-with-plain-css/
+https://upmostly.com/tutorials/simplifying-react-state-and-the-usestate-hook
+https://rafaelquintanilha.com/how-to-reuse-logic-with-react-hooks/
+https://glennstovall.com/react-hooks-before-and-after/
 https://www.cometchat.com/tutorials/build-an-anonymous-chat-app-with-react-react-bootstrap/
 https://sebastiandedeyne.com/forget-about-component-lifecycles-and-start-thinking-in-effects/
+https://buttercms.com/blog/how-to-test-nextjs-apps
 https://buttercms.com/blog/building-reusable-components-using-react
 https://benmccormick.org/2019/06/24/derived-state
 https://snook.ca/archives/javascript/difficulty-with-react
 https://blog.theodo.com/2019/07/how-i-ruined-my-application-performances-by-using-react-context-instead-of-redux/
 https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/
-
+https://tvernon.tech/blog/react-custom-hook-for-forms
+https://www.andyjones.co/articles/extensible-modals-in-react
+https://labcodes.com.br/blog/en/decoupling-logic-from-react-components.html
+https://blog.axlight.com/posts/how-i-developed-a-concurrent-mode-friendly-library-for-react-redux/
+https://dassur.ma/things/react-redux-comlink/
+https://jscomplete.com/learn/complete-intro-react
 
